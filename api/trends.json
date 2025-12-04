@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T20:33:49.996208+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2025-12-04T21:34:13.889885+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时45分 ~ 15时18分]"
+        },
+        {
+          "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
+          "url": "https://www.cls.cn/detail/2219555",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时22分 ~ 21时34分]"
         },
         {
           "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
@@ -44,21 +57,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时50分 ~ 20时33分]"
-        },
-        {
-          "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
-          "url": "https://www.cls.cn/detail/2219555",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时22分 ~ 20时33分]"
+          "appearance_count": 16,
+          "time_info": "[11时50分 ~ 21时34分]"
         },
         {
           "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
@@ -68,11 +68,12 @@
             19,
             18,
             11,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时26分 ~ 20时33分]"
+          "appearance_count": 14,
+          "time_info": "[12时26分 ~ 21时34分]"
         },
         {
           "title": "中方回应特朗普签署涉台法案",
@@ -99,6 +100,17 @@
           "time_info": "[13时16分 ~ 17时20分]"
         },
         {
+          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了",
+          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时19分 ~ 21时34分]"
+        },
+        {
           "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32092056",
           "source": "澎湃新闻",
@@ -123,17 +135,6 @@
           "time_info": "15时18分"
         },
         {
-          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了",
-          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时19分 ~ 20时33分]"
-        },
-        {
           "title": "特朗普政府All in！据称考虑明年发机器人行政令，iRobot盘中飙涨近80%",
           "url": "https://wallstreetcn.com/articles/3760664",
           "source": "华尔街见闻",
@@ -143,6 +144,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时22分 ~ 17时20分]"
+        },
+        {
+          "title": "哥伦比亚总统警告特朗普：不要惊醒“美洲豹”",
+          "url": "https://news.ifeng.com/c/8oohPdXia4u",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 21时34分]"
+        },
+        {
+          "title": "特朗普又有“鬼点子”：批准在美国卖日本国民神车 因为“很可爱”？",
+          "url": "https://www.cls.cn/detail/2219893",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 21时34分]"
         },
         {
           "title": "马杜罗证实曾同特朗普通电话",
@@ -206,7 +229,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -277,8 +300,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 20时33分]"
+          "appearance_count": 7,
+          "time_info": "[17时20分 ~ 21时34分]"
         },
         {
           "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
@@ -320,6 +343,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧盟就谷歌广告技术反垄断合规提案征求行业意见",
+          "url": "https://flash.jin10.com/detail/20251204204409573800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         }
       ]
     },
@@ -385,7 +425,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         }
