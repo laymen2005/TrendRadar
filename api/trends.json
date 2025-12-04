@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T12:26:44.752024+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2025-12-04T13:16:36.148115+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 12时26分]"
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 13时16分]"
         },
         {
           "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 12时26分]"
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 13时16分]"
         },
         {
           "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
@@ -40,8 +41,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 12时26分]"
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 13时16分]"
         },
         {
           "title": "中方回应特朗普签署涉台法案",
@@ -51,8 +52,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 12时26分]"
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 13时16分]"
         },
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -63,8 +64,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时50分 ~ 12时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时50分 ~ 13时16分]"
+        },
+        {
+          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时16分]"
+        },
+        {
+          "title": "特朗普：将很快在拉美开展地面打击",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E5%BE%88%E5%BF%AB%E5%9C%A8%E6%8B%89%E7%BE%8E%E5%BC%80%E5%B1%95%E5%9C%B0%E9%9D%A2%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "美国财长贝森特：特朗普剩余任期内，美中关系将保持良好态势。（FOX NEWS）",
@@ -78,15 +101,15 @@
           "time_info": "10时46分"
         },
         {
-          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
-          "source": "澎湃新闻",
+          "title": "马杜罗证实曾同特朗普通电话",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%9D%9C%E7%BD%97%E8%AF%81%E5%AE%9E%E6%9B%BE%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
           "ranks": [
-            19
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时26分"
+          "time_info": "13时16分"
         },
         {
           "title": "特朗普言论加剧市场担忧 “战争溢价”推高油价",
@@ -98,6 +121,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
+        },
+        {
+          "title": "特朗普心腹将会见乌方代表",
+          "url": "https://www.toutiao.com/trending/7579422652600631305/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         }
       ]
     },
@@ -114,8 +148,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 12时26分]"
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 13时16分]"
         },
         {
           "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
@@ -126,8 +160,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 12时26分]"
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 13时16分]"
         },
         {
           "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
@@ -162,11 +196,12 @@
           "url": "https://www.cls.cn/detail/2219026",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时50分 ~ 12时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时50分 ~ 13时16分]"
         }
       ]
     },
