@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T01:13:34.233454+08:00",
-  "total_titles_processed": 344,
+  "generated_at": "2025-12-07T02:20:32.484325+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
@@ -38,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
@@ -49,8 +49,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时20分]"
         }
       ]
     },
@@ -67,8 +67,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "电影得闲谨制北京首映礼",
@@ -79,8 +79,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "北京国安队夺得足协杯冠军",
@@ -88,11 +88,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时20分]"
         }
       ]
     },
@@ -108,8 +109,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -119,8 +120,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -145,22 +146,24 @@
           "url": "https://www.cls.cn/detail/2221699",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "豆包AI手机深度体验",
           "url": "https://www.douyin.com/hot/2328540",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "C罗入股美国AI初创公司",
@@ -170,8 +173,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时20分]"
         }
       ]
     }
