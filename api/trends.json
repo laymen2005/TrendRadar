@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T20:28:54.897534+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2025-12-06T21:23:51.993085+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普世界杯抽签搞抽象",
@@ -33,8 +33,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时14分 ~ 20时28分]"
+          "appearance_count": 8,
+          "time_info": "[15时14分 ~ 21时23分]"
         },
         {
           "title": "特朗普在世界杯抽签仪式上称赞与墨西哥和加拿大的合作",
@@ -75,6 +75,17 @@
           "time_info": "[00时20分 ~ 09时07分]"
         },
         {
+          "title": "特朗普将废“出生公民权”，美最高法院决定审理行政令是否合宪",
+          "url": "https://news.ifeng.com/c/8oro24DPoQo",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时28分 ~ 21时23分]"
+        },
+        {
           "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
           "url": "https://flash.jin10.com/detail/20251206105234128800",
           "source": "金十数据",
@@ -88,6 +99,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时06分 ~ 15时14分]"
+        },
+        {
+          "title": "特朗普获得“国际足联和平奖”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%BE%97%E2%80%9C%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时15分 ~ 21时23分]"
         },
         {
           "title": "特朗普提议给美式橄榄球改名",
@@ -145,17 +169,6 @@
           "time_info": "18时15分"
         },
         {
-          "title": "特朗普将废“出生公民权”，美最高法院决定审理行政令是否合宪",
-          "url": "https://news.ifeng.com/c/8oro24DPoQo",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
           "title": "美国最高法院同意审理关于美国总统特朗普是否有权终止出生公民权的案件。",
           "url": "https://flash.jin10.com/detail/20251206033944574800",
           "source": "金十数据",
@@ -192,19 +205,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时21分 ~ 05时14分]"
-        },
-        {
-          "title": "特朗普获得“国际足联和平奖”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%BE%97%E2%80%9C%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时15分 ~ 20时28分]"
         },
         {
           "title": "特朗普签署法律，撤销阿拉斯加国家石油储备区钻探限制",
@@ -244,6 +244,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时15分 ~ 03时13分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-06）",
+          "url": "https://flash.jin10.com/detail/20251206183915607800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 21时23分]"
         },
         {
           "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆（在华盛顿）会晤。",
@@ -309,18 +322,6 @@
           "time_info": "[01时15分 ~ 03时13分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-06）",
-          "url": "https://flash.jin10.com/detail/20251206183915607800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 20时28分]"
-        },
-        {
           "title": "美国参议院共和党成员Marshall（附和总统特朗普政府的立场）：奈飞收购华纳兄弟探索的交易“严肃的红旗”。",
           "url": "https://wallstreetcn.com/livenews/3016152",
           "source": "华尔街见闻-快讯",
@@ -355,6 +356,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时15分 ~ 09时07分]"
+        },
+        {
+          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979961793922167510",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 21时23分]"
         },
         {
           "title": "美国总统特朗普：正在与加拿大和墨西哥合作。",
@@ -448,19 +462,6 @@
           "time_info": "[02时21分 ~ 04时18分]"
         },
         {
-          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979961793922167510",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 20时28分]"
-        },
-        {
           "title": "美国上诉法庭：总统特朗普可以“毫无根据”地解雇劳工与就业委员会成员。",
           "url": "https://wallstreetcn.com/livenews/3016043",
           "source": "华尔街见闻-快讯",
@@ -471,6 +472,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时15分]"
+        },
+        {
+          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
+          "url": "https://v.ifeng.com/c/8oreqqskdgg",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时28分 ~ 21时23分]"
         },
         {
           "title": "美国最高法院将审查总统特朗普作废出生公民权（Birthright Citizenship）的做法。",
@@ -544,15 +556,15 @@
           "time_info": "11时06分"
         },
         {
-          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
-          "url": "https://v.ifeng.com/c/8oreqqskdgg",
-          "source": "凤凰网",
+          "title": "日本前高官警告高市：别指望特朗普",
+          "url": "https://www.toutiao.com/trending/7580631438102593577/",
+          "source": "今日头条",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时28分"
+          "time_info": "21时23分"
         },
         {
           "title": "特朗普首次会见辛鲍姆",
@@ -575,12 +587,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "特朗普若执意“甩卖”乌欧洲该怎么办",
+          "url": "https://www.toutiao.com/trending/7580687730007346724/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         }
       ]
     },
     {
       "keyword_group": "北京",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "大外交丨从北京到成都：关于马克龙访华的两大核心诉求，中法的立场在靠近",
@@ -685,6 +708,18 @@
           "time_info": "[04时18分 ~ 05时14分]"
         },
         {
+          "title": "北京第六家Apple零售店正式开业",
+          "url": "https://flash.jin10.com/detail/20251206190913564800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时28分 ~ 21时23分]"
+        },
+        {
           "title": "2026 世界杯抽签将在北京时间 12 月 6 日凌晨 1 点开始，对此次抽签你有什么期待，如何评价最终的结果？",
           "url": "https://www.zhihu.com/question/1979960699347236418",
           "source": "知乎",
@@ -696,15 +731,15 @@
           "time_info": "07时15分"
         },
         {
-          "title": "北京第六家Apple零售店正式开业",
-          "url": "https://flash.jin10.com/detail/20251206190913564800",
-          "source": "金十数据",
+          "title": "电影得闲谨制北京首映礼",
+          "url": "https://www.douyin.com/hot/2328455",
+          "source": "抖音",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时28分"
+          "time_info": "21时23分"
         },
         {
           "title": "提醒：北京时间23:00，将发布美国12月密歇根大学消费者信心指数初值，美国9月个人收入、个人消费支出（PCE）、PCE物价指数。",
@@ -724,7 +759,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
         }
@@ -732,7 +767,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -761,8 +796,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时15分 ~ 20时28分]"
+          "appearance_count": 10,
+          "time_info": "[13时15分 ~ 21时23分]"
         },
         {
           "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
@@ -794,17 +829,6 @@
           "time_info": "[11时06分 ~ 15时14分]"
         },
         {
-          "title": "C罗入股美国AI初创公司",
-          "url": "https://wallstreetcn.com/livenews/3016306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
           "title": "据知情人士透露，AI初创公司Parloa寻求融资2亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3016064",
           "source": "华尔街见闻-快讯",
@@ -816,6 +840,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时15分 ~ 03时13分]"
+        },
+        {
+          "title": "C罗入股美国AI初创公司",
+          "url": "https://wallstreetcn.com/livenews/3016306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时28分 ~ 21时23分]"
         },
         {
           "title": "油轮Kairos距离保加利亚海岸线仅一英里，该船上周在土耳其附近海域遭到乌克兰无人机袭击。",
@@ -862,6 +898,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "豆包AI手机深度体验",
+          "url": "https://www.douyin.com/hot/2328540",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         }
       ]
     },
@@ -876,11 +923,12 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时17分 ~ 20时28分]"
+          "appearance_count": 12,
+          "time_info": "[12时17分 ~ 21时23分]"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -893,8 +941,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时17分 ~ 20时28分]"
+          "appearance_count": 12,
+          "time_info": "[12时17分 ~ 21时23分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
@@ -928,11 +976,12 @@
           "url": "https://wallstreetcn.com/articles/3760832",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 20时28分]"
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 21时23分]"
         },
         {
           "title": "OpenAI最快将于下周发布GPT-5.2",
