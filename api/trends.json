@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-07T05:13:50.356356+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2025-12-07T06:14:40.819850+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
+        {
+          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
+          "url": "https://wallstreetcn.com/articles/3760832",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 06时14分]"
+        },
         {
           "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
           "url": "https://wallstreetcn.com/articles/3760830",
@@ -20,18 +32,6 @@
           "time_info": "[00时17分 ~ 05时13分]"
         },
         {
-          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
-          "url": "https://wallstreetcn.com/articles/3760832",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 05时13分]"
-        },
-        {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
           "url": "https://www.zhihu.com/question/1979223676378447995",
           "source": "知乎",
@@ -39,8 +39,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时11分 ~ 05时13分]"
+          "appearance_count": 5,
+          "time_info": "[03时11分 ~ 06时14分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -70,8 +70,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
@@ -81,8 +81,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
@@ -92,19 +92,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
           "url": "https://www.zhihu.com/question/1979961793922167510",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 06时14分]"
         }
       ]
     },
@@ -119,11 +120,12 @@
           "ranks": [
             1,
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "电影得闲谨制北京首映礼",
@@ -132,11 +134,12 @@
           "ranks": [
             16,
             17,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "北京国安队夺得足协杯冠军",
@@ -167,8 +170,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "豆包AI手机深度体验",
@@ -177,11 +180,12 @@
           "ranks": [
             7,
             6,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "C罗入股美国AI初创公司",
@@ -191,8 +195,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时14分]"
         }
       ]
     }
