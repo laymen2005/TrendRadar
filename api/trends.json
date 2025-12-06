@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T06:14:40.819850+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2025-12-07T07:14:37.875514+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
@@ -39,8 +40,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时11分 ~ 06时14分]"
+          "appearance_count": 6,
+          "time_info": "[03时11分 ~ 07时14分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -70,8 +71,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
@@ -81,8 +82,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
@@ -92,8 +93,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
@@ -104,8 +105,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 07时14分]"
         }
       ]
     },
@@ -124,8 +125,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "电影得闲谨制北京首映礼",
@@ -135,11 +136,12 @@
             16,
             17,
             25,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "北京国安队夺得足协杯冠军",
@@ -170,8 +172,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "豆包AI手机深度体验",
@@ -181,11 +183,12 @@
             7,
             6,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "C罗入股美国AI初创公司",
@@ -195,8 +198,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时14分]"
         }
       ]
     }
