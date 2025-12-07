@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T11:23:49.873032+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2025-12-07T12:30:41.455043+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
@@ -55,6 +55,18 @@
           "time_info": "[00时17分 ~ 07时14分]"
         },
         {
+          "title": "美国发生特大诈骗案 特朗普怒批",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9F%E7%89%B9%E5%A4%A7%E8%AF%88%E9%AA%97%E6%A1%88+%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%89%B9",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 12时30分]"
+        },
+        {
           "title": "特朗普或将给高市早苗放权",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%86%E7%BB%99%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%94%BE%E6%9D%83%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -64,17 +76,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时17分 ~ 09时18分]"
-        },
-        {
-          "title": "美国发生特大诈骗案 特朗普怒批",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9F%E7%89%B9%E5%A4%A7%E8%AF%88%E9%AA%97%E6%A1%88+%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%89%B9",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
         }
       ]
     },
@@ -91,11 +92,12 @@
             2,
             4,
             5,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 11时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 12时30分]"
         },
         {
           "title": "电影得闲谨制北京首映礼",
@@ -107,22 +109,12 @@
             25,
             26,
             22,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 11时23分]"
-        },
-        {
-          "title": "即日起 北京开展高层建筑重大火灾风险隐患排查整治",
-          "url": "https://flash.jin10.com/detail/20251207101825677800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 12时30分]"
         },
         {
           "title": "北京国安队夺得足协杯冠军",
@@ -139,11 +131,91 @@
           "time_info": "[00时17分 ~ 03时12分]"
         },
         {
+          "title": "即日起 北京开展高层建筑重大火灾风险隐患排查整治",
+          "url": "https://flash.jin10.com/detail/20251207101825677800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 12时30分]"
+        },
+        {
           "title": "北京国安全队和看台球迷大合影",
           "url": "https://www.toutiao.com/trending/7580349528898568246/",
           "source": "今日头条",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
+          "url": "https://www.cls.cn/detail/2221699",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 12时30分]"
+        },
+        {
+          "title": "豆包AI手机深度体验",
+          "url": "https://www.douyin.com/hot/2328540",
+          "source": "抖音",
+          "ranks": [
+            7,
+            6,
+            8,
+            10,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 12时30分]"
+        },
+        {
+          "title": "C罗入股美国AI初创公司",
+          "url": "https://wallstreetcn.com/livenews/3016306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 09时18分]"
+        },
+        {
+          "title": "12月5日，国内领先的功率系统芯片设计企业芯朋微电子在深圳发布12款面向AI服务器和工业控制领域的电源芯片。",
+          "url": "https://flash.jin10.com/detail/20251207115626169800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
+        },
+        {
+          "title": "9月，全球AI月访问量达70亿次，同比增长76%，流量直逼社交网络",
+          "url": "https://wallstreetcn.com/articles/3760833",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -202,63 +274,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 01时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
-          "url": "https://www.cls.cn/detail/2221699",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 11时23分]"
-        },
-        {
-          "title": "豆包AI手机深度体验",
-          "url": "https://www.douyin.com/hot/2328540",
-          "source": "抖音",
-          "ranks": [
-            7,
-            6,
-            8,
-            10,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 11时23分]"
-        },
-        {
-          "title": "C罗入股美国AI初创公司",
-          "url": "https://wallstreetcn.com/livenews/3016306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 09时18分]"
-        },
-        {
-          "title": "9月，全球AI月访问量达70亿次，同比增长76%，流量直逼社交网络",
-          "url": "https://wallstreetcn.com/articles/3760833",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 09时18分]"
         }
       ]
     }
