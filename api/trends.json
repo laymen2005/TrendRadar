@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T16:19:07.689474+08:00",
-  "total_titles_processed": 923,
+  "generated_at": "2025-12-07T17:15:26.194277+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
@@ -76,11 +76,12 @@
             1,
             6,
             11,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 16时19分]"
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 17时15分]"
         },
         {
           "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
@@ -90,11 +91,12 @@
             4,
             9,
             14,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 16时19分]"
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 17时15分]"
         },
         {
           "title": "年终总结特朗普重返白宫",
@@ -178,8 +180,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时14分 ~ 16时19分]"
+          "appearance_count": 5,
+          "time_info": "[15时14分 ~ 17时15分]"
         },
         {
           "title": "即日起 北京开展高层建筑重大火灾风险隐患排查整治",
@@ -197,6 +199,20 @@
           "time_info": "[11时23分 ~ 15时15分]"
         },
         {
+          "title": "北京大兴机场年旅客吞吐量首次突破5000万人次",
+          "url": "https://flash.jin10.com/detail/20251207133152886800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 17时15分]"
+        },
+        {
           "title": "北京国安队夺得足协杯冠军",
           "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89%E9%98%9F%E5%A4%BA%E5%BE%97%E8%B6%B3%E5%8D%8F%E6%9D%AF%E5%86%A0%E5%86%9B",
           "source": "百度热搜",
@@ -209,19 +225,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 03时12分]"
-        },
-        {
-          "title": "北京大兴机场年旅客吞吐量首次突破5000万人次",
-          "url": "https://flash.jin10.com/detail/20251207133152886800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时22分 ~ 16时19分]"
         },
         {
           "title": "北京国安全队和看台球迷大合影",
@@ -249,8 +252,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时17分 ~ 16时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 17时15分]"
         },
         {
           "title": "豆包AI手机深度体验",
@@ -358,8 +361,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时22分 ~ 16时19分]"
+          "appearance_count": 6,
+          "time_info": "[14时22分 ~ 17时15分]"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
