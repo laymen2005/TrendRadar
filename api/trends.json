@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T14:22:19.889611+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2025-12-07T15:15:11.080649+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
@@ -61,11 +61,12 @@
           "ranks": [
             28,
             5,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 15时15分]"
         },
         {
           "title": "特朗普签署行政令调查外资企业食品反竞争行为",
@@ -73,11 +74,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 14时22分]"
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 15时15分]"
         },
         {
           "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
@@ -85,11 +87,23 @@
           "source": "金十数据",
           "ranks": [
             4,
-            9
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 15时15分]"
+        },
+        {
+          "title": "年终总结特朗普重返白宫",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E8%BF%94%E7%99%BD%E5%AE%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时14分 ~ 14时22分]"
+          "time_info": "[15时14分 ~ 15时15分]"
         },
         {
           "title": "特朗普或将给高市早苗放权",
@@ -117,7 +131,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "北京国安夺得足协杯冠军",
@@ -133,8 +147,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 14时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时17分 ~ 15时15分]"
         },
         {
           "title": "电影得闲谨制北京首映礼",
@@ -147,22 +161,23 @@
             26,
             22,
             19,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时17分 ~ 14时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 15时15分]"
         },
         {
-          "title": "北京大兴机场年旅客吞吐量首次突破5000万人次",
-          "url": "https://flash.jin10.com/detail/20251207133152886800",
-          "source": "金十数据",
+          "title": "足协杯决赛北京国安击败河南，队史第5次夺得冠军",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32122440",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 15时15分]"
         },
         {
           "title": "即日起 北京开展高层建筑重大火灾风险隐患排查整治",
@@ -172,11 +187,12 @@
             2,
             10,
             20,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 14时22分]"
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 15时15分]"
         },
         {
           "title": "北京国安队夺得足协杯冠军",
@@ -191,6 +207,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 03时12分]"
+        },
+        {
+          "title": "北京大兴机场年旅客吞吐量首次突破5000万人次",
+          "url": "https://flash.jin10.com/detail/20251207133152886800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 15时15分]"
         },
         {
           "title": "北京国安全队和看台球迷大合影",
@@ -250,11 +278,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时22分 ~ 15时15分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -283,8 +312,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 14时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时17分 ~ 15时15分]"
         },
         {
           "title": "豆包AI手机深度体验",
@@ -299,8 +328,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时17分 ~ 14时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 15时15分]"
         },
         {
           "title": "C罗入股美国AI初创公司",
@@ -321,11 +350,12 @@
           "ranks": [
             1,
             11,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 14时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时30分 ~ 15时15分]"
         },
         {
           "title": "9月，全球AI月访问量达70亿次，同比增长76%，流量直逼社交网络",
