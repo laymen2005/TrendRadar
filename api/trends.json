@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T18:19:00.578305+08:00",
-  "total_titles_processed": 1359,
+  "generated_at": "2025-12-08T19:15:30.968256+08:00",
+  "total_titles_processed": 1458,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,12 @@
             17,
             16,
             5,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时30分 ~ 18时19分]"
+          "appearance_count": 9,
+          "time_info": "[12时30分 ~ 19时15分]"
         },
         {
           "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
@@ -135,9 +136,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时24分 ~ 19时15分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -207,18 +220,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时23分 ~ 18时19分]"
-        },
-        {
-          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
-          "url": "https://wallstreetcn.com/articles/3760897",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 18时19分]"
         },
         {
           "title": "特朗普政府战略调整，赖清德当局战略冒进",
@@ -310,7 +311,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -394,11 +395,24 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            17
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 19时15分]"
+        },
+        {
+          "title": "北京西城文旅局回应郭德纲被约谈",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%9F%8E%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%A2%AB%E7%BA%A6%E8%B0%88",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时23分 ~ 18时19分]"
+          "time_info": "[18时18分 ~ 19时15分]"
         },
         {
           "title": "北京朝阳法院对马航MH370航班部分失联乘客家属索赔案一审宣判",
@@ -423,17 +437,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 13时18分]"
-        },
-        {
-          "title": "北京西城文旅局回应郭德纲被约谈",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%9F%8E%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%A2%AB%E7%BA%A6%E8%B0%88",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时19分]"
         },
         {
           "title": "在岸人民币兑美元北京时间16:30官方收报7.0713，较上一交易日官方收盘价跌7点，较上日夜盘收盘涨7点。",
@@ -542,8 +545,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时20分 ~ 18时19分]"
+          "appearance_count": 6,
+          "time_info": "[15时20分 ~ 19时15分]"
         },
         {
           "title": "华尔街一哥：AI明年或大量“吞噬”就业岗位 全社会应共同应对",
@@ -589,8 +592,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时30分 ~ 18时19分]"
+          "appearance_count": 9,
+          "time_info": "[12时30分 ~ 19时15分]"
         }
       ]
     }
