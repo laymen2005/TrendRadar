@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T21:32:22.572038+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2025-12-08T22:18:03.605210+08:00",
+  "total_titles_processed": 1709,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普获国际足联和平奖",
@@ -41,8 +41,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时30分 ~ 21时32分]"
+          "appearance_count": 13,
+          "time_info": "[12时30分 ~ 22时18分]"
         },
         {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
@@ -62,6 +62,29 @@
           "time_info": "[00时16分 ~ 15时20分]"
         },
         {
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时24分 ~ 22时18分]"
+        },
+        {
+          "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
+          "url": "https://news.ifeng.com/c/8ov552jltTT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时32分 ~ 22时18分]"
+        },
+        {
           "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
           "url": "https://news.ifeng.com/c/8ou4WvyPNGq",
           "source": "凤凰网",
@@ -75,18 +98,6 @@
           "time_info": "[04时16分 ~ 12时30分]"
         },
         {
-          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
-          "url": "https://wallstreetcn.com/articles/3760897",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时24分 ~ 21时32分]"
-        },
-        {
           "title": "以总统拒绝特朗普“求情”",
           "url": "https://news.ifeng.com/c/8ouFkJCiRc4",
           "source": "凤凰网",
@@ -97,17 +108,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时11分 ~ 15时20分]"
-        },
-        {
-          "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
-          "url": "https://news.ifeng.com/c/8ov552jltTT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 21时32分]"
         },
         {
           "title": "特朗普：我对泽连斯基有点失望",
@@ -154,17 +154,6 @@
           "time_info": "12时30分"
         },
         {
-          "title": "美国白宫国家经济委员会主任哈塞特：特朗普将公布大量利好经济消息。",
-          "url": "https://flash.jin10.com/detail/20251208212413479800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-08）",
           "url": "https://flash.jin10.com/detail/20251208180135739800",
           "source": "金十数据",
@@ -174,28 +163,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特暗示特朗普本周将传达有关经济的信息。",
-          "url": "https://flash.jin10.com/detail/20251208212334315800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
-          "title": "美国总统特朗普：如果我们要继续在人工智能领域保持领先，必须只有一套规则手册。",
-          "url": "https://flash.jin10.com/detail/20251208212300357800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -231,6 +198,30 @@
           "time_info": "[00时18分 ~ 04时16分]"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普将公布大量利好经济消息。",
+          "url": "https://flash.jin10.com/detail/20251208212413479800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时18分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特暗示特朗普本周将传达有关经济的信息。",
+          "url": "https://flash.jin10.com/detail/20251208212334315800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时18分]"
+        },
+        {
           "title": "特朗普政府免除西南航空公司1100万美元罚款",
           "url": "https://flash.jin10.com/detail/20251208053436110800",
           "source": "金十数据",
@@ -253,6 +244,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时32分 ~ 21时32分]"
+        },
+        {
+          "title": "美国总统特朗普：如果我们要继续在人工智能领域保持领先，必须只有一套规则手册。",
+          "url": "https://flash.jin10.com/detail/20251208212300357800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时18分]"
         },
         {
           "title": "特朗普计划周一宣布一项120亿美元的农业援助计划。（彭博）",
@@ -340,6 +343,18 @@
           "time_info": "[06时14分 ~ 07时14分]"
         },
         {
+          "title": "美国总统特朗普：我本周将发布一项关于人工智能的单一规则行政命令。",
+          "url": "https://flash.jin10.com/detail/20251208212154914800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时18分]"
+        },
+        {
           "title": "特朗普将为明星颁奖 还预测颁奖典礼将创收视纪录",
           "url": "https://flash.jin10.com/detail/20251208083240087800",
           "source": "金十数据",
@@ -373,17 +388,6 @@
           "time_info": "18时19分"
         },
         {
-          "title": "美国总统特朗普：我本周将发布一项关于人工智能的单一规则行政命令。",
-          "url": "https://flash.jin10.com/detail/20251208212154914800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
           "title": "美国总统特朗普：俄罗斯对（和平）协议没意见，但不确定泽连斯基是否同意。",
           "url": "https://flash.jin10.com/detail/20251208081657474800",
           "source": "金十数据",
@@ -406,13 +410,57 @@
           "time_info": "09时11分"
         },
         {
+          "title": "以色列政府发言人表示，以色列总理内塔尼亚胡将于12月29日会见美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20251208214026144800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特（谈特朗普的人工智能“单一规则”）：该行政命令将帮助人工智能公司明确规则是什么。",
+          "url": "https://wallstreetcn.com/livenews/3017019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "特朗普：本周将发布人工智能的单一规则行政令",
+          "url": "https://flash.jin10.com/detail/20251208213431809800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "特朗普：本周将针对人工智能发布单一规则行政命令",
+          "url": "https://wallstreetcn.com/livenews/3017015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：（谈美国总统特朗普的美联储人选）美国总统特朗普有很多不错的选择。",
           "url": "https://flash.jin10.com/detail/20251208211824210800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -423,9 +471,53 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：（谈特朗普对奈飞收购华纳兄弟探索公司的影响）总统特朗普会让你清楚地知道他的真实想法。",
+          "url": "https://flash.jin10.com/detail/20251208212942437800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特（谈美联储）：特朗普有很多不错的选择。 如果我必须成为那个选择，我会很高兴帮助他。",
+          "url": "https://wallstreetcn.com/livenews/3017012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：（谈美国总统特朗普的人工智能单一规则）该规则应有助于AI企业明确规则内容。",
+          "url": "https://flash.jin10.com/detail/20251208212910525800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：（谈美国总统特朗普的人工智能单一规则）将明确指示美国企业适用某一套规则。",
+          "url": "https://flash.jin10.com/detail/20251208212727809800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "波音：特朗普的政府参股计划不适用于美国大型国防企业",
@@ -511,8 +603,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时18分 ~ 21时32分]"
+          "appearance_count": 7,
+          "time_info": "[18时18分 ~ 22时18分]"
+        },
+        {
+          "title": "北京朝阳法院对马航MH370航班部分失联乘客家属索赔案一审宣判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32130185",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时32分 ~ 22时18分]"
         },
         {
           "title": "北京大学原副校长任羽中被“双开”",
@@ -552,18 +657,6 @@
           "time_info": "[07时14分 ~ 13时18分]"
         },
         {
-          "title": "北京朝阳法院对马航MH370航班部分失联乘客家属索赔案一审宣判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32130185",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 21时32分]"
-        },
-        {
           "title": "在岸人民币兑美元北京时间16:30官方收报7.0713，较上一交易日官方收盘价跌7点，较上日夜盘收盘涨7点。",
           "url": "https://wallstreetcn.com/livenews/3016859",
           "source": "华尔街见闻-快讯",
@@ -590,7 +683,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI实力叠加低估值！外资集体押注：中国股市将延续涨势",
@@ -623,6 +716,29 @@
           "time_info": "[15时20分 ~ 20时32分]"
         },
         {
+          "title": "市场消息：卡塔尔成立新公司QAI，旨在建设和投资人工智能。",
+          "url": "https://flash.jin10.com/detail/20251208215109691800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
+          "url": "https://www.zhihu.com/question/1981321831689511959",
+          "source": "知乎",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 22时18分]"
+        },
+        {
           "title": "华尔街一哥：AI明年或大量“吞噬”就业岗位 全社会应共同应对",
           "url": "https://www.cls.cn/detail/2222209",
           "source": "财联社热门",
@@ -641,22 +757,12 @@
           "url": "https://flash.jin10.com/detail/20251208212102903800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
-          "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
-          "url": "https://www.zhihu.com/question/1981321831689511959",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时18分]"
         },
         {
           "title": "谷歌将举行AndroidXR特别发布会 端侧AI有望迎重磅催化",
@@ -731,7 +837,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         }
