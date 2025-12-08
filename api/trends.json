@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T02:24:21.839389+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2025-12-09T03:14:01.672954+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 03时14分]"
         },
         {
           "title": "市场消息：美国最高法院保守派（法官）似乎对特朗普解雇联邦贸易委员会委员的举动表示同情。",
@@ -37,8 +37,31 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 03时14分]"
+        },
+        {
+          "title": "美国最高法院暗示：将支持总统特朗普罢免（联邦政府）机构主管的做法。",
+          "url": "https://wallstreetcn.com/livenews/3017101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 03时14分]"
+        },
+        {
+          "title": "美国最高法院暗示支持特朗普解雇机构领导人",
+          "url": "https://flash.jin10.com/detail/20251209024442293800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "美国总统特朗普的政府支持伊拉克“将俄罗斯石油公司LukOil PJSC在West Qurna 2油田的资产转让给美国公司”的计划。",
@@ -52,24 +75,13 @@
           "time_info": "01时16分"
         },
         {
-          "title": "美国最高法院暗示：将支持总统特朗普罢免（联邦政府）机构主管的做法。",
-          "url": "https://wallstreetcn.com/livenews/3017101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
           "title": "市场消息：美国最高法院暗示，将支持特朗普罢免（联邦政府）机构主管的做法。",
           "url": "https://flash.jin10.com/detail/20251209013000707800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
         },
@@ -98,8 +110,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 03时14分]"
         },
         {
           "title": "综合知情人士透露的消息和条款清单来看，软银和英伟达正在洽谈投资人工智能公司Skild AI。 Skild AI可能会按140亿美元估值融资10亿美元。 谈判细节仍存在变数，但该交易预计将在圣诞节前完成。（路透）",
@@ -114,6 +126,30 @@
           "time_info": "[00时21分 ~ 01时16分]"
         },
         {
+          "title": "贝莱德：涌入AI基础设施的资金浪潮远未见顶",
+          "url": "https://wallstreetcn.com/livenews/3017099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 03时14分]"
+        },
+        {
+          "title": "达利欧：中东正迅速成为全球最具影响力的AI中心之一",
+          "url": "https://wallstreetcn.com/livenews/3017096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 03时14分]"
+        },
+        {
           "title": "消息人士称，软银、英伟达拟以140亿美元估值投资Skild AI，SKILD AI本轮融资有望筹集超过10亿美元。",
           "url": "https://flash.jin10.com/detail/20251208233633646800",
           "source": "金十数据",
@@ -123,28 +159,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "贝莱德：涌入AI基础设施的资金浪潮远未见顶",
-          "url": "https://wallstreetcn.com/livenews/3017099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "达利欧：中东正迅速成为全球最具影响力的AI中心之一",
-          "url": "https://wallstreetcn.com/livenews/3017096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时24分"
         }
       ]
     },
@@ -161,19 +175,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 03时14分]"
         },
         {
           "title": "北京西城文旅局回应郭德纲被约谈",
           "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%9F%8E%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%A2%AB%E7%BA%A6%E8%B0%88",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 03时14分]"
         },
         {
           "title": "非洲股市收盘播报｜周一（12月8日），南非富时/JSE非洲领先40可交易指数收跌1.57%，逼近10.3万点，北京时间15:00大致平开，随后持续下跌。",
