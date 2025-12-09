@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T13:16:57.031269+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2025-12-09T14:25:47.849686+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
@@ -37,11 +37,23 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时16分]"
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 14时25分]"
+        },
+        {
+          "title": "日媒更慌了，“特朗普还不说话，这下怎么搞”",
+          "url": "https://news.ifeng.com/c/8owNK695xvD",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "俄总统新闻秘书：目前没有普京与特朗普新年前会晤的消息",
@@ -364,6 +376,17 @@
           "time_info": "[05时14分 ~ 06时16分]"
         },
         {
+          "title": "特朗普女婿，“杀回来了”",
+          "url": "https://news.ifeng.com/c/8owSp96lgRc",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片，收取25%的分成",
           "url": "https://wallstreetcn.com/livenews/3017241",
           "source": "华尔街见闻-快讯",
@@ -560,6 +583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "特朗普：是否公布视频由美防长决定",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%98%AF%E5%90%A6%E5%85%AC%E5%B8%83%E8%A7%86%E9%A2%91%E7%94%B1%E7%BE%8E%E9%98%B2%E9%95%BF%E5%86%B3%E5%AE%9A",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         }
       ]
     },
@@ -588,8 +622,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 13时16分]"
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 14时25分]"
         },
         {
           "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
@@ -602,41 +636,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 13时16分]"
-        },
-        {
-          "title": "努比亚总裁：AI手机发展势不可逆；抖音集团李亮：AI一定是未来",
-          "url": "https://wallstreetcn.com/livenews/3017390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 14时25分]"
         },
         {
           "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
           "url": "https://www.cls.cn/detail/2223387",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 13时16分]"
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 14时25分]"
         },
         {
           "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
           "url": "https://www.cls.cn/detail/2223334",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 13时16分]"
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 14时25分]"
         },
         {
           "title": "AI眼镜爆发前夜：多家巨头集体下注释放何种信号？光学显示、芯片等厂商望持续受益",
@@ -647,8 +672,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 14时25分]"
         },
         {
           "title": "蚂蚁旗下通用AI助手灵光上线网页版",
@@ -663,6 +688,32 @@
           "time_info": "[11时15分 ~ 12时25分]"
         },
         {
+          "title": "努比亚总裁：AI手机发展势不可逆；抖音集团李亮：AI一定是未来",
+          "url": "https://wallstreetcn.com/livenews/3017390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 14时25分]"
+        },
+        {
+          "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
+          "url": "https://www.zhihu.com/question/1980612606218756126",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 14时25分]"
+        },
+        {
           "title": "美国食品药品监督管理局（FDA）：已批准首个基于人工智能的药物开发工具——基于人工智能的非酒精性脂肪性肝炎组织学测量工具（AIM-NASH）。",
           "url": "https://flash.jin10.com/detail/20251209054059438800",
           "source": "金十数据",
@@ -673,19 +724,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时15分]"
-        },
-        {
-          "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
-          "url": "https://www.zhihu.com/question/1980612606218756126",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时16分]"
         },
         {
           "title": "贝莱德：涌入AI基础设施的资金浪潮远未见顶",
@@ -725,6 +763,18 @@
           "time_info": "[05时14分 ~ 06时16分]"
         },
         {
+          "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 14时25分]"
+        },
+        {
           "title": "达利欧：中东正迅速成为全球最具影响力的AI中心之一",
           "url": "https://wallstreetcn.com/livenews/3017096",
           "source": "华尔街见闻-快讯",
@@ -746,17 +796,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
         },
         {
           "title": "下一次 AI 创业的机会在哪里？除了做大模型，普通人还有哪些切入点？",
@@ -786,8 +825,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 13时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 14时25分]"
         },
         {
           "title": "北京西城文旅局回应郭德纲被约谈",
@@ -802,17 +841,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 07时15分]"
-        },
-        {
-          "title": "【摩尔线程：即将发布新一代GPU架构】摩尔线程今日官微消息，12月19日至20日，摩尔线程首届MUSA开发者大会将在北京中关村国际创新中心拉开帷幕。摩尔线程创始人、董事长兼CEO张建中将首次系统阐述以MUSA为核心的全栈发展战略与未来愿景，并重磅发布新一代GPU架构、推出涵盖产品体系、核心技术及行业解决方案的完整布局，分享多领域落地案例与生态建设进展。",
-          "url": "https://wallstreetcn.com/livenews/3017393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
         },
         {
           "title": "周一（12月8日），彭博电动汽车价格回报指数涨1.11%，报3465.35点。 亚太盘初持续走高，北京时间14:35刷新日高至3479.12点，之后持续高位震荡；美股开盘后回吐部分涨幅。",
@@ -838,6 +866,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时25分 ~ 13时16分]"
+        },
+        {
+          "title": "【摩尔线程：即将发布新一代GPU架构】摩尔线程今日官微消息，12月19日至20日，摩尔线程首届MUSA开发者大会将在北京中关村国际创新中心拉开帷幕。摩尔线程创始人、董事长兼CEO张建中将首次系统阐述以MUSA为核心的全栈发展战略与未来愿景，并重磅发布新一代GPU架构、推出涵盖产品体系、核心技术及行业解决方案的完整布局，分享多领域落地案例与生态建设进展。",
+          "url": "https://wallstreetcn.com/livenews/3017393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 14时25分]"
         },
         {
           "title": "周一（12月8日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报7.0717元，较上周五纽约尾盘跌25点，日内整体交投于7.0647-7.0729元区间。",
@@ -916,19 +956,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "河北沧州杀妻案一审宣判",
-          "url": "https://www.douyin.com/hot/2331092",
-          "source": "抖音",
-          "ranks": [
-            1,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时16分]"
-        },
-        {
           "title": "“河北沧州杀妻案”男方获死刑",
           "url": "https://www.toutiao.com/trending/7580883401603940403/",
           "source": "今日头条",
@@ -938,8 +965,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时16分]"
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 14时25分]"
         },
         {
           "title": "河北沧州杀妻案男方被判死刑",
@@ -951,8 +978,35 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 14时25分]"
+        },
+        {
+          "title": "河北沧州杀妻案一审宣判",
+          "url": "https://www.douyin.com/hot/2331092",
+          "source": "抖音",
+          "ranks": [
+            1,
+            4,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 14时25分]"
+        },
+        {
+          "title": "河北沧州杀妻案一审宣判：被告人金昊被判死刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32136324",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时16分]"
+          "time_info": "[12时25分 ~ 14时25分]"
         },
         {
           "title": "河北沧州杀妻案一审宣判，金昊被判处死刑，如何解读？这一判决有哪些警示意义？",
@@ -963,20 +1017,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时16分]"
-        },
-        {
-          "title": "河北沧州杀妻案一审宣判：被告人金昊被判死刑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32136324",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 14时25分]"
         },
         {
           "title": "河北沧州杀妻案一审宣判",
@@ -993,7 +1035,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI报告称：企业人工智能应用激增",
@@ -1006,6 +1048,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时16分]"
+        },
+        {
+          "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。德国电信将使用ChatGPT企业版。",
+          "url": "https://wallstreetcn.com/livenews/3017432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。",
+          "url": "https://flash.jin10.com/detail/20251209140918642800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "河北",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "河北杀妻案夫妻系高中大学同学",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E6%9D%80%E5%A6%BB%E6%A1%88%E5%A4%AB%E5%A6%BB%E7%B3%BB%E9%AB%98%E4%B8%AD%E5%A4%A7%E5%AD%A6%E5%90%8C%E5%AD%A6%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         }
       ]
     }
