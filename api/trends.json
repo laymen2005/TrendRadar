@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T16:23:07.890472+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2025-12-10T17:20:17.660701+08:00",
+  "total_titles_processed": 1618,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,18 @@
           "time_info": "[00时22分 ~ 07时39分]"
         },
         {
+          "title": "特朗普：泰柬又打起来了，我得打个电话",
+          "url": "https://news.ifeng.com/c/8oyCMciyCox",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时25分 ~ 17时20分]"
+        },
+        {
           "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
           "url": "https://wallstreetcn.com/articles/3761018",
           "source": "华尔街见闻",
@@ -56,8 +68,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 16时23分]"
+          "appearance_count": 22,
+          "time_info": "[00时22分 ~ 17时20分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -71,18 +83,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时22分 ~ 07时39分]"
-        },
-        {
-          "title": "特朗普：泰柬又打起来了，我得打个电话",
-          "url": "https://news.ifeng.com/c/8oyCMciyCox",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时25分 ~ 16时23分]"
         },
         {
           "title": "美国总统特朗普宣布，允许英伟达向中国出售 H200 芯片，此举意味着什么？",
@@ -125,15 +125,28 @@
           "time_info": "[00时22分 ~ 06时21分]"
         },
         {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 17时20分]"
+        },
+        {
           "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
           "url": "https://news.ifeng.com/c/8oyJa7lvayk",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 17时20分]"
         },
         {
           "title": "美国总统特朗普指责拜登使用自动签名笔签署一些联邦政府任命文件，包括鲍威尔的任命，“将对此进行调查”。",
@@ -339,17 +352,6 @@
           "time_info": "[14时25分 ~ 15时19分]"
         },
         {
-          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
-          "url": "https://www.cls.cn/detail/2225037",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
-        },
-        {
           "title": "泽连斯基回应特朗普：已准备好举行选举",
           "url": "https://news.ifeng.com/c/8oxUGggjWaR",
           "source": "凤凰网",
@@ -479,7 +481,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -677,7 +679,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -751,7 +753,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -820,17 +822,6 @@
           "time_info": "[01时17分 ~ 06时21分]"
         },
         {
-          "title": "罗永浩闫俊杰谈中美AI发展差异",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
-        },
-        {
           "title": "摩尔线程联创李丰曾推出「马勒戈币（MGD）」，后更名为「羊驼币」，他是怎么从币圈辗转到 AI 圈的？",
           "url": "https://www.zhihu.com/question/1981300590727356751",
           "source": "知乎",
@@ -839,8 +830,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 16时23分]"
+          "appearance_count": 5,
+          "time_info": "[15时19分 ~ 17时20分]"
+        },
+        {
+          "title": "罗永浩闫俊杰谈中美AI发展差异",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 17时20分]"
         },
         {
           "title": "限量发售的豆包AI手机被追捧，二手价最高3.6万元",
@@ -958,6 +961,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "小米回应进军AI教育",
+          "url": "https://wallstreetcn.com/livenews/3018326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         }
       ]
     },
@@ -1246,6 +1260,34 @@
       ]
     },
     {
+      "keyword_group": "河北",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "河北唐山发生2.3级地震",
+          "url": "https://www.toutiao.com/trending/7581912214139879478/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
+        },
+        {
+          "title": "河北一在校生被打掉两颗门牙，监控缺失、老师被辞，家长称校方推卸责任，具体怎么回事？可能是谁的责任？",
+          "url": "https://www.zhihu.com/question/1981756043915711883",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时20分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "沧州",
       "match_count": 1,
       "titles": [
@@ -1262,23 +1304,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时22分 ~ 09时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "河北",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "河北唐山发生2.3级地震",
-          "url": "https://www.toutiao.com/trending/7581912214139879478/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
         }
       ]
     },
