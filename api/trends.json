@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T09:12:53.419568+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2025-12-10T11:20:00.231449+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -45,8 +45,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 09时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 11时20分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -108,9 +108,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时12分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 11时20分]"
         },
         {
           "title": "美国总统特朗普指责拜登使用自动签名笔签署一些联邦政府任命文件，包括鲍威尔的任命，“将对此进行调查”。",
@@ -119,9 +119,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "美国就业数据呈现矛盾信号，特朗普称“立即降息”是美联储主席人选硬指标，支撑美联储降息预期。美联储利率决议今晚重磅来袭，黄金多空争夺激烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅",
+          "url": "https://flash.jin10.com/detail/20251210104414511800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "美国总统特朗普称，他听说拜登使用自动签字笔签署了美联储理事会一些民主党成员的任命，并建议他可以挑战这些任命的合法性。",
@@ -130,7 +141,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -152,7 +163,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -174,7 +185,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -296,7 +307,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -318,7 +329,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -340,7 +351,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -362,7 +373,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -373,7 +384,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -384,7 +395,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -428,7 +439,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -483,7 +494,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -614,7 +625,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -749,7 +760,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -760,8 +771,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 09时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 11时20分]"
         },
         {
           "title": "NMIXX翻唱UP主AI版大东北",
@@ -770,11 +781,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 09时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 11时20分]"
         },
         {
           "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
@@ -826,6 +838,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时13分 ~ 05时13分]"
+        },
+        {
+          "title": "智谱开源“会操作手机的AI”",
+          "url": "https://www.douyin.com/hot/2331460",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
         },
         {
           "title": "霍华德·马克斯：AI对就业的影响“是可怕的”，质疑债务成本",
@@ -903,6 +926,18 @@
           "time_info": "[01时17分 ~ 03时13分]"
         },
         {
+          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
+          "url": "https://wallstreetcn.com/articles/3760995",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时39分 ~ 11时20分]"
+        },
+        {
           "title": "OpenAI：任命Denise Dresser为首席营收官（CRO）。 Dresser近期主要担任Slack的首席执行官（CEO）。",
           "url": "https://wallstreetcn.com/livenews/3017848",
           "source": "华尔街见闻-快讯",
@@ -914,18 +949,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时13分 ~ 05时13分]"
-        },
-        {
-          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
-          "url": "https://wallstreetcn.com/articles/3760995",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时39分 ~ 09时12分]"
         },
         {
           "title": "OpenAI推出首期OpenAI认证课程",
@@ -990,6 +1013,23 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时22分 ~ 09时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "河北",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "河北唐山发生2.3级地震",
+          "url": "https://www.toutiao.com/trending/7581912214139879478/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
         }
       ]
     },
