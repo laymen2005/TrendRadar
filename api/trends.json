@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T20:34:30.261129+08:00",
-  "total_titles_processed": 1967,
+  "generated_at": "2025-12-11T21:35:59.286403+08:00",
+  "total_titles_processed": 2056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时18分 ~ 11时21分]"
+        },
+        {
+          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
+          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时21分 ~ 21时35分]"
         },
         {
           "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
@@ -43,17 +54,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时32分 ~ 16时23分]"
-        },
-        {
-          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
-          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时21分 ~ 20时34分]"
         },
         {
           "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
@@ -82,6 +82,17 @@
           "time_info": "[16时23分 ~ 17时21分]"
         },
         {
+          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
+          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时21分 ~ 21时35分]"
+        },
+        {
           "title": "特朗普发飙怒斥记者",
           "url": "https://www.douyin.com/hot/2332016",
           "source": "抖音",
@@ -91,6 +102,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 00时23分]"
+        },
+        {
+          "title": "美国商务部长卢特尼克：（谈英伟达H200芯片）是美国总统特朗普与英伟达CEO之间的交易。",
+          "url": "https://flash.jin10.com/detail/20251211210900621800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "俄罗斯外长拉夫罗夫表示，俄方希望达成一份关于乌克兰问题的长期可持续和平的一揽子文件。 各方都应获得安全保障。 特朗普为解决冲突作出过切实努力。",
@@ -126,17 +148,6 @@
           "time_info": "07时13分"
         },
         {
-          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
-          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时21分 ~ 20时34分]"
-        },
-        {
           "title": "美国总统特朗普：听苹果(AAPL.O)CEO库克说，招聘人才很难。",
           "url": "https://flash.jin10.com/detail/20251211040650470800",
           "source": "金十数据",
@@ -170,6 +181,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时13分]"
+        },
+        {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时35分]"
         },
         {
           "title": "特朗普向哥伦比亚总统发出威胁：“他将是下一个”",
@@ -241,18 +265,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时18分 ~ 18时19分]"
-        },
-        {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时34分]"
         },
         {
           "title": "“特朗普黄金卡”开始接受申请",
@@ -692,8 +704,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时22分 ~ 20时34分]"
+          "appearance_count": 24,
+          "time_info": "[00时22分 ~ 21时35分]"
+        },
+        {
+          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
+          "url": "https://www.zhihu.com/question/1982385153180394991",
+          "source": "知乎",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时21分 ~ 21时35分]"
         },
         {
           "title": "网警：男子AI生成车展低俗视频被拘",
@@ -703,8 +728,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时13分 ~ 20时34分]"
+          "appearance_count": 13,
+          "time_info": "[09时13分 ~ 21时35分]"
         },
         {
           "title": "男子AI生成车展低俗视频被拘",
@@ -714,8 +739,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时21分 ~ 20时34分]"
+          "appearance_count": 12,
+          "time_info": "[11时21分 ~ 21时35分]"
         },
         {
           "title": "男子AI生成车展低俗视频造谣被拘",
@@ -725,8 +750,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时32分 ~ 20时34分]"
+          "appearance_count": 11,
+          "time_info": "[12时32分 ~ 21时35分]"
         },
         {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
@@ -739,19 +764,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时22分 ~ 07时13分]"
-        },
-        {
-          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
-          "url": "https://www.zhihu.com/question/1982385153180394991",
-          "source": "知乎",
-          "ranks": [
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时21分 ~ 20时34分]"
         },
         {
           "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
@@ -848,6 +860,17 @@
           "time_info": "[14时26分 ~ 16时23分]"
         },
         {
+          "title": "动画老牌GAINAX正式破产领盒饭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347897&amp;topic_name=%E5%8A%A8%E7%94%BB%E8%80%81%E7%89%8CGAINAX%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E9%A2%86%E7%9B%92%E9%A5%AD",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时35分]"
+        },
+        {
           "title": "罗永浩闫俊杰谈中美AI发展差异",
           "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
           "source": "bilibili 热搜",
@@ -894,17 +917,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时19分 ~ 14时26分]"
-        },
-        {
-          "title": "动画老牌GAINAX正式破产领盒饭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347897&amp;topic_name=%E5%8A%A8%E7%94%BB%E8%80%81%E7%89%8CGAINAX%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E9%A2%86%E7%9B%92%E9%A5%AD",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时34分]"
         },
         {
           "title": "Blue Owl Capital高管Craig Packer：数据中心是一个“实实在在地具有吸引力的领域”。 银行业利用SRTs（重大风险转移）来管控数据中心风险，这样做是“睿智的”。 零售产品的资金流入偏高。 软件（在投资组合中的表现）是本公司表现“最强”的一个方面。（彭博电视）",
@@ -969,7 +981,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -1087,7 +1099,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "北京宠物犬中毒刑事公诉案一审宣判：被告人获刑4年",
@@ -1103,8 +1115,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时21分 ~ 20时34分]"
+          "appearance_count": 12,
+          "time_info": "[11时21分 ~ 21时35分]"
         },
         {
           "title": "北京首例宠物中毒诉讼案宣判",
@@ -1131,19 +1143,45 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时26分 ~ 20时34分]"
+          "appearance_count": 9,
+          "time_info": "[14时26分 ~ 21时35分]"
         },
         {
           "title": "中央经济工作会议在北京举行",
           "url": "https://www.cls.cn/detail/2226808",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时35分]"
+        },
+        {
+          "title": "中央经济工作会议在北京举行，会议确定 2026 年经济工作重点任务，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1982505771003561813",
+          "source": "知乎",
+          "ranks": [
+            5,
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时34分]"
+          "time_info": "[20时34分 ~ 21时35分]"
+        },
+        {
+          "title": "北京宠物犬中毒刑案受害人：将向公诉机关申请抗诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32154288",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时21分 ~ 21时35分]"
         },
         {
           "title": "中央经济工作会议在北京举行",
@@ -1158,27 +1196,28 @@
           "time_info": "[18时18分 ~ 19时15分]"
         },
         {
-          "title": "中央经济工作会议在北京举行，会议确定 2026 年经济工作重点任务，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1982505771003561813",
-          "source": "知乎",
+          "title": "中央经济工作会议在北京举行，习近平发表重要讲话",
+          "url": "https://wallstreetcn.com/articles/3761184",
+          "source": "华尔街见闻",
           "ranks": [
+            6,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时34分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时35分]"
         },
         {
-          "title": "北京宠物犬中毒刑案受害人：将向公诉机关申请抗诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32154288",
+          "title": "中央经济工作会议在北京举行，习近平发表重要讲话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32155062",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            19
+            15,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时21分 ~ 20时34分]"
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 21时35分]"
         },
         {
           "title": "中央经济工作会议：建设北京（京津冀）、上海（长三角）、粤港澳大湾区国际科技创新中心",
@@ -1193,6 +1232,31 @@
           "time_info": "[18时19分 ~ 19时15分]"
         },
         {
+          "title": "北京发布暴雪蓝色预警",
+          "url": "https://www.douyin.com/hot/2333495",
+          "source": "抖音",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时35分]"
+        },
+        {
+          "title": "北京发布暴雪蓝色预警",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%AA%E8%93%9D%E8%89%B2%E9%A2%84%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时35分]"
+        },
+        {
           "title": "迪奥与北京的一场全新对话",
           "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E5%A5%A5%E4%B8%8E%E5%8C%97%E4%BA%AC%E7%9A%84%E4%B8%80%E5%9C%BA%E5%85%A8%E6%96%B0%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -1204,17 +1268,6 @@
           "time_info": "[17时21分 ~ 18时19分]"
         },
         {
-          "title": "中央经济工作会议在北京举行，习近平发表重要讲话",
-          "url": "https://wallstreetcn.com/articles/3761184",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时34分]"
-        },
-        {
           "title": "中央经济工作会议在北京举行 习近平发表重要讲话",
           "url": "https://www.cls.cn/detail/2226808",
           "source": "财联社热门",
@@ -1224,29 +1277,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时18分 ~ 18时19分]"
-        },
-        {
-          "title": "北京发布暴雪蓝色预警",
-          "url": "https://www.douyin.com/hot/2333495",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时34分]"
-        },
-        {
-          "title": "北京发布暴雪蓝色预警",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%AA%E8%93%9D%E8%89%B2%E9%A2%84%E8%AD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时34分]"
         },
         {
           "title": "周三（12月10日）纽约尾盘，现货黄金涨0.46%，报4227.37美元/盎司，日内交投于4182.14-4238.71美元区间，北京时间03:41（美联储主席鲍威尔新闻发布会开始之后）刷新日低，随后快速反弹，04:17（新闻发布会的尾声）刷新日高。 COMEX黄金期货涨0.50%，报4257.20美元/盎司。",
@@ -1301,7 +1331,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -1317,15 +1347,15 @@
           "time_info": "05时17分"
         },
         {
-          "title": "中央经济工作会议在北京举行，习近平发表重要讲话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32155062",
-          "source": "澎湃新闻",
+          "title": "北京大学苏剑：强化企业创新主体地位是提升国家竞争力的关键",
+          "url": "https://wallstreetcn.com/livenews/3019236",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时34分"
+          "time_info": "21时35分"
         },
         {
           "title": "北京发放育儿补贴，首批28.6万人已领每孩每月300元",
@@ -1378,7 +1408,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
