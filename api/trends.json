@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T15:21:54.329082+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2025-12-11T16:23:52.034901+08:00",
+  "total_titles_processed": 1544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -41,8 +41,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 15时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 16时23分]"
+        },
+        {
+          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
+          "url": "https://www.cls.cn/detail/2225986",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时13分 ~ 16时23分]"
         },
         {
           "title": "特朗普发飙怒斥记者",
@@ -56,18 +71,26 @@
           "time_info": "[00时22分 ~ 00时23分]"
         },
         {
-          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
-          "url": "https://www.cls.cn/detail/2225986",
-          "source": "财联社热门",
+          "title": "特朗普：被扣押油轮上的石油归美国了",
+          "url": "https://www.toutiao.com/trending/7581744403334086710/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            9,
-            8,
-            10
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时13分 ~ 15时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫表示，俄方希望达成一份关于乌克兰问题的长期可持续和平的一揽子文件。 各方都应获得安全保障。 特朗普为解决冲突作出过切实努力。",
+          "url": "https://wallstreetcn.com/livenews/3019085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
@@ -161,6 +184,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时17分]"
+        },
+        {
+          "title": "美威胁国际刑事法院：不要调查特朗普",
+          "url": "https://www.toutiao.com/trending/7582367829178269750/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 16时23分]"
         },
         {
           "title": "“这一点至关重要”，美贸易代表：特朗普非常重视与中国建立“建设性”关系",
@@ -418,17 +453,6 @@
           "time_info": "05时17分"
         },
         {
-          "title": "美威胁国际刑事法院：不要调查特朗普",
-          "url": "https://www.toutiao.com/trending/7582367829178269750/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
           "title": "据美国哥伦比亚广播公司（CBS）：特朗普政府正在考虑进行更多与委内瑞拉和伊朗相关油轮的任务。",
           "url": "https://flash.jin10.com/detail/20251211082401078800",
           "source": "金十数据",
@@ -579,8 +603,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 15时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 16时23分]"
         },
         {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
@@ -595,6 +619,31 @@
           "time_info": "[00时22分 ~ 07时13分]"
         },
         {
+          "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
+          "url": "https://www.cls.cn/detail/2225983",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时13分 ~ 16时23分]"
+        },
+        {
+          "title": "网警：男子AI生成车展低俗视频被拘",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%EF%BC%9A%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时13分 ~ 16时23分]"
+        },
+        {
           "title": "网警查处一起AI生成虚假低俗视频案",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E6%9F%A5%E5%A4%84%E4%B8%80%E8%B5%B7AI%E7%94%9F%E6%88%90%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E6%A1%88%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -606,30 +655,6 @@
           "time_info": "[09时13分 ~ 12时32分]"
         },
         {
-          "title": "网警：男子AI生成车展低俗视频被拘",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%EF%BC%9A%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时13分 ~ 15时21分]"
-        },
-        {
-          "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
-          "url": "https://www.cls.cn/detail/2225983",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时13分 ~ 15时21分]"
-        },
-        {
           "title": "男子AI生成车展低俗视频被拘",
           "url": "https://www.douyin.com/hot/2333057",
           "source": "抖音",
@@ -637,8 +662,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时21分 ~ 15时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时21分 ~ 16时23分]"
         },
         {
           "title": "男子AI生成车展低俗视频造谣被拘",
@@ -648,8 +673,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 15时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 16时23分]"
         },
         {
           "title": "男子AI生成车展虚假低俗视频被拘",
@@ -687,6 +712,17 @@
           "time_info": "[12时32分 ~ 13时19分]"
         },
         {
+          "title": "我国AI产业规模突破9000亿元",
+          "url": "https://www.douyin.com/hot/2332984",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 16时23分]"
+        },
+        {
           "title": "罗永浩闫俊杰谈中美AI发展差异",
           "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
           "source": "bilibili 热搜",
@@ -711,15 +747,15 @@
           "time_info": "[09时13分 ~ 11时21分]"
         },
         {
-          "title": "我国AI产业规模突破9000亿元",
-          "url": "https://www.douyin.com/hot/2332984",
-          "source": "抖音",
+          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
+          "url": "https://www.zhihu.com/question/1982385153180394991",
+          "source": "知乎",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时26分 ~ 15时21分]"
+          "time_info": "[15时21分 ~ 16时23分]"
         },
         {
           "title": "微软CEO表示，公司计划于周五推出全新智能体AI模型。",
@@ -746,6 +782,18 @@
           "time_info": "[00时23分 ~ 01时19分]"
         },
         {
+          "title": "站在 2025 年年末，你认为 AI 究竟是真革命还是虚假繁荣？",
+          "url": "https://www.zhihu.com/question/1974921641634064010",
+          "source": "知乎",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 16时23分]"
+        },
+        {
           "title": "AIDC储能2030年出货量或达今年20倍",
           "url": "https://wallstreetcn.com/livenews/3018700",
           "source": "华尔街见闻-快讯",
@@ -768,17 +816,6 @@
           "time_info": "03时14分"
         },
         {
-          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
-          "url": "https://www.zhihu.com/question/1982385153180394991",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
           "title": "AIG涨4.3%，刷新日高，创4月份以来最大盘中涨幅。",
           "url": "https://wallstreetcn.com/livenews/3018650",
           "source": "华尔街见闻-快讯",
@@ -796,7 +833,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -810,17 +847,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
-        },
-        {
-          "title": "站在 2025 年年末，你认为 AI 究竟是真革命还是虚假繁荣？",
-          "url": "https://www.zhihu.com/question/1974921641634064010",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
         },
         {
           "title": "Pinterest首席执行官Bill Ready表示， Pinterest通过依靠开源模型，节省了使用知名品牌AI的90%成本。（The Information）",
@@ -862,7 +888,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -902,8 +928,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时21分 ~ 15时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时21分 ~ 16时23分]"
         },
         {
           "title": "北京宠物犬中毒刑事公诉案一审宣判：被告人获刑4年",
@@ -913,11 +939,25 @@
             20,
             16,
             12,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时21分 ~ 15时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时21分 ~ 16时23分]"
+        },
+        {
+          "title": "北京宠物犬中毒刑事公诉案一审：被告人被判刑4年，当庭称将上诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32153137",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 16时23分]"
         },
         {
           "title": "周三（12月10日）纽约尾盘，现货黄金涨0.46%，报4227.37美元/盎司，日内交投于4182.14-4238.71美元区间，北京时间03:41（美联储主席鲍威尔新闻发布会开始之后）刷新日低，随后快速反弹，04:17（新闻发布会的尾声）刷新日高。 COMEX黄金期货涨0.50%，报4257.20美元/盎司。",
@@ -942,18 +982,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时13分 ~ 13时19分]"
-        },
-        {
-          "title": "北京宠物犬中毒刑事公诉案一审：被告人被判刑4年，当庭称将上诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32153137",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 15时21分]"
         },
         {
           "title": "提醒：北京时间03:00，美联储将公布联邦公开市场委员会（FOMC）利率决议声明和经济预期概要（SEP），美国11月政府预算将发布。",
