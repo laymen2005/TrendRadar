@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T05:15:27.757416+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2025-12-13T06:15:57.727804+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "特朗普拉小群,想拿C5替代G7",
@@ -38,19 +38,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时15分]"
-        },
-        {
-          "title": "美国总统特朗普在办公室表示：倾向于让沃什或哈塞特担任美联储主席。 沃什现在处于美联储主席候选人清单的顶端。 下一任美联储主席应该就利率问题征求我的意见。 今后一年，利率应当在1%或更低。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3020133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
@@ -59,9 +48,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时15分]"
         },
         {
           "title": "马来西亚总理Anwar：接到美国总统特朗普的电话。",
@@ -146,17 +135,16 @@
           "time_info": "[01时15分 ~ 03时14分]"
         },
         {
-          "title": "美国多个州将起诉总统特朗普的10万美元H-1B签证申请费政策。",
-          "url": "https://wallstreetcn.com/livenews/3020109",
+          "title": "美国总统特朗普在办公室表示：倾向于让沃什或哈塞特担任美联储主席。 沃什现在处于美联储主席候选人清单的顶端。 下一任美联储主席应该就利率问题征求我的意见。 今后一年，利率应当在1%或更低。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3020133",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            12,
+            2,
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时15分]"
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时15分]"
         },
         {
           "title": "美国部分州宣布起诉特朗普H-1B签证申请费用问题",
@@ -168,8 +156,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时15分]"
+          "appearance_count": 4,
+          "time_info": "[03时14分 ~ 06时15分]"
         },
         {
           "title": "白宫“加密和AI沙皇”为特朗普AI法规站场，称其旨在减轻企业合规负担",
@@ -180,8 +168,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 05时15分]"
+          "appearance_count": 3,
+          "time_info": "[04时18分 ~ 06时15分]"
+        },
+        {
+          "title": "美国多个州将起诉总统特朗普的10万美元H-1B签证申请费政策。",
+          "url": "https://wallstreetcn.com/livenews/3020109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 05时15分]"
         },
         {
           "title": "泰国总理：美国总统特朗普在通话中承诺，会达成“更好的”贸易协议。",
@@ -297,8 +298,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -308,8 +309,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
@@ -318,11 +319,12 @@
           "ranks": [
             1,
             4,
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时15分]"
+          "appearance_count": 4,
+          "time_info": "[03时14分 ~ 06时15分]"
         },
         {
           "title": "甲骨文(ORCL.N)：在协议签署后，与OpenAI密切协调确定了选址及交付时间表，并达成一致意见。为履行合同义务所需的所有站点均未出现延误，所有里程碑均按计划推进。",
@@ -356,8 +358,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 05时15分]"
+          "appearance_count": 3,
+          "time_info": "[04时18分 ~ 06时15分]"
         },
         {
           "title": "GPT-5.2 正式发布，你如何看待 OpenAI 称其为「最强专业知识工作大模型」？",
@@ -431,8 +433,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "北京初雪",
@@ -443,8 +445,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "博闻丨北京宠物犬中毒刑案被告一审获刑4年，犬主辞职为爱犬“讨公道”1185天",
@@ -455,8 +457,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "给你看看我拍的北京初雪",
@@ -468,8 +470,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "北京暴雪",
@@ -479,11 +481,12 @@
             17,
             10,
             23,
-            25
+            25,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "北京大兴机场20元过夜",
@@ -491,11 +494,12 @@
           "source": "微博",
           "ranks": [
             14,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时24分 ~ 05时15分]"
+          "appearance_count": 6,
+          "time_info": "[02时24分 ~ 06时15分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0546元，较周四夜盘收盘涨24点。成交量288.66亿美元。",
@@ -503,11 +507,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 05时15分]"
+          "appearance_count": 3,
+          "time_info": "[04时18分 ~ 06时15分]"
+        },
+        {
+          "title": "北京初雪就是中式美学天花板",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%88%9D%E9%9B%AA%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6%E5%A4%A9%E8%8A%B1%E6%9D%BF",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 06时15分]"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌1.31%，暂报3906.83点，北京时间23:00以来显著转跌，最近一周（连续七个自然日）累计下跌3.77%，12月9日还曾达到4373.56点。",
@@ -521,19 +539,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 04时18分]"
-        },
-        {
-          "title": "北京初雪就是中式美学天花板",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%88%9D%E9%9B%AA%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6%E5%A4%A9%E8%8A%B1%E6%9D%BF",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 03时14分]"
         }
       ]
     },
@@ -550,8 +555,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -561,8 +566,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时24分 ~ 05时15分]"
+          "appearance_count": 6,
+          "time_info": "[02时24分 ~ 06时15分]"
         },
         {
           "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
@@ -573,8 +578,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
@@ -585,8 +590,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "AI竞赛遭电力“卡脖子”？下周，英伟达将举办一场闭门峰会",
@@ -597,8 +602,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时15分 ~ 06时15分]"
+        },
+        {
+          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
+          "url": "https://wallstreetcn.com/articles/3761241",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时15分 ~ 05时15分]"
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
@@ -613,17 +629,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时15分 ~ 04时18分]"
-        },
-        {
-          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
-          "url": "https://wallstreetcn.com/articles/3761241",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 05时15分]"
         }
       ]
     },
@@ -655,9 +660,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时15分]"
         }
       ]
     }
