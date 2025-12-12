@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T20:32:22.500126+08:00",
-  "total_titles_processed": 1919,
+  "generated_at": "2025-12-12T21:32:23.306547+08:00",
+  "total_titles_processed": 2018,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时17分 ~ 20时32分]"
+          "appearance_count": 15,
+          "time_info": "[13时17分 ~ 21时32分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -84,8 +84,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时23分 ~ 20时32分]"
+          "appearance_count": 9,
+          "time_info": "[16时23分 ~ 21时32分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -96,8 +96,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时23分 ~ 20时32分]"
+          "appearance_count": 9,
+          "time_info": "[16时23分 ~ 21时32分]"
         },
         {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
@@ -726,18 +726,6 @@
           "time_info": "[00时23分 ~ 17时21分]"
         },
         {
-          "title": "北京的雪下冒烟了",
-          "url": "https://www.toutiao.com/trending/7582789141822492186/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时31分 ~ 20时32分]"
-        },
-        {
           "title": "中央经济工作会议在北京举行",
           "url": "https://www.cls.cn/detail/2226808",
           "source": "财联社热门",
@@ -747,6 +735,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时23分 ~ 07时15分]"
+        },
+        {
+          "title": "北京的雪下冒烟了",
+          "url": "https://www.toutiao.com/trending/7582789141822492186/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[12时31分 ~ 21时32分]"
         },
         {
           "title": "北京初雪",
@@ -760,8 +761,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时20分 ~ 20时32分]"
+          "appearance_count": 17,
+          "time_info": "[11时20分 ~ 21时32分]"
         },
         {
           "title": "北京同仁堂涉嫌造假将被约谈，磷虾油磷脂含量实测为 0，具体情况如何？北京同仁堂将承担哪些法律责任？",
@@ -779,6 +780,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时23分 ~ 12时31分]"
+        },
+        {
+          "title": "北京暴雪",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%AA%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时20分 ~ 21时32分]"
         },
         {
           "title": "北京下雪",
@@ -806,19 +820,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时22分 ~ 07时15分]"
-        },
-        {
-          "title": "北京暴雪",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%AA%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时20分 ~ 20时32分]"
         },
         {
           "title": "北京宠物犬中毒刑事公诉案一审：被告人被判刑4年，当庭称将上诉",
@@ -902,11 +903,12 @@
             14,
             12,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时20分 ~ 20时32分]"
+          "appearance_count": 17,
+          "time_info": "[11时20分 ~ 21时32分]"
         },
         {
           "title": "北京门头沟飘起鹅毛大雪",
@@ -930,11 +932,26 @@
             18,
             20,
             21,
-            23
+            23,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时25分 ~ 20时32分]"
+          "appearance_count": 13,
+          "time_info": "[14时25分 ~ 21时32分]"
+        },
+        {
+          "title": "北京多地雪景：故宫颐和园银装素裹",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%9A%E5%9C%B0%E9%9B%AA%E6%99%AF%EF%BC%9A%E6%95%85%E5%AE%AB%E9%A2%90%E5%92%8C%E5%9B%AD%E9%93%B6%E8%A3%85%E7%B4%A0%E8%A3%B9",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            28,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时20分 ~ 21时32分]"
         },
         {
           "title": "北京的雪下大了",
@@ -948,19 +965,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时17分 ~ 15时20分]"
-        },
-        {
-          "title": "北京多地雪景：故宫颐和园银装素裹",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%9A%E5%9C%B0%E9%9B%AA%E6%99%AF%EF%BC%9A%E6%95%85%E5%AE%AB%E9%A2%90%E5%92%8C%E5%9B%AD%E9%93%B6%E8%A3%85%E7%B4%A0%E8%A3%B9",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            28,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时20分 ~ 20时32分]"
         },
         {
           "title": "金十图示：北京时间12月12日23:00将有欧美、美日等外汇期权大单到期，6个行权价10亿以上大单，敬请管理风险。",
@@ -1204,7 +1208,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         }
@@ -1222,8 +1226,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时13分 ~ 20时32分]"
+          "appearance_count": 18,
+          "time_info": "[09时13分 ~ 21时32分]"
         },
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
@@ -1251,8 +1255,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时20分 ~ 20时32分]"
+          "appearance_count": 17,
+          "time_info": "[11时20分 ~ 21时32分]"
         },
         {
           "title": "美国AIDC热推高燃气轮机需求 中美概念股“同此凉热”",
@@ -1361,6 +1365,18 @@
           "time_info": "[06时16分 ~ 07时15分]"
         },
         {
+          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
+          "url": "https://wallstreetcn.com/articles/3761241",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时32分]"
+        },
+        {
           "title": "《时代》周刊年度人物授予一群AI缔造者：黄仁勋、马斯克等“同坐高空”",
           "url": "https://www.cls.cn/detail/2227456",
           "source": "财联社热门",
@@ -1371,17 +1387,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时23分 ~ 17时21分]"
-        },
-        {
-          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
-          "url": "https://wallstreetcn.com/articles/3761241",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 20时32分]"
         },
         {
           "title": "AI泡沫担忧重燃，甲骨文跌16%，美股涨跌不一，金油承压，比特币跌超2%",
@@ -1490,7 +1495,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1545,7 +1550,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1599,8 +1604,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时20分 ~ 20时32分]"
+          "appearance_count": 17,
+          "time_info": "[11时20分 ~ 21时32分]"
         },
         {
           "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
@@ -1623,8 +1628,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时31分 ~ 20时32分]"
+          "appearance_count": 16,
+          "time_info": "[12时31分 ~ 21时32分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -1672,8 +1677,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 20时32分]"
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时32分]"
         },
         {
           "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
