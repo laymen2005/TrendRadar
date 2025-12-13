@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T00:18:52.457874+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-14T01:14:14.478844+08:00",
+  "total_titles_processed": 344,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时14分]"
         },
         {
           "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时14分]"
         },
         {
           "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
@@ -37,19 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "据AXIOS网站：以色列官员称，以色列未就试图暗杀加沙地带哈马斯领导人拉埃德·萨阿德一事事先通知特朗普政府。",
-          "url": "https://flash.jin10.com/detail/20251213222804614800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时14分]"
         },
         {
           "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
@@ -59,30 +48,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时14分]"
         },
         {
           "title": "特朗普称泰柬已同意停火，泰方否认：答案是不",
           "url": "https://m.thepaper.cn/newsDetail_forward_32169891",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "美国国务卿卢比奥：卢旺达在刚果（金）东部的行动明显违反了特朗普总统签署的《华盛顿协议》。",
-          "url": "https://flash.jin10.com/detail/20251213211438744800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时14分]"
         },
         {
           "title": "特朗普拉小群,想拿C5替代G7",
@@ -92,8 +71,30 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时14分]"
+        },
+        {
+          "title": "据AXIOS网站：以色列官员称，以色列未就试图暗杀加沙地带哈马斯领导人拉埃德·萨阿德一事事先通知特朗普政府。",
+          "url": "https://flash.jin10.com/detail/20251213222804614800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时14分]"
+        },
+        {
+          "title": "美国国务卿卢比奥：卢旺达在刚果（金）东部的行动明显违反了特朗普总统签署的《华盛顿协议》。",
+          "url": "https://flash.jin10.com/detail/20251213211438744800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时14分]"
         },
         {
           "title": "泰国外长：对特朗普关于泰柬冲突的言论感到失望",
@@ -103,14 +104,14 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时14分]"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
@@ -120,19 +121,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时14分]"
         },
         {
           "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
           "url": "https://www.cls.cn/detail/2228565",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时14分]"
         },
         {
           "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
@@ -142,19 +144,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "上海浦东：针对新注册AI一人创业公司，提供最高30万元的免费算力",
-          "url": "https://wallstreetcn.com/livenews/3020250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时14分]"
         },
         {
           "title": "从AI交易、美联储新主席到铜，这是高盛列出的“2026年最重要的五大交易主题”",
@@ -164,19 +155,42 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时14分]"
         },
         {
           "title": "媒体：“声音被偷”？滥用AI要不得",
           "url": "https://m.thepaper.cn/newsDetail_forward_32171273",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时14分]"
+        },
+        {
+          "title": "上海浦东：针对新注册AI一人创业公司，提供最高30万元的免费算力",
+          "url": "https://wallstreetcn.com/livenews/3020250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时14分]"
+        },
+        {
+          "title": "我的AI员工也太能干了",
+          "url": "https://www.douyin.com/hot/2335414",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 01时14分]"
         }
       ]
     },
@@ -192,8 +206,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时14分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -203,8 +217,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时14分]"
         }
       ]
     },
@@ -217,11 +231,12 @@
           "url": "https://www.douyin.com/hot/2335619",
           "source": "抖音",
           "ranks": [
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时14分]"
         }
       ]
     }
