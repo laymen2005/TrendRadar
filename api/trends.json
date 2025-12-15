@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T04:18:57.209368+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2025-12-16T05:16:22.251073+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 32,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时16分]"
         },
         {
           "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时16分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -37,11 +37,12 @@
           "ranks": [
             7,
             8,
-            17
+            17,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时16分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -55,8 +56,19 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时16分]"
+        },
+        {
+          "title": "美国总统特朗普：我今天没看股市，可能涨了。",
+          "url": "https://wallstreetcn.com/livenews/3021167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "美联储理事米兰：可能会继续留在美联储，直至（美国总统特朗普）新的提名人获得国会山确认。",
@@ -120,6 +132,72 @@
           "time_info": "[00时53分 ~ 01时22分]"
         },
         {
+          "title": "美国总统特朗普：丰田刚刚批准了在美国建设制造工厂。",
+          "url": "https://flash.jin10.com/detail/20251216050154625800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "美国总统特朗普：我要起诉BBC，对方将文字塞进我的嘴里。 我们可能会在今天或明天早间递交诉状。",
+          "url": "https://wallstreetcn.com/livenews/3021165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "美国总统特朗普：国际维和部队已经在以某种形式运行了。",
+          "url": "https://flash.jin10.com/detail/20251216045805156800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "美国总统特朗普：更多国家将加入加沙国际维和部队。",
+          "url": "https://flash.jin10.com/detail/20251216045719232800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "特朗普：现在比以往任何时候都更接近达成“和平协议”",
+          "url": "https://flash.jin10.com/detail/20251216045556707800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "美国总统特朗普：一个小时之前与欧洲领导人对话。 与乌克兰总统泽连斯基谈论了很长时间。 今天对话之后，乌克兰战事将比任何时候都更加接近结束。",
+          "url": "https://wallstreetcn.com/livenews/3021155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
           "title": "美联储理事米兰：总统特朗普并未与我商谈美联储席位的安排。",
           "url": "https://flash.jin10.com/detail/20251216004941565800",
           "source": "金十数据",
@@ -142,6 +220,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "美国总统特朗普：直接与俄罗斯总统普京进行了通话。",
+          "url": "https://flash.jin10.com/detail/20251216045447003800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
           "title": "德国总理默茨：存在实现真正和平进程的契机，这是自俄乌冲突爆发以来最大的一次契机。没有美国总统特朗普，我们不可能取得过去数小时的积极态势。",
           "url": "https://flash.jin10.com/detail/20251216004832020800",
           "source": "金十数据",
@@ -151,6 +240,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "美国总统特朗普：将对极端组织 “伊斯兰国” 实施严厉打击。",
+          "url": "https://flash.jin10.com/detail/20251216044703308800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "美国总统特朗普：我与内塔尼亚胡一直保持着良好的关系。",
+          "url": "https://flash.jin10.com/detail/20251216044528423800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "美国官员：类似于北约第五条的保障措施是特朗普认为他能让俄罗斯接受的。",
@@ -164,6 +275,28 @@
           "time_info": "00时53分"
         },
         {
+          "title": "美国总统特朗普：我们正在调查以色列是否通过杀害哈马斯领导人而违反了停火协议。",
+          "url": "https://flash.jin10.com/detail/20251216044444718800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "美国总统特朗普：正考虑通过行政命令重新对大麻进行分类。",
+          "url": "https://flash.jin10.com/detail/20251216044421725800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
           "title": "德国政府分享的声明显示：欧洲领导人对美国总统特朗普在乌克兰和平努力方面取得的“重大进展”表示欢迎。",
           "url": "https://flash.jin10.com/detail/20251216024550326800",
           "source": "金十数据",
@@ -173,6 +306,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "美国总统特朗普：可能在今天下午或明天上午提交诉讼申请。",
+          "url": "https://flash.jin10.com/detail/20251216044233822800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "非农前夜，特朗普的BLS发布预警：11月住户调查统计方差更大",
@@ -197,6 +341,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "美国总统特朗普：将很快对英国广播公司（BBC）提起诉讼。",
+          "url": "https://flash.jin10.com/detail/20251216044150857800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
           "title": "化肥概念股美股早盘下跌，特朗普政府上周末撤销对白俄罗斯钾肥的制裁，美国财政部周一对该国钾肥公司发放通用许可证。 Nutrien跌4.1%, Mosaic跌3.1%，Intrepid Potash跌1.0%，FMC跌5.5%, CF Industries Holdings跌2.0%。",
           "url": "https://wallstreetcn.com/livenews/3021076",
           "source": "华尔街见闻-快讯",
@@ -206,12 +361,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "美国总统特朗普：将签署行政命令，将芬太尼列为“大规模杀伤性武器”。",
+          "url": "https://flash.jin10.com/detail/20251216043109134800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         }
       ]
     },
     {
       "keyword_group": "北京",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "演员何晴追悼会举行，其子追思母亲：北京这场雪像是为她而下",
@@ -222,8 +388,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时16分]"
         },
         {
           "title": "北京雪地上有蚊子在爬？专家回应",
@@ -252,6 +418,19 @@
           "time_info": "[01时22分 ~ 03时17分]"
         },
         {
+          "title": "北京：多个明星演唱会将接续举办",
+          "url": "https://www.toutiao.com/trending/7583713052039479342/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时24分 ~ 05时16分]"
+        },
+        {
           "title": "周一（12月15日），韩元兑美元最终涨0.60%，报1468.91韩元。 韩元全天处于上涨状态，北京时间17:00显著走高、17:36刷新日高至1463.04韩元。",
           "url": "https://wallstreetcn.com/livenews/3021127",
           "source": "华尔街见闻-快讯",
@@ -263,18 +442,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时25分 ~ 04时18分]"
-        },
-        {
-          "title": "北京：多个明星演唱会将接续举办",
-          "url": "https://www.toutiao.com/trending/7583713052039479342/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 04时18分]"
         },
         {
           "title": "德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌0.05%，北京时间21:00之前持续低位震荡——投资者关注乌克兰谈判进展，之后逐步收复失地。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌0.15%。",
@@ -294,11 +461,12 @@
           "url": "https://wallstreetcn.com/livenews/3021143",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时16分]"
         },
         {
           "title": "演员何晴追悼会在北京举行",
@@ -308,8 +476,19 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 05时16分]"
+        },
+        {
+          "title": "北京保利拍卖发声明，称郭沫若手卷上拍流程合规，此前郭沫若之女声称作品遗失，法律层面如何界定该作品归属？",
+          "url": "https://www.zhihu.com/question/1982793755644883981",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时17分"
+          "time_info": "05时16分"
         }
       ]
     },
@@ -317,6 +496,19 @@
       "keyword_group": "AI",
       "match_count": 8,
       "titles": [
+        {
+          "title": "高盛预想四种情景警告：AI数据中心热潮很可能悲剧收场！",
+          "url": "https://www.cls.cn/detail/2230016",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时16分]"
+        },
         {
           "title": "【焦点复盘】金融权重护盘提振有限，AI硬件股现深幅调整，商业航天概念持续站上风口",
           "url": "https://www.cls.cn/detail/2229902",
@@ -329,28 +521,17 @@
           "time_info": "[00时53分 ~ 01时22分]"
         },
         {
-          "title": "高盛预想四种情景警告：AI数据中心热潮很可能悲剧收场！",
-          "url": "https://www.cls.cn/detail/2230016",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 04时18分]"
-        },
-        {
           "title": "美国亚特兰大联储宣布，开始寻找新的联储主席。 遴选委员会将由董事会主席Gregory Haile牵头。 此前报道称，该地区联储的现任主席Raphael Bostic将于2026年2月底离职。",
           "url": "https://wallstreetcn.com/livenews/3021142",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时18分]"
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 05时16分]"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：AI估值偏高，但有一个真实的推动因素。",
