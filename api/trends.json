@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T03:17:30.075155+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2025-12-16T04:18:57.209368+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时18分]"
         },
         {
           "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
           "url": "https://wallstreetcn.com/articles/3761378",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时18分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -39,8 +40,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时18分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -50,11 +51,12 @@
             20,
             24,
             26,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时18分]"
         },
         {
           "title": "美联储理事米兰：可能会继续留在美联储，直至（美国总统特朗普）新的提名人获得国会山确认。",
@@ -68,6 +70,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时22分 ~ 03时17分]"
+        },
+        {
+          "title": "声明显示：俄罗斯现在必须展现出致力于实现持久和平的意愿，同意特朗普的和平计划，并通过同意停火来表明其结束战斗的承诺。",
+          "url": "https://flash.jin10.com/detail/20251216025403582800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 04时18分]"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：企业在一定程度上消耗掉（总统特朗普挑起）关税之前的库存。",
@@ -104,17 +118,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时22分]"
-        },
-        {
-          "title": "声明显示：俄罗斯现在必须展现出致力于实现持久和平的意愿，同意特朗普的和平计划，并通过同意停火来表明其结束战斗的承诺。",
-          "url": "https://flash.jin10.com/detail/20251216025403582800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时17分"
         },
         {
           "title": "美联储理事米兰：总统特朗普并未与我商谈美联储席位的安排。",
@@ -167,7 +170,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
         },
@@ -207,6 +210,110 @@
       ]
     },
     {
+      "keyword_group": "北京",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "演员何晴追悼会举行，其子追思母亲：北京这场雪像是为她而下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32178536",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时18分]"
+        },
+        {
+          "title": "北京雪地上有蚊子在爬？专家回应",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%9B%AA%E5%9C%B0%E4%B8%8A%E6%9C%89%E8%9A%8A%E5%AD%90%E5%9C%A8%E7%88%AC%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时18分]"
+        },
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数跌4.65%，暂报3705.05点，北京时间22:00过后摆脱日内稍早的横盘状态，并快速下跌，一度跌穿3691点。 MarketVector数字资产100指数跌3.07%，报17870.34点，一度跌至17800点。",
+          "url": "https://wallstreetcn.com/livenews/3021114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 03时17分]"
+        },
+        {
+          "title": "周一（12月15日），韩元兑美元最终涨0.60%，报1468.91韩元。 韩元全天处于上涨状态，北京时间17:00显著走高、17:36刷新日高至1463.04韩元。",
+          "url": "https://wallstreetcn.com/livenews/3021127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 04时18分]"
+        },
+        {
+          "title": "北京：多个明星演唱会将接续举办",
+          "url": "https://www.toutiao.com/trending/7583713052039479342/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时24分 ~ 04时18分]"
+        },
+        {
+          "title": "德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌0.05%，北京时间21:00之前持续低位震荡——投资者关注乌克兰谈判进展，之后逐步收复失地。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3021121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 04时18分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0482元，较上周五夜盘收盘涨64点。成交量303.39亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3021143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "演员何晴追悼会在北京举行",
+          "url": "https://www.douyin.com/hot/2336913",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
       "match_count": 8,
       "titles": [
@@ -222,17 +329,6 @@
           "time_info": "[00时53分 ~ 01时22分]"
         },
         {
-          "title": "美国亚特兰大联储宣布，开始寻找新的联储主席。 遴选委员会将由董事会主席Gregory Haile牵头。 此前报道称，该地区联储的现任主席Raphael Bostic将于2026年2月底离职。",
-          "url": "https://wallstreetcn.com/livenews/3021142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
           "title": "高盛预想四种情景警告：AI数据中心热潮很可能悲剧收场！",
           "url": "https://www.cls.cn/detail/2230016",
           "source": "财联社热门",
@@ -241,8 +337,33 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时18分]"
+        },
+        {
+          "title": "美国亚特兰大联储宣布，开始寻找新的联储主席。 遴选委员会将由董事会主席Gregory Haile牵头。 此前报道称，该地区联储的现任主席Raphael Bostic将于2026年2月底离职。",
+          "url": "https://wallstreetcn.com/livenews/3021142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 04时18分]"
+        },
+        {
+          "title": "美国纽约联储主席威廉姆斯：AI估值偏高，但有一个真实的推动因素。",
+          "url": "https://wallstreetcn.com/livenews/3021124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 04时18分]"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：就业市场近期出现周期动态，而非受到人工智能（AI）的冲击。 的确认为美国处于所谓的K型经济。",
@@ -255,18 +376,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时22分]"
-        },
-        {
-          "title": "美国纽约联储主席威廉姆斯：AI估值偏高，但有一个真实的推动因素。",
-          "url": "https://wallstreetcn.com/livenews/3021124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 03时17分]"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：并没有看到AI领域之外的投资繁荣。 预计未来5-10年的生产力将高于均值水平。",
@@ -305,94 +414,6 @@
       ]
     },
     {
-      "keyword_group": "北京",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "演员何晴追悼会举行，其子追思母亲：北京这场雪像是为她而下",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32178536",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 03时17分]"
-        },
-        {
-          "title": "北京雪地上有蚊子在爬？专家回应",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%9B%AA%E5%9C%B0%E4%B8%8A%E6%9C%89%E8%9A%8A%E5%AD%90%E5%9C%A8%E7%88%AC%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 03时17分]"
-        },
-        {
-          "title": "最近24小时，MarketVector数字资产100小盘指数跌4.65%，暂报3705.05点，北京时间22:00过后摆脱日内稍早的横盘状态，并快速下跌，一度跌穿3691点。 MarketVector数字资产100指数跌3.07%，报17870.34点，一度跌至17800点。",
-          "url": "https://wallstreetcn.com/livenews/3021114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时17分]"
-        },
-        {
-          "title": "周一（12月15日），韩元兑美元最终涨0.60%，报1468.91韩元。 韩元全天处于上涨状态，北京时间17:00显著走高、17:36刷新日高至1463.04韩元。",
-          "url": "https://wallstreetcn.com/livenews/3021127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 03时17分]"
-        },
-        {
-          "title": "北京：多个明星演唱会将接续举办",
-          "url": "https://www.toutiao.com/trending/7583713052039479342/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 02时25分]"
-        },
-        {
-          "title": "德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌0.05%，北京时间21:00之前持续低位震荡——投资者关注乌克兰谈判进展，之后逐步收复失地。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌0.15%。",
-          "url": "https://wallstreetcn.com/livenews/3021121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 03时17分]"
-        },
-        {
-          "title": "演员何晴追悼会在北京举行",
-          "url": "https://www.douyin.com/hot/2336913",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
@@ -424,11 +445,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 03时17分]"
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 04时18分]"
         },
         {
           "title": "OpenAI： Albert Lee将于周二出任企业发展副总裁，并向首席财务官Sarah Friar汇报。",
@@ -437,7 +459,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
         }
@@ -452,11 +474,12 @@
           "url": "https://flash.jin10.com/detail/20251216030414137800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 04时18分]"
         }
       ]
     }
