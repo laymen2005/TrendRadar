@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T07:16:33.520709+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2025-12-16T09:14:29.793925+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 46,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 09时14分]"
         },
         {
           "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
@@ -40,11 +40,12 @@
             17,
             5,
             2,
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 09时14分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -207,6 +208,17 @@
           "time_info": "[00时53分 ~ 01时22分]"
         },
         {
+          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
+          "url": "https://wallstreetcn.com/articles/3761439",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "美国总统特朗普：更多国家将加入加沙国际维和部队。",
           "url": "https://flash.jin10.com/detail/20251216045719232800",
           "source": "金十数据",
@@ -216,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "特朗普起诉BBC 索赔50亿美元",
+          "url": "https://flash.jin10.com/detail/20251216083812913800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "特朗普：现在比以往任何时候都更接近达成“和平协议”",
@@ -279,9 +302,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "特朗普正式起诉BBC 索赔50亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E7%B4%A2%E8%B5%9450%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "德国总理默茨：存在实现真正和平进程的契机，这是自俄乌冲突爆发以来最大的一次契机。没有美国总统特朗普，我们不可能取得过去数小时的积极态势。",
@@ -328,13 +362,24 @@
           "time_info": "00时53分"
         },
         {
+          "title": "文件显示：美国总统特朗普向英国广播公司（BBC）索赔50亿美元。",
+          "url": "https://flash.jin10.com/detail/20251216081629510800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "特朗普：正调查以军杀死哈马斯领导人是否违反停火协议",
           "url": "https://wallstreetcn.com/livenews/3021194",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -348,6 +393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "文件显示：美国总统特朗普就“1月6日事件”演讲的剪辑片段起诉英国广播公司诽谤。",
+          "url": "https://flash.jin10.com/detail/20251216081535762800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "美国总统特朗普：正考虑通过行政命令重新对大麻进行分类。",
@@ -427,13 +483,24 @@
           "time_info": "00时53分"
         },
         {
+          "title": "法庭文件显示，特朗普就2024年拼接纪录片一事起诉BBC诽谤，要求BBC赔偿50亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3021248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "特朗普：现在比以往任何时候都更接近达成“和平协议”",
           "url": "https://wallstreetcn.com/livenews/3021198",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -444,7 +511,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -458,6 +525,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "特朗普起诉BBC诽谤，寻求向BBC索赔至少50亿美元。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3021240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         }
       ]
     },
@@ -475,8 +553,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 09时14分]"
         },
         {
           "title": "北京雪地上有蚊子在爬？专家回应",
@@ -532,6 +610,19 @@
           "time_info": "[01时22分 ~ 03时17分]"
         },
         {
+          "title": "北京保利拍卖发声明，称郭沫若手卷上拍流程合规，此前郭沫若之女声称作品遗失，法律层面如何界定该作品归属？",
+          "url": "https://www.zhihu.com/question/1982793755644883981",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时16分 ~ 09时14分]"
+        },
+        {
           "title": "周一（12月15日）纽约尾盘，现货白银涨 3.28%，报63.9914美元/盎司，全天持续走高。 COMEX白银期货涨3.25%，报64.020美元/盎司。 COMEX铜期货涨1.10%，报5.4075美元/磅，北京时间20:56曾刷新日高至5.52美元。 现货铂金涨2.48%，报1790.52美元/盎司；现货钯金涨5.51%，报1575.04美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3021186",
           "source": "华尔街见闻-快讯",
@@ -542,19 +633,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时16分]"
-        },
-        {
-          "title": "北京保利拍卖发声明，称郭沫若手卷上拍流程合规，此前郭沫若之女声称作品遗失，法律层面如何界定该作品归属？",
-          "url": "https://www.zhihu.com/question/1982793755644883981",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时16分 ~ 07时16分]"
         },
         {
           "title": "周一（12月15日），韩元兑美元最终涨0.60%，报1468.91韩元。 韩元全天处于上涨状态，北京时间17:00显著走高、17:36刷新日高至1463.04韩元。",
@@ -624,7 +702,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -643,7 +721,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "高盛预想四种情景警告：AI数据中心热潮很可能悲剧收场！",
@@ -674,11 +752,12 @@
           "url": "https://www.cls.cn/detail/2230375",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 09时14分]"
         },
         {
           "title": "美国亚特兰大联储宣布，开始寻找新的联储主席。 遴选委员会将由董事会主席Gregory Haile牵头。 此前报道称，该地区联储的现任主席Raphael Bostic将于2026年2月底离职。",
@@ -731,6 +810,17 @@
           "time_info": "[00时53分 ~ 01时22分]"
         },
         {
+          "title": "你信任的装修博主可能是AI夫妻",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BF%A1%E4%BB%BB%E7%9A%84%E8%A3%85%E4%BF%AE%E5%8D%9A%E4%B8%BB%E5%8F%AF%E8%83%BD%E6%98%AFAI%E5%A4%AB%E5%A6%BB%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "摩根大通：甲骨文激进AI投入引发债市担忧",
           "url": "https://flash.jin10.com/detail/20251216004022333800",
           "source": "金十数据",
@@ -756,7 +846,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -794,6 +884,17 @@
           "time_info": "[02时25分 ~ 04时18分]"
         },
         {
+          "title": "OpenAI首席通信官Hannah Wong即将在1月底离职。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3021245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "OpenAI： Albert Lee将于周二出任企业发展副总裁，并向首席财务官Sarah Friar汇报。",
           "url": "https://flash.jin10.com/detail/20251216023339316800",
           "source": "金十数据",
@@ -803,6 +904,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "河北",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "河北承德县公安局回应“警车上下来3人未穿警服牵着宠物狗”：系围场县公安局车辆",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180600",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         }
       ]
     },
