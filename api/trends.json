@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T16:23:22.325074+08:00",
-  "total_titles_processed": 1576,
+  "generated_at": "2025-12-19T17:20:02.056020+08:00",
+  "total_titles_processed": 1685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 78,
       "titles": [
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时13分 ~ 16时23分]"
+          "appearance_count": 10,
+          "time_info": "[09时13分 ~ 17时20分]"
         },
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -46,6 +46,20 @@
           "time_info": "[09时13分 ~ 16时23分]"
         },
         {
+          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
+          "url": "https://wallstreetcn.com/articles/3761652",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时13分 ~ 17时20分]"
+        },
+        {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
           "url": "https://m.thepaper.cn/newsDetail_forward_32204359",
           "source": "澎湃新闻",
@@ -59,8 +73,46 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时20分 ~ 16时23分]"
+          "appearance_count": 17,
+          "time_info": "[01时20分 ~ 17时20分]"
+        },
+        {
+          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
+          "url": "https://www.cls.cn/detail/2234375",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 17时20分]"
+        },
+        {
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时20分 ~ 17时20分]"
+        },
+        {
+          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
+          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 17时20分]"
         },
         {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
@@ -85,54 +137,18 @@
           "time_info": "[11时20分 ~ 14时24分]"
         },
         {
-          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
-          "url": "https://wallstreetcn.com/articles/3761652",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时13分 ~ 16时23分]"
-        },
-        {
-          "title": "特朗普，敢不敢动武？",
-          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时20分 ~ 16时23分]"
-        },
-        {
-          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
-          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 16时23分]"
-        },
-        {
-          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
-          "url": "https://www.cls.cn/detail/2234375",
+          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
+          "url": "https://www.cls.cn/detail/2234355",
           "source": "财联社热门",
           "ranks": [
-            10,
-            7,
-            5,
+            13,
+            11,
+            9,
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 16时23分]"
+          "appearance_count": 6,
+          "time_info": "[14时24分 ~ 17时20分]"
         },
         {
           "title": "特朗普：美国将在月球部署核反应堆",
@@ -144,17 +160,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
-        },
-        {
-          "title": "卢拉打算给特朗普打电话 为美国和委内瑞拉说和",
-          "url": "https://wallstreetcn.com/livenews/3023763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
         },
         {
           "title": "特朗普下令要求美国人2028年登月",
@@ -224,6 +229,18 @@
           "time_info": "[03时15分 ~ 04时17分]"
         },
         {
+          "title": "卢拉打算给特朗普打电话 为美国和委内瑞拉说和",
+          "url": "https://wallstreetcn.com/livenews/3023763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 17时20分]"
+        },
+        {
           "title": "特朗普下令联邦政府圣诞休假 纽交所维持交易安排",
           "url": "https://flash.jin10.com/detail/20251219055432229800",
           "source": "金十数据",
@@ -258,19 +275,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时15分]"
-        },
-        {
-          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
-          "url": "https://www.cls.cn/detail/2234355",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 16时23分]"
         },
         {
           "title": "美国商务部长卢特尼克：总统特朗普对美联储主席候选人有不错的人选。",
@@ -489,7 +493,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -714,6 +718,17 @@
           "time_info": "04时17分"
         },
         {
+          "title": "据日本产经新闻：日本政府正计划在新年或三月安排日本首相高市早苗访美并与美国总统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20251219164128031800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "巴西总统卢拉：已告诉美国总统特朗普，南美洲是和平的地区。",
           "url": "https://flash.jin10.com/detail/20251218234017856800",
           "source": "金十数据",
@@ -893,7 +908,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
@@ -951,6 +966,30 @@
           "time_info": "[00时22分 ~ 07时16分]"
         },
         {
+          "title": "千问App辟谣：全员大会吃豆包图是AI生成的",
+          "url": "https://wallstreetcn.com/livenews/3023808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "白宫：微软、谷歌等24家公司签署协议 加入美国AI“创世纪计划”",
+          "url": "https://www.cls.cn/detail/2234237",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 17时20分]"
+        },
+        {
           "title": "中欧AI与管理创新研究中心主任方跃：AI时代将解决信息化和数字化时代所未解决的问题",
           "url": "https://wallstreetcn.com/livenews/3023597",
           "source": "华尔街见闻-快讯",
@@ -975,18 +1014,6 @@
           "time_info": "[13时18分 ~ 14时24分]"
         },
         {
-          "title": "白宫：微软、谷歌等24家公司签署协议 加入美国AI“创世纪计划”",
-          "url": "https://www.cls.cn/detail/2234237",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 16时23分]"
-        },
-        {
           "title": "蚂蚁阿福下载量猛增引爆市场 AI医疗领域有望迎需求爆发",
           "url": "https://www.cls.cn/detail/2234132",
           "source": "财联社热门",
@@ -1009,6 +1036,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时15分]"
+        },
+        {
+          "title": "字节跳动正推进与多家厂商的AI手机合作",
+          "url": "https://www.cls.cn/detail/2234337",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时20分]"
+        },
+        {
+          "title": "谢兴阳用AI复原了刘维妈妈",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%A2%E5%85%B4%E9%98%B3%E7%94%A8AI%E5%A4%8D%E5%8E%9F%E4%BA%86%E5%88%98%E7%BB%B4%E5%A6%88%E5%A6%88&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时20分]"
         },
         {
           "title": "美国白宫关于私人行业AI合作伙伴关系的声明：亚马逊、谷歌等24家公司加入美国AI“Genesis Mission”。 英伟达、CoreWeave、AMD、Accenture也加入这个AI项目。",
@@ -1313,6 +1363,20 @@
           "time_info": "[00时22分 ~ 07时16分]"
         },
         {
+          "title": "600元天津飞北京 中转30小时游成都",
+          "url": "https://www.baidu.com/s?wd=600%E5%85%83%E5%A4%A9%E6%B4%A5%E9%A3%9E%E5%8C%97%E4%BA%AC+%E4%B8%AD%E8%BD%AC30%E5%B0%8F%E6%97%B6%E6%B8%B8%E6%88%90%E9%83%BD",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            18,
+            19,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时24分 ~ 17时20分]"
+        },
+        {
           "title": "提醒：北京时间14:30，日本央行行长植田和男将召开记者会。",
           "url": "https://wallstreetcn.com/livenews/3023635",
           "source": "华尔街见闻-快讯",
@@ -1370,19 +1434,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时16分]"
-        },
-        {
-          "title": "600元天津飞北京 中转30小时游成都",
-          "url": "https://www.baidu.com/s?wd=600%E5%85%83%E5%A4%A9%E6%B4%A5%E9%A3%9E%E5%8C%97%E4%BA%AC+%E4%B8%AD%E8%BD%AC30%E5%B0%8F%E6%97%B6%E6%B8%B8%E6%88%90%E9%83%BD",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 16时23分]"
         },
         {
           "title": "特朗普将于美国东部时间周五晚上9点（北京时间周六上午10点）就经济问题发表讲话。",
@@ -1459,7 +1510,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         }
@@ -1507,8 +1558,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "以色列指控一名俄罗斯公民为伊朗从事间谍活动",
+          "url": "https://flash.jin10.com/detail/20251219170952082800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
         {
           "title": "美国签发与伊朗相关的通用许可证。",
           "url": "https://wallstreetcn.com/livenews/3023236",
