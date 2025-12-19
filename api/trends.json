@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-19T19:15:20.384304+08:00",
-  "total_titles_processed": 1885,
+  "generated_at": "2025-12-19T20:32:08.282123+08:00",
+  "total_titles_processed": 2003,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 91,
       "titles": [
+        {
+          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
+          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时18分 ~ 20时32分]"
+        },
         {
           "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
           "url": "https://www.cls.cn/detail/2234375",
@@ -35,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时13分 ~ 19时15分]"
+          "appearance_count": 15,
+          "time_info": "[09时13分 ~ 20时32分]"
         },
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -49,19 +62,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时22分 ~ 11时20分]"
-        },
-        {
-          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
-          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时18分 ~ 19时15分]"
         },
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
@@ -85,8 +85,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时20分 ~ 19时15分]"
+          "appearance_count": 14,
+          "time_info": "[11时20分 ~ 20时32分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -99,8 +99,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时13分 ~ 19时15分]"
+          "appearance_count": 15,
+          "time_info": "[09时13分 ~ 20时32分]"
         },
         {
           "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
@@ -156,6 +156,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时20分 ~ 14时24分]"
+        },
+        {
+          "title": "特朗普和美联储理事沃勒讨论了劳动力市场。贝莱德高管Rieder将在海湖庄园接受美联储主席职位面试。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3023959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "特朗普：美国将在月球部署核反应堆",
@@ -219,7 +230,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -230,7 +241,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -252,9 +263,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时18分 ~ 20时32分]"
         },
         {
           "title": "美国总统特朗普签署行政令，放宽联邦政府对大麻的管制措施。",
@@ -317,16 +341,16 @@
           "time_info": "[05时15分 ~ 06时15分]"
         },
         {
-          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
-          "url": "https://www.zhihu.com/question/1985224796552844512",
-          "source": "知乎",
+          "title": "特朗普：不排除与委内瑞拉开战",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
+          "source": "百度热搜",
           "ranks": [
-            16,
-            15
+            10,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 19时15分]"
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 20时32分]"
         },
         {
           "title": "美国商务部长卢特尼克：总统特朗普对美联储主席候选人有不错的人选。",
@@ -363,17 +387,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时15分 ~ 04时17分]"
-        },
-        {
-          "title": "特朗普：不排除与委内瑞拉开战",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时15分]"
         },
         {
           "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
@@ -484,6 +497,28 @@
           "time_info": "[06时15分 ~ 07时16分]"
         },
         {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
+          "title": "沃勒获特朗普面试 重点讨论就业市场 鲍曼疑似出局",
+          "url": "https://flash.jin10.com/detail/20251219201628845800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "美国国土安全部部长诺姆：应特朗普总统指示，已立即指示美国公民及移民服务局（USCIS）暂停DV-1计划（多元化移民签证）。",
           "url": "https://flash.jin10.com/detail/20251219123531783800",
           "source": "金十数据",
@@ -515,6 +550,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "据CNBC：特朗普和美联储理事沃勒讨论了劳动力市场。",
+          "url": "https://flash.jin10.com/detail/20251219200708179800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "美国总统特朗普：尚未与以色列总理安排会面，但他很想见我。",
@@ -570,6 +616,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "据CNBC：美国总统特朗普似乎正将关注点转向就业市场。",
+          "url": "https://flash.jin10.com/detail/20251219200442362800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "特朗普威胁夺取委内瑞拉石油资源",
@@ -636,6 +693,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "据CNBC：美联储理事沃勒与美国总统特朗普进行了“一次强有力的美联储主席面试”。",
+          "url": "https://flash.jin10.com/detail/20251219200400455800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "据AXIOS：美国总统特朗普考虑宣布平安夜和12月26日为假日。",
@@ -847,6 +915,17 @@
           "time_info": "04时17分"
         },
         {
+          "title": "俄罗斯总统普京：（谈BBC诉讼案）美国总统特朗普是对的。",
+          "url": "https://flash.jin10.com/detail/20251219194958548800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "美国总统特朗普：（关于美联储面试）昨天见了美联储理事沃勒，他很棒。正在与三四个人交谈。",
           "url": "https://flash.jin10.com/detail/20251219031012439800",
           "source": "金十数据",
@@ -864,7 +943,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -1307,6 +1386,203 @@
       ]
     },
     {
+      "keyword_group": "北京",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "600元天津飞北京 中转30小时游成都",
+          "url": "https://www.baidu.com/s?wd=600%E5%85%83%E5%A4%A9%E6%B4%A5%E9%A3%9E%E5%8C%97%E4%BA%AC+%E4%B8%AD%E8%BD%AC30%E5%B0%8F%E6%97%B6%E6%B8%B8%E6%88%90%E9%83%BD",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            18,
+            19,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时24分 ~ 18时18分]"
+        },
+        {
+          "title": "北京摆摊一天能挣多钱",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%AC%E6%91%86%E6%91%8A%E4%B8%80%E5%A4%A9%E8%83%BD%E6%8C%A3%E5%A4%9A%E9%92%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            14,
+            29,
+            17,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 07时16分]"
+        },
+        {
+          "title": "成都AG vs 北京WB 挑战者杯",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E8%80%85%E6%9D%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 20时32分]"
+        },
+        {
+          "title": "提醒：北京时间14:30，日本央行行长植田和男将召开记者会。",
+          "url": "https://wallstreetcn.com/livenews/3023635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
+          "title": "周四（12月18日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌0.45%，报85575美元，北京时间21:30发布美国CPI数据之前持续、稳扎稳打地走高，之后涨幅扩大，22：01刷新日高至89660美元，经过一段时间的高位震荡后，01:00出现一波显著的回落行情，04:00刷新日低并跌向84500美元。 CME以太币期货DCR主力合约跌0.35%，报2822美元，日内交投于3002.50-2780美元区间。 美股加密货币与加密货币关联指数涨0.84%，报58.73点，美股开盘后曾刷新日高至62.26点，之后逐步回落。 最近24小时，MarketVector数字资产100小盘指数跌3.53%，暂报3400.92点。",
+          "url": "https://wallstreetcn.com/livenews/3023366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时16分]"
+        },
+        {
+          "title": "周四（12月18日）纽约尾盘，现货白银跌1.27%，报65.4243美元/盎司，美股盘初显著走低、刷新日低至64.6380美元，北京时间01:00过后再次显著下跌，脱离17日所创历史最高位66.8932美元。 COMEX白银期货跌2.28%，报65.375美元/盎司，也脱离17日所创（盘中）历史最高位67.180美元。 COMEX铜期货大致持平，报5.4250美元/磅。 现货铂金涨1.47%，现货钯金涨2.36%。",
+          "url": "https://wallstreetcn.com/livenews/3023365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时16分]"
+        },
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数跌1.54%，暂报3566.29点，整体呈现出U形走势。 Solana目前涨3.12%，狗狗币涨1.39%，XRP涨1.74%。 最近24小时，MarketVector数字资产100涨1.34%，暂报18045.14点，北京时间21:00开始一波显著的上涨行情。 比特币目前涨2.41%，暂报88041.96美元，以太坊涨4.33%，报2944美元。",
+          "url": "https://wallstreetcn.com/livenews/3023271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时24分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.01%，报338.36点，北京时间01:00过后出现一波显著的下挫行情。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.08%，报2411.01点。",
+          "url": "https://wallstreetcn.com/livenews/3023363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时16分]"
+        },
+        {
+          "title": "特朗普将于美国东部时间周五晚上9点（北京时间周六上午10点）就经济问题发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3023559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时18分]"
+        },
+        {
+          "title": "提醒：日内请重点关注（以下均为北京时间）",
+          "url": "https://wallstreetcn.com/livenews/3023375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 13时18分]"
+        },
+        {
+          "title": "如何看待哈工大北京研究院的成立？",
+          "url": "https://www.zhihu.com/question/1984253888463909129",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "周四（12月18日）纽约尾盘（周五北京时间05:59），离岸人民币（CNH）兑美元报7.0327元，较周三纽约尾盘涨75点，日内整体交投于7.0408-7.0309元区间。",
+          "url": "https://wallstreetcn.com/livenews/3023368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "北京印度餐厅老板 遣返",
+          "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%8D%B0%E5%BA%A6%E9%A4%90%E5%8E%85%E8%80%81%E6%9D%BF%20%E9%81%A3%E8%BF%94&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0412元，较周三夜盘收盘涨38点。成交量299.53亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3023307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "北京出台办法将对住宅项目物业服务企业评级",
+          "url": "https://wallstreetcn.com/livenews/3023929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "记者：北京首钢决定裁掉外援奥莫特",
+          "url": "https://www.toutiao.com/trending/7584754951581007891/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 16,
       "titles": [
@@ -1497,187 +1773,52 @@
       ]
     },
     {
-      "keyword_group": "北京",
-      "match_count": 15,
+      "keyword_group": "伊朗",
+      "match_count": 4,
       "titles": [
         {
-          "title": "600元天津飞北京 中转30小时游成都",
-          "url": "https://www.baidu.com/s?wd=600%E5%85%83%E5%A4%A9%E6%B4%A5%E9%A3%9E%E5%8C%97%E4%BA%AC+%E4%B8%AD%E8%BD%AC30%E5%B0%8F%E6%97%B6%E6%B8%B8%E6%88%90%E9%83%BD",
-          "source": "百度热搜",
+          "title": "以色列指控一名俄罗斯公民为伊朗从事间谍活动",
+          "url": "https://flash.jin10.com/detail/20251219170952082800",
+          "source": "金十数据",
           "ranks": [
-            30,
-            18,
-            19,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时24分 ~ 18时18分]"
-        },
-        {
-          "title": "北京摆摊一天能挣多钱",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%AC%E6%91%86%E6%91%8A%E4%B8%80%E5%A4%A9%E8%83%BD%E6%8C%A3%E5%A4%9A%E9%92%B1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            14,
-            29,
-            17,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 07时16分]"
-        },
-        {
-          "title": "成都AG vs 北京WB 挑战者杯",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E8%80%85%E6%9D%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时15分]"
-        },
-        {
-          "title": "提醒：北京时间14:30，日本央行行长植田和男将召开记者会。",
-          "url": "https://wallstreetcn.com/livenews/3023635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时24分"
+          "time_info": "17时20分"
         },
         {
-          "title": "周四（12月18日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌0.45%，报85575美元，北京时间21:30发布美国CPI数据之前持续、稳扎稳打地走高，之后涨幅扩大，22：01刷新日高至89660美元，经过一段时间的高位震荡后，01:00出现一波显著的回落行情，04:00刷新日低并跌向84500美元。 CME以太币期货DCR主力合约跌0.35%，报2822美元，日内交投于3002.50-2780美元区间。 美股加密货币与加密货币关联指数涨0.84%，报58.73点，美股开盘后曾刷新日高至62.26点，之后逐步回落。 最近24小时，MarketVector数字资产100小盘指数跌3.53%，暂报3400.92点。",
-          "url": "https://wallstreetcn.com/livenews/3023366",
+          "title": "美国签发与伊朗相关的通用许可证。",
+          "url": "https://wallstreetcn.com/livenews/3023236",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时16分]"
-        },
-        {
-          "title": "周四（12月18日）纽约尾盘，现货白银跌1.27%，报65.4243美元/盎司，美股盘初显著走低、刷新日低至64.6380美元，北京时间01:00过后再次显著下跌，脱离17日所创历史最高位66.8932美元。 COMEX白银期货跌2.28%，报65.375美元/盎司，也脱离17日所创（盘中）历史最高位67.180美元。 COMEX铜期货大致持平，报5.4250美元/磅。 现货铂金涨1.47%，现货钯金涨2.36%。",
-          "url": "https://wallstreetcn.com/livenews/3023365",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时16分]"
-        },
-        {
-          "title": "最近24小时，MarketVector数字资产100小盘指数跌1.54%，暂报3566.29点，整体呈现出U形走势。 Solana目前涨3.12%，狗狗币涨1.39%，XRP涨1.74%。 最近24小时，MarketVector数字资产100涨1.34%，暂报18045.14点，北京时间21:00开始一波显著的上涨行情。 比特币目前涨2.41%，暂报88041.96美元，以太坊涨4.33%，报2944美元。",
-          "url": "https://wallstreetcn.com/livenews/3023271",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 02时24分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.01%，报338.36点，北京时间01:00过后出现一波显著的下挫行情。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.08%，报2411.01点。",
-          "url": "https://wallstreetcn.com/livenews/3023363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时16分]"
-        },
-        {
-          "title": "特朗普将于美国东部时间周五晚上9点（北京时间周六上午10点）就经济问题发表讲话。",
-          "url": "https://wallstreetcn.com/livenews/3023559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时18分]"
-        },
-        {
-          "title": "提醒：日内请重点关注（以下均为北京时间）",
-          "url": "https://wallstreetcn.com/livenews/3023375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 13时18分]"
-        },
-        {
-          "title": "如何看待哈工大北京研究院的成立？",
-          "url": "https://www.zhihu.com/question/1984253888463909129",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "周四（12月18日）纽约尾盘（周五北京时间05:59），离岸人民币（CNH）兑美元报7.0327元，较周三纽约尾盘涨75点，日内整体交投于7.0408-7.0309元区间。",
-          "url": "https://wallstreetcn.com/livenews/3023368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "北京印度餐厅老板 遣返",
-          "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%8D%B0%E5%BA%A6%E9%A4%90%E5%8E%85%E8%80%81%E6%9D%BF%20%E9%81%A3%E8%BF%94&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0412元，较周三夜盘收盘涨38点。成交量299.53亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3023307",
-          "source": "华尔街见闻-快讯",
+          "title": "受美国制裁和通货膨胀影响，伊朗里亚尔跌至历史新低",
+          "url": "https://flash.jin10.com/detail/20251218233831538800",
+          "source": "金十数据",
           "ranks": [
-            16
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时17分"
+          "time_info": "00时22分"
         },
         {
-          "title": "记者：北京首钢决定裁掉外援奥莫特",
-          "url": "https://www.toutiao.com/trending/7584754951581007891/",
-          "source": "今日头条",
+          "title": "中联部部长刘海星会见伊朗驻华大使法兹里",
+          "url": "https://wallstreetcn.com/livenews/3023912",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时23分"
+          "time_info": "20时32分"
         }
       ]
     },
@@ -1718,45 +1859,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "以色列指控一名俄罗斯公民为伊朗从事间谍活动",
-          "url": "https://flash.jin10.com/detail/20251219170952082800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "美国签发与伊朗相关的通用许可证。",
-          "url": "https://wallstreetcn.com/livenews/3023236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "受美国制裁和通货膨胀影响，伊朗里亚尔跌至历史新低",
-          "url": "https://flash.jin10.com/detail/20251218233831538800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
         }
       ]
     }
