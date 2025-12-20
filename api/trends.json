@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T20:29:13.768186+08:00",
-  "total_titles_processed": 1425,
+  "generated_at": "2025-12-20T21:24:37.480978+08:00",
+  "total_titles_processed": 1490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
@@ -130,18 +130,6 @@
           "time_info": "[04时18分 ~ 09时09分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
-          "url": "https://flash.jin10.com/detail/20251220184219205800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时29分]"
-        },
-        {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
           "url": "https://wallstreetcn.com/articles/3761652",
           "source": "华尔街见闻",
@@ -162,6 +150,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "Coinbase：特朗普的“大漂亮法案”或将赌客推向预测市场",
+          "url": "https://wallstreetcn.com/livenews/3024294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
+          "url": "https://flash.jin10.com/detail/20251220184219205800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时24分]"
         },
         {
           "title": "特朗普拟并购的核聚变初创公司TAE面临欠款指控",
@@ -415,6 +427,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "特朗普为何推出史上最高金额对台军售",
+          "url": "https://www.toutiao.com/trending/7585013065943859238/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "据美联社：美国总统特朗普讲话已被推迟。",
           "url": "https://flash.jin10.com/detail/20251220023126806800",
           "source": "金十数据",
@@ -510,8 +533,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时23分 ~ 20时29分]"
+          "appearance_count": 10,
+          "time_info": "[14时23分 ~ 21时24分]"
         },
         {
           "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
@@ -526,6 +549,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时20分 ~ 12时22分]"
+        },
+        {
+          "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
+          "url": "https://wallstreetcn.com/articles/3761759",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时20分 ~ 21时24分]"
         },
         {
           "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，售价9999元",
@@ -564,19 +600,6 @@
           "time_info": "[13时16分 ~ 20时29分]"
         },
         {
-          "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
-          "url": "https://wallstreetcn.com/articles/3761759",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时20分 ~ 20时29分]"
-        },
-        {
           "title": "美国数据中心密集区电价五年暴涨 267%，居民为何要「平摊」AI 耗电账单？",
           "url": "https://www.zhihu.com/question/1984644910364774911",
           "source": "知乎",
@@ -588,6 +611,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时16分 ~ 12时22分]"
+        },
+        {
+          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
+          "url": "https://wallstreetcn.com/articles/3761689",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时15分 ~ 21时24分]"
         },
         {
           "title": "摩尔线程发布“庐山”GPU芯片，AI性能提升64倍",
@@ -618,16 +654,19 @@
           "time_info": "[09时08分 ~ 13时16分]"
         },
         {
-          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
-          "url": "https://wallstreetcn.com/articles/3761689",
-          "source": "华尔街见闻",
+          "title": "蚂蚁数科AI原生事业部总经理王磊：严谨性与“压制幻觉”是金融AI第一要务",
+          "url": "https://wallstreetcn.com/livenews/3024259",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            1,
+            11,
+            20,
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时15分 ~ 20时29分]"
+          "appearance_count": 5,
+          "time_info": "[17时16分 ~ 21时24分]"
         },
         {
           "title": "付鹏：如果AI被证伪，全球股市都将面临剧烈波动",
@@ -645,6 +684,21 @@
           "time_info": "[16时20分 ~ 20时29分]"
         },
         {
+          "title": "蚂蚁数科AI原生事业部总经理王磊：金融AI落地需构建“可信智能体”三大基石",
+          "url": "https://wallstreetcn.com/livenews/3024257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            22,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时16分 ~ 21时24分]"
+        },
+        {
           "title": "付鹏：2026年将是AI应用的“证伪之年”，巨头们需证明自己",
           "url": "https://wallstreetcn.com/livenews/3024250",
           "source": "华尔街见闻-快讯",
@@ -658,6 +712,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时20分 ~ 20时29分]"
+        },
+        {
+          "title": "蚂蚁数科AI原生事业部总经理王磊：垂直大模型训练成本呈百倍级下降",
+          "url": "https://wallstreetcn.com/livenews/3024256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            23,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时16分 ~ 21时24分]"
         },
         {
           "title": "知名经济学家付鹏：现在AI市场的焦点是“路修好了，有车跑吗”",
@@ -674,34 +743,6 @@
           "time_info": "[15时14分 ~ 18时15分]"
         },
         {
-          "title": "蚂蚁数科AI原生事业部总经理王磊：严谨性与“压制幻觉”是金融AI第一要务",
-          "url": "https://wallstreetcn.com/livenews/3024259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时16分 ~ 20时29分]"
-        },
-        {
-          "title": "蚂蚁数科AI原生事业部总经理王磊：金融AI落地需构建“可信智能体”三大基石",
-          "url": "https://wallstreetcn.com/livenews/3024257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时16分 ~ 20时29分]"
-        },
-        {
           "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，预售价9999元",
           "url": "https://wallstreetcn.com/livenews/3024236",
           "source": "华尔街见闻-快讯",
@@ -715,20 +756,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时16分 ~ 17时16分]"
-        },
-        {
-          "title": "蚂蚁数科AI原生事业部总经理王磊：垂直大模型训练成本呈百倍级下降",
-          "url": "https://wallstreetcn.com/livenews/3024256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时16分 ~ 20时29分]"
         },
         {
           "title": "美国纽约州长签署先进AI限制法案，遭科技行业反对",
@@ -749,11 +776,12 @@
           "ranks": [
             6,
             15,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 20时29分]"
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 21时24分]"
         },
         {
           "title": "蚂蚁数科AI原生事业部总经理王磊：大模型落地本质是业务战略的重塑",
@@ -762,11 +790,12 @@
           "ranks": [
             8,
             17,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 20时29分]"
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 21时24分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -774,11 +803,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时29分]"
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时24分]"
+        },
+        {
+          "title": "博闻丨27岁姚顺雨出任首席AI科学家，高中班主任说“高考数学他睡了一觉错失全省第一”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32219914",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时28分 ~ 21时24分]"
         },
         {
           "title": "安进表示，与美国政府携手采取行动，降低美国患者的药品成本，将Aimovig和Amjevita以每月299美元的折扣价提供。",
@@ -816,17 +857,6 @@
           "time_info": "[01时15分 ~ 02时23分]"
         },
         {
-          "title": "博闻丨27岁姚顺雨出任首席AI科学家，高中班主任说“高考数学他睡了一觉错失全省第一”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32219914",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 20时29分]"
-        },
-        {
           "title": "AI大神：AI大模型正演变成新型智能",
           "url": "https://www.toutiao.com/trending/7585796716025089590/",
           "source": "今日头条",
@@ -855,8 +885,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时21分 ~ 20时29分]"
+          "appearance_count": 13,
+          "time_info": "[12时21分 ~ 21时24分]"
         },
         {
           "title": "北京同仁堂就南极磷虾油事件致歉",
@@ -934,7 +964,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
@@ -978,26 +1008,39 @@
           "time_info": "[09时09分 ~ 12时22分]"
         },
         {
-          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
-          "url": "https://wallstreetcn.com/articles/3761757",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 19时13分]"
-        },
-        {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
           "url": "https://wallstreetcn.com/articles/3761763",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 20时29分]"
+          "appearance_count": 3,
+          "time_info": "[20时28分 ~ 21时24分]"
+        },
+        {
+          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
+          "url": "https://wallstreetcn.com/articles/3761757",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 21时24分]"
+        },
+        {
+          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
+          "url": "https://wallstreetcn.com/articles/3761764",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         }
       ]
     },
@@ -1042,11 +1085,12 @@
             7,
             8,
             11,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 20时29分]"
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 21时24分]"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
