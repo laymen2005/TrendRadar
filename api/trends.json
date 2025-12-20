@@ -1,83 +1,11 @@
 {
-  "generated_at": "2025-12-21T00:18:58.464274+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-12-21T01:13:43.523524+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
-          "url": "https://wallstreetcn.com/articles/3761759",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "中信建投：继续看好AI算力板块",
-          "url": "https://wallstreetcn.com/livenews/3024316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
-          "url": "https://wallstreetcn.com/articles/3761762",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
-          "url": "https://wallstreetcn.com/articles/3761689",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "博闻丨27岁姚顺雨出任首席AI科学家，高中班主任说“高考数学他睡了一觉错失全省第一”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32219914",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
-          "url": "https://wallstreetcn.com/livenews/3024274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -87,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时13分]"
         },
         {
           "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
@@ -98,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时13分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -109,8 +37,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时13分]"
         },
         {
           "title": "Coinbase：特朗普的“大漂亮法案”或将赌客推向预测市场",
@@ -120,8 +48,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时13分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
@@ -131,8 +59,126 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时13分]"
+        },
+        {
+          "title": "特朗普入股核聚变公司",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A5%E8%82%A1%E6%A0%B8%E8%81%9A%E5%8F%98%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "01时13分"
+        },
+        {
+          "title": "特朗普为何推出史上最高金额对台军售",
+          "url": "https://www.toutiao.com/trending/7585013065943859238/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "美反对乌入约 泽连斯基疑诅咒特朗普",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%8F%8D%E5%AF%B9%E4%B9%8C%E5%85%A5%E7%BA%A6+%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%96%91%E8%AF%85%E5%92%92%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
+          "url": "https://wallstreetcn.com/articles/3761759",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时13分]"
+        },
+        {
+          "title": "中信建投：继续看好AI算力板块",
+          "url": "https://wallstreetcn.com/livenews/3024316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时13分]"
+        },
+        {
+          "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
+          "url": "https://wallstreetcn.com/articles/3761762",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时13分]"
+        },
+        {
+          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
+          "url": "https://wallstreetcn.com/articles/3761689",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时13分]"
+        },
+        {
+          "title": "博闻丨27岁姚顺雨出任首席AI科学家，高中班主任说“高考数学他睡了一觉错失全省第一”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32219914",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时13分]"
+        },
+        {
+          "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
+          "url": "https://wallstreetcn.com/livenews/3024274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时13分]"
+        },
+        {
+          "title": "国家一级演奏员赏析AI歌曲",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E6%BC%94%E5%A5%8F%E5%91%98%E8%B5%8F%E6%9E%90AI%E6%AD%8C%E6%9B%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时13分"
         }
       ]
     },
@@ -148,8 +194,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时13分]"
         },
         {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
@@ -159,30 +205,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时13分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
           "url": "https://wallstreetcn.com/articles/3761757",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时13分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
           "url": "https://wallstreetcn.com/articles/3761776",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时13分]"
         }
       ]
     },
@@ -195,22 +243,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32218656",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时13分]"
         },
         {
           "title": "北京多家餐饮加量供应“暖冬菜”",
           "url": "https://www.toutiao.com/trending/7585915722715398180/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时13分]"
         }
       ]
     }
