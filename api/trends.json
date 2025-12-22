@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T13:21:06.200128+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2025-12-22T14:27:46.797466+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 13时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 14时27分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -55,8 +55,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时12分 ~ 13时21分]"
+          "appearance_count": 14,
+          "time_info": "[03时12分 ~ 14时27分]"
         },
         {
           "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
@@ -69,8 +69,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时21分 ~ 13时21分]"
+          "appearance_count": 16,
+          "time_info": "[02时21分 ~ 14时27分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
@@ -126,6 +126,18 @@
           "time_info": "[00时18分 ~ 06时15分]"
         },
         {
+          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
+          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时36分 ~ 14时27分]"
+        },
+        {
           "title": "特朗普任命美国格陵兰岛特使",
           "url": "https://news.ifeng.com/c/8pHvN8TZ9Jr",
           "source": "凤凰网",
@@ -175,15 +187,15 @@
           "time_info": "[00时18分 ~ 05时14分]"
         },
         {
-          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
-          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
+          "title": "特朗普表态：必须是“超级鸽派”！",
+          "url": "https://news.ifeng.com/c/8pI2JngwUGB",
           "source": "凤凰网",
           "ranks": [
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 13时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
@@ -191,11 +203,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时36分 ~ 14时27分]"
         },
         {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
@@ -205,8 +218,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时36分 ~ 14时27分]"
         },
         {
           "title": "曝高市早苗急着求见特朗普",
@@ -218,6 +231,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时28分 ~ 11时29分]"
+        },
+        {
+          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
+          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "特朗普任命美国格陵兰岛特使",
@@ -267,7 +291,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
@@ -341,11 +365,12 @@
             21,
             13,
             29,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时13分 ~ 13时21分]"
+          "appearance_count": 15,
+          "time_info": "[01时13分 ~ 14时27分]"
         },
         {
           "title": "最快IPO AI公司诞生！MiniMax通过港交所聆讯 不足4年用户突破2亿",
@@ -354,11 +379,12 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时16分 ~ 13时21分]"
+          "appearance_count": 8,
+          "time_info": "[09时16分 ~ 14时27分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -369,8 +395,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时28分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时28分 ~ 14时27分]"
         },
         {
           "title": "比尔·阿克曼：我持有SpaceX和xAI，但并不持有特斯拉股份。",
@@ -388,11 +414,12 @@
           "url": "https://wallstreetcn.com/livenews/3024707",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 14时27分]"
         },
         {
           "title": "如何适当提醒过度迷信 AI 的老板？",
@@ -410,11 +437,12 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 14时27分]"
         },
         {
           "title": "让AI成为你的情绪垃圾桶",
@@ -428,13 +456,46 @@
           "time_info": "[12时36分 ~ 12时37分]"
         },
         {
+          "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
+          "url": "https://news.ifeng.com/c/8pI4dhdsa8y",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "麦迪科技：带有丰富表情的AI陪伴机器人即将发布",
+          "url": "https://wallstreetcn.com/livenews/3024716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "印度民航部：已注意到印度航空AI-887航班在起飞后不久因技术问题发生的事件。",
+          "url": "https://flash.jin10.com/detail/20251222131626437800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
           "title": "印度航空：航班AI887，一架从德里飞往孟买的波音777客机，因技术问题于12月22日起飞后返航德里。",
           "url": "https://flash.jin10.com/detail/20251222122308407800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -448,6 +509,95 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "北京",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "北京一饺子馆排队15000多桌",
+          "url": "https://www.toutiao.com/trending/7586244842658218003/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            20,
+            26,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时14分 ~ 13时21分]"
+        },
+        {
+          "title": "“北京范儿”全国范围内持续破圈",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8C%97%E4%BA%AC%E8%8C%83%E5%84%BF%E2%80%9D%E5%85%A8%E5%9B%BD%E8%8C%83%E5%9B%B4%E5%86%85%E6%8C%81%E7%BB%AD%E7%A0%B4%E5%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "北京范儿",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E8%8C%83%E5%84%BF%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "提醒：日内请重点关注（以下均为北京时间）",
+          "url": "https://wallstreetcn.com/livenews/3024474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时15分 ~ 14时27分]"
+        },
+        {
+          "title": "提醒：北京时间09:00将公布中国12月一年期、五年期贷款市场报价利率(LPR)。",
+          "url": "https://wallstreetcn.com/livenews/3024532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "张艺兴官宣北京卫视跨年",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%AE%98%E5%AE%A3%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "消失三十年华北豹现身北京“门口”",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E4%B8%89%E5%8D%81%E5%B9%B4%E5%8D%8E%E5%8C%97%E8%B1%B9%E7%8E%B0%E8%BA%AB%E5%8C%97%E4%BA%AC%E2%80%9C%E9%97%A8%E5%8F%A3%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         }
       ]
     },
@@ -532,61 +682,6 @@
       ]
     },
     {
-      "keyword_group": "北京",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "北京一饺子馆排队15000多桌",
-          "url": "https://www.toutiao.com/trending/7586244842658218003/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            20,
-            26,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时14分 ~ 13时21分]"
-        },
-        {
-          "title": "北京范儿",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E8%8C%83%E5%84%BF%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "提醒：日内请重点关注（以下均为北京时间）",
-          "url": "https://wallstreetcn.com/livenews/3024474",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时15分 ~ 13时21分]"
-        },
-        {
-          "title": "提醒：北京时间09:00将公布中国12月一年期、五年期贷款市场报价利率(LPR)。",
-          "url": "https://wallstreetcn.com/livenews/3024532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -614,8 +709,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 13时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 14时27分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
