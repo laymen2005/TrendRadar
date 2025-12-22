@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T16:24:25.821492+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2025-12-22T17:24:07.657885+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时36分 ~ 16时24分]"
+          "appearance_count": 10,
+          "time_info": "[12时36分 ~ 17时24分]"
         },
         {
           "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
@@ -55,8 +55,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时18分 ~ 16时24分]"
+          "appearance_count": 23,
+          "time_info": "[00时18分 ~ 17时24分]"
+        },
+        {
+          "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
+          "url": "https://www.cls.cn/detail/2235857",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时36分 ~ 17时24分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -72,6 +87,20 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[03时12分 ~ 16时24分]"
+        },
+        {
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时36分 ~ 17时24分]"
         },
         {
           "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
@@ -115,21 +144,6 @@
           "time_info": "[00时18分 ~ 07时15分]"
         },
         {
-          "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
-          "url": "https://www.cls.cn/detail/2235857",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时36分 ~ 16时24分]"
-        },
-        {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
           "url": "https://wallstreetcn.com/livenews/3024442",
           "source": "华尔街见闻-快讯",
@@ -167,17 +181,15 @@
           "time_info": "[14时27分 ~ 16时24分]"
         },
         {
-          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
-          "source": "澎湃新闻",
+          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
+          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            18,
-            19
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时36分 ~ 16时24分]"
+          "appearance_count": 6,
+          "time_info": "[14时27分 ~ 17时24分]"
         },
         {
           "title": "特朗普任命美国格陵兰岛特使",
@@ -189,6 +201,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时28分 ~ 11时29分]"
+        },
+        {
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "英国政府发言人：斯塔默和特朗普首先回顾了乌克兰局势，斯塔默还向特朗普通报了新任英国驻美大使克里斯蒂安·特纳的任命情况。",
@@ -233,22 +256,23 @@
           "url": "https://www.toutiao.com/trending/7586445374106796082/",
           "source": "今日头条",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
-          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
-          "source": "凤凰网",
-          "ranks": [
-            6
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时27分 ~ 16时24分]"
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 17时24分]"
+        },
+        {
+          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
+          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "曝高市早苗急着求见特朗普",
@@ -279,7 +303,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -320,7 +344,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
@@ -398,8 +422,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时13分 ~ 16时24分]"
+          "appearance_count": 20,
+          "time_info": "[01时13分 ~ 17时24分]"
         },
         {
           "title": "最快IPO AI公司诞生！MiniMax通过港交所聆讯 不足4年用户突破2亿",
@@ -428,6 +452,18 @@
           "time_info": "[11时28分 ~ 15时21分]"
         },
         {
+          "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
+          "url": "https://news.ifeng.com/c/8pI4dhdsa8y",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时27分 ~ 17时24分]"
+        },
+        {
           "title": "比尔·阿克曼：我持有SpaceX和xAI，但并不持有特斯拉股份。",
           "url": "https://wallstreetcn.com/livenews/3024551",
           "source": "华尔街见闻-快讯",
@@ -453,16 +489,28 @@
           "time_info": "[12时36分 ~ 16时24分]"
         },
         {
-          "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
-          "url": "https://news.ifeng.com/c/8pI4dhdsa8y",
-          "source": "凤凰网",
+          "title": "南亚新材：拟定增募资不超过9亿元，用于基于AI算力的高阶高频高速覆铜板研发及产业化项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3024853",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
+          "url": "https://www.cls.cn/detail/2236150",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时27分 ~ 16时24分]"
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 17时24分]"
         },
         {
           "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
@@ -475,18 +523,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时21分 ~ 14时27分]"
-        },
-        {
-          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
-          "url": "https://www.cls.cn/detail/2236150",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 16时24分]"
         },
         {
           "title": "如何适当提醒过度迷信 AI 的老板？",
@@ -509,6 +545,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时36分 ~ 12时37分]"
+        },
+        {
+          "title": "夸克AI眼镜G1开启预售，最低1999元",
+          "url": "https://wallstreetcn.com/livenews/3024838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "麦迪科技：带有丰富表情的AI陪伴机器人即将发布",
@@ -550,7 +597,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -569,7 +616,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "北京一饺子馆排队15000多桌",
@@ -605,8 +652,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 17时24分]"
+        },
+        {
+          "title": "消失三十年华北豹现身北京“门口”",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E4%B8%89%E5%8D%81%E5%B9%B4%E5%8D%8E%E5%8C%97%E8%B1%B9%E7%8E%B0%E8%BA%AB%E5%8C%97%E4%BA%AC%E2%80%9C%E9%97%A8%E5%8F%A3%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            27,
+            23,
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时27分 ~ 17时24分]"
         },
         {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
@@ -622,26 +684,13 @@
           "time_info": "[07时15分 ~ 14时27分]"
         },
         {
-          "title": "消失三十年华北豹现身北京“门口”",
-          "url": "https://www.baidu.com/s?wd=%E6%B6%88%E5%A4%B1%E4%B8%89%E5%8D%81%E5%B9%B4%E5%8D%8E%E5%8C%97%E8%B1%B9%E7%8E%B0%E8%BA%AB%E5%8C%97%E4%BA%AC%E2%80%9C%E9%97%A8%E5%8F%A3%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            27,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时27分 ~ 16时24分]"
-        },
-        {
           "title": "金十图示：北京时间12月22日23:00将有美日、镑美、澳美等外汇期权大单到期，2个行权价10亿以上大单，敬请管理风险。",
           "url": "https://flash.jin10.com/detail/20251222155058364800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -666,6 +715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.0382，较上一交易日官方收盘价涨28点，较上日夜盘收盘涨26点。",
+          "url": "https://wallstreetcn.com/livenews/3024823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         }
       ]
     },
@@ -699,6 +759,19 @@
           "time_info": "[00时18分 ~ 07时15分]"
         },
         {
+          "title": "美媒：以色列或再打伊朗",
+          "url": "https://www.douyin.com/hot/2343367",
+          "source": "抖音",
+          "ranks": [
+            24,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时28分 ~ 17时24分]"
+        },
+        {
           "title": "伊朗外长谴责美国对委内瑞拉动武威胁",
           "url": "https://wallstreetcn.com/livenews/3024435",
           "source": "华尔街见闻-快讯",
@@ -723,18 +796,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 06时15分]"
-        },
-        {
-          "title": "美媒：以色列或再打伊朗",
-          "url": "https://www.douyin.com/hot/2343367",
-          "source": "抖音",
-          "ranks": [
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时28分 ~ 13时21分]"
         },
         {
           "title": "伊朗高级军官：以色列威胁言论暴露其“动荡和软弱”",
@@ -777,8 +838,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时18分 ~ 16时24分]"
+          "appearance_count": 23,
+          "time_info": "[00时18分 ~ 17时24分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
@@ -808,8 +869,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 16时24分]"
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 17时24分]"
         }
       ]
     }
