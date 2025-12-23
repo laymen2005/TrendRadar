@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T20:33:16.489497+08:00",
-  "total_titles_processed": 1784,
+  "generated_at": "2025-12-23T21:33:46.989967+08:00",
+  "total_titles_processed": 1870,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 80,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -40,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时13分 ~ 20时33分]"
+          "appearance_count": 15,
+          "time_info": "[09时13分 ~ 21时33分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -51,11 +51,12 @@
             4,
             6,
             11,
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时23分 ~ 20时33分]"
+          "appearance_count": 14,
+          "time_info": "[11时23分 ~ 21时33分]"
         },
         {
           "title": "特朗普叫停美国最大海上风电项目",
@@ -229,6 +230,18 @@
           "time_info": "07时16分"
         },
         {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时18分 ~ 21时33分]"
+        },
+        {
           "title": "美国总统特朗普重申即将开始“陆地”打击。",
           "url": "https://flash.jin10.com/detail/20251223062829875800",
           "source": "金十数据",
@@ -249,6 +262,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时18分 ~ 21时33分]"
         },
         {
           "title": "美新型战舰被命名为特朗普级你咋看",
@@ -356,31 +382,6 @@
           "time_info": "[11时23分 ~ 12时34分]"
         },
         {
-          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
-          "url": "https://news.ifeng.com/c/8pJycIBu5di",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时18分 ~ 20时33分]"
-        },
-        {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时18分 ~ 20时33分]"
-        },
-        {
           "title": "据华尔街日报：美国新级别军舰将以美国总统特朗普命名。",
           "url": "https://flash.jin10.com/detail/20251223044243476800",
           "source": "金十数据",
@@ -419,6 +420,18 @@
           "time_info": "[02时24分 ~ 04时18分]"
         },
         {
+          "title": "专家：特朗普战列舰政治意义大于实战",
+          "url": "https://www.toutiao.com/trending/7586991061680000531/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 21时33分]"
+        },
+        {
           "title": "内塔尼亚胡：将与特朗普讨论伊朗问题及加沙计划下阶段行动",
           "url": "https://flash.jin10.com/detail/20251223034156652800",
           "source": "金十数据",
@@ -453,17 +466,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时15分]"
-        },
-        {
-          "title": "专家：特朗普战列舰政治意义大于实战",
-          "url": "https://www.toutiao.com/trending/7586991061680000531/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 20时33分]"
         },
         {
           "title": "特朗普为何要造战列舰",
@@ -631,6 +633,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "美国司法部：爱泼斯坦案文件包含一些针对特朗普的不实指控。",
+          "url": "https://wallstreetcn.com/livenews/3025606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "美国总统特朗普：新的舰艇将“高程度地由人工智能控制”。",
           "url": "https://flash.jin10.com/detail/20251223062302646800",
           "source": "金十数据",
@@ -651,6 +664,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "据美国财经媒体Semafor：核聚变企业高管对特朗普媒体科技集团(DJT.O)表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20251223210625693800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "特朗普：正在建造三艘大型航空母舰",
@@ -783,6 +807,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "特朗普的“PPT战列舰”有多魔幻",
+          "url": "https://www.toutiao.com/trending/7587001068819582510/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "美国总统特朗普：将从两艘舰艇开始，将发展到十艘，最终达到20到25艘。",
@@ -949,11 +984,12 @@
             25,
             12,
             14,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时19分 ~ 19时15分]"
+          "appearance_count": 24,
+          "time_info": "[00时19分 ~ 21时33分]"
         },
         {
           "title": "利用AI造谣“中国女篮”，两男子刑拘",
@@ -963,8 +999,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时13分 ~ 20时33分]"
+          "appearance_count": 15,
+          "time_info": "[09时13分 ~ 21时33分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -974,8 +1010,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时13分 ~ 20时33分]"
+          "appearance_count": 15,
+          "time_info": "[09时13分 ~ 21时33分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -985,8 +1021,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时13分 ~ 20时33分]"
+          "appearance_count": 15,
+          "time_info": "[09时13分 ~ 21时33分]"
         },
         {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
@@ -1133,6 +1169,18 @@
           "time_info": "[05时15分 ~ 06时16分]"
         },
         {
+          "title": "钉钉推出全球首个为AI打造的工作智能操作系统Agent OS",
+          "url": "https://wallstreetcn.com/livenews/3025584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 21时33分]"
+        },
+        {
           "title": "报道：字节在海外上线AI办公App“AnyGen”",
           "url": "https://wallstreetcn.com/livenews/3025558",
           "source": "华尔街见闻-快讯",
@@ -1180,17 +1228,6 @@
           "time_info": "[20时32分 ~ 20时33分]"
         },
         {
-          "title": "钉钉推出全球首个为AI打造的工作智能操作系统Agent OS",
-          "url": "https://wallstreetcn.com/livenews/3025584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
           "title": "谷歌老兵挂帅 乐天集团以“极致性价比”深耕AI领域",
           "url": "https://flash.jin10.com/detail/20251223105452549800",
           "source": "金十数据",
@@ -1216,7 +1253,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "北京震感",
@@ -1231,6 +1268,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时19分 ~ 06时16分]"
+        },
+        {
+          "title": "北京发放首批L3级高速公路自动驾驶车辆专用号牌 三个路段可开启",
+          "url": "https://www.cls.cn/detail/2237651",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时20分 ~ 21时33分]"
         },
         {
           "title": "大同地震 北京石家庄等地有震感",
@@ -1250,18 +1302,15 @@
           "time_info": "[00时19分 ~ 07时16分]"
         },
         {
-          "title": "北京发放首批L3级高速公路自动驾驶车辆专用号牌 三个路段可开启",
-          "url": "https://www.cls.cn/detail/2237651",
-          "source": "财联社热门",
+          "title": "提醒：北京时间21:30，将公布美国三季度GDP修正值、美国三季度核心个人消费支出(PCE)物价指数修正值、美国10月耐用品订单初值、加拿大10月GDP数据。",
+          "url": "https://wallstreetcn.com/livenews/3025620",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            4,
-            3,
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时20分 ~ 20时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "北京首钢97:46四川丰谷",
@@ -1446,7 +1495,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗军队司令：伊朗正在密切监视敌人动向",
@@ -1545,6 +1594,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
+          "title": "据伊拉克国家通讯社：伊拉克电力部表示，伊朗天然气供应已完全中断。",
+          "url": "https://flash.jin10.com/detail/20251223205832225800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         }
       ]
     }
