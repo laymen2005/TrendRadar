@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T06:16:15.266145+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2025-12-24T07:15:25.847032+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
@@ -28,8 +28,25 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时15分]"
+        },
+        {
+          "title": "布林肯为何对特朗普发出严厉警告",
+          "url": "https://www.toutiao.com/trending/7587029251379957291/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            16,
+            13,
+            9,
+            14,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时16分 ~ 07时15分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
@@ -39,8 +56,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -63,27 +80,12 @@
           "url": "https://www.toutiao.com/trending/7586636403350556196/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时16分]"
-        },
-        {
-          "title": "布林肯为何对特朗普发出严厉警告",
-          "url": "https://www.toutiao.com/trending/7587029251379957291/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            16,
-            13,
-            9,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时16分 ~ 06时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "“特朗普级”新型战列舰命名打破惯例",
@@ -112,17 +114,6 @@
           "time_info": "[03时14分 ~ 06时16分]"
         },
         {
-          "title": "美国法官驳回了特朗普政府针对纽约州法律的诉讼，特朗普政府称该法律阻碍了移民执法。",
-          "url": "https://flash.jin10.com/detail/20251224053558726800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
           "title": "美国财长贝森特谈论所谓的“特朗普主导的”经济“激增”：未来数月，大额支票将与招聘同时出现。",
           "url": "https://wallstreetcn.com/livenews/3025760",
           "source": "华尔街见闻-快讯",
@@ -132,6 +123,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "美国法官驳回了特朗普政府针对纽约州法律的诉讼，特朗普政府称该法律阻碍了移民执法。",
+          "url": "https://flash.jin10.com/detail/20251224053558726800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时15分]"
         },
         {
           "title": "美国议员提起诉讼，指控特朗普擅自变更肯尼迪中心的做法违规",
@@ -144,6 +147,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 03时15分]"
+        },
+        {
+          "title": "美军将建造“特朗普级”战舰",
+          "url": "https://www.douyin.com/hot/2345209",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时17分 ~ 07时15分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普有大量关于住房经适性（可担负能力）计划的选项。",
@@ -206,17 +220,6 @@
           "time_info": "[03时15分 ~ 04时18分]"
         },
         {
-          "title": "美军将建造“特朗普级”战舰",
-          "url": "https://www.douyin.com/hot/2345209",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时17分 ~ 04时18分]"
-        },
-        {
           "title": "据纽约时报：美国国会山成员寻求将特朗普的名字移出肯尼迪中心。",
           "url": "https://flash.jin10.com/detail/20251224010805922800",
           "source": "金十数据",
@@ -256,7 +259,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -281,6 +284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "周二（12月23日），降息赢家指数涨0.72%，报99.75点。 “特朗普关税输家”指数跌1.03%，散户抱团概念股指数/迷因股（meme stock）指数跌1.71%。",
+          "url": "https://wallstreetcn.com/livenews/3025799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "美国总统特朗普：我与哈萨克斯坦总统、乌兹别克斯坦总统通电话。 美方将邀请两国参加（美国在2026年轮值主办的）二十国集团（G20）峰会。",
@@ -341,7 +355,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "北京发放首批L3级高速公路自动驾驶车辆专用号牌 三个路段可开启",
@@ -352,19 +366,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "加拿大标普/TSX综合指数收涨0.18%，报32058.73点，继续创收盘历史新高。 小盘股指收涨0.27%，报1222.69点，也再创收盘历史新高。 周二（12月23日）北美尾盘，加拿大10年期基准国债收益率跌4.5个基点，报3.418%，北京时间22:06曾刷新日高至3.459%——短线形成冲高回落行情。 两年期加债收益率跌2.7个基点，报2.572%；五年期加债收益率跌3.6个基点，报2.945%。",
           "url": "https://wallstreetcn.com/livenews/3025781",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时15分]"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌2.70%，暂报3523.87点，期间持续走低，北京时间22:55刷新日低至3453.45点。 Solana目前涨0.18%，狗狗币跌0.46%，XRP跌0.34%。 MarketVector数字资产100指数跌1.95%，暂报18018.00点，22:57也曾刷新日低至17723.29点。 比特币目前跌0.16%，暂报88022美元；以太坊跌0.49%，暂报2959.77美元。",
@@ -391,6 +406,18 @@
           "time_info": "[04时18分 ~ 05时15分]"
         },
         {
+          "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3025777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
           "title": "周二（12月23日）纽约尾盘，ICE美元指数跌0.34%，报97.955点，日内交投区间为98.195-97.852点，北京时间20:32（美国GDP和耐用品订单数据发布前）刷新日低，之后一度回升至接近98.150的水平。 彭博美元指数跌0.34%，报1201.76点，日内交投区间为1205.35-1201.20点。",
           "url": "https://wallstreetcn.com/livenews/3025753",
           "source": "华尔街见闻-快讯",
@@ -403,15 +430,15 @@
           "time_info": "[05时15分 ~ 06时16分]"
         },
         {
-          "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3025777",
+          "title": "提醒：日内请重点关注（以下均为北京时间）",
+          "url": "https://wallstreetcn.com/livenews/3025795",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时16分"
+          "time_info": "07时15分"
         },
         {
           "title": "周二（12月23日），彭博电动汽车价格回报指数涨0.03%，报3464.12点。 亚太早盘显著波动，北京时间09:35小幅下跌、刷新日低至3455.20点，10:49开始显著拉升、11:22刷新日高至3479.94点。",
@@ -420,15 +447,26 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "周二（12月23日）纽约尾盘（周三北京时间05:59），离岸人民币（CNH）兑美元报7.0193元，较周一纽约尾盘涨118点，日内整体交投于7.0325-7.0143元区间。",
+          "url": "https://wallstreetcn.com/livenews/3025787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "UP主用AI改写三体名场面",
@@ -443,8 +481,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时16分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[01时16分 ~ 07时15分]"
+        },
+        {
+          "title": "【英伟达放风春节前向中国客户交付H200芯片】英伟达已告知中国客户，计划于明年2月中旬，即中国农历春节前向中国客户交付其性能排名第二的人工智能（AI）芯片H200。其中两位消息人士称，英伟达计划动用库存履行首批订单，预计发货总量为5000至10000套芯片模组，相当于约4万至8万颗 H200芯片。（环球网）",
+          "url": "https://wallstreetcn.com/livenews/3025803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：AI生产力繁荣体现在美国经济数据中。",
