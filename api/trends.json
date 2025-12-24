@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T17:20:40.011958+08:00",
-  "total_titles_processed": 1459,
+  "generated_at": "2025-12-24T18:17:58.741489+08:00",
+  "total_titles_processed": 1541,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时20分 ~ 17时20分]"
+          "appearance_count": 12,
+          "time_info": "[11时20分 ~ 18时17分]"
         },
         {
           "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
@@ -49,6 +49,19 @@
           "time_info": "[09时12分 ~ 15时21分]"
         },
         {
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时12分 ~ 18时17分]"
+        },
+        {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
           "url": "https://news.ifeng.com/c/8pJycIBu5di",
           "source": "凤凰网",
@@ -58,18 +71,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时20分 ~ 13时20分]"
-        },
-        {
-          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
-          "url": "https://wallstreetcn.com/articles/3761916",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时12分 ~ 17时20分]"
         },
         {
           "title": "布林肯为何对特朗普发出严厉警告",
@@ -122,11 +123,12 @@
             20,
             21,
             23,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时20分 ~ 17时20分]"
+          "appearance_count": 25,
+          "time_info": "[00时20分 ~ 18时17分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -185,6 +187,17 @@
           "time_info": "[09时12分 ~ 14时26分]"
         },
         {
+          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
+          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时17分]"
+        },
+        {
           "title": "美新型战舰被命名为特朗普级你咋看",
           "url": "https://www.toutiao.com/trending/7586859203608772635/",
           "source": "今日头条",
@@ -205,17 +218,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
-        },
-        {
-          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
-          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         },
         {
           "title": "美国法官驳回了特朗普政府针对纽约州法律的诉讼，特朗普政府称该法律阻碍了移民执法。",
@@ -532,7 +534,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "北京发放首批L3级高速公路自动驾驶车辆专用号牌 三个路段可开启",
@@ -558,6 +560,18 @@
           "time_info": "[09时12分 ~ 14时26分]"
         },
         {
+          "title": "北京放宽非京籍家庭购房条件",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%94%BE%E5%AE%BD%E9%9D%9E%E4%BA%AC%E7%B1%8D%E5%AE%B6%E5%BA%AD%E8%B4%AD%E6%88%BF%E6%9D%A1%E4%BB%B6%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时17分]"
+        },
+        {
           "title": "怎么看待国家队教练竞聘，北京队公示马龙是国家级教练？",
           "url": "https://www.zhihu.com/question/1987074578627991238",
           "source": "知乎",
@@ -570,17 +584,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时32分 ~ 15时21分]"
-        },
-        {
-          "title": "北京放宽非京籍家庭购房条件",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%94%BE%E5%AE%BD%E9%9D%9E%E4%BA%AC%E7%B1%8D%E5%AE%B6%E5%BA%AD%E8%B4%AD%E6%88%BF%E6%9D%A1%E4%BB%B6%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         },
         {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
@@ -597,6 +600,17 @@
           "time_info": "[07时15分 ~ 14时26分]"
         },
         {
+          "title": "北京楼市新政：放宽非京籍家庭购房条件 支持多子女家庭住房需求",
+          "url": "https://www.cls.cn/detail/2238913",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "北京市机器人产业协会将成立",
           "url": "https://wallstreetcn.com/livenews/3026032",
           "source": "华尔街见闻-快讯",
@@ -607,6 +621,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时26分 ~ 15时21分]"
+        },
+        {
+          "title": "北京放宽非京籍家庭购房条件",
+          "url": "https://www.toutiao.com/trending/7586769231690072070/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时17分]"
+        },
+        {
+          "title": "北京新政：支持多子女家庭住房需求",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%96%B0%E6%94%BF%EF%BC%9A%E6%94%AF%E6%8C%81%E5%A4%9A%E5%AD%90%E5%A5%B3%E5%AE%B6%E5%BA%AD%E4%BD%8F%E6%88%BF%E9%9C%80%E6%B1%82",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时17分]"
         },
         {
           "title": "加拿大标普/TSX综合指数收涨0.18%，报32058.73点，继续创收盘历史新高。 小盘股指收涨0.27%，报1222.69点，也再创收盘历史新高。 周二（12月23日）北美尾盘，加拿大10年期基准国债收益率跌4.5个基点，报3.418%，北京时间22:06曾刷新日高至3.459%——短线形成冲高回落行情。 两年期加债收益率跌2.7个基点，报2.572%；五年期加债收益率跌3.6个基点，报2.945%。",
@@ -631,6 +669,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时21分 ~ 16时23分]"
+        },
+        {
+          "title": "北京调整住房限购政策",
+          "url": "https://www.douyin.com/hot/2346396",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时17分]"
+        },
+        {
+          "title": "北京放宽非京籍家庭购房条件",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%94%BE%E5%AE%BD%E9%9D%9E%E4%BA%AC%E7%B1%8D%E5%AE%B6%E5%BA%AD%E8%B4%AD%E6%88%BF%E6%9D%A1%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时17分]"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌2.70%，暂报3523.87点，期间持续走低，北京时间22:55刷新日低至3453.45点。 Solana目前涨0.18%，狗狗币跌0.46%，XRP跌0.34%。 MarketVector数字资产100指数跌1.95%，暂报18018.00点，22:57也曾刷新日低至17723.29点。 比特币目前跌0.16%，暂报88022美元；以太坊跌0.49%，暂报2959.77美元。",
@@ -692,48 +753,38 @@
           "time_info": "[15时20分 ~ 15时21分]"
         },
         {
-          "title": "北京放宽非京籍家庭购房条件",
-          "url": "https://www.toutiao.com/trending/7586769231690072070/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "北京放宽非京籍家庭购房条件",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%94%BE%E5%AE%BD%E9%9D%9E%E4%BA%AC%E7%B1%8D%E5%AE%B6%E5%BA%AD%E8%B4%AD%E6%88%BF%E6%9D%A1%E4%BB%B6",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "北京调整住房限购政策",
-          "url": "https://www.douyin.com/hot/2346396",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
           "title": "北京楼市新政：放宽非京籍家庭购房条件、支持多子女家庭住房需求",
           "url": "https://wallstreetcn.com/livenews/3026107",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时17分]"
+        },
+        {
+          "title": "北京优化调整住房限购政策，放宽非京籍家庭购房条件，京籍多子女家庭五环内可买 3 套房，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1987200723008657044",
+          "source": "知乎",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "18时17分"
+        },
+        {
+          "title": "北京楼市新政：放宽非京籍家庭购房条件、支持多子女家庭住房需求",
+          "url": "https://wallstreetcn.com/articles/3762000",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "周二（12月23日），彭博电动汽车价格回报指数涨0.03%，报3464.12点。 亚太早盘显著波动，北京时间09:35小幅下跌、刷新日低至3455.20点，10:49开始显著拉升、11:22刷新日高至3479.94点。",
@@ -764,20 +815,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
         {
-          "title": "北京新政：支持多子女家庭住房需求",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%96%B0%E6%94%BF%EF%BC%9A%E6%94%AF%E6%8C%81%E5%A4%9A%E5%AD%90%E5%A5%B3%E5%AE%B6%E5%BA%AD%E4%BD%8F%E6%88%BF%E9%9C%80%E6%B1%82",
-          "source": "百度热搜",
+          "title": "北京放宽非京籍家庭购房条件，京籍多子女家庭五环内可买3套房",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32245196",
+          "source": "澎湃新闻",
           "ranks": [
-            20
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "18时17分"
         },
         {
           "title": "A股半导体板块继续走强，圣晖集成3连板，德明利、北京君正、芯源微、汇成股份、华虹公司等涨幅居前，消息上，中芯国际已经对部分产能实施了涨价，涨幅约为10%。",
@@ -794,7 +845,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "UP主用AI改写三体名场面",
@@ -883,6 +934,28 @@
           "time_info": "[15时20分 ~ 15时21分]"
         },
         {
+          "title": "欧洲媒体巨头面临AI冲击与广告需求疲软的双重压力",
+          "url": "https://flash.jin10.com/detail/20251224173958645800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "投行2026关键词系列：汇丰看多元投资与AI生态丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251224173523204800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "英媒：科技企业将高额AI支出债务移出资产负债表 引发市场担忧",
           "url": "https://flash.jin10.com/detail/20251224133230351800",
           "source": "金十数据",
@@ -908,7 +981,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伊朗为何愿联合委内瑞拉对抗美威胁",
@@ -916,11 +989,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 17时20分]"
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 18时17分]"
         },
         {
           "title": "伊朗在安理会感谢中国",
@@ -933,6 +1007,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时12分 ~ 11时21分]"
+        },
+        {
+          "title": "伊朗代表：感谢中俄",
+          "url": "https://www.douyin.com/hot/2345871",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "联合国安理会将于十分钟后就伊朗核计划举行会议；美国12月谘商会消费者信心指数及里奇蒙德联储制造业指数将于十分钟后公布。",
