@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-25T06:15:58.183474+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2025-12-25T07:15:40.206395+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "北京",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "北京放宽非京籍家庭购房条件，京籍多子女家庭五环内可买3套房",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32245196",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
-        },
         {
           "title": "北京祭出楼市调控组合拳：放松限购、优化信贷、审批提速",
           "url": "https://www.cls.cn/detail/2239230",
@@ -27,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "北京楼市新政：放宽非京籍家庭购房条件、支持多子女家庭住房需求",
@@ -39,8 +28,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时15分]"
+        },
+        {
+          "title": "北京放宽非京籍家庭购房条件，京籍多子女家庭五环内可买3套房",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32245196",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "北京楼市新政：放宽非京籍家庭购房条件 支持多子女家庭住房需求",
@@ -51,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "北京调整住房限购政策",
@@ -65,8 +66,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "北京优化调整住房限购政策，放宽非京籍家庭购房条件，京籍多子女家庭五环内可买 3 套房，将带来哪些影响？",
@@ -76,19 +77,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
-        },
-        {
-          "title": "周三（12月24日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌0.33%，报87400美元，北京时间22:38曾跌至86380美元刷新日低。 CME以太币期货DCR主力合约跌0.99%，报2942.50美元，22:38也曾刷新日低至2886.50美元。 美股加密货币与加密货币关联指数涨0.14%，报62.35点。 最近24小时，MarketVector数字资产100小盘指数跌0.37%，暂报3509.62点，整体呈现出V形走势。 MarketVector数字资产100小盘指数跌0.24%，暂报17923.99点。",
-          "url": "https://wallstreetcn.com/livenews/3026354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0160元，较周二夜盘收盘涨120点。成交量489.31亿美元。",
@@ -102,6 +92,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时17分 ~ 06时15分]"
+        },
+        {
+          "title": "周三（12月24日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌0.33%，报87400美元，北京时间22:38曾跌至86380美元刷新日低。 CME以太币期货DCR主力合约跌0.99%，报2942.50美元，22:38也曾刷新日低至2886.50美元。 美股加密货币与加密货币关联指数涨0.14%，报62.35点。 最近24小时，MarketVector数字资产100小盘指数跌0.37%，暂报3509.62点，整体呈现出V形走势。 MarketVector数字资产100小盘指数跌0.24%，暂报17923.99点。",
+          "url": "https://wallstreetcn.com/livenews/3026354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时15分]"
         },
         {
           "title": "北京新政：支持多子女家庭住房需求",
@@ -133,11 +135,34 @@
           "url": "https://www.toutiao.com/trending/7587417598296801343/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时15分]"
+        },
+        {
+          "title": "提醒：日内请重点关注（以下均为北京时间）",
+          "url": "https://wallstreetcn.com/livenews/3026366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时15分"
+          "time_info": "07时15分"
+        },
+        {
+          "title": "周三（12月24日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报7.0074元，较周二纽约尾盘涨119点，日内整体交投于7.0195-7.0015元区间。",
+          "url": "https://wallstreetcn.com/livenews/3026357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "现货钯金跌5.2%，刷新日低，逼近1750美元，北京时间14:47还曾涨至1962.42美元，之后持续回撤。",
@@ -175,8 +200,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
@@ -186,8 +211,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
@@ -199,8 +224,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
@@ -285,11 +310,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 05时15分]"
+          "appearance_count": 4,
+          "time_info": "[03时13分 ~ 07时15分]"
         },
         {
           "title": "学者：特朗普锚定“第四处战场”",
@@ -301,6 +327,80 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 05时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "英伟达正以约200亿美元的价格收购AI芯片初创公司Groq，这是其有史以来规模最大的收购案。",
+          "url": "https://wallstreetcn.com/livenews/3026336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "Waymo拟为无人驾驶出租车接入Gemini AI助手",
+          "url": "https://wallstreetcn.com/livenews/3026375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "GROQ：与英伟达达成非独家推理技术许可协议，以在全球范围内加速AI推理。",
+          "url": "https://flash.jin10.com/detail/20251225053135051800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时15分]"
+        },
+        {
+          "title": "英伟达以约200亿美元现金收购AI芯片初创公司Groq",
+          "url": "https://flash.jin10.com/detail/20251225051502192800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时15分]"
+        },
+        {
+          "title": "马斯克：xAI五年内的AI算力将超过其他人的总和。",
+          "url": "https://wallstreetcn.com/livenews/3026368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "报道：英伟达历史上最大规模收购案，拟按200亿美元现金收购AI芯片初创公司Groq",
+          "url": "https://wallstreetcn.com/livenews/3026336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         }
       ]
     },
@@ -353,56 +453,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "英伟达正以约200亿美元的价格收购AI芯片初创公司Groq，这是其有史以来规模最大的收购案。",
-          "url": "https://wallstreetcn.com/livenews/3026336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "GROQ：与英伟达达成非独家推理技术许可协议，以在全球范围内加速AI推理。",
-          "url": "https://flash.jin10.com/detail/20251225053135051800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "英伟达以约200亿美元现金收购AI芯片初创公司Groq",
-          "url": "https://flash.jin10.com/detail/20251225051502192800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "报道：英伟达历史上最大规模收购案，拟按200亿美元现金收购AI芯片初创公司Groq",
-          "url": "https://wallstreetcn.com/livenews/3026336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
         }
       ]
     },
