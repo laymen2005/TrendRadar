@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T18:18:19.903281+08:00",
-  "total_titles_processed": 1510,
+  "generated_at": "2025-12-25T19:15:26.000252+08:00",
+  "total_titles_processed": 1580,
   "failed_sources": [],
   "trends": [
     {
@@ -99,6 +99,17 @@
           "time_info": "[09时13分 ~ 12时34分]"
         },
         {
+          "title": "扎哈罗娃生日获普京颁发勋章：在中国长大，能讲一口流利北京话",
+          "url": "https://news.ifeng.com/c/8pMwqjZ8H6f",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时18分 ~ 19时15分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0160元，较周二夜盘收盘涨120点。成交量489.31亿美元。",
           "url": "https://wallstreetcn.com/livenews/3026325",
           "source": "华尔街见闻-快讯",
@@ -110,6 +121,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时17分 ~ 06时15分]"
+        },
+        {
+          "title": "北京一宅地24.72亿元底价成交",
+          "url": "https://wallstreetcn.com/livenews/3026674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 19时15分]"
         },
         {
           "title": "周三（12月24日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌0.33%，报87400美元，北京时间22:38曾跌至86380美元刷新日低。 CME以太币期货DCR主力合约跌0.99%，报2942.50美元，22:38也曾刷新日低至2886.50美元。 美股加密货币与加密货币关联指数涨0.14%，报62.35点。 最近24小时，MarketVector数字资产100小盘指数跌0.37%，暂报3509.62点，整体呈现出V形走势。 MarketVector数字资产100小盘指数跌0.24%，暂报17923.99点。",
@@ -124,18 +148,6 @@
           "time_info": "[06时15分 ~ 07时15分]"
         },
         {
-          "title": "北京一宅地24.72亿元底价成交",
-          "url": "https://wallstreetcn.com/livenews/3026674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时18分]"
-        },
-        {
           "title": "北京新政：支持多子女家庭住房需求",
           "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%96%B0%E6%94%BF%EF%BC%9A%E6%94%AF%E6%8C%81%E5%A4%9A%E5%AD%90%E5%A5%B3%E5%AE%B6%E5%BA%AD%E4%BD%8F%E6%88%BF%E9%9C%80%E6%B1%82",
           "source": "百度热搜",
@@ -147,17 +159,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时20分 ~ 04时17分]"
-        },
-        {
-          "title": "扎哈罗娃生日获普京颁发勋章：在中国长大，能讲一口流利北京话",
-          "url": "https://news.ifeng.com/c/8pMwqjZ8H6f",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 18时18分]"
         },
         {
           "title": "北京将实现100个行业大模型落地应用",
@@ -296,6 +297,30 @@
           "time_info": "[00时20分 ~ 07时15分]"
         },
         {
+          "title": "高市早苗：想尽快与特朗普会晤",
+          "url": "https://news.ifeng.com/c/8pNHf17pGd9",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时18分 ~ 19时15分]"
+        },
+        {
+          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
+          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时18分 ~ 19时15分]"
+        },
+        {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
           "url": "https://wallstreetcn.com/articles/3761946",
           "source": "华尔街见闻",
@@ -307,50 +332,16 @@
           "time_info": "[00时20分 ~ 03时13分]"
         },
         {
-          "title": "高市早苗：想尽快与特朗普会晤",
-          "url": "https://news.ifeng.com/c/8pNHf17pGd9",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 18时18分]"
-        },
-        {
-          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
-          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 18时18分]"
-        },
-        {
           "title": "特朗普这一年如何搅乱全球",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E4%B8%80%E5%B9%B4%E5%A6%82%E4%BD%95%E6%90%85%E4%B9%B1%E5%85%A8%E7%90%83",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
-          "url": "https://flash.jin10.com/detail/20251225173408748800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时15分]"
         },
         {
           "title": "特朗普回应克林顿大尺度照被公布",
@@ -431,6 +422,18 @@
           "time_info": "[12时34分 ~ 13时20分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
+          "url": "https://flash.jin10.com/detail/20251225173408748800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时15分]"
+        },
+        {
           "title": "特朗普为何强调新战列舰不针对中国",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E5%BC%BA%E8%B0%83%E6%96%B0%E6%88%98%E5%88%97%E8%88%B0%E4%B8%8D%E9%92%88%E5%AF%B9%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
@@ -501,8 +504,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时23分 ~ 18时18分]"
+          "appearance_count": 13,
+          "time_info": "[11时23分 ~ 19时15分]"
         },
         {
           "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长！",
@@ -529,6 +532,20 @@
           "time_info": "09时13分"
         },
         {
+          "title": "画师全跑光,马斯克AI贴脸盗图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 19时15分]"
+        },
+        {
           "title": "英伟达正以约200亿美元的价格收购AI芯片初创公司Groq，这是其有史以来规模最大的收购案。",
           "url": "https://wallstreetcn.com/livenews/3026336",
           "source": "华尔街见闻-快讯",
@@ -549,19 +566,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "画师全跑光,马斯克AI贴脸盗图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 18时18分]"
         },
         {
           "title": "GROQ：与英伟达达成非独家推理技术许可协议，以在全球范围内加速AI推理。",
@@ -691,7 +695,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗在波斯湾查获一艘走私燃料的船只",
@@ -716,6 +720,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时20分 ~ 05时15分]"
+        },
+        {
+          "title": "以色列公民被控为伊朗间谍 曾侦察前总理住所",
+          "url": "https://flash.jin10.com/detail/20251225181314638800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "以色列防长称正密切关注伊朗局势",
