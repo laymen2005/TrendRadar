@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T22:16:14.483956+08:00",
-  "total_titles_processed": 1748,
+  "generated_at": "2025-12-26T23:17:02.796558+08:00",
+  "total_titles_processed": 1827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -25,11 +25,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时21分 ~ 22时16分]"
+          "appearance_count": 18,
+          "time_info": "[11时21分 ~ 23时17分]"
         },
         {
           "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
@@ -39,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时18分 ~ 22时16分]"
+          "appearance_count": 11,
+          "time_info": "[17时18分 ~ 23时17分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -164,11 +165,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            12
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 22时16分]"
+          "appearance_count": 3,
+          "time_info": "[21时30分 ~ 23时17分]"
         },
         {
           "title": "Marko Papic万字访谈：委内瑞拉救不了油价，特朗普或在2026年“压榨”美联储，股市迎来“YOLO时刻”",
@@ -214,6 +216,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "乌总统：乌美安全保障协议接近完成 签署取决于与特朗普会晤",
+          "url": "https://flash.jin10.com/detail/20251226230113914800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
@@ -351,7 +364,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI音乐MV绩效改进计划",
@@ -364,11 +377,12 @@
             14,
             26,
             18,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时33分 ~ 19时15分]"
+          "appearance_count": 12,
+          "time_info": "[12时33分 ~ 23时17分]"
         },
         {
           "title": "画师全跑光,马斯克AI贴脸盗图",
@@ -417,6 +431,20 @@
           "time_info": "[11时21分 ~ 17时18分]"
         },
         {
+          "title": "华为：全球悬赏300万元解决AI时代的存储难题",
+          "url": "https://www.cls.cn/detail/2241363",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时31分 ~ 23时17分]"
+        },
+        {
           "title": "《科创板日报》评选2025十大科技热词出炉，AI成绝对主线",
           "url": "https://www.cls.cn/detail/2239926",
           "source": "财联社热门",
@@ -458,22 +486,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
-        },
-        {
-          "title": "华为：全球悬赏300万元解决AI时代的存储难题",
-          "url": "https://www.cls.cn/detail/2241363",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时31分 ~ 22时16分]"
         },
         {
           "title": "如果只能用一个词来形容人和 AI 的区别以及人类的不可代替之处，你会选哪个词？为什么？",
@@ -486,6 +501,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时33分 ~ 15时19分]"
+        },
+        {
+          "title": "174名北大学生迎特殊考试：对决AI",
+          "url": "https://www.baidu.com/s?wd=174%E5%90%8D%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%8E%E7%89%B9%E6%AE%8A%E8%80%83%E8%AF%95%EF%BC%9A%E5%AF%B9%E5%86%B3AI",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时15分 ~ 23时17分]"
         },
         {
           "title": "UP主用AI挑战肉鸽游戏",
@@ -512,15 +538,15 @@
           "time_info": "[12时33分 ~ 13时18分]"
         },
         {
-          "title": "174名北大学生迎特殊考试：对决AI",
-          "url": "https://www.baidu.com/s?wd=174%E5%90%8D%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%8E%E7%89%B9%E6%AE%8A%E8%80%83%E8%AF%95%EF%BC%9A%E5%AF%B9%E5%86%B3AI",
-          "source": "百度热搜",
+          "title": "2025年度AI好用工具",
+          "url": "https://search.bilibili.com/all?keyword=2025%E5%B9%B4%E5%BA%A6AI%E5%A5%BD%E7%94%A8%E5%B7%A5%E5%85%B7",
+          "source": "bilibili 热搜",
           "ranks": [
-            21
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时15分 ~ 22时16分]"
+          "time_info": "[23时16分 ~ 23时17分]"
         },
         {
           "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
@@ -532,6 +558,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "美股开盘，道指跌0.04%，标普500指数涨0.04%，纳指涨0.1%，英伟达(NVDA.O)涨0.8%，公司与Groq达成一项非独家技术许可协议。矿业股跟随近期金属涨势，科尔黛伦矿业(CDE.N)涨3.4%， 泛美白银(PAAS.O)涨1.9%。存储概念股上涨，美光科技(MU.O)涨0.8%，闪迪(SNDK.O)涨3.5%，Omdia预期AI需求推动NAND明年涨价40%。",
+          "url": "https://flash.jin10.com/detail/20251226223046972800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "泰国央行行长Vitai：由于与美国达成的协议，泰国央行不能操纵泰铢。 线上黄金交易推动泰铢上涨。",
@@ -570,7 +607,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "扎哈罗娃生日获普京颁发勋章：在中国长大，能讲一口流利北京话",
@@ -648,6 +685,28 @@
           "time_info": "[19时14分 ~ 22时16分]"
         },
         {
+          "title": "平安产险北京分公司为北京L3自动驾驶提供保额最高500万三者损失险",
+          "url": "https://wallstreetcn.com/livenews/3027390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "北京通州站将于12月30日开通投运",
+          "url": "https://www.toutiao.com/trending/7587269763144204314/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时29分 ~ 23时17分]"
+        },
+        {
           "title": "北京人形机器人整机单位超过30家，位居国内前列",
           "url": "https://wallstreetcn.com/livenews/3026783",
           "source": "华尔街见闻-快讯",
@@ -713,17 +772,6 @@
           "time_info": "[18时18分 ~ 19时15分]"
         },
         {
-          "title": "北京通州站将于12月30日开通投运",
-          "url": "https://www.toutiao.com/trending/7587269763144204314/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时29分 ~ 22时16分]"
-        },
-        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0058元，较周三夜盘收盘涨228点。成交量359.43亿美元。",
           "url": "https://wallstreetcn.com/livenews/3026822",
           "source": "华尔街见闻-快讯",
@@ -747,6 +795,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时30分 ~ 22时16分]"
+        },
+        {
+          "title": "上海北京杭州全年卖地收入超千亿",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%8C%97%E4%BA%AC%E6%9D%AD%E5%B7%9E%E5%85%A8%E5%B9%B4%E5%8D%96%E5%9C%B0%E6%94%B6%E5%85%A5%E8%B6%85%E5%8D%83%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时16分 ~ 23时17分]"
         }
       ]
     },
