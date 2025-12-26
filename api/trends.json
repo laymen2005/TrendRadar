@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T12:33:48.684763+08:00",
-  "total_titles_processed": 922,
+  "generated_at": "2025-12-26T13:18:29.094547+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时13分 ~ 07时15分]"
+        },
+        {
+          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
+          "url": "https://wallstreetcn.com/articles/3762107",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时21分 ~ 13时18分]"
         },
         {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
@@ -110,18 +123,6 @@
           "time_info": "[00时20分 ~ 04时17分]"
         },
         {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时21分 ~ 12时33分]"
-        },
-        {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
           "url": "https://flash.jin10.com/detail/20251226001306612800",
           "source": "金十数据",
@@ -143,8 +144,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时21分 ~ 12时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时21分 ~ 13时18分]"
         },
         {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
@@ -209,11 +210,12 @@
             17,
             22,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 12时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 13时18分]"
         },
         {
           "title": "为什么北京经济第一强区海淀至今没有苹果直营店？",
@@ -224,8 +226,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时13分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 13时18分]"
         },
         {
           "title": "2025北京土拍收官：年内共成功出让40宗地块，总成交金额约1427.42亿元",
@@ -243,17 +245,6 @@
           "time_info": "[01时15分 ~ 06时15分]"
         },
         {
-          "title": "北京市知识产权局局长孟波：北京每万人口高价值发明专利拥有量居全国首位",
-          "url": "https://wallstreetcn.com/livenews/3027036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
           "title": "北京人形机器人整机单位超过30家，位居国内前列",
           "url": "https://wallstreetcn.com/livenews/3026783",
           "source": "华尔街见闻-快讯",
@@ -268,6 +259,30 @@
           "time_info": "[00时20分 ~ 04时17分]"
         },
         {
+          "title": "提醒：日内请重点关注（以下均为北京时间）",
+          "url": "https://wallstreetcn.com/livenews/3026850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 13时18分]"
+        },
+        {
+          "title": "北京市知识产权局局长孟波：北京每万人口高价值发明专利拥有量居全国首位",
+          "url": "https://wallstreetcn.com/livenews/3027036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时18分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0058元，较周三夜盘收盘涨228点。成交量359.43亿美元。",
           "url": "https://wallstreetcn.com/livenews/3026822",
           "source": "华尔街见闻-快讯",
@@ -279,17 +294,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时15分 ~ 07时15分]"
-        },
-        {
-          "title": "提醒：日内请重点关注（以下均为北京时间）",
-          "url": "https://wallstreetcn.com/livenews/3026850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
         }
       ]
     },
@@ -305,11 +309,12 @@
             13,
             14,
             17,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 12时33分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 13时18分]"
         },
         {
           "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
@@ -317,11 +322,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时13分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 13时18分]"
         },
         {
           "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
@@ -329,22 +335,24 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时21分 ~ 12时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时21分 ~ 13时18分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
           "url": "https://search.bilibili.com/all?keyword=AI%E9%9F%B3%E4%B9%90MV%E7%BB%A9%E6%95%88%E6%94%B9%E8%BF%9B%E8%AE%A1%E5%88%92",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时18分]"
         },
         {
           "title": "如果只能用一个词来形容人和 AI 的区别以及人类的不可代替之处，你会选哪个词？为什么？",
@@ -353,9 +361,21 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时18分]"
+        },
+        {
+          "title": "日本下一年预算案将芯片和AI领域的支持增加近三倍",
+          "url": "https://wallstreetcn.com/livenews/3027011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时18分]"
         },
         {
           "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
@@ -367,17 +387,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "日本下一年预算案将芯片和AI领域的支持增加近三倍",
-          "url": "https://wallstreetcn.com/livenews/3027011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
         },
         {
           "title": "联想将推出超级AI智能体，对标豆包手机助手",
