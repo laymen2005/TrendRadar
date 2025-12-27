@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T22:14:52.806738+08:00",
-  "total_titles_processed": 1478,
+  "generated_at": "2025-12-27T23:15:08.122780+08:00",
+  "total_titles_processed": 1517,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时20分 ~ 22时14分]"
+          "appearance_count": 11,
+          "time_info": "[16时20分 ~ 23时15分]"
         },
         {
           "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
@@ -50,8 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时15分 ~ 22时14分]"
+          "appearance_count": 12,
+          "time_info": "[15时15分 ~ 23时15分]"
         },
         {
           "title": "美国总统特朗普将于当地时间周日下午3点在海湖庄园会见泽连斯基。",
@@ -149,17 +149,6 @@
           "time_info": "[09时11分 ~ 09时12分]"
         },
         {
-          "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
-          "url": "https://flash.jin10.com/detail/20251227214522049800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
           "title": "美国总统特朗普：认为与乌克兰总统泽连斯基的会谈将是“不错的”。 将在周末于海湖庄园接见泽连斯基和以色列总理内塔尼亚胡。 泽连斯基的任何提议都需要我的批准。 预计很快将与俄罗斯总统普京对话。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3027452",
           "source": "华尔街见闻-快讯",
@@ -210,6 +199,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时14分 ~ 03时12分]"
+        },
+        {
+          "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
+          "url": "https://flash.jin10.com/detail/20251227214522049800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 23时15分]"
         },
         {
           "title": "乌克兰总统泽连斯基：正乘飞机前往美国会见美国总统特朗普，途中将先在加拿大停留，会见加拿大总理卡尼。",
@@ -313,6 +314,18 @@
           "time_info": "[20时29分 ~ 21时26分]"
         },
         {
+          "title": "美国总统特朗普：美国的犯罪率处于历史最低水平。这在很大程度上要归功于历史上最成功的南部边境行动。此外，今天在美国工作的人比以往任何时候都多。",
+          "url": "https://flash.jin10.com/detail/20251227213217547800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 23时15分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-27）",
           "url": "https://flash.jin10.com/detail/20251227180421799800",
           "source": "金十数据",
@@ -360,17 +373,6 @@
           "time_info": "[12时28分 ~ 12时29分]"
         },
         {
-          "title": "美国总统特朗普：美国的犯罪率处于历史最低水平。这在很大程度上要归功于历史上最成功的南部边境行动。此外，今天在美国工作的人比以往任何时候都多。",
-          "url": "https://flash.jin10.com/detail/20251227213217547800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
           "title": "乌总统：乌美安全保障协议接近完成 签署取决于与特朗普会晤",
           "url": "https://flash.jin10.com/detail/20251226230113914800",
           "source": "金十数据",
@@ -395,143 +397,8 @@
       ]
     },
     {
-      "keyword_group": "北京",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "上海北京杭州全年卖地收入超千亿",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%8C%97%E4%BA%AC%E6%9D%AD%E5%B7%9E%E5%85%A8%E5%B9%B4%E5%8D%96%E5%9C%B0%E6%94%B6%E5%85%A5%E8%B6%85%E5%8D%83%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            10,
-            13,
-            9,
-            8,
-            30,
-            24,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 09时12分]"
-        },
-        {
-          "title": "北京WB VS RW侠 挑战者杯",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E8%80%85%E6%9D%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时23分 ~ 16时21分]"
-        },
-        {
-          "title": "慕尼黑至北京航班上一乘客病亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%85%95%E5%B0%BC%E9%BB%91%E8%87%B3%E5%8C%97%E4%BA%AC%E8%88%AA%E7%8F%AD%E4%B8%8A%E4%B8%80%E4%B9%98%E5%AE%A2%E7%97%85%E4%BA%A1%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 09时12分]"
-        },
-        {
-          "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
-          "url": "https://wallstreetcn.com/livenews/3027558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时13分 ~ 22时14分]"
-        },
-        {
-          "title": "中国驻阿拉木图总领馆证实：慕尼黑至北京航班病亡乘客非中国公民",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32259429",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 22时14分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0063元，较周四夜盘收盘跌5点。成交量311.83亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3027444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时17分 ~ 06时16分]"
-        },
-        {
-          "title": "最近24小时，MarketVector数字资产100小盘指数跌1.74%，暂报3478.23点，北京时间08:49曾跌至3440.26点。 MarketVector数字资产100指数跌1.39%，暂报17739.79点，一度短线跳水——23:15刷新日低至17686.04点。",
-          "url": "https://wallstreetcn.com/livenews/3027420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 04时17分]"
-        },
-        {
-          "title": "周五（12月26日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报7.0045元，较周四纽约尾盘跌28点，日内整体交投于6.9997-7.0085元区间。 本周，离岸人民币累计上涨297点，涨幅0.42%，周一至周四持续上涨，周五高位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3027476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 09时12分]"
-        },
-        {
-          "title": "如何看待网传今年北京大学 (34 篇) 的 CNS 论文量超过了麻省理工 (28 篇)，排世界第三？",
-          "url": "https://www.zhihu.com/question/1986971007253230743",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时15分 ~ 07时16分]"
-        },
-        {
-          "title": "平安产险北京分公司为北京L3自动驾驶提供保额最高500万三者损失险",
-          "url": "https://wallstreetcn.com/livenews/3027390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "如何看待李蒙疑似在围棋杀猪大会使用 ai 眼镜作弊?",
@@ -546,8 +413,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时20分 ~ 22时14分]"
+          "appearance_count": 11,
+          "time_info": "[16时20分 ~ 23时15分]"
         },
         {
           "title": "华为：全球悬赏300万元解决AI时代的存储难题",
@@ -658,6 +525,17 @@
           "time_info": "[11时19分 ~ 11时20分]"
         },
         {
+          "title": "AI医疗前景如何",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8C%BB%E7%96%97%E5%89%8D%E6%99%AF%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
+        },
+        {
           "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
           "url": "https://wallstreetcn.com/livenews/3027489",
           "source": "华尔街见闻-快讯",
@@ -682,6 +560,142 @@
       ]
     },
     {
+      "keyword_group": "北京",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "上海北京杭州全年卖地收入超千亿",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%8C%97%E4%BA%AC%E6%9D%AD%E5%B7%9E%E5%85%A8%E5%B9%B4%E5%8D%96%E5%9C%B0%E6%94%B6%E5%85%A5%E8%B6%85%E5%8D%83%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            10,
+            13,
+            9,
+            8,
+            30,
+            24,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 09时12分]"
+        },
+        {
+          "title": "北京WB VS RW侠 挑战者杯",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E8%80%85%E6%9D%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时23分 ~ 16时21分]"
+        },
+        {
+          "title": "慕尼黑至北京航班上一乘客病亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%85%95%E5%B0%BC%E9%BB%91%E8%87%B3%E5%8C%97%E4%BA%AC%E8%88%AA%E7%8F%AD%E4%B8%8A%E4%B8%80%E4%B9%98%E5%AE%A2%E7%97%85%E4%BA%A1%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
+        },
+        {
+          "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
+          "url": "https://wallstreetcn.com/livenews/3027558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8,
+            14,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时13分 ~ 23时15分]"
+        },
+        {
+          "title": "中国驻阿拉木图总领馆证实：慕尼黑至北京航班病亡乘客非中国公民",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32259429",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时15分 ~ 22时14分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0063元，较周四夜盘收盘跌5点。成交量311.83亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3027444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时17分 ~ 06时16分]"
+        },
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数跌1.74%，暂报3478.23点，北京时间08:49曾跌至3440.26点。 MarketVector数字资产100指数跌1.39%，暂报17739.79点，一度短线跳水——23:15刷新日低至17686.04点。",
+          "url": "https://wallstreetcn.com/livenews/3027420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 04时17分]"
+        },
+        {
+          "title": "周五（12月26日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报7.0045元，较周四纽约尾盘跌28点，日内整体交投于6.9997-7.0085元区间。 本周，离岸人民币累计上涨297点，涨幅0.42%，周一至周四持续上涨，周五高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3027476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 09时12分]"
+        },
+        {
+          "title": "如何看待网传今年北京大学 (34 篇) 的 CNS 论文量超过了麻省理工 (28 篇)，排世界第三？",
+          "url": "https://www.zhihu.com/question/1986971007253230743",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 07时16分]"
+        },
+        {
+          "title": "平安产险北京分公司为北京L3自动驾驶提供保额最高500万三者损失险",
+          "url": "https://wallstreetcn.com/livenews/3027390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时14分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 2,
       "titles": [
@@ -691,11 +705,12 @@
           "source": "今日头条",
           "ranks": [
             27,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时25分 ~ 22时14分]"
+          "appearance_count": 5,
+          "time_info": "[21时25分 ~ 23时15分]"
         },
         {
           "title": "金饰价格突破1400元黄金回收遇冷",
