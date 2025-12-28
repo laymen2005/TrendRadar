@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T19:14:14.181509+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2025-12-28T20:31:08.477103+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,27 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时40分 ~ 19时14分]"
+          "appearance_count": 14,
+          "time_info": "[12时40分 ~ 20时31分]"
+        },
+        {
+          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
+          "url": "https://www.toutiao.com/trending/7588795037148794414/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            4,
+            1,
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时21分 ~ 20时31分]"
         },
         {
           "title": "特朗普海湖庄园将上演“鸿门宴”吗",
@@ -85,20 +101,6 @@
           "time_info": "[00时18分 ~ 09时21分]"
         },
         {
-          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
-          "url": "https://www.toutiao.com/trending/7588795037148794414/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            4,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时21分 ~ 19时14分]"
-        },
-        {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
           "url": "https://wallstreetcn.com/articles/3762159",
           "source": "华尔街见闻",
@@ -108,6 +110,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时18分 ~ 03时12分]"
+        },
+        {
+          "title": "泽连斯基：我想跟特朗普谈5个问题",
+          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时16分 ~ 20时31分]"
         },
         {
           "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
@@ -160,17 +173,6 @@
           "time_info": "[09时21分 ~ 11时44分]"
         },
         {
-          "title": "泽连斯基：我想跟特朗普谈5个问题",
-          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 19时14分]"
-        },
-        {
           "title": "特朗普与泽连斯基会晤时间有所调整",
           "url": "https://flash.jin10.com/detail/20251228094750696800",
           "source": "金十数据",
@@ -196,6 +198,18 @@
           "time_info": "[09时21分 ~ 11时44分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-28）",
+          "url": "https://flash.jin10.com/detail/20251228180224795800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 20时31分]"
+        },
+        {
           "title": "特朗普为美国带来了什么改变",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%BB%80%E4%B9%88%E6%94%B9%E5%8F%98",
           "source": "bilibili 热搜",
@@ -216,17 +230,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时21分 ~ 02时22分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-28）",
-          "url": "https://flash.jin10.com/detail/20251228180224795800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
         }
       ]
     },
@@ -245,8 +248,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时43分 ~ 19时14分]"
+          "appearance_count": 16,
+          "time_info": "[11时43分 ~ 20时31分]"
         },
         {
           "title": "伊朗总统称，如今伊朗的军队和武器比以色列夏季发动袭击时更加强大。",
@@ -326,7 +329,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "原告出示证据 右下角写着“AI生成”",
@@ -362,11 +365,23 @@
             2,
             4,
             8,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时21分 ~ 19时14分]"
+          "appearance_count": 5,
+          "time_info": "[16时21分 ~ 20时31分]"
+        },
+        {
+          "title": "2025最全AI成果盘点",
+          "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时30分 ~ 20时31分]"
         },
         {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
@@ -396,7 +411,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "北京骑手成抢手资源，美团淘宝推出最高 3000 元奖励，能吸引骑手转会吗？骑手最看重平台哪些保障？",
@@ -440,6 +455,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时18分 ~ 09时21分]"
+        },
+        {
+          "title": "正直播CBA：福建VS北京",
+          "url": "https://www.toutiao.com/trending/7588460680716566537/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时30分 ~ 20时31分]"
+        },
+        {
+          "title": "谭松韵北京见面会",
+          "url": "https://www.douyin.com/hot/2349997",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时30分 ~ 20时31分]"
         }
       ]
     },
