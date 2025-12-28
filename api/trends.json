@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T20:31:08.477103+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2025-12-28T21:26:47.122430+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时40分 ~ 20时31分]"
+          "appearance_count": 15,
+          "time_info": "[12时40分 ~ 21时26分]"
         },
         {
           "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
@@ -101,6 +101,17 @@
           "time_info": "[00时18分 ~ 09时21分]"
         },
         {
+          "title": "泽连斯基：我想跟特朗普谈5个问题",
+          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时16分 ~ 21时26分]"
+        },
+        {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
           "url": "https://wallstreetcn.com/articles/3762159",
           "source": "华尔街见闻",
@@ -110,17 +121,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时18分 ~ 03时12分]"
-        },
-        {
-          "title": "泽连斯基：我想跟特朗普谈5个问题",
-          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时16分 ~ 20时31分]"
         },
         {
           "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
@@ -248,8 +248,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时43分 ~ 20时31分]"
+          "appearance_count": 17,
+          "time_info": "[11时43分 ~ 21时26分]"
         },
         {
           "title": "伊朗总统称，如今伊朗的军队和武器比以色列夏季发动袭击时更加强大。",
@@ -377,11 +377,12 @@
           "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时30分 ~ 20时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时30分 ~ 21时26分]"
         },
         {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
@@ -464,8 +465,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时30分 ~ 20时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时30分 ~ 21时26分]"
         },
         {
           "title": "谭松韵北京见面会",
