@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T17:16:31.818949+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2025-12-28T18:16:47.916815+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -31,6 +31,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时18分 ~ 09时21分]"
+        },
+        {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时40分 ~ 18时16分]"
         },
         {
           "title": "特朗普海湖庄园将上演“鸿门宴”吗",
@@ -60,18 +73,6 @@
           "time_info": "[00时18分 ~ 09时21分]"
         },
         {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时40分 ~ 17时16分]"
-        },
-        {
           "title": "美国总统特朗普：美国的犯罪率处于历史最低水平。这在很大程度上要归功于历史上最成功的南部边境行动。此外，今天在美国工作的人比以往任何时候都多。",
           "url": "https://flash.jin10.com/detail/20251227213217547800",
           "source": "金十数据",
@@ -82,6 +83,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时18分 ~ 09时21分]"
+        },
+        {
+          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
+          "url": "https://www.toutiao.com/trending/7588795037148794414/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时16分]"
         },
         {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
@@ -131,18 +145,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时21分 ~ 11时44分]"
-        },
-        {
-          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
-          "url": "https://www.toutiao.com/trending/7588795037148794414/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时16分]"
         },
         {
           "title": "特朗普敦促共和党人终结参议院的阻挠议事规则",
@@ -202,6 +204,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时21分 ~ 02时22分]"
+        },
+        {
+          "title": "泽连斯基：我想跟特朗普谈5个问题",
+          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     },
@@ -216,11 +229,12 @@
           "ranks": [
             6,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时43分 ~ 17时16分]"
+          "appearance_count": 12,
+          "time_info": "[11时43分 ~ 18时16分]"
         },
         {
           "title": "伊朗总统称，如今伊朗的军队和武器比以色列夏季发动袭击时更加强大。",
@@ -334,11 +348,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时16分]"
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时16分]"
         },
         {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
@@ -445,6 +460,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时44分 ~ 13时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "python",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Python 有什么更快的三角函数模块吗，牺牲精度也可以被允许？",
+          "url": "https://www.zhihu.com/question/1982886230745182287",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     }
