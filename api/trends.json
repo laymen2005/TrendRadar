@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T06:16:05.121690+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2025-12-30T07:15:46.731677+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时23分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[02时23分 ~ 07时15分]"
         },
         {
           "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 07时15分]"
         },
         {
           "title": "白宫发言人：美国总统特朗普已就乌克兰问题与俄罗斯总统普京进行了积极的通话。",
@@ -73,17 +74,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
-        },
-        {
-          "title": "周一（12月29日），降息赢家指数跌0.71%，报99.67点。 “特朗普关税输家”指数跌0.57%，报112.08点。 “特朗普金融指数”跌1.33%，报174.82点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.43%，报15.64点。",
-          "url": "https://wallstreetcn.com/livenews/3028346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
         },
         {
           "title": "美国总统特朗普：如果哈马斯不解除武装，必将付出代价。",
@@ -223,6 +213,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时15分]"
+        },
+        {
+          "title": "周一（12月29日），降息赢家指数跌0.71%，报99.67点。 “特朗普关税输家”指数跌0.57%，报112.08点。 “特朗普金融指数”跌1.33%，报174.82点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.43%，报15.64点。",
+          "url": "https://wallstreetcn.com/livenews/3028346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时15分]"
         },
         {
           "title": "特朗普：若伊朗发展核武器，支持对伊朗发动快速打击",
@@ -426,6 +428,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时15分]"
+        },
+        {
+          "title": "美国联邦住房金融局（FHFA）局长、“反美联储先锋”Bill Pulte：总统特朗普总统说得对，杰罗姆·鲍威尔必须辞职。",
+          "url": "https://wallstreetcn.com/livenews/3028340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时15分]"
         },
         {
           "title": "特朗普：美军在委内瑞拉行动中摧毁一大型设施",
@@ -686,24 +700,13 @@
           "time_info": "05时15分"
         },
         {
-          "title": "美国联邦住房金融局（FHFA）局长、“反美联储先锋”Bill Pulte：总统特朗普总统说得对，杰罗姆·鲍威尔必须辞职。",
-          "url": "https://wallstreetcn.com/livenews/3028340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
           "title": "特朗普：正考虑以无能为由起诉鲍威尔",
           "url": "https://wallstreetcn.com/livenews/3028336",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -714,7 +717,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -725,7 +728,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -747,7 +750,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -769,7 +772,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -791,7 +794,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -813,7 +816,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -835,7 +838,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -846,7 +849,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -890,7 +893,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -901,104 +904,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "北京",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "周一（12月29日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.9971元，较上周五纽约尾盘涨74点，日内整体交投于7.0152-6.9936元区间。",
-          "url": "https://wallstreetcn.com/livenews/3028350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "美国能源信息署（EIA）将于美东时间周一下午5点（北京时间周二早上6点）发布周度原油库存报告。该报告原定于北京时间29日夜间公布。",
-          "url": "https://flash.jin10.com/detail/20251230050240402800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "周一（12月29日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘跌0.30%，报87695美元，北京时间12:38曾涨至90990美元。 CME以太币期货DCR主力合约涨0.36%，报2947.50美元，12:20也曾涨至3074.50美元。",
-          "url": "https://wallstreetcn.com/livenews/3028348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0056元，较上一个交易日夜盘收盘涨7点。成交量340.33亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3028311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时19分 ~ 06时16分]"
-        },
-        {
-          "title": "提醒：美国能源信息署（EIA）将于美东时间17:00（北京时间06:00）发布政府版原油库存周报。",
-          "url": "https://wallstreetcn.com/livenews/3028326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时16分]"
-        },
-        {
-          "title": "（美股）费城金银指数收跌5.21%，报344.29点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌4.76%，报2449.98点，北京时间22:30美股开盘时跳空（加速）下跌。 原材料指数跌1.59%，金属与矿业指数跌1.95%。",
-          "url": "https://wallstreetcn.com/livenews/3028344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "提醒：原定北京时间23:30披露的美国能源信息署（EIA）将发布政府版原油库存周报被推迟，本次报告已经因上周休市而延后发布。",
-          "url": "https://wallstreetcn.com/livenews/3028240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "周一（12月29日），彭博电动汽车价格回报指数跌0.44%，报3465.63点。 北京时间09:30之前，指数“跳空”反弹，刷新日高至3516.09点，后续逐步回落，22:30美股开盘时快速下挫。",
-          "url": "https://wallstreetcn.com/livenews/3028331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "06时16分"
         }
@@ -1006,7 +912,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
@@ -1017,8 +923,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 07时15分]"
         },
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -1029,8 +935,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 07时15分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -1042,11 +948,12 @@
             10,
             9,
             22,
-            26
+            26,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 07时15分]"
         },
         {
           "title": "AI应用2026前瞻：豆包千问元宝加速“跑马圈地” AI原生硬件聚焦“真需求”商业化提速",
@@ -1054,11 +961,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时14分 ~ 06时16分]"
+          "appearance_count": 12,
+          "time_info": "[01时14分 ~ 07时15分]"
         },
         {
           "title": "用一个字证明自己不是AI",
@@ -1090,6 +998,39 @@
           "time_info": "[00时19分 ~ 05时15分]"
         },
         {
+          "title": "Meta公司首席人工智能官ALEXANDR WANG：很高兴宣布，Manus AI已加入Meta公司，助力我们打造人工智能产品。",
+          "url": "https://flash.jin10.com/detail/20251230062733774800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "Meta收购Manus，从而加速AI创新。",
+          "url": "https://wallstreetcn.com/livenews/3028361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "东部战区发布的AI视频意味深长",
+          "url": "https://www.toutiao.com/trending/7589159411391217700/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡声称：计划让以色列成为人工智能（AI）科技领域的主导者。",
           "url": "https://wallstreetcn.com/livenews/3028222",
           "source": "华尔街见闻-快讯",
@@ -1099,6 +1040,117 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "北京",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美国能源信息署（EIA）将于美东时间周一下午5点（北京时间周二早上6点）发布周度原油库存报告。该报告原定于北京时间29日夜间公布。",
+          "url": "https://flash.jin10.com/detail/20251230050240402800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0056元，较上一个交易日夜盘收盘涨7点。成交量340.33亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3028311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 06时16分]"
+        },
+        {
+          "title": "提醒：美国能源信息署（EIA）将于美东时间17:00（北京时间06:00）发布政府版原油库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3028326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时16分]"
+        },
+        {
+          "title": "周一（12月29日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.9971元，较上周五纽约尾盘涨74点，日内整体交投于7.0152-6.9936元区间。",
+          "url": "https://wallstreetcn.com/livenews/3028350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
+          "title": "周一（12月29日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘跌0.30%，报87695美元，北京时间12:38曾涨至90990美元。 CME以太币期货DCR主力合约涨0.36%，报2947.50美元，12:20也曾涨至3074.50美元。",
+          "url": "https://wallstreetcn.com/livenews/3028348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
+          "title": "（美股）费城金银指数收跌5.21%，报344.29点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌4.76%，报2449.98点，北京时间22:30美股开盘时跳空（加速）下跌。 原材料指数跌1.59%，金属与矿业指数跌1.95%。",
+          "url": "https://wallstreetcn.com/livenews/3028344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
+          "title": "提醒：日内请重点关注（以下均为北京时间）",
+          "url": "https://wallstreetcn.com/livenews/3028359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "提醒：原定北京时间23:30披露的美国能源信息署（EIA）将发布政府版原油库存周报被推迟，本次报告已经因上周休市而延后发布。",
+          "url": "https://wallstreetcn.com/livenews/3028240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "周一（12月29日），彭博电动汽车价格回报指数跌0.44%，报3465.63点。 北京时间09:30之前，指数“跳空”反弹，刷新日高至3516.09点，后续逐步回落，22:30美股开盘时快速下挫。",
+          "url": "https://wallstreetcn.com/livenews/3028331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         }
       ]
     },
