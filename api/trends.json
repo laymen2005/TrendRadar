@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T20:33:45.862887+08:00",
-  "total_titles_processed": 1606,
+  "generated_at": "2025-12-29T21:35:07.725156+08:00",
+  "total_titles_processed": 1683,
   "failed_sources": [],
   "trends": [
     {
@@ -52,6 +52,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时18分 ~ 07时15分]"
+        },
+        {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时22分 ~ 21时35分]"
         },
         {
           "title": "特朗普当众施压泽连斯基",
@@ -135,19 +148,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时19分 ~ 14时28分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时22分 ~ 20时33分]"
         },
         {
           "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，即将会见美国总统特朗普。",
@@ -959,143 +959,8 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "用一个字证明自己不是AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AFAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 09时19分]"
-        },
-        {
-          "title": "2025最全AI成果盘点",
-          "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            5,
-            4,
-            13,
-            16,
-            23,
-            28,
-            22,
-            20,
-            25,
-            18,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时18分 ~ 20时33分]"
-        },
-        {
-          "title": "摄影大赛一等奖作品被指AI生成",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%91%84%E5%BD%B1%E5%A4%A7%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%E4%BD%9C%E5%93%81%E8%A2%AB%E6%8C%87AI%E7%94%9F%E6%88%90%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "千亿私募景林最新发声：2026年或成AI Agent真正普及的元年",
-          "url": "https://wallstreetcn.com/livenews/3027976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时25分]"
-        },
-        {
-          "title": "美媒开嘲：中国电网是AI的重要助力，而英国电网60年没升级了",
-          "url": "https://news.ifeng.com/c/8pTi30wjZbr",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 17时26分]"
-        },
-        {
-          "title": "涨价的风吹到PCB上游：龙头调涨CCL价格10% AI驱动行业进入上升周期",
-          "url": "https://www.cls.cn/detail/2242491",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时25分 ~ 19时15分]"
-        },
-        {
-          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
-          "url": "https://www.cls.cn/detail/2242969",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时33分]"
-        },
-        {
-          "title": "火山引擎官宣成为总台春晚独家AI云合作伙伴",
-          "url": "https://wallstreetcn.com/livenews/3027884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 13时25分]"
-        },
-        {
-          "title": "国产AI大战迈入新阶段？豆包日活破亿 机构：“Chatbot入口之争”已然意义不大",
-          "url": "https://www.cls.cn/detail/2241925",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "“AI教父”警告2026年将迎失业潮",
-          "url": "https://www.toutiao.com/trending/7588750168670748713/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "北京",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "消失 30 年的「中国豹」重现北京附近，这一生态事件对当地生物多样性有何意义？",
@@ -1177,6 +1042,17 @@
           "time_info": "[17时26分 ~ 18时19分]"
         },
         {
+          "title": "北京新政首周末直击：有新盘到访量增三成，二手房咨询带看量齐升",
+          "url": "https://wallstreetcn.com/livenews/3028177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "金十图示：北京时间12月29日23:00将有欧美、美日、美加等外汇期权大单到期，2个行权价10亿以上大单，敬请管理风险。",
           "url": "https://flash.jin10.com/detail/20251229155547686800",
           "source": "金十数据",
@@ -1208,6 +1084,142 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "用一个字证明自己不是AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AFAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 09时19分]"
+        },
+        {
+          "title": "2025最全AI成果盘点",
+          "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            5,
+            4,
+            13,
+            16,
+            23,
+            28,
+            22,
+            20,
+            25,
+            18,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 29,
+          "time_info": "[00时18分 ~ 21时35分]"
+        },
+        {
+          "title": "摄影大赛一等奖作品被指AI生成",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%91%84%E5%BD%B1%E5%A4%A7%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%E4%BD%9C%E5%93%81%E8%A2%AB%E6%8C%87AI%E7%94%9F%E6%88%90%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2242969",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时35分]"
+        },
+        {
+          "title": "千亿私募景林最新发声：2026年或成AI Agent真正普及的元年",
+          "url": "https://wallstreetcn.com/livenews/3027976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时25分]"
+        },
+        {
+          "title": "美媒开嘲：中国电网是AI的重要助力，而英国电网60年没升级了",
+          "url": "https://news.ifeng.com/c/8pTi30wjZbr",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 17时26分]"
+        },
+        {
+          "title": "涨价的风吹到PCB上游：龙头调涨CCL价格10% AI驱动行业进入上升周期",
+          "url": "https://www.cls.cn/detail/2242491",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 19时15分]"
+        },
+        {
+          "title": "火山引擎官宣成为总台春晚独家AI云合作伙伴",
+          "url": "https://wallstreetcn.com/livenews/3027884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 13时25分]"
+        },
+        {
+          "title": "国产AI大战迈入新阶段？豆包日活破亿 机构：“Chatbot入口之争”已然意义不大",
+          "url": "https://www.cls.cn/detail/2241925",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "“AI教父”警告2026年将迎失业潮",
+          "url": "https://www.toutiao.com/trending/7588750168670748713/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         }
       ]
     },
