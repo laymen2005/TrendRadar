@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T16:23:22.344869+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2025-12-31T17:21:03.518489+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
@@ -106,8 +106,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时23分 ~ 16时23分]"
+          "appearance_count": 8,
+          "time_info": "[11时23分 ~ 17时21分]"
         },
         {
           "title": "AI耳机销量涨超600%，智能穿戴设备功能持续提升",
@@ -145,6 +145,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
+          "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
+          "url": "https://www.cls.cn/detail/2245117",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时20分 ~ 17时21分]"
         },
         {
           "title": "英伟达洽谈按至多30亿美元收购以色列AI21 Labs。 在2023年那一轮融资中，AI21 Labs获得14亿美元估值，英伟达和Alphabet旗下谷歌公司都参与了那次融资。（路透）",
@@ -218,18 +230,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时15分]"
-        },
-        {
-          "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
-          "url": "https://www.cls.cn/detail/2245117",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 16时23分]"
         },
         {
           "title": "国家发改委：国产算力水平有望不断提升，为AI产业提供有力支撑",
@@ -493,11 +493,12 @@
             13,
             12,
             5,
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时23分 ~ 16时23分]"
+          "appearance_count": 8,
+          "time_info": "[11时23分 ~ 17时21分]"
         },
         {
           "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
@@ -712,7 +713,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "此时，美驻华大使在北京“硬刷存在感”",
@@ -745,8 +746,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 14时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 17时21分]"
         },
         {
           "title": "北京宠物犬中毒刑案受害人：至截止日被告人没上诉",
@@ -761,8 +762,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 16时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 17时21分]"
+        },
+        {
+          "title": "Gr vs 北京WBG IVL秋季赛",
+          "url": "https://search.bilibili.com/all?keyword=IVL",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 17时21分]"
         },
         {
           "title": "北京范儿新年祈福",
@@ -774,17 +787,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时20分 ~ 16时23分]"
-        },
-        {
-          "title": "Gr vs 北京WBG IVL秋季赛",
-          "url": "https://search.bilibili.com/all?keyword=IVL",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
         },
         {
           "title": "提醒：北京时间03:00，美联储将发布12月FOMC货币政策会议的纪要文件。",
@@ -850,6 +852,17 @@
           "time_info": "[04时18分 ~ 06时16分]"
         },
         {
+          "title": "北京卫视跨年节目单来了",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E8%8A%82%E7%9B%AE%E5%8D%95%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时20分 ~ 17时21分]"
+        },
+        {
           "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
           "url": "https://wallstreetcn.com/livenews/3028927",
           "source": "华尔街见闻-快讯",
@@ -862,24 +875,13 @@
           "time_info": "[06时16分 ~ 07时15分]"
         },
         {
-          "title": "北京卫视跨年节目单来了",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E8%8A%82%E7%9B%AE%E5%8D%95%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 16时23分]"
-        },
-        {
           "title": "金十图示：北京时间12月31日23:00将有欧美、美日等外汇期权大单到期，1个行权价10亿以上大单，敬请管理风险。",
           "url": "https://flash.jin10.com/detail/20251231152251989800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -893,6 +895,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9890，较上一交易日官方收盘价涨11点，较上日夜盘收盘涨52点。",
+          "url": "https://wallstreetcn.com/livenews/3029206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "北京体育局：马龙王楚钦拟记大功",
@@ -942,7 +955,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗外长：伊朗不会放弃和平核技术",
@@ -956,6 +969,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 04时18分]"
+        },
+        {
+          "title": "年末伊朗又起内忧：货币暴跌、三年来最大抗议",
+          "url": "https://news.ifeng.com/c/8pXBVSUicd9",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
         },
         {
           "title": "伊朗外长：伊朗不会放弃和平核技术",
