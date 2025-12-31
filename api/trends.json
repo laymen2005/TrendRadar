@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T22:16:56.328884+08:00",
-  "total_titles_processed": 1860,
+  "generated_at": "2025-12-31T23:16:53.699353+08:00",
+  "total_titles_processed": 1946,
   "failed_sources": [],
   "trends": [
     {
@@ -83,8 +83,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时23分 ~ 22时16分]"
+          "appearance_count": 16,
+          "time_info": "[11时23分 ~ 23时16分]"
         },
         {
           "title": "AI造假当庭露馅,法官严斥伪造者",
@@ -120,11 +120,12 @@
             13,
             11,
             10,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时17分 ~ 22时16分]"
+          "appearance_count": 8,
+          "time_info": "[18时17分 ~ 23时16分]"
         },
         {
           "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
@@ -134,11 +135,12 @@
             9,
             10,
             11,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时17分 ~ 22时16分]"
+          "appearance_count": 8,
+          "time_info": "[18时17分 ~ 23时16分]"
         },
         {
           "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
@@ -310,6 +312,18 @@
           "time_info": "[06时16分 ~ 07时15分]"
         },
         {
+          "title": "被问及是否存在AI泡沫，宇树人形机器人回答：“只有时间才能证明”",
+          "url": "https://wallstreetcn.com/livenews/3029366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时16分]"
+        },
+        {
           "title": "英伟达拟以最高30亿美元的价格收购以色列AI21 Labs",
           "url": "https://flash.jin10.com/detail/20251231015607378800",
           "source": "金十数据",
@@ -398,17 +412,6 @@
           "time_info": "02时24分"
         },
         {
-          "title": "被问及是否存在AI泡沫，宇树人形机器人回答：“只有时间才能证明”",
-          "url": "https://wallstreetcn.com/livenews/3029366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
           "title": "英伟达正就收购以色列人工智能初创公司AI21 Labs展开深入谈判，交易金额预计至高达30亿美元。",
           "url": "https://flash.jin10.com/detail/20251231011253846800",
           "source": "金十数据",
@@ -489,7 +492,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -588,17 +591,6 @@
           "time_info": "11时23分"
         },
         {
-          "title": "特朗普媒体科技集团(DJT.O)盘前上涨5.8%，此前该公司宣布计划向股东分发数字代币。",
-          "url": "https://flash.jin10.com/detail/20251231214148176800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
           "title": "外交部回应特朗普谈解放军军演",
           "url": "https://www.douyin.com/hot/2352044",
           "source": "抖音",
@@ -637,6 +629,18 @@
           "time_info": "[06时16分 ~ 07时15分]"
         },
         {
+          "title": "特朗普媒体科技集团(DJT.O)盘前上涨5.8%，此前该公司宣布计划向股东分发数字代币。",
+          "url": "https://flash.jin10.com/detail/20251231214148176800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时16分]"
+        },
+        {
           "title": "法官裁定：特朗普政府必须从美联储为CFPB申请资金",
           "url": "https://wallstreetcn.com/livenews/3028915",
           "source": "华尔街见闻-快讯",
@@ -673,6 +677,18 @@
           "time_info": "[06时16分 ~ 07时15分]"
         },
         {
+          "title": "特朗普媒体科技集团美股盘前涨近6%，此前该公司宣布计划向股东分发数字代币。",
+          "url": "https://wallstreetcn.com/livenews/3029381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时16分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：如果美国总统特朗普访问乌克兰，这将“很有用”。",
           "url": "https://flash.jin10.com/detail/20251230235722002800",
           "source": "金十数据",
@@ -695,17 +711,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 02时24分]"
-        },
-        {
-          "title": "特朗普媒体科技集团美股盘前涨近6%，此前该公司宣布计划向股东分发数字代币。",
-          "url": "https://wallstreetcn.com/livenews/3029381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
         },
         {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
@@ -736,9 +741,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)涨2.6%，此前该公司宣布计划向股东分发数字代币。",
+          "url": "https://flash.jin10.com/detail/20251231223046840800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "特朗普集团旗下Trump Mobile推迟原定于今年发布的金色智能手机",
@@ -908,17 +924,6 @@
           "time_info": "[15时20分 ~ 19时15分]"
         },
         {
-          "title": "据港交所文件：北京石头世纪科技股份有限公司向港交所提交上市申请书。",
-          "url": "https://wallstreetcn.com/livenews/3029390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
           "title": "提醒：北京时间03:00，美联储将发布12月FOMC货币政策会议的纪要文件。",
           "url": "https://wallstreetcn.com/livenews/3028895",
           "source": "华尔街见闻-快讯",
@@ -969,6 +974,18 @@
           "time_info": "[07时15分 ~ 14时26分]"
         },
         {
+          "title": "据港交所文件：北京石头世纪科技股份有限公司向港交所提交上市申请书。",
+          "url": "https://wallstreetcn.com/livenews/3029390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时16分]"
+        },
+        {
           "title": "美联储会议纪要发布后，美元指数涨幅重新扩大至将近0.2%，逼近北京时间23:44刷新的日高98.269点。 美国10年期国债收益率持稳于4.12%附近，维持大约1个基点的涨幅；两年期美债收益率持稳于3.4450%附近，保持微幅下挫状态。 2/10年期美债收益率利差维持大约1.4个基点的涨幅，持稳于+67个基点下方。",
           "url": "https://wallstreetcn.com/livenews/3028902",
           "source": "华尔街见闻-快讯",
@@ -980,6 +997,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时18分 ~ 06时16分]"
+        },
+        {
+          "title": "北京卫视跨年晚会开播",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E5%BC%80%E6%92%AD",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 23时16分]"
         },
         {
           "title": "北京卫视跨年晚会节目单",
@@ -994,28 +1024,17 @@
           "time_info": "[20时31分 ~ 21时31分]"
         },
         {
-          "title": "北京卫视跨年晚会开播",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E5%BC%80%E6%92%AD",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 22时16分]"
-        },
-        {
           "title": "北京卫视跨年晚会",
           "url": "https://www.toutiao.com/trending/7589543108032430134/",
           "source": "今日头条",
           "ranks": [
             30,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 22时16分]"
+          "appearance_count": 4,
+          "time_info": "[21时29分 ~ 23时16分]"
         },
         {
           "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
@@ -1042,6 +1061,18 @@
           "time_info": "[20时32分 ~ 21时31分]"
         },
         {
+          "title": "提醒：北京时间21:30，将公布美国12月27日当周首次申请失业救济人数。",
+          "url": "https://wallstreetcn.com/livenews/3029371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时16分]"
+        },
+        {
           "title": "在岸人民币兑美元北京时间16:30官方收报6.9890，较上一交易日官方收盘价涨11点，较上日夜盘收盘涨52点。",
           "url": "https://wallstreetcn.com/livenews/3029206",
           "source": "华尔街见闻-快讯",
@@ -1052,6 +1083,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时21分 ~ 18时17分]"
+        },
+        {
+          "title": "北京卫视跨年晚会",
+          "url": "https://www.douyin.com/hot/2353422",
+          "source": "抖音",
+          "ranks": [
+            28,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时16分]"
         },
         {
           "title": "北京：2025年建设筹集保租房约6.7万套，竣工各类保障房近10万套",
@@ -1085,17 +1128,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
-        },
-        {
-          "title": "提醒：北京时间21:30，将公布美国12月27日当周首次申请失业救济人数。",
-          "url": "https://wallstreetcn.com/livenews/3029371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
         },
         {
           "title": "北京体育局：马龙王楚钦拟记大功",
@@ -1140,17 +1172,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
-        },
-        {
-          "title": "北京卫视跨年晚会",
-          "url": "https://www.douyin.com/hot/2353422",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
         }
       ]
     },
