@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T17:20:54.413624+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-01-01T18:18:19.846892+08:00",
+  "total_titles_processed": 1303,
   "failed_sources": [],
   "trends": [
     {
@@ -245,8 +245,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时21分 ~ 17时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时21分 ~ 18时18分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -256,8 +256,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时46分 ~ 17时20分]"
+          "appearance_count": 11,
+          "time_info": "[11时46分 ~ 18时18分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -267,8 +267,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时46分 ~ 17时20分]"
+          "appearance_count": 11,
+          "time_info": "[11时46分 ~ 18时18分]"
         },
         {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
@@ -305,6 +305,19 @@
           "time_info": "[00时20分 ~ 07时15分]"
         },
         {
+          "title": "展望半导体2026三大关键词：存储、AI、国产化",
+          "url": "https://www.cls.cn/detail/2245258",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时25分 ~ 18时18分]"
+        },
+        {
           "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
           "url": "https://wallstreetcn.com/articles/3762372",
           "source": "华尔街见闻",
@@ -316,18 +329,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时21分 ~ 14时26分]"
-        },
-        {
-          "title": "展望半导体2026三大关键词：存储、AI、国产化",
-          "url": "https://www.cls.cn/detail/2245258",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时25分 ~ 17时20分]"
         },
         {
           "title": "法国总统马克龙：呼吁欧洲在AI和量子计算技术领域实现独立。",
@@ -355,6 +356,18 @@
           "time_info": "[06时16分 ~ 09时21分]"
         },
         {
+          "title": "AI魔改翻车,广电出手救名著",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%2C%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时18分]"
+        },
+        {
           "title": "宇树人形机器人回应AI是否存在泡沫",
           "url": "https://www.toutiao.com/trending/7589927689303326763/",
           "source": "今日头条",
@@ -365,17 +378,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时46分 ~ 13时23分]"
-        },
-        {
-          "title": "AI魔改翻车,广电出手救名著",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%2C%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         },
         {
           "title": "报道：英伟达正投资布鲁克菲尔德AI基础设施基金",
@@ -395,7 +397,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         }
@@ -412,11 +414,12 @@
           "ranks": [
             5,
             17,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时19分 ~ 17时20分]"
+          "appearance_count": 5,
+          "time_info": "[15时19分 ~ 18时18分]"
         },
         {
           "title": "比特币跌穿87600美元刷新日低，日内稍早持续震荡上行，北京时间22:09还曾涨至89081.91美元刷新日高，之后相对显著地持续下挫。 彭博数据显示，狗狗币短线跳水，日内整体跌超5.13%，刷新日低至0.1164美元。",
@@ -531,8 +534,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时21分 ~ 17时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时21分 ~ 18时18分]"
         }
       ]
     },
