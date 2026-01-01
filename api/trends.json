@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T13:23:50.298654+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-01-01T14:26:14.760360+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时21分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时21分 ~ 14时26分]"
         },
         {
           "title": "美国总统特朗普宣布：从芝加哥、洛杉矶、波特兰撤走国民警卫队。",
@@ -217,7 +217,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI魔改翻车!广电出手救名著",
@@ -226,11 +226,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 13时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时46分 ~ 14时26分]"
         },
         {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
@@ -272,11 +273,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时21分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时21分 ~ 14时26分]"
         },
         {
           "title": "“AI教父”警告：AI显现自我保护迹象，人类应做好“拔掉插头”的准备",
@@ -284,11 +286,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时21分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时21分 ~ 14时26分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -298,8 +301,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 13时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时46分 ~ 14时26分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -309,8 +312,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 13时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时46分 ~ 14时26分]"
         },
         {
           "title": "法国总统马克龙：呼吁欧洲在AI和量子计算技术领域实现独立。",
@@ -336,6 +339,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时16分 ~ 09时21分]"
+        },
+        {
+          "title": "展望半导体2026三大关键词：存储、AI、国产化",
+          "url": "https://www.cls.cn/detail/2245258",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 14时26分]"
         },
         {
           "title": "宇树人形机器人回应AI是否存在泡沫",
@@ -364,7 +378,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "比特币跌穿87600美元刷新日低，日内稍早持续震荡上行，北京时间22:09还曾涨至89081.91美元刷新日高，之后相对显著地持续下挫。 彭博数据显示，狗狗币短线跳水，日内整体跌超5.13%，刷新日低至0.1164美元。",
@@ -430,6 +444,17 @@
           "time_info": "[00时20分 ~ 01时14分]"
         },
         {
+          "title": "北京北汽队今晚迎战广东东阳光队",
+          "url": "https://www.toutiao.com/trending/7589923870930108479/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 14时26分]"
+        },
+        {
           "title": "美驻华大使在北京“硬刷存在感”",
           "url": "https://www.toutiao.com/trending/7589198464137035782/",
           "source": "今日头条",
@@ -464,11 +489,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时21分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时21分 ~ 14时26分]"
         }
       ]
     },
