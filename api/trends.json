@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T14:26:14.027266+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2026-01-02T15:20:55.719411+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
@@ -117,11 +117,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%89%8B%E4%B8%8A%E7%98%80%E4%BC%A4%E6%98%AF%E6%9C%8D%E7%94%A8%E8%8D%AF%E7%89%A9%E9%80%A0%E6%88%90",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 15时20分]"
         },
         {
           "title": "特朗普宣布从芝加哥等三座城市撤军",
@@ -133,6 +134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "特朗普承认服用阿司匹林",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%8D%E7%94%A8%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "特朗普行使连任后首次否决权，拒绝资助美国科罗拉多州与佛罗里达州基建项目",
@@ -178,11 +190,12 @@
             8,
             4,
             13,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 14时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 15时20分]"
         },
         {
           "title": "一位普通北京市民的2025年消费记录",
@@ -193,8 +206,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 14时26分]"
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 15时20分]"
+        },
+        {
+          "title": "一位普通北京市民的2025年消费记录",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%BD%8D%E6%99%AE%E9%80%9A%E5%8C%97%E4%BA%AC%E5%B8%82%E6%B0%91%E7%9A%842025%E5%B9%B4%E6%B6%88%E8%B4%B9%E8%AE%B0%E5%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时36分 ~ 15时20分]"
         },
         {
           "title": "亚洲最大地下综合交通枢纽的北京通州站新开通运营，解决了哪些问题？体验怎么样？",
@@ -224,19 +251,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时20分 ~ 05时15分]"
-        },
-        {
-          "title": "一位普通北京市民的2025年消费记录",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%BD%8D%E6%99%AE%E9%80%9A%E5%8C%97%E4%BA%AC%E5%B8%82%E6%B0%91%E7%9A%842025%E5%B9%B4%E6%B6%88%E8%B4%B9%E8%AE%B0%E5%BD%95",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时36分 ~ 14时26分]"
         },
         {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
@@ -276,7 +290,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -287,8 +301,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 14时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 15时20分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -297,11 +311,12 @@
           "ranks": [
             11,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 14时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 15时20分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -324,8 +339,20 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 15时20分]"
+        },
+        {
+          "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
+          "url": "https://www.cls.cn/detail/2246252",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时15分 ~ 14时26分]"
+          "time_info": "[11时27分 ~ 15时20分]"
         },
         {
           "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
@@ -342,18 +369,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时20分 ~ 06时16分]"
-        },
-        {
-          "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
-          "url": "https://www.cls.cn/detail/2246252",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 14时26分]"
         },
         {
           "title": "年度比较火的「十大 AI 工具」，都有哪些啊？",
@@ -378,6 +393,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时15分 ~ 11时27分]"
+        },
+        {
+          "title": "谷歌AI的逆风翻盘史",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E7%9A%84%E9%80%86%E9%A3%8E%E7%BF%BB%E7%9B%98%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         }
       ]
     },
@@ -385,6 +411,19 @@
       "keyword_group": "伊朗",
       "match_count": 6,
       "titles": [
+        {
+          "title": "伊朗多省示威致6死，总统发声",
+          "url": "https://news.ifeng.com/c/8pa0NxsOAWN",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 15时20分]"
+        },
         {
           "title": "伊朗总统发声：伊朗正处于一场全面战争中",
           "url": "https://news.ifeng.com/c/8pZJzBvxf8X",
@@ -395,18 +434,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "伊朗多省示威致6死，总统发声",
-          "url": "https://news.ifeng.com/c/8pa0NxsOAWN",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 14时26分]"
         },
         {
           "title": "伊朗一警察局遭暴徒袭击 已致3死17伤",
