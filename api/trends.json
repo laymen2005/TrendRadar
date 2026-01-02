@@ -1,8 +1,185 @@
 {
-  "generated_at": "2026-01-02T16:23:06.141384+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2026-01-02T17:20:24.991773+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "北京",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "CBA新年大战北京胜广东",
+          "url": "https://www.douyin.com/hot/2354452",
+          "source": "抖音",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时15分]"
+        },
+        {
+          "title": "一位普通北京市民的2025年消费记录",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%BD%8D%E6%99%AE%E9%80%9A%E5%8C%97%E4%BA%AC%E5%B8%82%E6%B0%91%E7%9A%842025%E5%B9%B4%E6%B6%88%E8%B4%B9%E8%AE%B0%E5%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            10,
+            6,
+            5,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时36分 ~ 17时20分]"
+        },
+        {
+          "title": "一位普通北京市民的2025年消费记录",
+          "url": "https://www.toutiao.com/trending/7590580474968280582/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            1,
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时21分 ~ 17时20分]"
+        },
+        {
+          "title": "北京一餐厅跨年夜排队3000桌",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E9%A4%90%E5%8E%85%E8%B7%A8%E5%B9%B4%E5%A4%9C%E6%8E%92%E9%98%9F3000%E6%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            19,
+            20,
+            22,
+            23,
+            28,
+            27,
+            8,
+            4,
+            13,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 15时20分]"
+        },
+        {
+          "title": "北京WB RW侠 挑战者杯决赛",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E8%80%85%E6%9D%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "亚洲最大地下综合交通枢纽的北京通州站新开通运营，解决了哪些问题？体验怎么样？",
+          "url": "https://www.zhihu.com/question/1989298950004504532",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10,
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时27分 ~ 14时26分]"
+        },
+        {
+          "title": "北京两机场2025年旅客吞吐量超1.2亿人次",
+          "url": "https://wallstreetcn.com/livenews/3029622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            18,
+            23,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时15分]"
+        },
+        {
+          "title": "提醒：日内请重点关注（以下均为北京时间）",
+          "url": "https://wallstreetcn.com/livenews/3029663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 09时15分]"
+        },
+        {
+          "title": "提醒：北京时间16:50-17:00，将陆续公布法国12月制造业PMI终值、德国12月制造业PMI终值、欧元区12月制造业PMI终值、欧元区11月M3货币供应。",
+          "url": "https://wallstreetcn.com/livenews/3029782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "北京男篮主帅谈大胜广东队",
+          "url": "https://www.toutiao.com/trending/7589855545604620339/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        },
+        {
+          "title": "一位普通北京市民的2025年消费记录",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BD%8D%E6%99%AE%E9%80%9A%E5%8C%97%E4%BA%AC%E5%B8%82%E6%B0%91%E7%9A%842025%E5%B9%B4%E6%B6%88%E8%B4%B9%E8%AE%B0%E5%BD%95%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "北京一餐厅跨年夜排队3000桌",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E9%A4%90%E5%8E%85%E8%B7%A8%E5%B9%B4%E5%A4%9C%E6%8E%92%E9%98%9F3000%E6%A1%8C%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "金十图示：北京时间1月2日23:00将有欧美、美日等外汇期权大单到期，今日没有行权价10亿以上大单，敬请管理风险。",
+          "url": "https://flash.jin10.com/detail/20260102161743982800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 13,
@@ -100,6 +277,18 @@
           "time_info": "[04时19分 ~ 07时16分]"
         },
         {
+          "title": "特朗普承认服用阿司匹林",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%8D%E7%94%A8%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时20分 ~ 17时20分]"
+        },
+        {
           "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
           "url": "https://flash.jin10.com/detail/20260101224323084800",
           "source": "金十数据",
@@ -111,17 +300,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时20分 ~ 02时23分]"
-        },
-        {
-          "title": "特朗普承认服用阿司匹林",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%8D%E7%94%A8%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 16时23分]"
         },
         {
           "title": "特朗普承认手上瘀伤是服用药物造成",
@@ -142,7 +320,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -171,139 +349,8 @@
       ]
     },
     {
-      "keyword_group": "北京",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "CBA新年大战北京胜广东",
-          "url": "https://www.douyin.com/hot/2354452",
-          "source": "抖音",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 09时15分]"
-        },
-        {
-          "title": "北京一餐厅跨年夜排队3000桌",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E4%B8%80%E9%A4%90%E5%8E%85%E8%B7%A8%E5%B9%B4%E5%A4%9C%E6%8E%92%E9%98%9F3000%E6%A1%8C",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            19,
-            20,
-            22,
-            23,
-            28,
-            27,
-            8,
-            4,
-            13,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时20分 ~ 15时20分]"
-        },
-        {
-          "title": "一位普通北京市民的2025年消费记录",
-          "url": "https://www.toutiao.com/trending/7590580474968280582/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时21分 ~ 16时23分]"
-        },
-        {
-          "title": "一位普通北京市民的2025年消费记录",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%BD%8D%E6%99%AE%E9%80%9A%E5%8C%97%E4%BA%AC%E5%B8%82%E6%B0%91%E7%9A%842025%E5%B9%B4%E6%B6%88%E8%B4%B9%E8%AE%B0%E5%BD%95",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            10,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时36分 ~ 16时23分]"
-        },
-        {
-          "title": "亚洲最大地下综合交通枢纽的北京通州站新开通运营，解决了哪些问题？体验怎么样？",
-          "url": "https://www.zhihu.com/question/1989298950004504532",
-          "source": "知乎",
-          "ranks": [
-            15,
-            10,
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 14时26分]"
-        },
-        {
-          "title": "北京两机场2025年旅客吞吐量超1.2亿人次",
-          "url": "https://wallstreetcn.com/livenews/3029622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            18,
-            23,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时15分]"
-        },
-        {
-          "title": "提醒：日内请重点关注（以下均为北京时间）",
-          "url": "https://wallstreetcn.com/livenews/3029663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 09时15分]"
-        },
-        {
-          "title": "北京男篮主帅谈大胜广东队",
-          "url": "https://www.toutiao.com/trending/7589855545604620339/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "北京一餐厅跨年夜排队3000桌",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E9%A4%90%E5%8E%85%E8%B7%A8%E5%B9%B4%E5%A4%9C%E6%8E%92%E9%98%9F3000%E6%A1%8C%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "SemiAnalysis深度报告：美国电网跟不上，AI数据中心“自建电厂”跟时间赛跑",
@@ -315,8 +362,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时15分 ~ 16时23分]"
+          "appearance_count": 11,
+          "time_info": "[09时15分 ~ 17时20分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -328,8 +375,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时20分 ~ 16时23分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 17时20分]"
+        },
+        {
+          "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
+          "url": "https://www.cls.cn/detail/2246252",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时27分 ~ 17时20分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -342,8 +401,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时20分 ~ 16时23分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 17时20分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -355,18 +414,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时20分 ~ 09时15分]"
-        },
-        {
-          "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
-          "url": "https://www.cls.cn/detail/2246252",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时27分 ~ 16时23分]"
         },
         {
           "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
@@ -418,6 +465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "三星旗下的IT服务与云服务子公司SDS：将投入4270亿韩元在韩国建设AI数据中心。",
+          "url": "https://flash.jin10.com/detail/20260102161552396800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         }
       ]
     },
@@ -560,8 +618,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 17时20分]"
         },
         {
           "title": "消息称OpenAI大力研发音频AI模型",
