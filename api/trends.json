@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T17:16:14.508541+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2026-01-04T18:16:20.339685+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 167,
+      "match_count": 169,
       "titles": [
         {
           "title": "特朗普称抓获马杜罗及其夫人并带离委内瑞拉",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时18分 ~ 17时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时18分 ~ 18时16分]"
         },
         {
           "title": "美国“闪击”委内瑞拉：特朗普称将“管理”委内瑞拉直至实施“安全”过渡，深度介入石油产业",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时22分 ~ 17时16分]"
+          "appearance_count": 12,
+          "time_info": "[09时22分 ~ 18时16分]"
         },
         {
           "title": "特朗普威胁古巴、哥伦比亚",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时22分 ~ 17时16分]"
+          "appearance_count": 12,
+          "time_info": "[09时22分 ~ 18时16分]"
         },
         {
           "title": "特朗普称抓获委内瑞拉总统及其夫人，美国司法部长称二人已在美国被起诉，意味着什么？美国为什么能说抓就抓？",
@@ -171,8 +171,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时46分 ~ 17时16分]"
+          "appearance_count": 11,
+          "time_info": "[11时46分 ~ 18时16分]"
         },
         {
           "title": "特朗普发布马杜罗在美舰照片",
@@ -183,11 +183,12 @@
             13,
             14,
             11,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时22分 ~ 17时16分]"
+          "appearance_count": 18,
+          "time_info": "[02时22分 ~ 18时16分]"
         },
         {
           "title": "高市早苗准备到美国求特朗普撑腰，但日本可能被移出发达国家行列",
@@ -197,8 +198,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时46分 ~ 17时16分]"
+          "appearance_count": 11,
+          "time_info": "[11时46分 ~ 18时16分]"
         },
         {
           "title": "特朗普称已抓获委内瑞拉总统",
@@ -260,8 +261,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时46分 ~ 17时16分]"
+          "appearance_count": 11,
+          "time_info": "[11时46分 ~ 18时16分]"
         },
         {
           "title": "特朗普下令空袭委内瑞拉",
@@ -276,8 +277,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[04时17分 ~ 17时16分]"
+          "appearance_count": 15,
+          "time_info": "[04时17分 ~ 18时16分]"
         },
         {
           "title": "特朗普警告哥伦比亚总统“小心点”",
@@ -430,6 +431,18 @@
           "time_info": "[01时13分 ~ 09时22分]"
         },
         {
+          "title": "上周六新建账号、本周五下注“马杜罗被抓”、周日爆赚1242%--Polymarket又见“特朗普内幕交易”？",
+          "url": "https://wallstreetcn.com/articles/3762495",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时17分 ~ 18时16分]"
+        },
+        {
           "title": "特朗普称已抓获委内瑞拉总统",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B7%B2%E6%8A%93%E8%8E%B7%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%80%BB%E7%BB%9F%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -487,6 +500,22 @@
           "time_info": "[01时13分 ~ 07时15分]"
         },
         {
+          "title": "特朗普透露夜袭细节",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%8F%E9%9C%B2%E5%A4%9C%E8%A2%AD%E7%BB%86%E8%8A%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            18,
+            26,
+            23,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时46分 ~ 18时16分]"
+        },
+        {
           "title": "特朗普：对委行动中有美方人员受伤",
           "url": "https://www.toutiao.com/trending/7591143576059563571/",
           "source": "今日头条",
@@ -510,18 +539,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时18分 ~ 01时14分]"
-        },
-        {
-          "title": "上周六新建账号、本周五下注“马杜罗被抓”、周日爆赚1242%--Polymarket又见“特朗普内幕交易”？",
-          "url": "https://wallstreetcn.com/articles/3762495",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时17分 ~ 17时16分]"
         },
         {
           "title": "特朗普：将让美石油公司进入委内瑞拉",
@@ -551,21 +568,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时13分 ~ 07时15分]"
-        },
-        {
-          "title": "特朗普透露夜袭细节",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%8F%E9%9C%B2%E5%A4%9C%E8%A2%AD%E7%BB%86%E8%8A%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            18,
-            26,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时46分 ~ 17时16分]"
         },
         {
           "title": "委内瑞拉副总统Delcy Rodriguez在国家电视台表示：我们要求（特朗普政府）立即释放总统马杜罗。 我们永远都不会再沦为殖民地。 呼吁民众保持冷静。 委内瑞拉遭遇的（美国军事袭击）是野蛮粗暴的。 （美国）对总统马杜罗的“劫持”是非法的。 委内瑞拉准备捍卫自己的资源。",
@@ -1065,6 +1067,18 @@
           "time_info": "[01时14分 ~ 02时22分]"
         },
         {
+          "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
+          "url": "https://wallstreetcn.com/articles/3762494",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 18时16分]"
+        },
+        {
           "title": "美媒：特朗普政府对委军事行动激怒民主党人，多名议员提议罢免特朗普",
           "url": "https://wallstreetcn.com/livenews/3030203",
           "source": "华尔街见闻-快讯",
@@ -1128,16 +1142,16 @@
           "time_info": "[11时46分 ~ 12时45分]"
         },
         {
-          "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
-          "url": "https://wallstreetcn.com/articles/3762494",
-          "source": "华尔街见闻",
+          "title": "行动细节公布 将组团队管理委内瑞拉 特朗普发布会内容速览",
+          "url": "https://www.cls.cn/detail/2246765",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            13,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时21分 ~ 17时16分]"
+          "time_info": "[17时15分 ~ 18时16分]"
         },
         {
           "title": "纽约市长已致电特朗普",
@@ -1162,6 +1176,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时24分 ~ 15时18分]"
+        },
+        {
+          "title": "“斩首”委内瑞拉后，特朗普公开鼓吹“唐罗主义”：美国雄霸西半球再不受质疑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32309426",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 18时16分]"
+        },
+        {
+          "title": "特朗普：将让美大型石油公司进入委内瑞拉，不排除二次打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32307985",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 18时16分]"
         },
         {
           "title": "美国“闪击”委内瑞拉直播：特朗普称马杜罗夫妇在美国军舰上，美国将深度介入委内瑞拉石油产业",
@@ -1340,17 +1377,6 @@
           "time_info": "[11时46分 ~ 11时47分]"
         },
         {
-          "title": "行动细节公布 将组团队管理委内瑞拉 特朗普发布会内容速览",
-          "url": "https://www.cls.cn/detail/2246765",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 17时16分]"
-        },
-        {
           "title": "美国总统特朗普：马杜罗的剩余盟友如今行事已不同。",
           "url": "https://flash.jin10.com/detail/20260104012849985800",
           "source": "金十数据",
@@ -1399,17 +1425,6 @@
           "time_info": "[02时22分 ~ 03时12分]"
         },
         {
-          "title": "“斩首”委内瑞拉后，特朗普公开鼓吹“唐罗主义”：美国雄霸西半球再不受质疑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32309426",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 17时16分]"
-        },
-        {
           "title": "美国总统特朗普：接管委内瑞拉运营需要时间，必须重建基础设施。",
           "url": "https://flash.jin10.com/detail/20260104012427002800",
           "source": "金十数据",
@@ -1444,17 +1459,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时22分 ~ 03时12分]"
-        },
-        {
-          "title": "特朗普：将让美大型石油公司进入委内瑞拉，不排除二次打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32307985",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 17时16分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉反对派领导人玛丽亚·科丽娜·马查多愿意做必要的事情。",
@@ -1634,6 +1638,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "特朗普吐露美国目标：抢夺控制委内瑞拉的全球最大石油储备",
+          "url": "https://www.cls.cn/detail/2246753",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "美国总统特朗普：他们（委内瑞拉方面）知道我们会来。他们早已做好了准备。",
@@ -1933,6 +1948,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "特朗普：马查多领导委内瑞拉没戏",
+          "url": "https://www.toutiao.com/trending/7591113238771826715/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "美国总统特朗普：如果必要的话，我们不惧怕派遣地面部队。事实上，昨晚我们就已派遣了高层级地面力量。",
           "url": "https://flash.jin10.com/detail/20260104011926855800",
           "source": "金十数据",
@@ -2046,30 +2072,19 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "李在明抵达北京",
           "url": "https://www.toutiao.com/trending/7590394660251893801/",
           "source": "今日头条",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时24分 ~ 17时16分]"
-        },
-        {
-          "title": "韩国总统李在明抵达北京开始访华",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC%E5%BC%80%E5%A7%8B%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
             2,
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时24分 ~ 17时16分]"
+          "appearance_count": 7,
+          "time_info": "[14时24分 ~ 18时16分]"
         },
         {
           "title": "李在明抵达北京",
@@ -2080,8 +2095,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时24分 ~ 17时16分]"
+          "appearance_count": 7,
+          "time_info": "[14时24分 ~ 18时16分]"
         },
         {
           "title": "韩国总统李在明抵达北京",
@@ -2092,8 +2107,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时17分 ~ 17时16分]"
+          "appearance_count": 6,
+          "time_info": "[15时17分 ~ 18时16分]"
+        },
+        {
+          "title": "韩国总统李在明抵达北京开始访华",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC%E5%BC%80%E5%A7%8B%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时24分 ~ 18时16分]"
         },
         {
           "title": "韩国总统李在明抵达北京",
@@ -2123,6 +2151,20 @@
           "time_info": "[02时22分 ~ 07时15分]"
         },
         {
+          "title": "爱尔兰总理马丁抵达北京 开启5天访华行程",
+          "url": "https://flash.jin10.com/detail/20260104143539501800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            6,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 18时16分]"
+        },
+        {
           "title": "韩国总统李在明抵达北京，开启就任后首次对华国事访问",
           "url": "https://wallstreetcn.com/livenews/3030235",
           "source": "华尔街见闻-快讯",
@@ -2137,17 +2179,17 @@
           "time_info": "[14时24分 ~ 17时16分]"
         },
         {
-          "title": "爱尔兰总理马丁抵达北京 开启5天访华行程",
-          "url": "https://flash.jin10.com/detail/20260104143539501800",
-          "source": "金十数据",
+          "title": "韩国总统李在明抵达北京，开启就任后首次对华国事访问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32310361",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            6,
-            11
+            20,
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 17时16分]"
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 18时16分]"
         },
         {
           "title": "有监测以来最多 北京2025年全年95.3%都是蓝天",
@@ -2191,6 +2233,19 @@
           "time_info": "[15时18分 ~ 17时16分]"
         },
         {
+          "title": "爱尔兰总理马丁抵达北京，开启5天访华行程",
+          "url": "https://wallstreetcn.com/livenews/3030249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时16分]"
+        },
+        {
           "title": "北京重污染日基本消除",
           "url": "https://flash.jin10.com/detail/20260104103702614800",
           "source": "金十数据",
@@ -2204,30 +2259,6 @@
           "time_info": "[11时47分 ~ 13时22分]"
         },
         {
-          "title": "韩国总统李在明抵达北京，开启就任后首次对华国事访问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32310361",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 17时16分]"
-        },
-        {
-          "title": "爱尔兰总理马丁抵达北京，开启5天访华行程",
-          "url": "https://wallstreetcn.com/livenews/3030249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时16分]"
-        },
-        {
           "title": "北京最美交警张钰撞脸杨紫",
           "url": "https://www.toutiao.com/trending/7589917003503304713/",
           "source": "今日头条",
@@ -2237,6 +2268,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时15分]"
+        },
+        {
+          "title": "韩国总统李在明抵达北京，开启就任后首次对华国事访问，此行有哪些看点？会讨论哪些议题？",
+          "url": "https://www.zhihu.com/question/1991139494297113222",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "北京两负广厦暴露了哪些问题",
@@ -2264,22 +2306,8 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
-        {
-          "title": "央视点名AI魔改乱象",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E7%82%B9%E5%90%8DAI%E9%AD%94%E6%94%B9%E4%B9%B1%E8%B1%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            4,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时46分 ~ 17时16分]"
-        },
         {
           "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
           "url": "https://wallstreetcn.com/articles/3762468",
@@ -2292,6 +2320,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时18分 ~ 09时22分]"
+        },
+        {
+          "title": "央视点名AI魔改乱象",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E7%82%B9%E5%90%8DAI%E9%AD%94%E6%94%B9%E4%B9%B1%E8%B1%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            4,
+            5,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时46分 ~ 18时16分]"
         },
         {
           "title": "美食博主手搓对抗AI的一年",
@@ -2337,22 +2380,24 @@
           "url": "https://flash.jin10.com/detail/20260104162200603800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时16分]"
         },
         {
           "title": "国行版AI上线了？苹果回应",
           "url": "https://wallstreetcn.com/livenews/3030272",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时16分]"
         },
         {
           "title": "高盛交易团队2026年三大美股交易：聚焦“AI交易”下一步",
@@ -2390,6 +2435,17 @@
           "time_info": "[02时22分 ~ 03时12分]"
         },
         {
+          "title": "AI如何让闪迪成为股王",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E8%AE%A9%E9%97%AA%E8%BF%AA%E6%88%90%E4%B8%BA%E8%82%A1%E7%8E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "解析硅谷年度十大AI主题",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E7%A1%85%E8%B0%B7%E5%B9%B4%E5%BA%A6%E5%8D%81%E5%A4%A7AI%E4%B8%BB%E9%A2%98",
           "source": "bilibili 热搜",
@@ -2425,11 +2481,12 @@
             7,
             4,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时22分 ~ 17时16分]"
+          "appearance_count": 12,
+          "time_info": "[09时22分 ~ 18时16分]"
         },
         {
           "title": "伊朗这次全国性抗议会演变成政权更替吗？",
@@ -2505,8 +2562,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 17时16分]"
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 18时16分]"
         },
         {
           "title": "伊朗正面临怎样的危机",
