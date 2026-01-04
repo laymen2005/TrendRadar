@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T22:15:48.647250+08:00",
-  "total_titles_processed": 1541,
+  "generated_at": "2026-01-04T23:15:31.686545+08:00",
+  "total_titles_processed": 1605,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 178,
+      "match_count": 180,
       "titles": [
         {
           "title": "特朗普称抓获马杜罗及其夫人并带离委内瑞拉",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时22分 ~ 22时15分]"
+          "appearance_count": 19,
+          "time_info": "[09时22分 ~ 23时15分]"
         },
         {
           "title": "特朗普威胁古巴、哥伦比亚",
@@ -65,8 +65,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时17分 ~ 22时15分]"
+          "appearance_count": 13,
+          "time_info": "[15时17分 ~ 23时15分]"
         },
         {
           "title": "特朗普称抓获委内瑞拉总统及其夫人，美国司法部长称二人已在美国被起诉，意味着什么？美国为什么能说抓就抓？",
@@ -122,11 +122,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时21分 ~ 22时15分]"
+          "appearance_count": 11,
+          "time_info": "[16时21分 ~ 23时15分]"
         },
         {
           "title": "特朗普举行发布会公布行动细节",
@@ -169,11 +170,12 @@
             20,
             22,
             21,
-            25
+            25,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时22分 ~ 19时13分]"
+          "appearance_count": 12,
+          "time_info": "[09时22分 ~ 23时15分]"
         },
         {
           "title": "美媒称特朗普下令打击委内瑞拉，马杜罗宣布国家紧急状态",
@@ -296,8 +298,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时46分 ~ 22时15分]"
+          "appearance_count": 18,
+          "time_info": "[11时46分 ~ 23时15分]"
         },
         {
           "title": "特朗普透露夜袭细节",
@@ -1012,6 +1014,19 @@
           "time_info": "[01时14分 ~ 03时12分]"
         },
         {
+          "title": "特朗普政府要求美国石油公司投资委内瑞拉",
+          "url": "https://flash.jin10.com/detail/20260104204048321800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 23时15分]"
+        },
+        {
           "title": "特朗普对普京表达不满，称导致的死亡人数过多",
           "url": "https://flash.jin10.com/detail/20260104023923570800",
           "source": "金十数据",
@@ -1046,18 +1061,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时22分 ~ 03时12分]"
-        },
-        {
-          "title": "特朗普政府要求美国石油公司投资委内瑞拉",
-          "url": "https://flash.jin10.com/detail/20260104204048321800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 22时15分]"
         },
         {
           "title": "行动细节公布 将组团队管理委内瑞拉 特朗普发布会内容速览",
@@ -1146,6 +1149,32 @@
           "time_info": "[01时14分 ~ 02时22分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-04）",
+          "url": "https://flash.jin10.com/detail/20260104184157171800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            20,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 23时15分]"
+        },
+        {
+          "title": "特朗普在抓捕马杜罗发布会上称已超越门罗主义，升级为唐罗主义，这反映了怎样的政策转向？核心主张是什么？",
+          "url": "https://www.zhihu.com/question/1991082437355201732",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时27分 ~ 23时15分]"
+        },
+        {
           "title": "美媒：特朗普政府对委军事行动激怒民主党人，多名议员提议罢免特朗普",
           "url": "https://wallstreetcn.com/livenews/3030203",
           "source": "华尔街见闻-快讯",
@@ -1197,6 +1226,19 @@
           "time_info": "[09时22分 ~ 12时45分]"
         },
         {
+          "title": "以色列总理内塔尼亚胡谈及委内瑞拉局势，表示以色列政府支持美国“恢复自由与正义”的决定与行动，对特朗普的决定表示祝贺，并向执行行动的美军致意。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3030327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 23时15分]"
+        },
+        {
           "title": "媒体：特朗普药不能停 到底啥毛病",
           "url": "https://www.toutiao.com/trending/7591318616680382490/",
           "source": "今日头条",
@@ -1221,17 +1263,17 @@
           "time_info": "[19时13分 ~ 20时31分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-04）",
-          "url": "https://flash.jin10.com/detail/20260104184157171800",
-          "source": "金十数据",
+          "title": "特朗普政府要求美国石油公司投资委内瑞拉，业内对此态度审慎",
+          "url": "https://wallstreetcn.com/livenews/3030325",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            20,
-            24
+            8,
+            15,
+            21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时31分 ~ 22时15分]"
+          "time_info": "[21时27分 ~ 23时15分]"
         },
         {
           "title": "纽约市长已致电特朗普",
@@ -1264,17 +1306,6 @@
           "ranks": [
             18,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时27分 ~ 22时15分]"
-        },
-        {
-          "title": "特朗普在抓捕马杜罗发布会上称已超越门罗主义，升级为唐罗主义，这反映了怎样的政策转向？核心主张是什么？",
-          "url": "https://www.zhihu.com/question/1991082437355201732",
-          "source": "知乎",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -1314,18 +1345,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时14分 ~ 02时22分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡谈及委内瑞拉局势，表示以色列政府支持美国“恢复自由与正义”的决定与行动，对特朗普的决定表示祝贺，并向执行行动的美军致意。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3030327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 22时15分]"
         },
         {
           "title": "美国总统特朗普：对俄罗斯总统普京并不满意，普京正在杀害太多人。",
@@ -1386,18 +1405,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时22分 ~ 11时47分]"
-        },
-        {
-          "title": "特朗普政府要求美国石油公司投资委内瑞拉，业内对此态度审慎",
-          "url": "https://wallstreetcn.com/livenews/3030325",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 22时15分]"
         },
         {
           "title": "美国总统特朗普：我曾告诉马杜罗必须投降，现在他后悔没听我的。",
@@ -1654,6 +1661,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "美国国务卿卢比奥：石油对委内瑞拉的未来具有至关重要的意义。 （特朗普政府）在委内瑞拉（军事行动的）目标包括不再发生毒品输送，并切断与伊朗的联系。 （对于总统马杜罗）政府官员，我们已经虏获最高目标。 不在委内瑞拉陆地展开数日行动，是无法掳走更多人员的。 委内瑞拉并不存在美国的地面部队。 （对于占领委内瑞拉）总统特朗普保留这样的选项。 委内瑞拉实现民主过渡需要时间，不可能在几个小时内发生。 我将深度介入委内瑞拉的政权过渡。 将判断副总统Rodriguez的行动。 预计委内瑞拉将发生变化。 石油禁运是美国在委内瑞拉一个主要的杠杆。 需要再投资委内瑞拉石油，需要私人公司参与。 委内瑞拉的大多数机会在其国家之外。",
+          "url": "https://wallstreetcn.com/livenews/3030342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "特朗普为美企进军委内瑞拉“吹号”：准备好“为美国赚钱”",
+          "url": "https://news.ifeng.com/c/8peBKHvPx8Z",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "特朗普：美国将“管理”委内瑞拉直至实施“安全”过渡",
@@ -2236,11 +2265,12 @@
             4,
             5,
             12,
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时24分 ~ 22时15分]"
+          "appearance_count": 14,
+          "time_info": "[14时24分 ~ 23时15分]"
         },
         {
           "title": "韩国总统李在明抵达北京，开启就任后首次对华国事访问",
@@ -2255,8 +2285,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时21分 ~ 22时15分]"
+          "appearance_count": 11,
+          "time_info": "[16时21分 ~ 23时15分]"
         },
         {
           "title": "韩国总统李在明抵达北京开始访华",
@@ -2280,8 +2310,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时16分 ~ 22时15分]"
+          "appearance_count": 8,
+          "time_info": "[18时16分 ~ 23时15分]"
         },
         {
           "title": "韩国总统李在明抵达北京",
@@ -2339,6 +2369,20 @@
           "time_info": "[14时24分 ~ 17时16分]"
         },
         {
+          "title": "2025年我国平均气温创新高，北京降水历史最多",
+          "url": "https://wallstreetcn.com/livenews/3030314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 23时15分]"
+        },
+        {
           "title": "有监测以来最多 北京2025年全年95.3%都是蓝天",
           "url": "https://flash.jin10.com/detail/20260104103955103800",
           "source": "金十数据",
@@ -2394,17 +2438,17 @@
           "time_info": "[15时18分 ~ 17时16分]"
         },
         {
-          "title": "2025年我国平均气温创新高，北京降水历史最多",
-          "url": "https://wallstreetcn.com/livenews/3030314",
+          "title": "北京：对符合条件的新建中试平台最高给予1亿元补助支持",
+          "url": "https://wallstreetcn.com/livenews/3030324",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            17,
-            24
+            9,
+            16,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时31分 ~ 22时15分]"
+          "time_info": "[21时27分 ~ 23时15分]"
         },
         {
           "title": "北京重污染日基本消除",
@@ -2418,18 +2462,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时47分 ~ 13时22分]"
-        },
-        {
-          "title": "北京：对符合条件的新建中试平台最高给予1亿元补助支持",
-          "url": "https://wallstreetcn.com/livenews/3030324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 22时15分]"
         },
         {
           "title": "北京最美交警张钰撞脸杨紫",
@@ -2468,7 +2500,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
@@ -2482,21 +2514,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时18分 ~ 09时22分]"
-        },
-        {
-          "title": "央视点名AI魔改乱象",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E7%82%B9%E5%90%8DAI%E9%AD%94%E6%94%B9%E4%B9%B1%E8%B1%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            4,
-            5,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时46分 ~ 20时31分]"
         },
         {
           "title": "美食博主手搓对抗AI的一年",
@@ -2513,6 +2530,22 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时18分 ~ 16时21分]"
+        },
+        {
+          "title": "央视点名AI魔改乱象",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E7%82%B9%E5%90%8DAI%E9%AD%94%E6%94%B9%E4%B9%B1%E8%B1%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            4,
+            5,
+            8,
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[11时46分 ~ 23时15分]"
         },
         {
           "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
@@ -2614,6 +2647,17 @@
           "time_info": "[02时22分 ~ 03时12分]"
         },
         {
+          "title": "年度抽象AI作品Top10",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B4%E5%BA%A6%E6%8A%BD%E8%B1%A1AI%E4%BD%9C%E5%93%81Top10",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "AI如何让闪迪成为股王",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E8%AE%A9%E9%97%AA%E8%BF%AA%E6%88%90%E4%B8%BA%E8%82%A1%E7%8E%8B",
           "source": "bilibili 热搜",
@@ -2661,7 +2705,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗最高领袖: 应与抗议者进行对话 但骚乱行径必须得到制止",
@@ -2698,8 +2742,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时21分 ~ 22时15分]"
+          "appearance_count": 11,
+          "time_info": "[16时21分 ~ 23时15分]"
         },
         {
           "title": "伊朗最高领袖就美国对委军事行动表态：“绝不会向敌人屈服”",
@@ -2742,6 +2786,20 @@
           "time_info": "[05时14分 ~ 09时22分]"
         },
         {
+          "title": "伊朗警察部队司令：已针对煽动骚乱带头人进行定点逮捕",
+          "url": "https://flash.jin10.com/detail/20260104193346890800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 23时15分]"
+        },
+        {
           "title": "伊朗最高领袖誓言伊朗绝不屈服",
           "url": "https://www.toutiao.com/trending/7590405381375836169/",
           "source": "今日头条",
@@ -2756,17 +2814,30 @@
           "time_info": "[09时22分 ~ 13时22分]"
         },
         {
-          "title": "伊朗警察部队司令：已针对煽动骚乱带头人进行定点逮捕",
-          "url": "https://flash.jin10.com/detail/20260104193346890800",
+          "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
+          "url": "https://flash.jin10.com/detail/20260104203228542800",
           "source": "金十数据",
           "ranks": [
-            5,
-            15,
-            19
+            6,
+            10,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时31分 ~ 22时15分]"
+          "time_info": "[21时27分 ~ 23时15分]"
+        },
+        {
+          "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
+          "url": "https://wallstreetcn.com/livenews/3030326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 23时15分]"
         },
         {
           "title": "煽动伊朗骚乱的带头人被逮捕，供述称收受美元资金",
@@ -2783,27 +2854,14 @@
         },
         {
           "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
-          "url": "https://flash.jin10.com/detail/20260104203228542800",
-          "source": "金十数据",
+          "url": "https://news.ifeng.com/c/8peAynFqde9",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            10
+            11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 22时15分]"
-        },
-        {
-          "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
-          "url": "https://wallstreetcn.com/livenews/3030326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 22时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "伊朗正面临怎样的危机",
