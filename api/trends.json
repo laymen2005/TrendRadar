@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T18:20:51.120143+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2026-01-05T19:16:13.005135+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 95,
+      "match_count": 98,
       "titles": [
         {
           "title": "上周六新建账号、本周五下注“马杜罗被抓”、周日爆赚1242%--Polymarket又见“特朗普内幕交易”？",
@@ -43,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时51分 ~ 18时20分]"
+          "appearance_count": 14,
+          "time_info": "[11时51分 ~ 19时16分]"
         },
         {
           "title": "特朗普威胁委内瑞拉代总统：若不配合美国 将付出更惨痛代价",
@@ -77,6 +77,32 @@
           "time_info": "[09时21分 ~ 16时26分]"
         },
         {
+          "title": "“特马”重修旧好？美国突袭委内瑞拉后 特朗普和马斯克共进晚餐",
+          "url": "https://www.cls.cn/detail/2247636",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时31分 ~ 19时16分]"
+        },
+        {
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://news.ifeng.com/c/8pfVwlEUPag",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时25分 ~ 19时16分]"
+        },
+        {
           "title": "特朗普为美企进军委内瑞拉“吹号”：准备好“为美国赚钱”",
           "url": "https://news.ifeng.com/c/8peBKHvPx8Z",
           "source": "凤凰网",
@@ -97,8 +123,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时51分 ~ 18时20分]"
+          "appearance_count": 14,
+          "time_info": "[11时51分 ~ 19时16分]"
         },
         {
           "title": "特朗普威胁委代理总统，还称“绝对需要格陵兰岛”",
@@ -112,6 +138,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[09时21分 ~ 17时27分]"
+        },
+        {
+          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
+          "url": "https://www.zhihu.com/question/1991053595043390487",
+          "source": "知乎",
+          "ranks": [
+            17,
+            19,
+            14,
+            18,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时51分 ~ 19时16分]"
         },
         {
           "title": "美国“闪击”委内瑞拉：特朗普称将“管理”委内瑞拉直至实施“安全”过渡，深度介入石油产业",
@@ -166,31 +207,6 @@
           "time_info": "[00时18分 ~ 11时51分]"
         },
         {
-          "title": "“特马”重修旧好？美国突袭委内瑞拉后 特朗普和马斯克共进晚餐",
-          "url": "https://www.cls.cn/detail/2247636",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时31分 ~ 18时20分]"
-        },
-        {
-          "title": "中方回应特朗普威胁古巴等国",
-          "url": "https://news.ifeng.com/c/8pfVwlEUPag",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 18时20分]"
-        },
-        {
           "title": "委内瑞拉后恐是格陵兰岛，丹麦首相强硬回应特朗普！",
           "url": "https://www.cls.cn/detail/2247392",
           "source": "财联社热门",
@@ -202,20 +218,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时53分 ~ 16时26分]"
-        },
-        {
-          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
-          "url": "https://www.zhihu.com/question/1991053595043390487",
-          "source": "知乎",
-          "ranks": [
-            17,
-            19,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时51分 ~ 18时20分]"
         },
         {
           "title": "特朗普改口称不相信乌袭击普京官邸",
@@ -296,6 +298,17 @@
           "time_info": "[16时25分 ~ 17时27分]"
         },
         {
+          "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
+          "url": "https://news.ifeng.com/c/8pfcK5vNmj2",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时16分]"
+        },
+        {
           "title": "如何看待特朗普每天服用过量阿司匹林",
           "url": "https://www.toutiao.com/trending/7591309116983742003/",
           "source": "今日头条",
@@ -345,6 +358,18 @@
           "time_info": "[00时19分 ~ 06时16分]"
         },
         {
+          "title": "中方回应特朗普谈格陵兰岛涉华言论",
+          "url": "https://www.toutiao.com/trending/7591783882828431398/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 19时16分]"
+        },
+        {
           "title": "美国总统特朗普：不相信所谓的乌克兰袭击俄罗斯总统普京住所的事件真的发生过。",
           "url": "https://flash.jin10.com/detail/20260105091352495800",
           "source": "金十数据",
@@ -365,17 +390,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时51分 ~ 14时32分]"
-        },
-        {
-          "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
-          "url": "https://news.ifeng.com/c/8pfcK5vNmj2",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
         },
         {
           "title": "美国总统特朗普：与马杜罗还没有所谓的“终局”，我们将走完整个审判程序。",
@@ -484,18 +498,6 @@
           "time_info": "[12时53分 ~ 14时32分]"
         },
         {
-          "title": "中方回应特朗普谈格陵兰岛涉华言论",
-          "url": "https://www.toutiao.com/trending/7591783882828431398/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时20分]"
-        },
-        {
           "title": "美国国务卿鲁比奥：特朗普在委内瑞拉行动上始终拥有多种选择",
           "url": "https://flash.jin10.com/detail/20260105042758533800",
           "source": "金十数据",
@@ -534,6 +536,18 @@
           "time_info": "[03时12分 ~ 04时18分]"
         },
         {
+          "title": "委内瑞拉代总统喊话特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 19时16分]"
+        },
+        {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：特朗普在委内瑞拉的行为虽属非法，但符合其一贯捍卫美国利益的作风。",
           "url": "https://flash.jin10.com/detail/20260104225319283800",
           "source": "金十数据",
@@ -557,6 +571,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时32分 ~ 14时32分]"
+        },
+        {
+          "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
+          "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时16分]"
         },
         {
           "title": "美前检察官警告称特朗普还有三年任期",
@@ -592,18 +617,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时53分 ~ 14时32分]"
-        },
-        {
-          "title": "委内瑞拉代总统喊话特朗普",
-          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时20分]"
         },
         {
           "title": "特朗普接连向多国发出威胁",
@@ -735,6 +748,17 @@
           "time_info": "[13时32分 ~ 13时33分]"
         },
         {
+          "title": "哥伦比亚总统：特朗普请停止诽谤",
+          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%80%BB%E7%BB%9F%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B7%E5%81%9C%E6%AD%A2%E8%AF%BD%E8%B0%A4",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
+        },
+        {
           "title": "美国总统特朗普：古巴看起来似乎随时会垮台。",
           "url": "https://flash.jin10.com/detail/20260105091002679800",
           "source": "金十数据",
@@ -757,15 +781,15 @@
           "time_info": "09时21分"
         },
         {
-          "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
-          "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
-          "source": "凤凰网",
+          "title": "特朗普多次威胁，尼尔森发文回击：够了！不要再幻想吞并了",
+          "url": "https://wallstreetcn.com/livenews/3030821",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "19时16分"
         },
         {
           "title": "特朗普说绝对需要格陵兰岛",
@@ -840,7 +864,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -928,7 +952,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -964,6 +988,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "匈牙利总理欧尔班：此前在华盛顿向特朗普政府请求的财政援助类型未能获得认可。",
+          "url": "https://flash.jin10.com/detail/20260105183718033800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉石油产量处于低位。 石油公司都非常想进入委内瑞拉。 无需对委内瑞拉发动第二次袭击。 委内瑞拉将在适当的时候选举。 没有与（委内瑞拉代理总统）罗德里格斯交谈，她正在配合。 我们将管理、修理这个国家（委内瑞拉）。",
@@ -1049,7 +1084,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -1134,7 +1169,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "网传元宝 AI 辱骂用户，腾讯称是模型异常输出，非人工回复，技术上如何分析？其他 AI 也可能这样吗？",
@@ -1146,8 +1181,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时21分 ~ 18时20分]"
+          "appearance_count": 15,
+          "time_info": "[09时21分 ~ 19时16分]"
         },
         {
           "title": "CES 2026前瞻：英伟达或重塑物理AI，中美韩机器人齐“秀肌肉”",
@@ -1208,11 +1243,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时24分 ~ 18时20分]"
+          "appearance_count": 8,
+          "time_info": "[15时24分 ~ 19时16分]"
         },
         {
           "title": "从AI新能源与游戏看中国式现代化",
@@ -1228,6 +1264,29 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时53分 ~ 18时20分]"
+        },
+        {
+          "title": "广汽集团与华为终端签约，深化鸿蒙生态与AI技术合作",
+          "url": "https://wallstreetcn.com/livenews/3030823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "AI催生存储价格狂飙！日韩股市齐创新高，三星涨近5%、SK海力士涨近3%",
+          "url": "https://wallstreetcn.com/articles/3762525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 19时16分]"
         },
         {
           "title": "AI应用风向标来了？CES+通义硬件展即将举行 这些品牌有望吸睛",
@@ -1279,18 +1338,6 @@
           "time_info": "[13时33分 ~ 14时32分]"
         },
         {
-          "title": "AI催生存储价格狂飙！日韩股市齐创新高，三星涨近5%、SK海力士涨近3%",
-          "url": "https://wallstreetcn.com/articles/3762525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 18时20分]"
-        },
-        {
           "title": "央视点名AI魔改乱象",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E7%82%B9%E5%90%8DAI%E9%AD%94%E6%94%B9%E4%B9%B1%E8%B1%A1",
           "source": "bilibili 热搜",
@@ -1338,6 +1385,17 @@
           "time_info": "[17时27分 ~ 18时20分]"
         },
         {
+          "title": "阿里巴巴将视觉AI技术应用于餐饮赛道 与美团展开竞争",
+          "url": "https://wallstreetcn.com/livenews/3030815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "字节“豆包”AI眼镜即将进入出货阶段，起步价预计控制在2000元以内",
           "url": "https://wallstreetcn.com/livenews/3030637",
           "source": "华尔街见闻-快讯",
@@ -1363,7 +1421,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "韩国总统李在明抵达北京，开启就任后首次对华国事访问",
@@ -1399,8 +1457,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时15分 ~ 18时20分]"
+          "appearance_count": 16,
+          "time_info": "[07时15分 ~ 19时16分]"
         },
         {
           "title": "李在明抵达北京",
@@ -1486,6 +1544,17 @@
           "time_info": "[12时53分 ~ 13时33分]"
         },
         {
+          "title": "登云股份：北京市公安局朝阳分局于2025年12月25日对涉嫌非法吸收公众存款罪的杨涛执行逮捕",
+          "url": "https://wallstreetcn.com/livenews/3030816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "【中国是否会继续进口委内瑞拉石油？外交部回应】1月5日，外交部发言人林剑主持例行记者会。西班牙《ABC报》记者提问，中方是否与委内瑞拉代理总统罗德里格斯进行过接触？此外，美国总统特朗普已表示美国将加大对委内瑞拉石油行业的投资力度，中国是否会继续进口委内瑞拉石油？林剑表示，中方尊重委内瑞拉的主权独立，相信委内瑞拉政府将按照本国的宪法和法律妥善处理内部事务。中委的合作是主权国家之间的合作，受到国际法和两国法律的保护。无论委内瑞拉的政局如何变化，中方深化两国各领域务实合作的意愿不会改变，中方在委内瑞拉的合法利益也将依法受到保护。（北京日报）",
           "url": "https://wallstreetcn.com/livenews/3030691",
           "source": "华尔街见闻-快讯",
@@ -1536,6 +1605,17 @@
           "time_info": "[00时18分 ~ 07时15分]"
         },
         {
+          "title": "伊朗呼吁美方释放委内瑞拉总统马杜罗",
+          "url": "https://news.ifeng.com/c/8pfbAio37z3",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时16分]"
+        },
+        {
           "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
           "url": "https://wallstreetcn.com/livenews/3030326",
           "source": "华尔街见闻-快讯",
@@ -1545,17 +1625,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时19分 ~ 06时16分]"
-        },
-        {
-          "title": "伊朗呼吁美方释放委内瑞拉总统马杜罗",
-          "url": "https://news.ifeng.com/c/8pfbAio37z3",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐呼吁通过各领域持续合作，加强和扩大与阿塞拜疆共和国的全面关系。",
@@ -1596,7 +1665,7 @@
     },
     {
       "keyword_group": "河北",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "河北农村取暖问题",
@@ -1604,11 +1673,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时20分]"
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 19时16分]"
         },
         {
           "title": "农民日报：河北农村取暖问题，不能再耽搁了",
@@ -1617,9 +1687,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时16分]"
+        },
+        {
+          "title": "河北农村煤改气如何破除用不起困境",
+          "url": "https://www.toutiao.com/trending/7591495837684580406/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
         }
       ]
     }
