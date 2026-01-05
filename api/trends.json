@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T06:17:01.862348+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-01-06T07:16:26.015728+08:00",
+  "total_titles_processed": 699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -43,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -54,8 +54,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -67,11 +67,12 @@
             16,
             17,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -82,8 +83,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -93,8 +94,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "特朗普称格陵兰岛“到处都是中国船只”，外交部驳斥",
@@ -106,8 +107,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时18分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[01时18分 ~ 07时16分]"
         },
         {
           "title": "特朗普接连向多国发出威胁",
@@ -117,8 +118,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时18分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[01时18分 ~ 07时16分]"
         },
         {
           "title": "特朗普对印度买俄石油发出最后通牒",
@@ -132,6 +133,28 @@
           "time_info": "[00时21分 ~ 00时22分]"
         },
         {
+          "title": "据NBC：美国总统特朗普表示，该项目可能只需不到18个月。",
+          "url": "https://flash.jin10.com/detail/20260106070427283800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "据NBC：美国总统特朗普表示，美国可能会资助石油公司重建该国能源基础设施。",
+          "url": "https://flash.jin10.com/detail/20260106070419372800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "丹麦首相表示，她认真对待美国总统特朗普关于格陵兰岛的威胁。",
           "url": "https://flash.jin10.com/detail/20260105235811612800",
           "source": "金十数据",
@@ -141,6 +164,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "美国白宫办公厅副主任斯蒂芬·米勒：特朗普已要求卢比奥领导委内瑞拉进程，委内瑞拉任何商务往来都需要美国的批准，我们正得到委内瑞拉的全力配合。",
+          "url": "https://wallstreetcn.com/livenews/3031148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "据NBC：美国总统特朗普表示，委内瑞拉在未来30天内不会举行新选举。",
+          "url": "https://flash.jin10.com/detail/20260106070034158800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "特朗普称，委内瑞拉代总统罗德里格斯在配合美国，卢比奥和罗德里格斯关系“牢固”。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3031146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "下一个打击目标？特朗普威胁对哥伦比亚动武 哥方强烈驳斥",
@@ -273,13 +329,24 @@
           "time_info": "04时20分"
         },
         {
+          "title": "据NBC：美国总统特朗普表示，美国并未与委内瑞拉开战。",
+          "url": "https://flash.jin10.com/detail/20260106070009215800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "美国白宫：特朗普签署命令，启动“创世纪计划”，这是一项专门且协调一致的全国性举措，旨在开启一个由人工智能驱动的创新与发现的新时代，以解决本世纪面临的最严峻问题。",
           "url": "https://flash.jin10.com/detail/20260106055021121800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -301,7 +368,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -312,7 +379,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -397,7 +464,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -409,8 +476,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -425,8 +492,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "AI说啥我穿啥",
@@ -440,30 +507,32 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "英伟达发布首个专为自动驾驶汽车设计的“推理”AI",
           "url": "https://wallstreetcn.com/livenews/3031121",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
         },
         {
           "title": "英伟达(NVDA.O)：推出全新Clara AI模型，架起数字探索与现实医疗之间的桥梁。",
           "url": "https://flash.jin10.com/detail/20260106060052070800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
         },
         {
           "title": "惠普新3K笔记本比Macbook Air更薄",
@@ -478,15 +547,48 @@
           "time_info": "[03时18分 ~ 04时20分]"
         },
         {
+          "title": "开业月余，三家股份行AIC密集投向“硬科技”",
+          "url": "https://wallstreetcn.com/livenews/3031145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：模型“Alpamayo”是全球首款具备思考、推理和自主驾驶能力的智能汽车AI系统。该系统采用端到端训练模式，从摄像头输入到执行器输出实现全流程训练。",
           "url": "https://flash.jin10.com/detail/20260106055327542800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
+          "url": "https://www.cls.cn/detail/2248593",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "英伟达推出BlueField-4数据处理器，赋能新一代AI原生存储基础设施，开启AI新纪元",
+          "url": "https://wallstreetcn.com/livenews/3031139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "三星推出以AI为核心的电视和家电",
@@ -500,13 +602,24 @@
           "time_info": "00时22分"
         },
         {
+          "title": "英伟达推出适用于自动驾驶汽车和机器人的全新AI工具",
+          "url": "https://flash.jin10.com/detail/20260106063939900800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "英伟达推出Alpamayo系列开源AI模型与工具，加速安全及基于推理的自动驾驶汽车开发",
           "url": "https://wallstreetcn.com/livenews/3031109",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -522,6 +635,17 @@
           "time_info": "05时16分"
         },
         {
+          "title": "黄仁勋：英伟达新款Rubin芯片进展顺利，助力加速AI进程",
+          "url": "https://wallstreetcn.com/livenews/3031135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "波士顿动力机器人首次进厂干活，现代汽车正式公布集团级AI机器人战略",
           "url": "https://wallstreetcn.com/livenews/3031036",
           "source": "华尔街见闻-快讯",
@@ -531,6 +655,127 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：微软的“Fairwater”人工智能超级工厂将扩展至配备数十万块英伟达Vera Rubin超级芯片。",
+          "url": "https://flash.jin10.com/detail/20260106062543527800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：AI的复杂性推高需求。 新款Vera Rubin设计已经全面量产。 宣布面向Vera Rubin电脑的六款新芯片。 新款VeraCPU拥有88 Arm定制核。 公司现在是最大的网络公司。",
+          "url": "https://wallstreetcn.com/livenews/3031124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "北京",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "三星掌门人李在镕在北京买LABUBU",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E6%8E%8C%E9%97%A8%E4%BA%BA%E6%9D%8E%E5%9C%A8%E9%95%95%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B9%B0LABUBU",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 07时16分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9866元，较上个交易日夜盘收盘涨13点。成交量526.39亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3031071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时18分 ~ 05时16分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.30%，暂报4152.79点，整体呈现出W形走势。 MarketVectorTM数字资产100中盘指数涨0.13%，报3917.91点，也呈现出W形走势。 MarketVector数字资产100指数涨2.20%，报19397.47点，北京时间08:00和22:36先后出现一波上涨行情。 目前，Solana涨1%，狗狗币涨0.2%，XRP涨4.8%。 比特币涨2.68%，暂报93706美元；以太坊涨1.37%，报3181.60美元。",
+          "url": "https://wallstreetcn.com/livenews/3031019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 02时25分]"
+        },
+        {
+          "title": "周一（1月5日）欧市尾盘，德国10年期国债收益率跌3.0个基点，报2.870%，日内交投于2.906%-2.869%区间，北京时间18:00以来持续走低。 两年期德债收益率跌1.2个基点，报2.127%；30年期德债收益率跌3.4个基点，报3.507%。 2/10年期德债收益率利差跌1.750个基点，报+74.091个基点。",
+          "url": "https://wallstreetcn.com/livenews/3031041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "周一（1月5日）纽约尾盘，ICE美元指数跌0.17%，刷新日低至98.259点，日内稍早一度持续走高，北京时间21:42刷新日高至98.861点，之后快速回落。 彭博美元指数跌0.13%，报1202.93点，日内交投区间为1209.04-1202.58点。",
+          "url": "https://wallstreetcn.com/livenews/3031082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "提醒：日内请重点关注（以下均为北京时间）",
+          "url": "https://wallstreetcn.com/livenews/3031131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "北京市工业用地将按弹性年期出让",
+          "url": "https://wallstreetcn.com/livenews/3031130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "周一（1月5日）纽约尾盘（北京时间05:59），离岸人民币（CNH）兑美元报6.9835元，较上周五纽约尾盘跌132点，日内整体交投于6.9696-6.9918元区间。",
+          "url": "https://wallstreetcn.com/livenews/3031122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         }
       ]
     },
@@ -602,7 +847,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -620,74 +865,8 @@
       ]
     },
     {
-      "keyword_group": "北京",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "三星掌门人李在镕在北京买LABUBU",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E6%8E%8C%E9%97%A8%E4%BA%BA%E6%9D%8E%E5%9C%A8%E9%95%95%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B9%B0LABUBU",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 06时17分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9866元，较上个交易日夜盘收盘涨13点。成交量526.39亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3031071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 05时16分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.30%，暂报4152.79点，整体呈现出W形走势。 MarketVectorTM数字资产100中盘指数涨0.13%，报3917.91点，也呈现出W形走势。 MarketVector数字资产100指数涨2.20%，报19397.47点，北京时间08:00和22:36先后出现一波上涨行情。 目前，Solana涨1%，狗狗币涨0.2%，XRP涨4.8%。 比特币涨2.68%，暂报93706美元；以太坊涨1.37%，报3181.60美元。",
-          "url": "https://wallstreetcn.com/livenews/3031019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 02时25分]"
-        },
-        {
-          "title": "周一（1月5日）欧市尾盘，德国10年期国债收益率跌3.0个基点，报2.870%，日内交投于2.906%-2.869%区间，北京时间18:00以来持续走低。 两年期德债收益率跌1.2个基点，报2.127%；30年期德债收益率跌3.4个基点，报3.507%。 2/10年期德债收益率利差跌1.750个基点，报+74.091个基点。",
-          "url": "https://wallstreetcn.com/livenews/3031041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "周一（1月5日）纽约尾盘，ICE美元指数跌0.17%，刷新日低至98.259点，日内稍早一度持续走高，北京时间21:42刷新日高至98.861点，之后快速回落。 彭博美元指数跌0.13%，报1202.93点，日内交投区间为1209.04-1202.58点。",
-          "url": "https://wallstreetcn.com/livenews/3031082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -703,13 +882,24 @@
           "time_info": "[03时18分 ~ 05时16分]"
         },
         {
+          "title": "OpenAI支持的公司推家务机器人 售价2万美元",
+          "url": "https://flash.jin10.com/detail/20260106063634804800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "Zeta Global与OpenAI组团，双方将交付由答案驱动的市场。 Zeta美股盘后涨6%。",
           "url": "https://wallstreetcn.com/livenews/3031108",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
