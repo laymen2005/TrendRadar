@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T22:18:45.357374+08:00",
-  "total_titles_processed": 2028,
+  "generated_at": "2026-01-06T23:18:24.741584+08:00",
+  "total_titles_processed": 2124,
   "failed_sources": [],
   "trends": [
     {
@@ -80,8 +80,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时21分 ~ 22时18分]"
+          "appearance_count": 13,
+          "time_info": "[13时21分 ~ 23时18分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -93,6 +93,23 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时21分 ~ 07时16分]"
+        },
+        {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            29,
+            15,
+            17,
+            16,
+            13,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时26分 ~ 23时18分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -125,24 +142,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时21分 ~ 22时18分]"
-        },
-        {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
-          "ranks": [
-            29,
-            15,
-            17,
-            16,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时26分 ~ 22时18分]"
+          "appearance_count": 31,
+          "time_info": "[00时21分 ~ 23时18分]"
         },
         {
           "title": "中方回应特朗普威胁古巴等国",
@@ -234,17 +235,6 @@
           "time_info": "[11时25分 ~ 15时22分]"
         },
         {
-          "title": "特朗普对印度买俄石油发出最后通牒",
-          "url": "https://www.toutiao.com/trending/7591650384435888171/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
           "title": "特朗普不到1年对7国动武",
           "url": "https://www.toutiao.com/trending/7591141159599276095/",
           "source": "今日头条",
@@ -255,8 +245,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时18分 ~ 22时18分]"
+          "appearance_count": 7,
+          "time_info": "[18时18分 ~ 23时18分]"
+        },
+        {
+          "title": "特朗普对印度买俄石油发出最后通牒",
+          "url": "https://www.toutiao.com/trending/7591650384435888171/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时22分]"
         },
         {
           "title": "特朗普“跨国绑架”，露出了帝国獠牙",
@@ -523,6 +524,19 @@
           "time_info": "[11时25分 ~ 12时36分]"
         },
         {
+          "title": "曝特朗普对委动手前曾暗示油企高管",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 23时18分]"
+        },
+        {
           "title": "美国参议院多数党领袖John Thune：事先并不知道特朗普要袭击委内瑞拉。",
           "url": "https://wallstreetcn.com/livenews/3031091",
           "source": "华尔街见闻-快讯",
@@ -579,18 +593,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时14分 ~ 09时15分]"
-        },
-        {
-          "title": "曝特朗普对委动手前曾暗示油企高管",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时18分]"
         },
         {
           "title": "美国在联合国会议上遭猛烈抨击，美方辩称特朗普无意占领委内瑞拉",
@@ -699,7 +701,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -743,7 +745,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -897,7 +899,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -938,7 +940,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -1130,6 +1132,19 @@
           "time_info": "[13时21分 ~ 15时22分]"
         },
         {
+          "title": "AI养生道",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%85%BB%E7%94%9F%E9%81%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 23时18分]"
+        },
+        {
           "title": "抖音：2025年AI兴趣用户增长翻倍",
           "url": "https://wallstreetcn.com/livenews/3031344",
           "source": "华尔街见闻-快讯",
@@ -1151,18 +1166,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时35分 ~ 12时36分]"
-        },
-        {
-          "title": "AI养生道",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%85%BB%E7%94%9F%E9%81%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时18分]"
         },
         {
           "title": "惠普新3K笔记本比Macbook Air更薄",
@@ -1353,13 +1356,24 @@
           "time_info": "15时22分"
         },
         {
+          "title": "AIG跌6%，创4月份以来最差盘中表现。",
+          "url": "https://wallstreetcn.com/livenews/3031743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "领跑AI电池新赛道 TDK拟推第四代技术掘金智能设备市场",
           "url": "https://flash.jin10.com/detail/20260106214431210800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1384,6 +1398,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
+        },
+        {
+          "title": "Snowflake在Snowflake Cortex AI中提供谷歌公司Gemini 3。",
+          "url": "https://wallstreetcn.com/livenews/3031737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "英伟达CEO黄仁勋：AI的复杂性推高需求。 新款Vera Rubin设计已经全面量产。 宣布面向Vera Rubin电脑的六款新芯片。 新款VeraCPU拥有88 Arm定制核。 公司现在是最大的网络公司。",
@@ -1578,7 +1603,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1644,7 +1669,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1698,11 +1723,12 @@
             9,
             10,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时26分 ~ 22时18分]"
+          "appearance_count": 12,
+          "time_info": "[14时26分 ~ 23时18分]"
         },
         {
           "title": "据美联社：伊朗警方在德黑兰大巴扎集市与抗议者发生冲突。",
@@ -1823,7 +1849,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1878,8 +1904,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时25分 ~ 22时18分]"
+          "appearance_count": 17,
+          "time_info": "[11时25分 ~ 23时18分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -1957,6 +1983,18 @@
           "time_info": "[09时14分 ~ 12时36分]"
         },
         {
+          "title": "河北农村取暖问题一天也不能拖了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E5%86%9C%E6%9D%91%E5%8F%96%E6%9A%96%E9%97%AE%E9%A2%98%E4%B8%80%E5%A4%A9%E4%B9%9F%E4%B8%8D%E8%83%BD%E6%8B%96%E4%BA%86%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时18分]"
+        },
+        {
           "title": "河北农村取暖气价高补贴被砍",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E5%86%9C%E6%9D%91%E5%8F%96%E6%9A%96%E6%B0%94%E4%BB%B7%E9%AB%98%E8%A1%A5%E8%B4%B4%E8%A2%AB%E7%A0%8D%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -1966,17 +2004,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
-        },
-        {
-          "title": "河北农村取暖问题一天也不能拖了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E5%86%9C%E6%9D%91%E5%8F%96%E6%9A%96%E9%97%AE%E9%A2%98%E4%B8%80%E5%A4%A9%E4%B9%9F%E4%B8%8D%E8%83%BD%E6%8B%96%E4%BA%86%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
         },
         {
           "title": "河北农村取暖费到底该谁来买单",
