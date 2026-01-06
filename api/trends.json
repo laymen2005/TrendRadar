@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T09:15:12.768249+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-01-06T11:26:12.203328+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -83,8 +83,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 09时15分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 11时26分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -134,15 +134,27 @@
           "time_info": "[00时21分 ~ 00时22分]"
         },
         {
-          "title": "墨总统回应特朗普：合作可以干预不行",
-          "url": "https://www.toutiao.com/trending/7591151766478290986/",
-          "source": "今日头条",
+          "title": "美视马杜罗案高度敏感，批评者：想象可否绑架特朗普",
+          "url": "https://news.ifeng.com/c/8pgdYCJGTs1",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "墨总统回应特朗普：合作可以干预不行",
+          "url": "https://www.toutiao.com/trending/7591151766478290986/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 11时26分]"
         },
         {
           "title": "据NBC：美国总统特朗普表示，该项目可能只需不到18个月。",
@@ -173,7 +185,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -195,7 +207,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -281,6 +293,17 @@
           "time_info": "[02时25分 ~ 03时18分]"
         },
         {
+          "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
+          "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 11时26分]"
+        },
+        {
           "title": "马杜罗被俘虏后，特朗普拿着“让伊朗再次伟大”的帽子拍照",
           "url": "https://flash.jin10.com/detail/20260106033006198800",
           "source": "金十数据",
@@ -305,6 +328,51 @@
           "time_info": "[05时16分 ~ 06时17分]"
         },
         {
+          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
+          "url": "https://www.zhihu.com/question/1991570437310740440",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 11时26分]"
+        },
+        {
+          "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
+          "url": "https://www.cls.cn/detail/2248515",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 11时26分]"
+        },
+        {
+          "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
+          "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
+          "url": "https://news.ifeng.com/c/8pgcXc4Nym2",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
           "title": "美国参议院多数党领袖John Thune：事先并不知道特朗普要袭击委内瑞拉。",
           "url": "https://wallstreetcn.com/livenews/3031091",
           "source": "华尔街见闻-快讯",
@@ -317,44 +385,11 @@
           "time_info": "[05时16分 ~ 06时17分]"
         },
         {
-          "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
-          "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
-        },
-        {
           "title": "特朗普涉印度表态让印网民不满",
           "url": "https://www.toutiao.com/trending/7591321463978868742/",
           "source": "今日头条",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
-        },
-        {
-          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
-          "url": "https://www.zhihu.com/question/1991570437310740440",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
-        },
-        {
-          "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
-          "url": "https://www.cls.cn/detail/2248515",
-          "source": "财联社热门",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -384,6 +419,17 @@
           "time_info": "[09时14分 ~ 09时15分]"
         },
         {
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://www.douyin.com/hot/2358268",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
           "title": "美国在联合国会议上遭猛烈抨击，美方辩称特朗普无意占领委内瑞拉",
           "url": "https://wallstreetcn.com/livenews/3031058",
           "source": "华尔街见闻-快讯",
@@ -405,6 +451,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 00时22分]"
+        },
+        {
+          "title": "特朗普在变成第二个拜登吗",
+          "url": "https://www.toutiao.com/trending/7592036422320655891/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "墨总统回应特朗普：合作可以干预不行",
+          "url": "https://www.baidu.com/s?wd=%E5%A2%A8%E6%80%BB%E7%BB%9F%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%90%88%E4%BD%9C%E5%8F%AF%E4%BB%A5%E5%B9%B2%E9%A2%84%E4%B8%8D%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "ICC原检察官：特朗普犯了“侵略罪”",
+          "url": "https://www.toutiao.com/trending/7591104646660948011/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
           "title": "特朗普政府大幅削减儿童疫苗接种计划",
@@ -528,6 +607,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "委内瑞拉反对派领导人马查多：自十月以来，我尚未与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20260106103144934800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我对伊朗的立场与特朗普一致，我们绝不允许伊朗进行铀浓缩活动。",
           "url": "https://flash.jin10.com/detail/20260105231851320800",
           "source": "金十数据",
@@ -545,7 +635,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -576,8 +666,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 09时15分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 11时26分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -592,8 +682,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 09时15分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 11时26分]"
         },
         {
           "title": "AI说啥我穿啥",
@@ -605,11 +695,12 @@
             17,
             28,
             19,
-            29
+            29,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 09时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 11时26分]"
         },
         {
           "title": "黄仁勋发布新一代AI芯片",
@@ -621,6 +712,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时14分 ~ 09时15分]"
+        },
+        {
+          "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
+          "url": "https://www.cls.cn/detail/2248593",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时16分 ~ 11时26分]"
         },
         {
           "title": "英伟达发布首个专为自动驾驶汽车设计的“推理”AI",
@@ -647,27 +751,16 @@
           "time_info": "[06时17分 ~ 07时16分]"
         },
         {
-          "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
-          "url": "https://www.cls.cn/detail/2248593",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 09时15分]"
-        },
-        {
           "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
           "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 11时26分]"
         },
         {
           "title": "惠普新3K笔记本比Macbook Air更薄",
@@ -732,7 +825,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -820,7 +913,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -831,7 +924,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         }
@@ -839,7 +932,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "三星掌门人李在镕在北京买LABUBU",
@@ -865,6 +958,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时14分 ~ 09时15分]"
+        },
+        {
+          "title": "李在明在北京发帖感慨",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%8F%91%E5%B8%96%E6%84%9F%E6%85%A8",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9866元，较上个交易日夜盘收盘涨13点。成交量526.39亿美元。",
@@ -942,7 +1046,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -956,6 +1060,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "新政刺激楼市热度回升，元旦假期北京二手房带看显著走高",
+          "url": "https://wallstreetcn.com/livenews/3031284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "周一（1月5日）纽约尾盘（北京时间05:59），离岸人民币（CNH）兑美元报6.9835元，较上周五纽约尾盘跌132点，日内整体交投于6.9696-6.9918元区间。",
@@ -1068,7 +1183,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -1082,6 +1197,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时18分 ~ 05时16分]"
+        },
+        {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
           "title": "委内瑞拉副总统宣誓就任代总统 OpenAI支持的公司推出家务机器人 | 环球市场",
@@ -1141,8 +1267,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 11时26分]"
         }
       ]
     },
