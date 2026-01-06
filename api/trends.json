@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T14:26:42.602225+08:00",
-  "total_titles_processed": 1270,
+  "generated_at": "2026-01-06T15:22:53.350609+08:00",
+  "total_titles_processed": 1369,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,17 @@
           "time_info": "[00时21分 ~ 09时15分]"
         },
         {
+          "title": "美视马杜罗案高度敏感，批评者：想象可否绑架特朗普",
+          "url": "https://news.ifeng.com/c/8pgdYCJGTs1",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时25分 ~ 15时22分]"
+        },
+        {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
           "url": "https://www.toutiao.com/trending/7591783882828431398/",
           "source": "今日头条",
@@ -45,17 +56,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时21分 ~ 07时16分]"
-        },
-        {
-          "title": "美视马杜罗案高度敏感，批评者：想象可否绑架特朗普",
-          "url": "https://news.ifeng.com/c/8pgdYCJGTs1",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时25分 ~ 14时26分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -92,11 +92,12 @@
           "ranks": [
             11,
             12,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 14时26分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 15时22分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -143,8 +144,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时25分 ~ 14时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时25分 ~ 15时22分]"
         },
         {
           "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
@@ -155,8 +156,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时14分 ~ 14时26分]"
+          "appearance_count": 9,
+          "time_info": "[09时14分 ~ 15时22分]"
+        },
+        {
+          "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
+          "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时25分 ~ 15时22分]"
         },
         {
           "title": "特朗普对印度买俄石油发出最后通牒",
@@ -170,15 +182,18 @@
           "time_info": "[00时21分 ~ 00时22分]"
         },
         {
-          "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
-          "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
-          "source": "凤凰网",
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://www.douyin.com/hot/2358268",
+          "source": "抖音",
           "ranks": [
-            6
+            14,
+            21,
+            29,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时25分 ~ 14时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时25分 ~ 15时22分]"
         },
         {
           "title": "墨总统回应特朗普：合作可以干预不行",
@@ -213,20 +228,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "中方回应特朗普威胁古巴等国",
-          "url": "https://www.douyin.com/hot/2358268",
-          "source": "抖音",
-          "ranks": [
-            14,
-            21,
-            29,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时25分 ~ 14时26分]"
         },
         {
           "title": "据NBC：美国总统特朗普表示，美国可能会资助石油公司重建该国能源基础设施。",
@@ -312,7 +313,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -326,6 +327,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 02时25分]"
+        },
+        {
+          "title": "特朗普：美国将深度介入委内瑞拉",
+          "url": "https://www.cls.cn/detail/2248692",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时35分 ~ 15时22分]"
         },
         {
           "title": "美国本周将会见石油高管们，讨论（特朗普政府掳走委内瑞拉总统马杜罗之后的）委国“复苏”问题。",
@@ -401,18 +415,6 @@
           "time_info": "[09时14分 ~ 11时26分]"
         },
         {
-          "title": "特朗普：美国将深度介入委内瑞拉",
-          "url": "https://www.cls.cn/detail/2248692",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时35分 ~ 14时26分]"
-        },
-        {
           "title": "墨总统回应特朗普：合作可以干预不行",
           "url": "https://www.baidu.com/s?wd=%E5%A2%A8%E6%80%BB%E7%BB%9F%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%90%88%E4%BD%9C%E5%8F%AF%E4%BB%A5%E5%B9%B2%E9%A2%84%E4%B8%8D%E8%A1%8C",
           "source": "百度热搜",
@@ -423,6 +425,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时25分 ~ 12时36分]"
+        },
+        {
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 15时22分]"
         },
         {
           "title": "美国参议院多数党领袖John Thune：事先并不知道特朗普要袭击委内瑞拉。",
@@ -446,17 +459,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时14分 ~ 09时15分]"
-        },
-        {
-          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
-          "url": "https://wallstreetcn.com/articles/3762615",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时26分]"
         },
         {
           "title": "英国外交大臣Cooper：格陵兰岛的未来由格陵兰岛和丹麦决定，而非（特朗普政府等）其他方面来决定。",
@@ -687,7 +689,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -706,7 +708,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -718,8 +720,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 14时26分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 15时22分]"
         },
         {
           "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
@@ -732,8 +734,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时16分 ~ 14时26分]"
+          "appearance_count": 10,
+          "time_info": "[07时16分 ~ 15时22分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -767,8 +769,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 14时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 15时22分]"
         },
         {
           "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
@@ -800,7 +802,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -829,6 +831,18 @@
           "time_info": "[06时17分 ~ 07时16分]"
         },
         {
+          "title": "2026 年，JetBrains 的 IDE 要被 Cursor 一类的 AI IDE 革命了吗？",
+          "url": "https://www.zhihu.com/question/1991590957200716340",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 15时22分]"
+        },
+        {
           "title": "抖音：2025年AI兴趣用户增长翻倍",
           "url": "https://wallstreetcn.com/livenews/3031344",
           "source": "华尔街见闻-快讯",
@@ -839,18 +853,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时36分 ~ 13时21分]"
-        },
-        {
-          "title": "2026 年，JetBrains 的 IDE 要被 Cursor 一类的 AI IDE 革命了吗？",
-          "url": "https://www.zhihu.com/question/1991590957200716340",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时26分]"
         },
         {
           "title": "全域AI能给汽车带来什么",
@@ -896,6 +898,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "AirPods Pro3马年特别款开箱",
+          "url": "https://www.douyin.com/hot/2358692",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "AMD在CES展示多款企业级及消费级AI芯片",
@@ -1008,6 +1021,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "花旗：英伟达AI生态将助推自动驾驶出租车增长",
+          "url": "https://flash.jin10.com/detail/20260106142326249800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
           "title": "AMD首席执行官苏姿丰在CES上表示：下一代MI500系列的开发工作已全面展开。 我们正按计划实现AI性能提升1000倍的目标。",
           "url": "https://wallstreetcn.com/livenews/3031328",
           "source": "华尔街见闻-快讯",
@@ -1105,6 +1129,20 @@
           "time_info": "[11时25分 ~ 11时26分]"
         },
         {
+          "title": "李在镕在北京买拉布布",
+          "url": "https://www.douyin.com/hot/2358700",
+          "source": "抖音",
+          "ranks": [
+            29,
+            19,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时35分 ~ 15时22分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9866元，较上个交易日夜盘收盘涨13点。成交量526.39亿美元。",
           "url": "https://wallstreetcn.com/livenews/3031071",
           "source": "华尔街见闻-快讯",
@@ -1118,19 +1156,6 @@
           "time_info": "[03时18分 ~ 05时16分]"
         },
         {
-          "title": "李在镕在北京买拉布布",
-          "url": "https://www.douyin.com/hot/2358700",
-          "source": "抖音",
-          "ranks": [
-            29,
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时35分 ~ 14时26分]"
-        },
-        {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
           "url": "https://wallstreetcn.com/livenews/3031131",
           "source": "华尔街见闻-快讯",
@@ -1142,6 +1167,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时16分 ~ 14时26分]"
+        },
+        {
+          "title": "三星掌门人李在镕在北京买了拉布布(图)",
+          "url": "https://news.ifeng.com/c/8pfxQ20BxVs",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时22分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.30%，暂报4152.79点，整体呈现出W形走势。 MarketVectorTM数字资产100中盘指数涨0.13%，报3917.91点，也呈现出W形走势。 MarketVector数字资产100指数涨2.20%，报19397.47点，北京时间08:00和22:36先后出现一波上涨行情。 目前，Solana涨1%，狗狗币涨0.2%，XRP涨4.8%。 比特币涨2.68%，暂报93706美元；以太坊涨1.37%，报3181.60美元。",
@@ -1165,17 +1201,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时14分 ~ 09时15分]"
-        },
-        {
-          "title": "三星掌门人李在镕在北京买了拉布布(图)",
-          "url": "https://news.ifeng.com/c/8pfxQ20BxVs",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
         },
         {
           "title": "周一（1月5日）欧市尾盘，德国10年期国债收益率跌3.0个基点，报2.870%，日内交投于2.906%-2.869%区间，北京时间18:00以来持续走低。 两年期德债收益率跌1.2个基点，报2.127%；30年期德债收益率跌3.4个基点，报3.507%。 2/10年期德债收益率利差跌1.750个基点，报+74.091个基点。",
@@ -1254,11 +1279,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348752&amp;topic_name=%E6%80%95%E6%B8%85%E7%AE%97%3F%E4%BC%8A%E6%9C%97%E9%A2%86%E8%A2%96%E6%90%BA950%E4%BA%BF%E5%BC%80%E6%BA%9C",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时22分]"
         },
         {
           "title": "伊朗要求国际原子能机构谴责针对伊朗核设施的犯罪行为",
@@ -1346,7 +1372,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -1387,8 +1413,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时25分 ~ 14时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时25分 ~ 15时22分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
