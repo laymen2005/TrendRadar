@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T19:15:45.200758+08:00",
-  "total_titles_processed": 1763,
+  "generated_at": "2026-01-06T20:33:49.417787+08:00",
+  "total_titles_processed": 1852,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -71,6 +71,19 @@
           "time_info": "[09时14分 ~ 18时19分]"
         },
         {
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时21分 ~ 20时33分]"
+        },
+        {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
           "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
           "source": "凤凰网",
@@ -108,11 +121,12 @@
             15,
             23,
             24,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时21分 ~ 19时15分]"
+          "appearance_count": 28,
+          "time_info": "[00时21分 ~ 20时33分]"
         },
         {
           "title": "中方回应特朗普威胁古巴等国",
@@ -179,19 +193,6 @@
           "time_info": "[11时25分 ~ 15时22分]"
         },
         {
-          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
-          "url": "https://wallstreetcn.com/articles/3762615",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时21分 ~ 19时15分]"
-        },
-        {
           "title": "特朗普：美国将深度介入委内瑞拉",
           "url": "https://www.cls.cn/detail/2248692",
           "source": "财联社热门",
@@ -204,6 +205,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时35分 ~ 17时22分]"
+        },
+        {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            29,
+            15,
+            17,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时26分 ~ 20时33分]"
         },
         {
           "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
@@ -226,20 +242,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
-          "ranks": [
-            29,
-            15,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时26分 ~ 19时15分]"
         },
         {
           "title": "墨总统回应特朗普：合作可以干预不行",
@@ -354,6 +356,17 @@
           "time_info": "[16时23分 ~ 17时22分]"
         },
         {
+          "title": "特朗普“跨国绑架”，露出了帝国獠牙",
+          "url": "https://news.ifeng.com/c/8phPV8FjZWC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
           "title": "据NBC：美国总统特朗普表示，委内瑞拉在未来30天内不会举行新选举。",
           "url": "https://flash.jin10.com/detail/20260106070034158800",
           "source": "金十数据",
@@ -423,6 +436,19 @@
           "time_info": "[00时22分 ~ 01时19分]"
         },
         {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 20时33分]"
+        },
+        {
           "title": "乌克兰外交部长：此类袭击表明俄罗斯总统普京完全无视由美国总统特朗普主导的和平努力。",
           "url": "https://flash.jin10.com/detail/20260106021438268800",
           "source": "金十数据",
@@ -481,18 +507,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时25分 ~ 12时36分]"
-        },
-        {
-          "title": "特朗普不到1年对7国动武",
-          "url": "https://www.toutiao.com/trending/7591141159599276095/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 19时15分]"
         },
         {
           "title": "美国参议院多数党领袖John Thune：事先并不知道特朗普要袭击委内瑞拉。",
@@ -608,6 +622,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "美媒爆料：特朗普对委动手前曾向油企高管暗示",
+          "url": "https://wallstreetcn.com/livenews/3031665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
           "title": "知情人士：特朗普政府计划本周约谈美国石油巨头",
           "url": "https://flash.jin10.com/detail/20260106174326152800",
           "source": "金十数据",
@@ -650,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "据Politico：据三位消息人士透露，美国众议院将于周四投票推翻特朗普对两项共和党支持法案的否决。",
+          "url": "https://flash.jin10.com/detail/20260106195816977800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "特朗普政府已经与多家石油公司讨论委内瑞拉形势。（CNBC）",
@@ -702,7 +738,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -1226,7 +1262,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "三星掌门人李在镕在北京买LABUBU",
@@ -1256,8 +1292,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时35分 ~ 19时15分]"
+          "appearance_count": 12,
+          "time_info": "[12时35分 ~ 20时33分]"
         },
         {
           "title": "李在明在北京发帖感慨",
@@ -1341,6 +1377,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时14分 ~ 09时15分]"
+        },
+        {
+          "title": "正直播CBA：宁波vs北京",
+          "url": "https://www.toutiao.com/trending/7591769213825450011/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "周一（1月5日）欧市尾盘，德国10年期国债收益率跌3.0个基点，报2.870%，日内交投于2.906%-2.869%区间，北京时间18:00以来持续走低。 两年期德债收益率跌1.2个基点，报2.127%；30年期德债收益率跌3.4个基点，报3.507%。 2/10年期德债收益率利差跌1.750个基点，报+74.091个基点。",
@@ -1434,7 +1481,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -1448,8 +1495,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时26分 ~ 19时15分]"
+          "appearance_count": 9,
+          "time_info": "[14时26分 ~ 20时33分]"
+        },
+        {
+          "title": "据美联社：伊朗警方在德黑兰大巴扎集市与抗议者发生冲突。",
+          "url": "https://flash.jin10.com/detail/20260106201352416800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "伊朗要求国际原子能机构谴责针对伊朗核设施的犯罪行为",
@@ -1570,7 +1628,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -1599,11 +1657,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时25分 ~ 19时15分]"
+          "appearance_count": 14,
+          "time_info": "[11时25分 ~ 20时33分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -1687,7 +1746,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         }
