@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T15:22:40.075725+08:00",
-  "total_titles_processed": 1376,
+  "generated_at": "2026-01-07T16:23:44.104787+08:00",
+  "total_titles_processed": 1479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 79,
+      "match_count": 81,
       "titles": [
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时15分 ~ 15时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时15分 ~ 16时23分]"
         },
         {
           "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
@@ -56,6 +56,19 @@
           "time_info": "[09时15分 ~ 14时27分]"
         },
         {
+          "title": "特朗普不满马杜罗：他学我跳舞",
+          "url": "https://v.ifeng.com/c/8piYm7L0u6z",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时22分 ~ 16时23分]"
+        },
+        {
           "title": "特朗普不到1年对7国动武",
           "url": "https://www.toutiao.com/trending/7591141159599276095/",
           "source": "今日头条",
@@ -66,6 +79,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时21分 ~ 09时16分]"
+        },
+        {
+          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
+          "url": "https://www.cls.cn/detail/2249952",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时25分 ~ 16时23分]"
         },
         {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
@@ -97,30 +124,27 @@
           "time_info": "[00时21分 ~ 11时26分]"
         },
         {
-          "title": "特朗普不满马杜罗：他学我跳舞",
-          "url": "https://v.ifeng.com/c/8piYm7L0u6z",
+          "title": "特朗普为何恨他入骨？",
+          "url": "https://news.ifeng.com/c/8piZCNfE8JZ",
           "source": "凤凰网",
           "ranks": [
-            4,
-            2
+            1,
+            4
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时22分 ~ 15时22分]"
+          "time_info": "[14时26分 ~ 16时23分]"
         },
         {
-          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
-          "url": "https://www.cls.cn/detail/2249952",
-          "source": "财联社热门",
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
+          "source": "知乎",
           "ranks": [
-            8,
-            6,
-            7,
-            3
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时25分 ~ 15时22分]"
+          "appearance_count": 9,
+          "time_info": "[11时25分 ~ 16时23分]"
         },
         {
           "title": "特朗普支持格陵兰岛独立",
@@ -136,17 +160,6 @@
           "time_info": "[04时18分 ~ 07时16分]"
         },
         {
-          "title": "特朗普为何恨他入骨？",
-          "url": "https://news.ifeng.com/c/8piZCNfE8JZ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时26分 ~ 15时22分]"
-        },
-        {
           "title": "曝特朗普对委动手前曾暗示油企高管",
           "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
           "source": "百度热搜",
@@ -160,17 +173,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 07时16分]"
-        },
-        {
-          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
-          "url": "https://www.zhihu.com/question/1992144765781840551",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时25分 ~ 15时22分]"
         },
         {
           "title": "特朗普向印度发出新警告",
@@ -203,7 +205,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -550,7 +552,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -693,7 +695,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -797,6 +799,17 @@
           "time_info": "00时22分"
         },
         {
+          "title": "美参院民主党领袖批特朗普对委行动",
+          "url": "https://www.toutiao.com/trending/7591542867982614564/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "美国总统特朗普：还将与石油公司会面。",
           "url": "https://flash.jin10.com/detail/20260107002659389800",
           "source": "金十数据",
@@ -806,6 +819,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://wallstreetcn.com/livenews/3032232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "美国总统特朗普：武器和飞机的生产速度将大幅提升。",
@@ -921,8 +945,20 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
+          "url": "https://www.cls.cn/detail/2250156",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时36分 ~ 16时23分]"
+        },
         {
           "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
           "url": "https://www.cls.cn/detail/2249896",
@@ -949,18 +985,6 @@
           "time_info": "[04时18分 ~ 09时16分]"
         },
         {
-          "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
-          "url": "https://www.cls.cn/detail/2250156",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时36分 ~ 15时22分]"
-        },
-        {
           "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
           "url": "https://wallstreetcn.com/articles/3762643",
           "source": "华尔街见闻",
@@ -970,21 +994,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时16分 ~ 15时22分]"
-        },
-        {
-          "title": "英伟达押注物理AI背后逻辑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%BC%E6%B3%A8%E7%89%A9%E7%90%86AI%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 14时27分]"
+          "appearance_count": 12,
+          "time_info": "[07时16分 ~ 16时23分]"
         },
         {
           "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
@@ -994,11 +1005,26 @@
             11,
             10,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时25分 ~ 15时22分]"
+          "appearance_count": 9,
+          "time_info": "[11时25分 ~ 16时23分]"
+        },
+        {
+          "title": "英伟达押注物理AI背后逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%BC%E6%B3%A8%E7%89%A9%E7%90%86AI%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            2,
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时36分 ~ 16时23分]"
         },
         {
           "title": "xAI在E轮融资募集200亿美元，原定融资150亿美元",
@@ -1029,7 +1055,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -1081,6 +1107,18 @@
           "time_info": "[00时22分 ~ 01时20分]"
         },
         {
+          "title": "AI热潮掀开新篇章：“内存超级周期”将至，重点关注这三家公司！",
+          "url": "https://www.cls.cn/detail/2250185",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 16时23分]"
+        },
+        {
           "title": "如何看待田渊栋年终总结中对离职 Meta 经历的回顾及对 AI 的思考？",
           "url": "https://www.zhihu.com/question/1991159352690762378",
           "source": "知乎",
@@ -1091,17 +1129,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时25分 ~ 12时36分]"
-        },
-        {
-          "title": "AI热潮掀开新篇章：“内存超级周期”将至，重点关注这三家公司！",
-          "url": "https://www.cls.cn/detail/2250185",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 15时22分]"
         },
         {
           "title": "苹果公司iPhone Air背后的设计师Abidur Chowdhury跳槽至AI初创公司Hark。",
@@ -1125,6 +1152,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
+          "url": "https://wallstreetcn.com/articles/3762706",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "xAI在E轮融资募集200亿美元，英伟达和思科战略投资",
@@ -1401,11 +1439,12 @@
           "ranks": [
             14,
             20,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时21分 ~ 15时22分]"
+          "appearance_count": 22,
+          "time_info": "[00时21分 ~ 16时23分]"
         },
         {
           "title": "伊朗警告：可能对敌人进行先发制人的打击",
