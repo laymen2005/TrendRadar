@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T13:21:30.517372+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2026-01-08T14:27:15.769557+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 79,
+      "match_count": 80,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时23分 ~ 11时26分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
+          "url": "https://www.cls.cn/detail/2251170",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时16分 ~ 14时27分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -33,6 +47,18 @@
           "time_info": "[00时23分 ~ 07时17分]"
         },
         {
+          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
+          "url": "https://www.zhihu.com/question/1992497349604438807",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 14时27分]"
+        },
+        {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
           "source": "澎湃新闻",
@@ -43,8 +69,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 13时21分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 14时27分]"
         },
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -58,30 +84,16 @@
           "time_info": "[00时23分 ~ 07时17分]"
         },
         {
-          "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
-          "url": "https://www.cls.cn/detail/2251170",
-          "source": "财联社热门",
+          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
+          "url": "https://wallstreetcn.com/articles/3762789",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            5,
-            3,
-            2
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时16分 ~ 13时21分]"
-        },
-        {
-          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
-          "url": "https://www.zhihu.com/question/1992497349604438807",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 13时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 14时27分]"
         },
         {
           "title": "美国总统特朗普：Raytheon必须停止回购股票。",
@@ -117,6 +129,19 @@
           "time_info": "09时15分"
         },
         {
+          "title": "特朗普提出将美军费提至1.5万亿美元",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E5%B0%86%E7%BE%8E%E5%86%9B%E8%B4%B9%E6%8F%90%E8%87%B31.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 14时27分]"
+        },
+        {
           "title": "美国石油公司警告称，它们需要得到担保才能在委内瑞拉投资。 美国石油高管向特朗普施压，要求获得法律和财务担保。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3032814",
           "source": "华尔街见闻-快讯",
@@ -128,16 +153,28 @@
           "time_info": "09时15分"
         },
         {
-          "title": "特朗普提出将美军费提至1.5万亿美元",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E5%B0%86%E7%BE%8E%E5%86%9B%E8%B4%B9%E6%8F%90%E8%87%B31.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "bilibili 热搜",
+          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
+          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            6
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 14时27分]"
+        },
+        {
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 14时27分]"
         },
         {
           "title": "特朗普发表涉住房言论 住宅租赁股遭重创 地产股上涨",
@@ -150,6 +187,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时19分]"
+        },
+        {
+          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
+          "url": "https://www.zhihu.com/question/1991444028256907311",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 14时27分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普的行径应当让委内瑞拉民众感到安心。",
@@ -176,18 +224,6 @@
           "time_info": "[04时19分 ~ 05时16分]"
         },
         {
-          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
-          "url": "https://wallstreetcn.com/articles/3762789",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时21分]"
-        },
-        {
           "title": "特朗普质疑北约在美国需要时会否给予支持",
           "url": "https://flash.jin10.com/detail/20260108034118954800",
           "source": "金十数据",
@@ -212,6 +248,18 @@
           "time_info": "[05时16分 ~ 06时16分]"
         },
         {
+          "title": "特朗普退出联合国机构一览表",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时27分]"
+        },
+        {
           "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
           "url": "https://wallstreetcn.com/livenews/3032636",
           "source": "华尔街见闻-快讯",
@@ -223,30 +271,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时25分 ~ 04时19分]"
-        },
-        {
-          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
-          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 13时21分]"
-        },
-        {
-          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 13时21分]"
         },
         {
           "title": "特朗普向国防承包商回购股票的做法发出威胁",
@@ -271,17 +295,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时17分]"
-        },
-        {
-          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
-          "url": "https://www.zhihu.com/question/1991444028256907311",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时21分]"
         },
         {
           "title": "白宫：特朗普周五将向石油行业兜售委内瑞拉投资“机会”",
@@ -318,6 +331,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时16分]"
+        },
+        {
+          "title": "特朗普政府为何觊觎格陵兰岛",
+          "url": "https://www.toutiao.com/trending/7592803152118681094/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 14时27分]"
         },
         {
           "title": "白宫：特朗普政府正在“积极”讨论购买格陵兰岛的可能性",
@@ -509,17 +533,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
-        },
-        {
-          "title": "特朗普退出联合国机构一览表",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
         },
         {
           "title": "特朗普：委内瑞拉石油收入将只买美国制造的产品",
@@ -979,11 +992,12 @@
           "ranks": [
             10,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时15分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 14时27分]"
         },
         {
           "title": "AI引爆存储市场：三星电子利润创历史新高",
