@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T18:19:47.225698+08:00",
-  "total_titles_processed": 1665,
+  "generated_at": "2026-01-08T19:17:30.095247+08:00",
+  "total_titles_processed": 1761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 94,
+      "match_count": 95,
       "titles": [
         {
           "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时26分 ~ 18时19分]"
+          "appearance_count": 11,
+          "time_info": "[11时26分 ~ 19时17分]"
         },
         {
           "title": "特朗普的下一步，难了",
@@ -29,6 +29,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时23分 ~ 11时26分]"
+        },
+        {
+          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
+          "url": "https://wallstreetcn.com/articles/3762789",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时35分 ~ 19时17分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -45,20 +59,6 @@
           "time_info": "[07时16分 ~ 15时21分]"
         },
         {
-          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
-          "url": "https://wallstreetcn.com/articles/3762789",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时35分 ~ 18时19分]"
-        },
-        {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
           "url": "https://www.zhihu.com/question/1992144765781840551",
           "source": "知乎",
@@ -73,6 +73,18 @@
           "time_info": "[00时23分 ~ 07时17分]"
         },
         {
+          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
+          "url": "https://www.zhihu.com/question/1991444028256907311",
+          "source": "知乎",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时35分 ~ 19时17分]"
+        },
+        {
           "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
           "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
           "source": "澎湃新闻",
@@ -83,8 +95,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时26分 ~ 18时19分]"
+          "appearance_count": 11,
+          "time_info": "[11时26分 ~ 19时17分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -110,18 +122,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时23分 ~ 07时17分]"
-        },
-        {
-          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
-          "url": "https://www.zhihu.com/question/1991444028256907311",
-          "source": "知乎",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时35分 ~ 18时19分]"
         },
         {
           "title": "特朗普提出将美军费提至1.5万亿美元",
@@ -291,6 +291,17 @@
           "time_info": "[15时21分 ~ 17时24分]"
         },
         {
+          "title": "特朗普一口气退出了哪66个国际组织？",
+          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 19时17分]"
+        },
+        {
           "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
           "url": "https://wallstreetcn.com/livenews/3032636",
           "source": "华尔街见闻-快讯",
@@ -314,17 +325,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时21分 ~ 16时24分]"
-        },
-        {
-          "title": "特朗普一口气退出了哪66个国际组织？",
-          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时19分]"
         },
         {
           "title": "特朗普向国防承包商回购股票的做法发出威胁",
@@ -420,6 +420,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时25分]"
+        },
+        {
+          "title": "特朗普称美将持续多年管理委内瑞拉",
+          "url": "https://wallstreetcn.com/livenews/3033213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 19时17分]"
         },
         {
           "title": "受特朗普对住房的评论影响，黑石集团股价一度下跌9.3%。",
@@ -528,6 +540,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 03时18分]"
+        },
+        {
+          "title": "特朗普称2027年军费预算1.5万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B02027%E5%B9%B4%E5%86%9B%E8%B4%B9%E9%A2%84%E7%AE%971.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 19时17分]"
         },
         {
           "title": "特朗普：我将呼吁美国国会将其编入法典。",
@@ -675,17 +699,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "特朗普称美将持续多年管理委内瑞拉",
-          "url": "https://wallstreetcn.com/livenews/3033213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
         },
         {
           "title": "美国总统特朗普：他们将用从我们新的石油协议中获得的资金来支付。",
@@ -859,7 +872,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -873,17 +886,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "特朗普称2027年军费预算1.5万亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B02027%E5%B9%B4%E5%86%9B%E8%B4%B9%E9%A2%84%E7%AE%971.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
         },
         {
           "title": "据华尔街日报：美国总统特朗普团队拟定控制委内瑞拉石油的计划，消息人士称特朗普希望将油价降至每桶50美元，并将对委内瑞拉石油公司PDVSA实施部分控制。",
@@ -941,6 +943,17 @@
           "time_info": "09时15分"
         },
         {
+          "title": "以色列总理内塔尼亚胡取消了原定于今天对约旦河西岸的访问，转而与特朗普任命的加沙和平委员会新任主席尼古拉·姆拉德诺夫（Nikolay Mladenov）会面。",
+          "url": "https://flash.jin10.com/detail/20260108182040235800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "据Punchbowl：美国总统特朗普将于2月24日发表国情咨文。",
           "url": "https://flash.jin10.com/detail/20260108050259724800",
           "source": "金十数据",
@@ -991,7 +1004,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -1098,7 +1111,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "直播电商新规强化AI内容监管",
@@ -1248,6 +1261,17 @@
           "time_info": "[11时26分 ~ 12时35分]"
         },
         {
+          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
+          "url": "https://www.cls.cn/detail/2251902",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 19时17分]"
+        },
+        {
           "title": "马斯克：中国AI算力领先世界",
           "url": "https://www.toutiao.com/trending/7592779381248888362/",
           "source": "今日头条",
@@ -1259,6 +1283,28 @@
           "time_info": "[09时15分 ~ 11时26分]"
         },
         {
+          "title": "晨星：估值重塑与AI动能共振 降息预期点燃亚洲增长引擎",
+          "url": "https://flash.jin10.com/detail/20260108184723110800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "逃离AI估值高地：华尔街策略师集体转向 中产消费股或成2026领头羊",
+          "url": "https://flash.jin10.com/detail/20260108184446865800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "【午报】三大指数震荡整理涨跌不一，商业航天、AI应用等热门赛道反复活跃",
           "url": "https://www.cls.cn/detail/2251507",
           "source": "财联社热门",
@@ -1268,17 +1314,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
-        },
-        {
-          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
-          "url": "https://www.cls.cn/detail/2251902",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
         },
         {
           "title": "AI大模型上市第一股",
@@ -1342,7 +1377,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -1383,7 +1418,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "英媒称伊朗抗议席卷全国一半省份，至少36人死亡",
@@ -1506,6 +1541,28 @@
           "time_info": "07时17分"
         },
         {
+          "title": "伊朗外长称做好准备应对战争",
+          "url": "https://wallstreetcn.com/livenews/3033233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：真主党在伊朗支持下努力重整旗鼓并重建其恐怖主义基础设施，这已得到证实。",
+          "url": "https://flash.jin10.com/detail/20260108182530377800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "伊朗德黑兰局势暂缓 大巴扎复市",
           "url": "https://www.toutiao.com/trending/7592247328158253082/",
           "source": "今日头条",
@@ -1534,7 +1591,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
