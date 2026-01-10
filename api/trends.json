@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T13:18:03.933769+08:00",
-  "total_titles_processed": 1054,
+  "generated_at": "2026-01-10T14:23:49.313234+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 114,
+      "match_count": 115,
       "titles": [
         {
           "title": "特朗普：取消对委内瑞拉第二波打击",
@@ -33,6 +33,17 @@
           "time_info": "[00时21分 ~ 13时18分]"
         },
         {
+          "title": "特朗普威胁石油巨头在委投资：你们不干有的是人干",
+          "url": "https://news.ifeng.com/c/8pnLOwhxyq3",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时21分 ~ 14时23分]"
+        },
+        {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
           "url": "https://wallstreetcn.com/articles/3762899",
           "source": "华尔街见闻",
@@ -57,17 +68,6 @@
           "time_info": "[00时21分 ~ 07时16分]"
         },
         {
-          "title": "特朗普威胁石油巨头在委投资：你们不干有的是人干",
-          "url": "https://news.ifeng.com/c/8pnLOwhxyq3",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时21分 ~ 13时18分]"
-        },
-        {
           "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
           "url": "https://news.ifeng.com/c/8pm6HIDB94W",
           "source": "凤凰网",
@@ -86,8 +86,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 14时23分]"
         },
         {
           "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
@@ -99,8 +99,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时16分 ~ 13时18分]"
+          "appearance_count": 8,
+          "time_info": "[07时16分 ~ 14时23分]"
         },
         {
           "title": "美国总统特朗普：如果伊朗开始“杀人”，美国会介入。但这并不意味着会派地面部队。",
@@ -172,6 +172,19 @@
           "time_info": "[05时17分 ~ 09时14分]"
         },
         {
+          "title": "特朗普称美国必须「拥有」整个格陵兰，美国武力夺取格陵兰的可能性有多大？格陵兰岛的现状会发生改变吗？",
+          "url": "https://www.zhihu.com/question/1992934891055239467",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时21分 ~ 14时23分]"
+        },
+        {
           "title": "特朗普再发“夺岛”言论",
           "url": "https://www.toutiao.com/trending/7592721637930434566/",
           "source": "今日头条",
@@ -214,6 +227,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "印度否认莫迪未致电特朗普让印美贸易谈判停滞",
+          "url": "https://wallstreetcn.com/livenews/3034503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "特朗普执政不到一年打 7 国，第二任期以来已下令实施超 620 次空袭，下一个是谁？谁能给他踩下刹车？",
+          "url": "https://www.zhihu.com/question/1991889804833599714",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时21分 ~ 14时23分]"
+        },
+        {
+          "title": "关税裁决交易指南：如果最高法院说“不”，特朗普还有什么牌？",
+          "url": "https://wallstreetcn.com/articles/3762973",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时21分 ~ 14时23分]"
         },
         {
           "title": "特朗普重申要得到格陵兰岛",
@@ -315,19 +363,6 @@
           "time_info": "01时20分"
         },
         {
-          "title": "特朗普称美国必须「拥有」整个格陵兰，美国武力夺取格陵兰的可能性有多大？格陵兰岛的现状会发生改变吗？",
-          "url": "https://www.zhihu.com/question/1992934891055239467",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时21分 ~ 13时18分]"
-        },
-        {
           "title": "特朗普：“无论难易”都要得到格陵兰岛",
           "url": "https://flash.jin10.com/detail/20260110084951705800",
           "source": "金十数据",
@@ -342,28 +377,55 @@
           "time_info": "[09时14分 ~ 13时18分]"
         },
         {
-          "title": "特朗普执政不到一年打 7 国，第二任期以来已下令实施超 620 次空袭，下一个是谁？谁能给他踩下刹车？",
-          "url": "https://www.zhihu.com/question/1991889804833599714",
-          "source": "知乎",
+          "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
+          "url": "https://www.cls.cn/detail/2253739",
+          "source": "财联社热门",
           "ranks": [
-            13,
-            10,
+            11,
             9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时21分 ~ 13时18分]"
+          "time_info": "[12时30分 ~ 14时23分]"
         },
         {
-          "title": "关税裁决交易指南：如果最高法院说“不”，特朗普还有什么牌？",
-          "url": "https://wallstreetcn.com/articles/3762973",
-          "source": "华尔街见闻",
+          "title": "知名对冲基金经理比尔·阿克曼：美国总统特朗普呼吁将信用卡利率上限设定为10%“是一个错误”。",
+          "url": "https://flash.jin10.com/detail/20260110102018762800",
+          "source": "金十数据",
           "ranks": [
-            10
+            5,
+            10,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 14时23分]"
+        },
+        {
+          "title": "俄方感谢特朗普释放俄船员",
+          "url": "https://www.toutiao.com/trending/7593393480542961707/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            24
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时21分 ~ 13时18分]"
+          "time_info": "[12时30分 ~ 14时23分]"
+        },
+        {
+          "title": "美国消费者银行家协会：美国银行业回应信用卡利率设限提案，表示认同美国总统特朗普帮助美国人获得更实惠信贷的目标。",
+          "url": "https://flash.jin10.com/detail/20260110115753193800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时23分]"
         },
         {
           "title": "美国总统特朗普：进行了一场非常不错的会议。",
@@ -377,18 +439,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时16分 ~ 11时21分]"
-        },
-        {
-          "title": "美国消费者银行家协会：美国银行业回应信用卡利率设限提案，表示认同美国总统特朗普帮助美国人获得更实惠信贷的目标。",
-          "url": "https://flash.jin10.com/detail/20260110115753193800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时18分]"
         },
         {
           "title": "美国能源部长Wright：今天从众多石油公司了解到（与投资委内瑞拉相关的）“大量兴趣”。 雪佛龙今天作出具体的（投资委内瑞拉的）承诺。 雪佛龙告知特朗普政府，该公司认为（委内瑞拉石油）产量有望增长50%。 未来8-12年，（美国）可能会从委内瑞拉捞取到300万桶/日的石油（供应）。 （对于去风险资本（derisking capital））美国可以改变（委内瑞拉的）政府行为。 后续将与委内瑞拉政府接触。 美国希望颠覆（总统马杜罗治下的）委内瑞拉治理方式。",
@@ -427,19 +477,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时16分]"
-        },
-        {
-          "title": "知名对冲基金经理比尔·阿克曼：美国总统特朗普呼吁将信用卡利率上限设定为10%“是一个错误”。",
-          "url": "https://flash.jin10.com/detail/20260110102018762800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 13时18分]"
         },
         {
           "title": "美国法官：将暂时阻止特朗普政府取消至少1万名拉美移民合法身份的举措。",
@@ -493,26 +530,60 @@
           "time_info": "[09时14分 ~ 13时18分]"
         },
         {
-          "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
-          "url": "https://www.cls.cn/detail/2253739",
-          "source": "财联社热门",
+          "title": "比尔·阿克曼：特朗普呼吁将信用卡利率限制在10%是“一个错误”。 如果不能收取足够的利率来弥补损失，赚取足够的股本回报，信用卡贷方将对消费者取消信用卡服务。",
+          "url": "https://wallstreetcn.com/livenews/3034477",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            8,
+            17,
+            23,
+            27
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时30分 ~ 13时18分]"
+          "time_info": "[11时21分 ~ 14时23分]"
         },
         {
-          "title": "俄方感谢特朗普释放俄船员",
-          "url": "https://www.toutiao.com/trending/7593393480542961707/",
-          "source": "今日头条",
+          "title": "特朗普：将推行为期一年的信用卡利率上限政策，限定为10%",
+          "url": "https://flash.jin10.com/detail/20260110092636627800",
+          "source": "金十数据",
           "ranks": [
+            10,
+            15,
+            19,
             22
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时30分 ~ 13时18分]"
+          "time_info": "[11时21分 ~ 14时23分]"
+        },
+        {
+          "title": "特朗普：我解决了拜登留下的高房贷利率难题，为美国家庭减轻负担",
+          "url": "https://flash.jin10.com/detail/20260110092012620800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            16,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 14时23分]"
+        },
+        {
+          "title": "美国总统特朗普：自2026年1月20日起，作为美国总统，我将要求实施为期一年的信用卡利率上限政策，利率不得超过10%。",
+          "url": "https://flash.jin10.com/detail/20260110091128037800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            18,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 14时23分]"
         },
         {
           "title": "特朗普遭美石油巨头打脸",
@@ -560,19 +631,6 @@
           "time_info": "[05时17分 ~ 07时16分]"
         },
         {
-          "title": "比尔·阿克曼：特朗普呼吁将信用卡利率限制在10%是“一个错误”。 如果不能收取足够的利率来弥补损失，赚取足够的股本回报，信用卡贷方将对消费者取消信用卡服务。",
-          "url": "https://wallstreetcn.com/livenews/3034477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 13时18分]"
-        },
-        {
           "title": "美国总统特朗普：没人真正知道古巴局势会如何发展。",
           "url": "https://flash.jin10.com/detail/20260110044609852800",
           "source": "金十数据",
@@ -584,19 +642,6 @@
           "time_info": "[05时17分 ~ 07时16分]"
         },
         {
-          "title": "特朗普：将推行为期一年的信用卡利率上限政策，限定为10%",
-          "url": "https://flash.jin10.com/detail/20260110092636627800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 13时18分]"
-        },
-        {
           "title": "美国总统特朗普：（对埃克森美孚说）我们要速度和质量。",
           "url": "https://flash.jin10.com/detail/20260110044317465800",
           "source": "金十数据",
@@ -606,19 +651,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时17分 ~ 07时16分]"
-        },
-        {
-          "title": "特朗普：我解决了拜登留下的高房贷利率难题，为美国家庭减轻负担",
-          "url": "https://flash.jin10.com/detail/20260110092012620800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 13时18分]"
         },
         {
           "title": "美国总统特朗普：不回顾石油公司过去损失了多少。",
@@ -645,19 +677,6 @@
           "time_info": "[11时21分 ~ 13时18分]"
         },
         {
-          "title": "美国总统特朗普：自2026年1月20日起，作为美国总统，我将要求实施为期一年的信用卡利率上限政策，利率不得超过10%。",
-          "url": "https://flash.jin10.com/detail/20260110091128037800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 13时18分]"
-        },
-        {
           "title": "特朗普：将推行为期一年的信用卡利率上限政策，限定为10%",
           "url": "https://wallstreetcn.com/livenews/3034471",
           "source": "华尔街见闻-快讯",
@@ -669,6 +688,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时21分 ~ 13时18分]"
+        },
+        {
+          "title": "特朗普戴“快乐特朗普”胸针",
+          "url": "https://www.toutiao.com/trending/7592493891497214003/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 14时23分]"
         },
         {
           "title": "特朗普施压大型石油公司在委内瑞拉投资1000亿美元",
@@ -859,17 +890,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 09时14分]"
-        },
-        {
-          "title": "特朗普戴“快乐特朗普”胸针",
-          "url": "https://www.toutiao.com/trending/7592493891497214003/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 13时18分]"
         },
         {
           "title": "特朗普：白宫宴会厅还没完工 为无法接待所有石油公司道歉",
@@ -1362,8 +1382,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 13时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 14时23分]"
         },
         {
           "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
@@ -1388,11 +1408,12 @@
             23,
             22,
             12,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 14时23分]"
         },
         {
           "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
@@ -1443,8 +1464,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 14时23分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -1456,8 +1477,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时16分 ~ 13时18分]"
+          "appearance_count": 8,
+          "time_info": "[07时16分 ~ 14时23分]"
         },
         {
           "title": "内部备忘录显示：美国司法部成立人工智能（AI）执法工作组，希望借机对抗州一级的监管。（CBS）",
@@ -1510,7 +1531,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
@@ -1548,8 +1569,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 14时23分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国支持勇敢的伊朗人民。",
+          "url": "https://flash.jin10.com/detail/20260110133457629800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "法国总统府：法国、英国和德国敦促伊朗当局保持克制。",
@@ -1685,11 +1717,24 @@
           "ranks": [
             7,
             12,
-            16
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 14时23分]"
+        },
+        {
+          "title": "北京电动车后座乘员年龄放宽至 16 岁，「佩戴头盔」上升为法定义务，这一调整有何意义？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1992296950729569079",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时21分 ~ 13时18分]"
+          "time_info": "[13时17分 ~ 14时23分]"
         },
         {
           "title": "#直击北京沙尘暴现场#",
@@ -1703,17 +1748,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时20分 ~ 07时16分]"
-        },
-        {
-          "title": "北京电动车后座乘员年龄放宽至 16 岁，「佩戴头盔」上升为法定义务，这一调整有何意义？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1992296950729569079",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 13时18分]"
         }
       ]
     },
@@ -1763,11 +1797,12 @@
           "ranks": [
             8,
             13,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 14时23分]"
         },
         {
           "title": "SB ENERGY：OpenAI、软银集团和公司还建立了一种非排他性的首选合作伙伴关系，以开发数据中心建设的新模式。",
@@ -1803,11 +1838,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时23分]"
         }
       ]
     },
@@ -1822,11 +1858,12 @@
           "ranks": [
             4,
             9,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 14时23分]"
         }
       ]
     }
