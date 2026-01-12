@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-12T21:39:06.823444+08:00",
-  "total_titles_processed": 1682,
+  "generated_at": "2026-01-12T22:21:27.122877+08:00",
+  "total_titles_processed": 1752,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
       "match_count": 64,
       "titles": [
+        {
+          "title": "伊朗外长：局势目前完全得到控制",
+          "url": "https://news.ifeng.com/c/8pr5wuKJ4Wo",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时25分 ~ 22时21分]"
+        },
         {
           "title": "伊朗媒体：“大量人员”在近期骚乱中死亡",
           "url": "https://news.ifeng.com/c/8ppjl3SwLp5",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时19分 ~ 09时19分]"
-        },
-        {
-          "title": "伊朗外长：局势目前完全得到控制",
-          "url": "https://news.ifeng.com/c/8pr5wuKJ4Wo",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时25分 ~ 21时39分]"
         },
         {
           "title": "伊朗警告美以：若遭攻击必将还击",
@@ -111,8 +111,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时29分 ~ 21时39分]"
+          "appearance_count": 12,
+          "time_info": "[14时29分 ~ 22时21分]"
         },
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，金银新高后涨幅扩大，铜逼近新高，油价回调",
@@ -138,8 +138,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时45分 ~ 21时39分]"
+          "appearance_count": 16,
+          "time_info": "[11时45分 ~ 22时21分]"
+        },
+        {
+          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4600美元，现货白银涨超6%，铜逼近新高，油价回调",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时38分 ~ 22时21分]"
         },
         {
           "title": "总台现场直击丨德黑兰民众生活基本正常，伊朗称将捍卫国家利益",
@@ -152,6 +163,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 06时15分]"
+        },
+        {
+          "title": "伊朗：不寻求战争但已做好准备",
+          "url": "https://www.douyin.com/hot/2365457",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时27分 ~ 22时21分]"
         },
         {
           "title": "伊朗“大量人员”在近期骚乱中死亡",
@@ -167,6 +189,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 07时15分]"
+        },
+        {
+          "title": "伊朗外长：伊朗安全部队已控制全国局势",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367578",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时20分 ~ 22时21分]"
         },
         {
           "title": "据以色列官员透露，该国总理内塔尼亚胡周六深夜与美国国务卿卢比奥通话，讨论伊朗局势。（美联社）",
@@ -209,17 +245,6 @@
           "time_info": "[00时19分 ~ 06时15分]"
         },
         {
-          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4600美元，现货白银涨超6%，铜逼近新高，油价回调",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 21时39分]"
-        },
-        {
           "title": "伊朗政府宣布全国哀悼3天",
           "url": "https://news.ifeng.com/c/8pqCxO7hS7y",
           "source": "凤凰网",
@@ -256,17 +281,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时45分 ~ 16时25分]"
-        },
-        {
-          "title": "伊朗：不寻求战争但已做好准备",
-          "url": "https://www.douyin.com/hot/2365457",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时27分 ~ 21时39分]"
         },
         {
           "title": "据美联社：以色列官员透露，该国总理内塔尼亚胡周六深夜与美国国务卿鲁比奥通话，讨论伊朗局势。",
@@ -309,19 +323,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时19分 ~ 06时15分]"
-        },
-        {
-          "title": "伊朗外长：伊朗安全部队已控制全国局势",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32367578",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时20分 ~ 21时39分]"
         },
         {
           "title": "伊朗政府多举措应对局势，强化安全与供应",
@@ -621,6 +622,18 @@
           "time_info": "[09时19分 ~ 11时45分]"
         },
         {
+          "title": "美备好三招对付伊朗，投行拆解背后金融逻辑丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260112211304767800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时21分]"
+        },
+        {
           "title": "伊朗外长：局势完全得到控制",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E5%B1%80%E5%8A%BF%E5%AE%8C%E5%85%A8%E5%BE%97%E5%88%B0%E6%8E%A7%E5%88%B6",
           "source": "百度热搜",
@@ -710,17 +723,6 @@
           "time_info": "17时27分"
         },
         {
-          "title": "美备好三招对付伊朗，投行拆解背后金融逻辑丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20260112211304767800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
           "title": "伊朗哀悼3天",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%93%80%E6%82%BC3%E5%A4%A9%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -801,7 +803,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普发图自称“委内瑞拉代总统”",
@@ -842,6 +844,30 @@
           "time_info": "[01时13分 ~ 07时15分]"
         },
         {
+          "title": "特朗普威胁古巴，委内瑞拉发声",
+          "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时27分 ~ 22时21分]"
+        },
+        {
+          "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
+          "url": "https://news.ifeng.com/c/8pr7YJccLIS",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时27分 ~ 22时21分]"
+        },
+        {
           "title": "特朗普，又要“抢东西”？",
           "url": "https://news.ifeng.com/c/8pqT2PyRVmx",
           "source": "凤凰网",
@@ -864,30 +890,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时19分 ~ 16时25分]"
-        },
-        {
-          "title": "特朗普威胁古巴，委内瑞拉发声",
-          "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时27分 ~ 21时39分]"
-        },
-        {
-          "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
-          "url": "https://news.ifeng.com/c/8pr7YJccLIS",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时27分 ~ 21时39分]"
         },
         {
           "title": "特朗普对台问题表态引岛内热议",
@@ -1004,6 +1006,17 @@
           "time_info": "[09时19分 ~ 11时45分]"
         },
         {
+          "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
+          "url": "https://news.ifeng.com/c/8pr1vFKruDQ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 22时21分]"
+        },
+        {
           "title": "特朗普威胁古巴尽快同美国“达成协议”",
           "url": "https://www.cls.cn/detail/2254162",
           "source": "财联社热门",
@@ -1044,6 +1057,19 @@
           "time_info": "[00时19分 ~ 05时14分]"
         },
         {
+          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时16分 ~ 22时21分]"
+        },
+        {
           "title": "市场消息：墨西哥总统辛鲍姆将于周一与美国总统特朗普通电话。",
           "url": "https://flash.jin10.com/detail/20260112180850351800",
           "source": "金十数据",
@@ -1053,6 +1079,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
+          "url": "https://wallstreetcn.com/articles/3763089",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时36分 ~ 22时21分]"
         },
         {
           "title": "美国驻印度大使在新德里表示，希望特朗普在一两年内访问印度。 美国和印度继续积极在贸易、安全和科技领域合作。 有关贸易问题的下一次讨论将在周二进行。",
@@ -1154,17 +1191,16 @@
           "time_info": "[17时27分 ~ 18时21分]"
         },
         {
-          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
-          "source": "澎湃新闻",
+          "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
+          "url": "https://wallstreetcn.com/articles/3763082",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            20,
-            17
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时16分 ~ 21时39分]"
+          "time_info": "[21时38分 ~ 22时21分]"
         },
         {
           "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
@@ -1198,17 +1234,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时19分 ~ 03时12分]"
-        },
-        {
-          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
-          "url": "https://wallstreetcn.com/articles/3763089",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时36分 ~ 21时39分]"
         },
         {
           "title": "美东时间1月11日晚，特朗普在社交平台发帖，自称“委内瑞拉代总统”。（CCTV国际时讯）",
@@ -1261,15 +1286,52 @@
           "time_info": "[05时14分 ~ 07时15分]"
         },
         {
-          "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
-          "url": "https://wallstreetcn.com/articles/3763082",
-          "source": "华尔街见闻",
+          "title": "德国财政部长克林贝伊尔就特朗普抨击美联储发表评论：作为财政部长，央行独立性对我来说是一条不容逾越的红线。",
+          "url": "https://flash.jin10.com/detail/20260112212737636800",
+          "source": "金十数据",
           "ranks": [
-            10
+            7,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时38分 ~ 21时39分]"
+          "time_info": "[21时39分 ~ 22时21分]"
+        },
+        {
+          "title": "美媒：特朗普本周将就美联储主席一职面试贝莱德高管里克·里德",
+          "url": "https://flash.jin10.com/detail/20260112212716396800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时21分]"
+        },
+        {
+          "title": "特朗普将就美联储主席一职面试贝莱德分析师Rick Rieder，面试将于本周进行。（福克斯）",
+          "url": "https://wallstreetcn.com/livenews/3035370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时21分]"
+        },
+        {
+          "title": "北约秘书长吕特：相信美国总统特朗普为北约做正确的事情。",
+          "url": "https://flash.jin10.com/detail/20260112212210051800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时21分]"
         },
         {
           "title": "“木头姐”预言：特朗普政府将很快开始采购比特币，建立国家储备！",
@@ -1281,6 +1343,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时20分 ~ 18时21分]"
+        },
+        {
+          "title": "特朗普将就美联储主席一职面试贝莱德高管里德（Rick Rieder）。面试将于本周举行。",
+          "url": "https://flash.jin10.com/detail/20260112211851443800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时21分]"
         },
         {
           "title": "特朗普说考虑干预伊朗局势的强硬选项",
@@ -1316,39 +1390,6 @@
           "time_info": "17时27分"
         },
         {
-          "title": "德国财政部长克林贝伊尔就特朗普抨击美联储发表评论：作为财政部长，央行独立性对我来说是一条不容逾越的红线。",
-          "url": "https://flash.jin10.com/detail/20260112212737636800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "美媒：特朗普本周将就美联储主席一职面试贝莱德高管里克·里德",
-          "url": "https://flash.jin10.com/detail/20260112212716396800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "特朗普将就美联储主席一职面试贝莱德分析师Rick Rieder，面试将于本周进行。（福克斯）",
-          "url": "https://wallstreetcn.com/livenews/3035370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
           "title": "巴克莱股价下跌，此前特朗普呼吁限制信用卡利率。",
           "url": "https://flash.jin10.com/detail/20260112160633158800",
           "source": "金十数据",
@@ -1360,15 +1401,15 @@
           "time_info": "16时25分"
         },
         {
-          "title": "北约秘书长吕特：相信美国总统特朗普为北约做正确的事情。",
-          "url": "https://flash.jin10.com/detail/20260112212210051800",
-          "source": "金十数据",
+          "title": "META任命前特朗普顾问Dina Powell McCormick担任新设立的高管职位，负责与政府和投资者合作推动AI发展。",
+          "url": "https://wallstreetcn.com/livenews/3035386",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时39分"
+          "time_info": "22时21分"
         },
         {
           "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
@@ -1391,17 +1432,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
-        },
-        {
-          "title": "特朗普将就美联储主席一职面试贝莱德高管里德（Rick Rieder）。面试将于本周举行。",
-          "url": "https://flash.jin10.com/detail/20260112211851443800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
         },
         {
           "title": "传唤鲍威尔！特朗普折腾有啥图谋丨Hi，今天怎么看？",
@@ -1506,7 +1536,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
@@ -1528,8 +1558,21 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时25分 ~ 22时21分]"
+        },
+        {
+          "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
+          "url": "https://www.cls.cn/detail/2254949",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[16时25分 ~ 21时39分]"
+          "time_info": "[18时20分 ~ 22时21分]"
         },
         {
           "title": "新“易中天”来了！GEO概念爆发 AI投资向应用价值迁移？",
@@ -1546,6 +1589,20 @@
           "time_info": "[13时26分 ~ 19时16分]"
         },
         {
+          "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
+          "url": "https://wallstreetcn.com/articles/3763085",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时27分 ~ 22时21分]"
+        },
+        {
           "title": "AI玩具引爆CES，京东、字节、华为等巨头加码下能否跑出AI版泡泡玛特？",
           "url": "https://www.cls.cn/detail/2254695",
           "source": "财联社热门",
@@ -1558,19 +1615,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[16时25分 ~ 21时39分]"
-        },
-        {
-          "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
-          "url": "https://www.cls.cn/detail/2254949",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时20分 ~ 21时39分]"
         },
         {
           "title": "正探索延伸至AI漫剧新赛道 AIGC概念股录得6天3板 本周机构密集调研相关上市公司",
@@ -1598,11 +1642,24 @@
             17,
             18,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时19分 ~ 21时39分]"
+          "appearance_count": 27,
+          "time_info": "[00时19分 ~ 22时21分]"
+        },
+        {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时23分 ~ 22时21分]"
         },
         {
           "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
@@ -1629,6 +1686,34 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时19分 ~ 07时15分]"
+        },
+        {
+          "title": "【每日收评】三大指数均涨超1%，两市成交额达3.6万亿，AI应用与商业航天双双爆发",
+          "url": "https://www.cls.cn/detail/2254903",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时27分 ~ 22时21分]"
+        },
+        {
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时23分 ~ 22时21分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -1680,18 +1765,6 @@
           "time_info": "[00时19分 ~ 07时15分]"
         },
         {
-          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
-          "url": "https://wallstreetcn.com/articles/3763059",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时23分 ~ 21时39分]"
-        },
-        {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
           "url": "https://wallstreetcn.com/livenews/3034757",
           "source": "华尔街见闻-快讯",
@@ -1704,19 +1777,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时19分 ~ 06时15分]"
-        },
-        {
-          "title": "疑似马斯克AI登顶LOL韩服集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时23分 ~ 21时39分]"
         },
         {
           "title": "市场消息：家得宝与谷歌云联合推出Agentic AI工具，助力顾客与员工将项目从“如何做”转化为“已完成”。",
@@ -1734,32 +1794,18 @@
           "time_info": "[00时19分 ~ 07时15分]"
         },
         {
-          "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
-          "url": "https://wallstreetcn.com/articles/3763085",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时27分 ~ 21时39分]"
-        },
-        {
-          "title": "【每日收评】三大指数均涨超1%，两市成交额达3.6万亿，AI应用与商业航天双双爆发",
-          "url": "https://www.cls.cn/detail/2254903",
+          "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
+          "url": "https://www.cls.cn/detail/2255010",
           "source": "财联社热门",
           "ranks": [
             10,
             9,
-            8,
-            5,
-            6
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时27分 ~ 21时39分]"
+          "appearance_count": 8,
+          "time_info": "[18时20分 ~ 22时21分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -1791,18 +1837,17 @@
           "time_info": "[09时19分 ~ 13时26分]"
         },
         {
-          "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
-          "url": "https://www.cls.cn/detail/2255010",
+          "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
+          "url": "https://www.cls.cn/detail/2254978",
           "source": "财联社热门",
           "ranks": [
             10,
-            9,
-            7,
-            8
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[18时20分 ~ 21时39分]"
+          "time_info": "[19时16分 ~ 22时21分]"
         },
         {
           "title": "AI会取代演员吗",
@@ -1846,6 +1891,18 @@
           "time_info": "[04时18分 ~ 07时15分]"
         },
         {
+          "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
+          "url": "https://www.cls.cn/detail/2254799",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时36分 ~ 22时21分]"
+        },
+        {
           "title": "1月12日午间收评：深成指、创业板指均涨超1%，商业航天、AI应用方向持续爆发",
           "url": "https://wallstreetcn.com/livenews/3034956",
           "source": "华尔街见闻-快讯",
@@ -1883,18 +1940,6 @@
           "time_info": "[13时26分 ~ 14时29分]"
         },
         {
-          "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
-          "url": "https://www.cls.cn/detail/2254978",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 21时39分]"
-        },
-        {
           "title": "A股三大股指午后均涨超1%，创业板指现涨1.8%，AI应用、文化传媒等板块涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3035027",
           "source": "华尔街见闻-快讯",
@@ -1907,17 +1952,6 @@
           "time_info": "[14时29分 ~ 15时23分]"
         },
         {
-          "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
-          "url": "https://www.cls.cn/detail/2254799",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时36分 ~ 21时39分]"
-        },
-        {
           "title": "目前围绕 AI 的软件工程领域主要有 mlops，mlsys，AI infra，他们三者的区别是什么呢？",
           "url": "https://www.zhihu.com/question/650309846",
           "source": "知乎",
@@ -1928,6 +1962,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时45分 ~ 12时46分]"
+        },
+        {
+          "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
+          "url": "https://www.cls.cn/detail/2255330",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 22时21分]"
         },
         {
           "title": "野村证券：AI网络设备供应商或迎持续强劲需求",
@@ -2198,6 +2243,18 @@
           "time_info": "[13时26分 ~ 14时29分]"
         },
         {
+          "title": "赛后怒批球队“输掉北京形象”，许利民为何如此不满球队连败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367823",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时38分 ~ 22时21分]"
+        },
+        {
           "title": "多地医保大幅提高产检报销，北京最高可报1万元",
           "url": "https://wallstreetcn.com/livenews/3035146",
           "source": "华尔街见闻-快讯",
@@ -2208,17 +2265,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时27分 ~ 18时21分]"
-        },
-        {
-          "title": "赛后怒批球队“输掉北京形象”，许利民为何如此不满球队连败",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32367823",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 21时39分]"
         },
         {
           "title": "外交部：目前没有中国公民在伊朗伤亡的报告。（北京日报）",
