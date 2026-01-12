@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T19:16:41.181430+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-01-12T20:36:23.399783+08:00",
+  "total_titles_processed": 1576,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "伊朗媒体：“大量人员”在近期骚乱中死亡",
@@ -47,6 +47,18 @@
           "time_info": "[00时19分 ~ 16时25分]"
         },
         {
+          "title": "伊朗外长：局势目前完全得到控制",
+          "url": "https://news.ifeng.com/c/8pr5wuKJ4Wo",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时25分 ~ 20时36分]"
+        },
+        {
           "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
           "url": "https://wallstreetcn.com/articles/3763053",
           "source": "华尔街见闻",
@@ -80,23 +92,24 @@
             11,
             6,
             12,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时45分 ~ 19时16分]"
+          "appearance_count": 12,
+          "time_info": "[11时45分 ~ 20时36分]"
         },
         {
-          "title": "伊朗外长：局势目前完全得到控制",
-          "url": "https://news.ifeng.com/c/8pr5wuKJ4Wo",
-          "source": "凤凰网",
+          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，金银新高后涨幅扩大，铜逼近新高，油价回调",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            2
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时25分 ~ 19时16分]"
+          "time_info": "[17时27分 ~ 20时36分]"
         },
         {
           "title": "伊朗哀悼3天",
@@ -105,11 +118,12 @@
           "ranks": [
             13,
             16,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时45分 ~ 19时16分]"
+          "appearance_count": 12,
+          "time_info": "[11时45分 ~ 20时36分]"
         },
         {
           "title": "总台现场直击丨德黑兰民众生活基本正常，伊朗称将捍卫国家利益",
@@ -139,15 +153,18 @@
           "time_info": "[00时19分 ~ 07时15分]"
         },
         {
-          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，金银新高后涨幅扩大，铜逼近新高，油价回调",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
+          "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
+          "url": "https://www.zhihu.com/question/1993995898699658333",
+          "source": "知乎",
           "ranks": [
-            2
+            19,
+            15,
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 19时16分]"
+          "appearance_count": 8,
+          "time_info": "[14时29分 ~ 20时36分]"
         },
         {
           "title": "据以色列官员透露，该国总理内塔尼亚胡周六深夜与美国国务卿卢比奥通话，讨论伊朗局势。（美联社）",
@@ -190,20 +207,6 @@
           "time_info": "[00时19分 ~ 06时15分]"
         },
         {
-          "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
-          "url": "https://www.zhihu.com/question/1993995898699658333",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时29分 ~ 19时16分]"
-        },
-        {
           "title": "伊朗政府宣布全国哀悼3天",
           "url": "https://news.ifeng.com/c/8pqCxO7hS7y",
           "source": "凤凰网",
@@ -213,6 +216,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时15分]"
+        },
+        {
+          "title": "伊朗媒体：“大量人员”在近期骚乱中死亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32364046",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时15分 ~ 20时36分]"
         },
         {
           "title": "伊朗政府宣布全国哀悼三天",
@@ -347,18 +363,6 @@
           "time_info": "[04时18分 ~ 07时15分]"
         },
         {
-          "title": "伊朗媒体：“大量人员”在近期骚乱中死亡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32364046",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时15分 ~ 19时16分]"
-        },
-        {
           "title": "伊朗政府宣布全国哀悼三天：悼念在伊朗抵抗美国和以色列斗争中牺牲的人员",
           "url": "https://wallstreetcn.com/livenews/3034759",
           "source": "华尔街见闻-快讯",
@@ -371,6 +375,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时18分 ~ 07时15分]"
+        },
+        {
+          "title": "伊朗：不寻求战争但已做好准备",
+          "url": "https://www.douyin.com/hot/2365457",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 20时36分]"
         },
         {
           "title": "伊朗总统：我们将挺过这次危机。",
@@ -472,15 +487,27 @@
           "time_info": "[04时18分 ~ 07时15分]"
         },
         {
-          "title": "伊朗：不寻求战争但已做好准备",
-          "url": "https://www.douyin.com/hot/2365457",
-          "source": "抖音",
+          "title": "伊朗外长：伊朗安全部队已控制全国局势",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367578",
+          "source": "澎湃新闻",
           "ranks": [
+            15,
             10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时27分 ~ 19时16分]"
+          "time_info": "[18时20分 ~ 20时36分]"
+        },
+        {
+          "title": "伊朗外长称安全部队已控制全国局势，并称美以应对伊朗发生的事件承担「直接责任」，如何理解这一表态？",
+          "url": "https://www.zhihu.com/question/1994070815289918935",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 20时36分]"
         },
         {
           "title": "伊朗总统：政府认可和平抗议行为 愿与抗议团体会面",
@@ -531,28 +558,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时14分 ~ 07时15分]"
-        },
-        {
-          "title": "伊朗外长：伊朗安全部队已控制全国局势",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32367578",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 19时16分]"
-        },
-        {
-          "title": "伊朗外长称安全部队已控制全国局势，并称美以应对伊朗发生的事件承担「直接责任」，如何理解这一表态？",
-          "url": "https://www.zhihu.com/question/1994070815289918935",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 19时16分]"
         },
         {
           "title": "伊朗外长称已控制国内局势",
@@ -625,13 +630,24 @@
           "time_info": "16时25分"
         },
         {
+          "title": "欧盟委员会发言人：我们随时准备对伊朗提出新的、更严厉的制裁。",
+          "url": "https://flash.jin10.com/detail/20260112194853075800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "伊朗最高领袖哈梅内伊：我们的敌人不了解伊朗。过去，美国失败是因为计划不周。即使在今天，他们错误的策略也必将导致失败。",
           "url": "https://flash.jin10.com/detail/20260112185212711800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -697,7 +713,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -760,7 +776,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普发图自称“委内瑞拉代总统”",
@@ -772,8 +788,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时45分 ~ 19时16分]"
+          "appearance_count": 11,
+          "time_info": "[12时45分 ~ 20时36分]"
         },
         {
           "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
@@ -878,17 +894,6 @@
           "time_info": "[00时19分 ~ 09时19分]"
         },
         {
-          "title": "全美抗议 特朗普“后院”失火",
-          "url": "https://www.toutiao.com/trending/7594088610216361990/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时13分 ~ 07时15分]"
-        },
-        {
           "title": "特朗普威胁古巴，委内瑞拉发声",
           "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
           "source": "凤凰网",
@@ -897,8 +902,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 19时16分]"
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 20时36分]"
         },
         {
           "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
@@ -909,8 +914,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 19时16分]"
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 20时36分]"
+        },
+        {
+          "title": "全美抗议 特朗普“后院”失火",
+          "url": "https://www.toutiao.com/trending/7594088610216361990/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时13分 ~ 07时15分]"
         },
         {
           "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
@@ -1207,6 +1223,18 @@
           "time_info": "[18时20分 ~ 18时21分]"
         },
         {
+          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时36分]"
+        },
+        {
           "title": "特朗普说考虑干预伊朗局势的强硬选项",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E8%80%83%E8%99%91%E5%B9%B2%E9%A2%84%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E7%9A%84%E5%BC%BA%E7%A1%AC%E9%80%89%E9%A1%B9%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -1240,6 +1268,17 @@
           "time_info": "17时27分"
         },
         {
+          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
+          "url": "https://wallstreetcn.com/articles/3763089",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "巴克莱股价下跌，此前特朗普呼吁限制信用卡利率。",
           "url": "https://flash.jin10.com/detail/20260112160633158800",
           "source": "金十数据",
@@ -1268,7 +1307,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1279,7 +1318,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1293,17 +1332,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
-        },
-        {
-          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
         },
         {
           "title": "美国总统特朗普：格陵兰岛应该达成协议。我们谈论的是拥有格陵兰岛，而不是短期占据。",
@@ -1386,7 +1414,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
@@ -1427,8 +1455,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时19分 ~ 19时16分]"
+          "appearance_count": 23,
+          "time_info": "[00时19分 ~ 20时36分]"
         },
         {
           "title": "正探索延伸至AI漫剧新赛道 AIGC概念股录得6天3板 本周机构密集调研相关上市公司",
@@ -1443,6 +1471,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时19分 ~ 15时23分]"
+        },
+        {
+          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
+          "url": "https://wallstreetcn.com/articles/3763068",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时25分 ~ 20时36分]"
         },
         {
           "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
@@ -1520,6 +1560,20 @@
           "time_info": "[00时19分 ~ 07时15分]"
         },
         {
+          "title": "AI玩具引爆CES，京东、字节、华为等巨头加码下能否跑出AI版泡泡玛特？",
+          "url": "https://www.cls.cn/detail/2254695",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时25分 ~ 20时36分]"
+        },
+        {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
           "url": "https://wallstreetcn.com/livenews/3034757",
           "source": "华尔街见闻-快讯",
@@ -1532,17 +1586,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时19分 ~ 06时15分]"
-        },
-        {
-          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
-          "url": "https://wallstreetcn.com/articles/3763068",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 19时16分]"
         },
         {
           "title": "市场消息：家得宝与谷歌云联合推出Agentic AI工具，助力顾客与员工将项目从“如何做”转化为“已完成”。",
@@ -1560,29 +1603,17 @@
           "time_info": "[00时19分 ~ 07时15分]"
         },
         {
-          "title": "AI玩具引爆CES，京东、字节、华为等巨头加码下能否跑出AI版泡泡玛特？",
-          "url": "https://www.cls.cn/detail/2254695",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 19时16分]"
-        },
-        {
           "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
           "url": "https://www.cls.cn/detail/2254949",
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 19时16分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 20时36分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -1593,8 +1624,33 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时23分 ~ 19时16分]"
+          "appearance_count": 7,
+          "time_info": "[15时23分 ~ 20时36分]"
+        },
+        {
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时23分 ~ 20时36分]"
+        },
+        {
+          "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
+          "url": "https://wallstreetcn.com/articles/3763085",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 20时36分]"
         },
         {
           "title": "万字解析中国AI产业",
@@ -1611,6 +1667,20 @@
           "time_info": "[09时19分 ~ 13时26分]"
         },
         {
+          "title": "【每日收评】三大指数均涨超1%，两市成交额达3.6万亿，AI应用与商业航天双双爆发",
+          "url": "https://www.cls.cn/detail/2254903",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 20时36分]"
+        },
+        {
           "title": "AI会取代演员吗",
           "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%8F%96%E4%BB%A3%E6%BC%94%E5%91%98%E5%90%97",
           "source": "bilibili 热搜",
@@ -1623,18 +1693,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时45分 ~ 18时21分]"
-        },
-        {
-          "title": "疑似马斯克AI登顶LOL韩服集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时23分 ~ 19时16分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -1678,18 +1736,6 @@
           "time_info": "[04时18分 ~ 07时15分]"
         },
         {
-          "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
-          "url": "https://wallstreetcn.com/articles/3763085",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 19时16分]"
-        },
-        {
           "title": "1月12日午间收评：深成指、创业板指均涨超1%，商业航天、AI应用方向持续爆发",
           "url": "https://wallstreetcn.com/livenews/3034956",
           "source": "华尔街见闻-快讯",
@@ -1727,17 +1773,17 @@
           "time_info": "[13时26分 ~ 14时29分]"
         },
         {
-          "title": "【每日收评】三大指数均涨超1%，两市成交额达3.6万亿，AI应用与商业航天双双爆发",
-          "url": "https://www.cls.cn/detail/2254903",
+          "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
+          "url": "https://www.cls.cn/detail/2255010",
           "source": "财联社热门",
           "ranks": [
             10,
             9,
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时27分 ~ 19时16分]"
+          "time_info": "[18时20分 ~ 20时36分]"
         },
         {
           "title": "A股三大股指午后均涨超1%，创业板指现涨1.8%，AI应用、文化传媒等板块涨幅居前。",
@@ -1752,18 +1798,6 @@
           "time_info": "[14时29分 ~ 15时23分]"
         },
         {
-          "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
-          "url": "https://www.cls.cn/detail/2255010",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 19时16分]"
-        },
-        {
           "title": "目前围绕 AI 的软件工程领域主要有 mlops，mlsys，AI infra，他们三者的区别是什么呢？",
           "url": "https://www.zhihu.com/question/650309846",
           "source": "知乎",
@@ -1774,6 +1808,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时45分 ~ 12时46分]"
+        },
+        {
+          "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
+          "url": "https://www.cls.cn/detail/2254978",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时36分]"
         },
         {
           "title": "野村证券：AI网络设备供应商或迎持续强劲需求",
@@ -1845,17 +1891,6 @@
           "time_info": "15时23分"
         },
         {
-          "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
-          "url": "https://www.cls.cn/detail/2254978",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
           "title": "汉得信息：公司AI产品与服务业务目前尚处起步阶段，仍不占整体营业收入的主体",
           "url": "https://wallstreetcn.com/livenews/3035176",
           "source": "华尔街见闻-快讯",
@@ -1889,6 +1924,17 @@
           "time_info": "17时27分"
         },
         {
+          "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
+          "url": "https://www.cls.cn/detail/2254799",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "机构扎堆盯上7只AI零售概念股",
           "url": "https://www.toutiao.com/trending/7593448756495024178/",
           "source": "今日头条",
@@ -1898,6 +1944,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "蓝色光标：现阶段公司AI驱动的相关收入占公司整体营业收入的比重较小",
+          "url": "https://wallstreetcn.com/livenews/3035292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "港股收盘：恒生科技收涨3.10%，科技股、AI应用概念股表现强势",
@@ -1917,7 +1974,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1928,7 +1985,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1950,7 +2007,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         }
