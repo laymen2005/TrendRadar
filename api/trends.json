@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T19:18:01.570240+08:00",
-  "total_titles_processed": 1705,
+  "generated_at": "2026-01-13T20:35:33.788187+08:00",
+  "total_titles_processed": 1820,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 89,
+      "match_count": 91,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -105,8 +105,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时24分 ~ 19时18分]"
+          "appearance_count": 15,
+          "time_info": "[11时24分 ~ 20时35分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -119,8 +119,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时12分 ~ 19时18分]"
+          "appearance_count": 16,
+          "time_info": "[09时12分 ~ 20时35分]"
+        },
+        {
+          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时23分 ~ 20时35分]"
         },
         {
           "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
@@ -132,8 +144,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时24分 ~ 19时18分]"
+          "appearance_count": 15,
+          "time_info": "[11时24分 ~ 20时35分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -160,8 +172,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时24分 ~ 19时18分]"
+          "appearance_count": 15,
+          "time_info": "[11时24分 ~ 20时35分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
@@ -171,11 +183,12 @@
             16,
             15,
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时36分 ~ 19时18分]"
+          "appearance_count": 13,
+          "time_info": "[12时36分 ~ 20时35分]"
         },
         {
           "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
@@ -204,18 +217,6 @@
           "time_info": "[00时22分 ~ 09时12分]"
         },
         {
-          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
-          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时23分 ~ 19时18分]"
-        },
-        {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
           "url": "https://www.cls.cn/detail/2255560",
           "source": "财联社热门",
@@ -228,6 +229,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时24分 ~ 15时22分]"
+        },
+        {
+          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
+          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 20时35分]"
         },
         {
           "title": "美国两州把特朗普政府告了",
@@ -252,17 +264,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时20分 ~ 06时15分]"
-        },
-        {
-          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
-          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时18分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。",
@@ -663,6 +664,17 @@
           "time_info": "18时19分"
         },
         {
+          "title": "阿联酋贸易部长：尚不清楚美国总统特朗普宣布对与伊朗有贸易往来的国家征收关税将如何实施，我们将观察这是否会影响从伊朗进口食品。",
+          "url": "https://flash.jin10.com/detail/20260113201116059800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "据华尔街日报：白宫权衡伊朗的核谈提议，而美国总统特朗普倾向于采取打击行动。",
           "url": "https://flash.jin10.com/detail/20260113032013915800",
           "source": "金十数据",
@@ -782,6 +794,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "美媒报道称特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32375151",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
@@ -1010,7 +1033,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1051,7 +1074,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 64,
+      "match_count": 68,
       "titles": [
         {
           "title": "伊朗发动支持政府集会，民众：我们绝不会抛弃哈梅内伊",
@@ -1098,8 +1121,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时24分 ~ 19时18分]"
+          "appearance_count": 7,
+          "time_info": "[16时24分 ~ 20时35分]"
+        },
+        {
+          "title": "美将对与伊朗开展商业往来的国家征收25%关税，外交部回应",
+          "url": "https://www.cls.cn/detail/2256043",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时24分 ~ 20时35分]"
         },
         {
           "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
@@ -1111,8 +1148,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时24分 ~ 19时18分]"
+          "appearance_count": 15,
+          "time_info": "[11时24分 ~ 20时35分]"
         },
         {
           "title": "伊朗外长：伊朗安全部队已控制全国局势",
@@ -1138,11 +1175,12 @@
             12,
             11,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时24分 ~ 19时18分]"
+          "appearance_count": 15,
+          "time_info": "[11时24分 ~ 20时35分]"
         },
         {
           "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
@@ -1154,6 +1192,32 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时22分 ~ 07时14分]"
+        },
+        {
+          "title": "外交部回应伊朗局势",
+          "url": "https://www.douyin.com/hot/2366507",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时24分 ~ 20时35分]"
+        },
+        {
+          "title": "外交部回应伊朗局势",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            9,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时24分 ~ 20时35分]"
         },
         {
           "title": "伊朗外长说已控制全国局势",
@@ -1171,41 +1235,17 @@
           "time_info": "[01时20分 ~ 07时14分]"
         },
         {
-          "title": "美将对与伊朗开展商业往来的国家征收25%关税，外交部回应",
-          "url": "https://www.cls.cn/detail/2256043",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时24分 ~ 19时18分]"
-        },
-        {
           "title": "中方回应美对伊朗贸易伙伴加税25%",
           "url": "https://www.toutiao.com/trending/7594742775778643502/",
           "source": "今日头条",
           "ranks": [
             2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时24分 ~ 19时18分]"
-        },
-        {
-          "title": "外交部回应伊朗局势",
-          "url": "https://www.douyin.com/hot/2366507",
-          "source": "抖音",
-          "ranks": [
             6,
-            5
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时24分 ~ 19时18分]"
+          "appearance_count": 7,
+          "time_info": "[16时24分 ~ 20时35分]"
         },
         {
           "title": "伊朗外长：伊朗不寻求战争，但已做好战争准备",
@@ -1221,17 +1261,15 @@
           "time_info": "[11时24分 ~ 17时24分]"
         },
         {
-          "title": "外交部回应伊朗局势",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF",
-          "source": "bilibili 热搜",
+          "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
+          "url": "https://news.ifeng.com/c/8psvSf2W4qr",
+          "source": "凤凰网",
           "ranks": [
-            1,
-            9,
-            10
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时24分 ~ 19时18分]"
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 20时35分]"
         },
         {
           "title": "是否对伊朗采取军事打击？白宫回应",
@@ -1246,17 +1284,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时36分 ~ 15时22分]"
-        },
-        {
-          "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
-          "url": "https://news.ifeng.com/c/8psvSf2W4qr",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时18分]"
         },
         {
           "title": "白宫表示正考虑针对伊朗的军事选项，外交部回应：反对在国际关系中使用或威胁使用武力，希望各方多做有利于中东和平稳定的事。（央视新闻）",
@@ -1279,6 +1306,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "伊朗国际长途电话服务恢复但不稳定",
+          "url": "https://wallstreetcn.com/livenews/3036146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "市场消息：瑞典呼吁其公民离开伊朗。",
@@ -1578,6 +1616,17 @@
           "time_info": "16时24分"
         },
         {
+          "title": "欧盟委员会主席冯德莱恩：将迅速提议对伊朗实施进一步制裁。",
+          "url": "https://flash.jin10.com/detail/20260113200739700800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "美国：美公民立即离开伊朗",
           "url": "https://www.douyin.com/hot/2365939",
           "source": "抖音",
@@ -1710,13 +1759,24 @@
           "time_info": "02时26分"
         },
         {
+          "title": "伊朗境内国际长途电话通讯服务恢复。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3036114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "伊朗官员：伊朗抗议活动中约有2000人丧生，其中包括安全人员，这些死亡是“恐怖分子”造成的。",
           "url": "https://flash.jin10.com/detail/20260113182619500800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1741,6 +1801,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "伊朗外长谴责欧洲在涉伊问题上采取双重标准",
+          "url": "https://wallstreetcn.com/livenews/3036112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "美国国务院：我们正在考虑向伊朗人民“提供援助”，这是我们外交政策的一部分。",
@@ -1801,7 +1872,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 50,
+      "match_count": 55,
       "titles": [
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
@@ -1935,11 +2006,12 @@
             15,
             17,
             14,
-            29
+            29,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时36分 ~ 19时18分]"
+          "appearance_count": 13,
+          "time_info": "[12时36分 ~ 20时35分]"
         },
         {
           "title": "疑似马斯克AI登顶LOL韩服集锦",
@@ -1964,11 +2036,12 @@
             16,
             12,
             13,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时22分 ~ 19时18分]"
+          "appearance_count": 26,
+          "time_info": "[00时22分 ~ 20时35分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -2026,11 +2099,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时23分 ~ 19时18分]"
+          "appearance_count": 6,
+          "time_info": "[17时23分 ~ 20时35分]"
+        },
+        {
+          "title": "技术拆解疑似马斯克AI账号",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 20时35分]"
         },
         {
           "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
@@ -2057,17 +2143,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时12分 ~ 13时22分]"
-        },
-        {
-          "title": "技术拆解疑似马斯克AI账号",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时18分]"
         },
         {
           "title": "张文宏称拒绝将AI引入医院病历系统",
@@ -2121,6 +2196,19 @@
           "time_info": "[11时24分 ~ 14时27分]"
         },
         {
+          "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
+          "url": "https://www.zhihu.com/question/1994352106249873378",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时23分 ~ 20时35分]"
+        },
+        {
           "title": "张文宏称拒绝把AI引入医院病历系统",
           "url": "https://www.toutiao.com/trending/7594611746107854346/",
           "source": "今日头条",
@@ -2134,6 +2222,30 @@
           "time_info": "[09时12分 ~ 12时36分]"
         },
         {
+          "title": "事关AI应用、GEO概念，上市公司密集回应",
+          "url": "https://www.cls.cn/detail/2256448",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "EDG官宣Maokai回归",
+          "url": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3Maokai%E5%9B%9E%E5%BD%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时19分 ~ 20时35分]"
+        },
+        {
           "title": "马来西亚通信监管机构：X和xAI未能执行自身政策和内部控制，可能助长了在马来西亚的非法在线活动。",
           "url": "https://flash.jin10.com/detail/20260113161050388800",
           "source": "金十数据",
@@ -2145,28 +2257,16 @@
           "time_info": "16时24分"
         },
         {
-          "title": "EDG官宣Maokai回归",
-          "url": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3Maokai%E5%9B%9E%E5%BD%92",
-          "source": "bilibili 热搜",
+          "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
+          "url": "https://www.cls.cn/detail/2256264",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            8
+            10,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时19分 ~ 19时18分]"
-        },
-        {
-          "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
-          "url": "https://www.zhihu.com/question/1994352106249873378",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时23分 ~ 19时18分]"
+          "time_info": "[19时16分 ~ 20时35分]"
         },
         {
           "title": "港股AI应用概念股回调，智谱午后持续下挫，跌超13%，MINIMAX跌超8%。",
@@ -2194,6 +2294,19 @@
           "time_info": "[16时24分 ~ 18时19分]"
         },
         {
+          "title": "【焦点复盘】科创50低开低走跌近3%，全市场超500股跌超5%，AI医疗概念强势依旧",
+          "url": "https://www.cls.cn/detail/2256259",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时19分 ~ 20时35分]"
+        },
+        {
           "title": "英伟达和礼来成立AI药物实验室 AI驱动医疗产业形成新增长极",
           "url": "https://www.cls.cn/detail/2255569",
           "source": "财联社热门",
@@ -2204,18 +2317,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时21分 ~ 16时24分]"
-        },
-        {
-          "title": "【焦点复盘】科创50低开低走跌近3%，全市场超500股跌超5%，AI医疗概念强势依旧",
-          "url": "https://www.cls.cn/detail/2256259",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 19时18分]"
         },
         {
           "title": "追赶AI浪潮 Meta斥资数百亿打造全球顶级算力版图",
@@ -2240,17 +2341,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 03时18分]"
-        },
-        {
-          "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
-          "url": "https://www.cls.cn/detail/2256264",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时18分]"
         },
         {
           "title": "市场延续结构性行情，AI 应用与商业航天成资金共识，把握核心方向轮动机会",
@@ -2320,6 +2410,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "一图看懂 | AI应用概念股持续活跃 核心赛道与代表企业全梳理",
+          "url": "https://www.cls.cn/detail/2256150",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "Alphabet盘中市值突破4万亿美元，受益于AI热潮",
           "url": "https://wallstreetcn.com/livenews/3035442",
           "source": "华尔街见闻-快讯",
@@ -2359,7 +2460,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -2370,7 +2471,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -2381,7 +2482,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -2408,6 +2509,17 @@
           "time_info": "13时22分"
         },
         {
+          "title": "评论员谈张文宏的AI技术边界忧思",
+          "url": "https://www.toutiao.com/trending/7594714282483256842/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "美国在线家居零售商Wayfair与谷歌合作，推动以人工智能驱动的家居购物。",
           "url": "https://flash.jin10.com/detail/20260113050153642800",
           "source": "金十数据",
@@ -2417,6 +2529,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "1688平台发布2025产业带报告：2028年起产业带将开启“AI原生”时代",
+          "url": "https://wallstreetcn.com/livenews/3036110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "日均30万商家使用1688平台AI产品与技术 1688向商家推出“三保”服务",
+          "url": "https://wallstreetcn.com/livenews/3036109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "蚂蚁国际和谷歌共推“通用商业协议”，打通“AI购物”全流程",
@@ -2433,7 +2567,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "赛后怒批球队“输掉北京形象”，许利民为何如此不满球队连败",
@@ -2533,6 +2667,17 @@
           "time_info": "[17时24分 ~ 18时19分]"
         },
         {
+          "title": "正直播CBA：北京vs江苏",
+          "url": "https://www.toutiao.com/trending/7594197108652490815/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "周一（1月12日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.9680元，较上周五纽约尾盘涨80点，日内整体交投于6.9775-6.9628元区间。",
           "url": "https://wallstreetcn.com/livenews/3035596",
           "source": "华尔街见闻-快讯",
@@ -2623,7 +2768,7 @@
     },
     {
       "keyword_group": "信用卡",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "川普下霸王令:信用卡利率砍半",
@@ -2635,11 +2780,23 @@
             7,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时36分 ~ 19时18分]"
+          "appearance_count": 13,
+          "time_info": "[12时36分 ~ 20时35分]"
+        },
+        {
+          "title": "摩根大通：预计2026财年净利息收入约为1030亿美元，市场预期为1003.8亿美元。 预计2026财年剔除企业与投资银行市场部门后的净利息收入约为950亿美元。 预计2026财年信用卡业务净冲销率约为3.4%。 预计2026财年调整后支出约为1050亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3036130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         }
       ]
     }
