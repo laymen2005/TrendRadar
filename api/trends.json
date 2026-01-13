@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T06:17:45.819483+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2026-01-14T07:16:37.758193+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 81,
+      "match_count": 85,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时16分]"
         },
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时16分]"
         },
         {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时16分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -66,15 +66,15 @@
           "time_info": "[00时25分 ~ 06时17分]"
         },
         {
-          "title": "美国总统特朗普：格陵兰岛总理因坚持与丹麦保持关系而面临困境。",
-          "url": "https://flash.jin10.com/detail/20260114060351977800",
+          "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
+          "url": "https://flash.jin10.com/detail/20260114070919942800",
           "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时17分"
+          "time_info": "07时16分"
         },
         {
           "title": "周二（1月13日，美国CPI通胀数据发布日），降息赢家指数涨0.53%，报107.28点，出现六波V形走势。 “特朗普关税输家”指数涨0.42%，报120.23点。 “特朗普金融指数”跌1.05%，报174.13点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.50%，报16.44点。",
@@ -83,7 +83,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -185,6 +185,18 @@
           "time_info": "[04时19分 ~ 05时17分]"
         },
         {
+          "title": "美国总统特朗普：格陵兰岛总理因坚持与丹麦保持关系而面临困境。",
+          "url": "https://flash.jin10.com/detail/20260114060351977800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
           "title": "报道：德国官员赴美探寻特朗普对格陵兰的真实意图 但会谈无果空手而归",
           "url": "https://wallstreetcn.com/livenews/3036345",
           "source": "华尔街见闻-快讯",
@@ -255,6 +267,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 03时17分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗最好老实点。",
+          "url": "https://flash.jin10.com/detail/20260114055446897800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
         },
         {
           "title": "美国12月CPI通胀数据要点总结：特朗普称鲍威尔有机会降息",
@@ -469,17 +493,6 @@
           "time_info": "05时17分"
         },
         {
-          "title": "美国总统特朗普：伊朗最好老实点。",
-          "url": "https://flash.jin10.com/detail/20260114055446897800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
           "title": "美国总统特朗普：（当被问及是否会向伊朗提供援助时）你们会知道的。",
           "url": "https://flash.jin10.com/detail/20260114020057806800",
           "source": "金十数据",
@@ -530,7 +543,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -585,7 +598,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -640,7 +653,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -654,6 +667,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "特朗普驳斥戴蒙对司法部调查鲍威尔的批评",
+          "url": "https://flash.jin10.com/detail/20260114063417981800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "美国总统特朗普：我听说氢燃料汽车的测试结果不太理想。",
@@ -673,7 +697,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -783,7 +807,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -810,6 +834,17 @@
           "time_info": "00时25分"
         },
         {
+          "title": "特朗普：不同意摩根大通CEO关于美联储独立性的观点",
+          "url": "https://wallstreetcn.com/livenews/3036430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "美国总统特朗普：美联储里有个真正的死脑筋。",
           "url": "https://flash.jin10.com/detail/20260114031246667800",
           "source": "金十数据",
@@ -830,6 +865,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "白宫：美国总统特朗普提名WeatherTech首席执行官（CEO）David MacNeil为联邦贸易委员会（FTC）成员。",
+          "url": "https://wallstreetcn.com/livenews/3036428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "美国总统特朗普：当市场上涨时，美联储应该降低利率。",
@@ -934,7 +980,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -944,8 +990,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时16分]"
         },
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -971,8 +1017,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时16分]"
         },
         {
           "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
@@ -984,8 +1030,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时16分]"
         },
         {
           "title": "外交部回应伊朗局势",
@@ -997,11 +1043,23 @@
             6,
             19,
             13,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时16分]"
+        },
+        {
+          "title": "美媒：海湾国家游说美国别对伊朗动武",
+          "url": "https://wallstreetcn.com/livenews/3036450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "中方回应美对伊朗贸易伙伴加税25%",
@@ -1026,6 +1084,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "美媒：海湾国家游说美国别对伊朗动武",
+          "url": "https://flash.jin10.com/detail/20260114070414231800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "据AXIOS：美国特使威特科夫周末会见了伊朗流亡王储。",
@@ -1075,6 +1144,17 @@
           "time_info": "05时17分"
         },
         {
+          "title": "美政府再发安全警告，敦促美国公民立即离开伊朗",
+          "url": "https://wallstreetcn.com/livenews/3036441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "加拿大政府敦促其公民“立即离开伊朗”。",
           "url": "https://flash.jin10.com/detail/20260114025939951800",
           "source": "金十数据",
@@ -1092,7 +1172,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -1198,8 +1278,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时16分]"
         },
         {
           "title": "技术拆解疑似马斯克AI账号",
@@ -1208,11 +1288,12 @@
           "ranks": [
             4,
             1,
-            3
+            3,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时16分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
@@ -1234,11 +1315,12 @@
             10,
             7,
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时16分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -1250,11 +1332,12 @@
             12,
             17,
             19,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时16分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -1282,8 +1365,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 07时16分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -1378,7 +1461,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "北京嫣然天使儿童医院回应房租债务问题：无力支付高于市场价的超额部分",
@@ -1388,8 +1471,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时16分]"
         },
         {
           "title": "据NewsNation：知情人士证实，美国副总统万斯定于今天下午（北京时间今晨）与国家安全团队举行会议，主导制定对伊朗的战略。",
@@ -1446,9 +1529,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "提醒：日内请重点关注（以下均为北京时间）",
+          "url": "https://wallstreetcn.com/livenews/3036440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "欧洲军工股周二收盘涨跌各异。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨0.01%，呈现出W形走势，报35.209999欧元，再创收盘历史新高，逼近周一所创盘中历史最高位35.514999欧元。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨0.75%，刷新收盘历史高位至20.845，北京时间21:30刷新盘中历史高位涨21.02。",
@@ -1460,6 +1554,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "周二（1月13日）纽约尾盘（周三北京时间05:59），离岸人民币（CNH）兑美元报6.9735元，较周一纽约尾盘跌55点，日内整体交投于6.9671-6.9766元区间。",
+          "url": "https://wallstreetcn.com/livenews/3036426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         }
       ]
     },
@@ -1475,8 +1580,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时16分]"
         },
         {
           "title": "白宫顾问哈塞特：（美国白宫）正围绕所谓的信用卡利率上限研究各不相同的选项。",
@@ -1485,7 +1590,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
