@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T12:43:22.557161+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-01-14T13:21:33.877931+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
@@ -75,8 +75,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[09时18分 ~ 13时21分]"
         },
         {
           "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
@@ -274,11 +274,37 @@
           "url": "https://www.cls.cn/detail/2256898",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
+          "url": "https://www.cls.cn/detail/2256871",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时21分]"
         },
         {
           "title": "美国总统特朗普谈及自己强迫更名的美国墨西哥加拿大贸易协议（USMCA）：加拿大想要USMCA，我们（美国）才不需要。",
@@ -329,18 +355,6 @@
           "time_info": "[04时19分 ~ 05时17分]"
         },
         {
-          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
-          "url": "https://wallstreetcn.com/articles/3763222",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时43分]"
-        },
-        {
           "title": "美国总统特朗普：本周稍晚将公布医疗保健框架。 这将解决可承受能力问题。 “最惠国”医药价格应当就够我在中期选举中胜出了。",
           "url": "https://wallstreetcn.com/livenews/3036380",
           "source": "华尔街见闻-快讯",
@@ -351,18 +365,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时17分]"
-        },
-        {
-          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
-          "url": "https://www.cls.cn/detail/2256871",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时43分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.3%，报385.71点，创3月5日以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 丹麦可再生能源公司Orsted AS（沃旭能源）涨5.4%，在一众北欧个股里领跑，美国法官批准该公司在美国（被总统特朗普叫停的一个）海上风电场项目可以继续推进。",
@@ -387,6 +389,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时17分]"
+        },
+        {
+          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
+          "url": "https://www.cls.cn/detail/2256936",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时21分]"
         },
         {
           "title": "美国总统特朗普声称：未来数周将针对经济可承受能力给出更多计划。 （下周）将在达沃斯围绕住房政策提供更多细节信息。 赞赏2000亿美元抵押贷款支持证券（MBS）购买计划的“巨大影响”。",
@@ -495,6 +509,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时17分]"
+        },
+        {
+          "title": "特朗普回应格陵兰岛总理选择丹麦而非美国：我不同意，他会有大麻烦",
+          "url": "https://wallstreetcn.com/livenews/3036636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时21分]"
         },
         {
           "title": "美国总统特朗普：我们将开始通过陆路打击毒贩。",
@@ -649,17 +675,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
-        },
-        {
-          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
-          "url": "https://www.cls.cn/detail/2256936",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
         },
         {
           "title": "美国总统特朗普：本周晚些时候，我将宣布我们的医疗可负担性框架。",
@@ -937,17 +952,6 @@
           "time_info": "06时17分"
         },
         {
-          "title": "特朗普回应格陵兰岛总理选择丹麦而非美国：我不同意，他会有大麻烦",
-          "url": "https://wallstreetcn.com/livenews/3036636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
           "title": "美国总统特朗普：美联储主席扼杀了经济的每一次反弹。",
           "url": "https://flash.jin10.com/detail/20260114031448130800",
           "source": "金十数据",
@@ -1138,7 +1142,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -1216,8 +1220,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[09时18分 ~ 13时21分]"
+        },
+        {
+          "title": "美国人权活动组织HRANA：伊朗抗议活动的经核实死亡人数已上升至2571人。",
+          "url": "https://flash.jin10.com/detail/20260114130612270800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "美媒：海湾国家游说美国别对伊朗动武",
@@ -1296,11 +1311,12 @@
           "ranks": [
             22,
             16,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[09时18分 ~ 13时21分]"
         },
         {
           "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
@@ -1310,8 +1326,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时21分]"
         },
         {
           "title": "中方回应“是否建议公民去伊朗”",
@@ -1321,8 +1337,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时21分]"
         },
         {
           "title": "伊朗国防部长：将对任何美国侵略行为作出回应。",
@@ -1335,6 +1351,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时19分]"
+        },
+        {
+          "title": "中方是否仍然建议中国公民前往伊朗旅游？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32374637",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时21分]"
         },
         {
           "title": "美国能源部长赖特：如果伊朗政权垮台，美国乐于与伊朗在石油领域开展合作。",
@@ -1447,17 +1474,6 @@
           "time_info": "01时23分"
         },
         {
-          "title": "中方是否仍然建议中国公民前往伊朗旅游？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32374637",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
           "title": "黎巴嫩真主党就伊朗局势发表声明 支持伊朗政府",
           "url": "https://wallstreetcn.com/livenews/3036344",
           "source": "华尔街见闻-快讯",
@@ -1516,7 +1532,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -1587,11 +1603,12 @@
             16,
             18,
             23,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 12时43分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 13时21分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -1603,11 +1620,12 @@
             17,
             13,
             26,
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 11时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 13时21分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -1628,11 +1646,12 @@
           "url": "https://www.zhihu.com/question/1994009798958657948",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[09时18分 ~ 13时21分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -1688,11 +1707,12 @@
           "ranks": [
             12,
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[09时18分 ~ 13时21分]"
         },
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -1703,8 +1723,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时21分]"
         },
         {
           "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
@@ -1712,11 +1732,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时21分]"
         },
         {
           "title": "EDG官宣Maokai回归",
@@ -1763,6 +1784,17 @@
           "time_info": "00时25分"
         },
         {
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
           "title": "Salesforce发布Slack的升级版功能Slackbot，由Anthropic的AI模型提供支持。",
           "url": "https://wallstreetcn.com/livenews/3036304",
           "source": "华尔街见闻-快讯",
@@ -1802,7 +1834,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -1844,8 +1876,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 12时43分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 13时21分]"
         },
         {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
@@ -1853,11 +1885,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            3
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 13时21分]"
         },
         {
           "title": "据NewsNation：知情人士证实，美国副总统万斯定于今天下午（北京时间今晨）与国家安全团队举行会议，主导制定对伊朗的战略。",
@@ -1896,6 +1929,32 @@
           "time_info": "[05时17分 ~ 06时17分]"
         },
         {
+          "title": "北京台春晚就差直接说肖战大名了",
+          "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%8F%B0%E6%98%A5%E6%99%9A%E5%B0%B1%E5%B7%AE%E7%9B%B4%E6%8E%A5%E8%AF%B4%E8%82%96%E6%88%98%E5%A4%A7%E5%90%8D%E4%BA%86&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时21分]"
+        },
+        {
+          "title": "网友发现 2026 LPL 新赛季北京 JDG 主场对阵 TES 的比赛大量余票堆积，这会是什么原因？",
+          "url": "https://www.zhihu.com/question/1994009552119621242",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时21分]"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨4.6%，刷新期内高位至4259点上方，北京时间12:00以来平滑地持续走高。 MarketVectorTM数字资产100中盘指数涨3.69%，刷新期内高位至3892点上方。 MarketVector数字资产100指数涨1.8%，报19415.75点。 目前，Solana涨2.31%，狗狗币涨4.25%，XRP涨2.23%。 此外，比特币涨3%，刷新日高至93720美元上方，以太坊涨超3.1%，持稳于日高3194.160美元附近。",
           "url": "https://wallstreetcn.com/livenews/3036317",
           "source": "华尔街见闻-快讯",
@@ -1906,30 +1965,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 02时26分]"
-        },
-        {
-          "title": "北京台春晚就差直接说肖战大名了",
-          "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%8F%B0%E6%98%A5%E6%99%9A%E5%B0%B1%E5%B7%AE%E7%9B%B4%E6%8E%A5%E8%AF%B4%E8%82%96%E6%88%98%E5%A4%A7%E5%90%8D%E4%BA%86&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时43分]"
-        },
-        {
-          "title": "网友发现 2026 LPL 新赛季北京 JDG 主场对阵 TES 的比赛大量余票堆积，这会是什么原因？",
-          "url": "https://www.zhihu.com/question/1994009552119621242",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时43分]"
         },
         {
           "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
@@ -1978,11 +2013,12 @@
             14,
             15,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 12时43分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 13时21分]"
         },
         {
           "title": "白宫顾问哈塞特：（美国白宫）正围绕所谓的信用卡利率上限研究各不相同的选项。",
