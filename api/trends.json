@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T14:28:23.608378+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-01-14T15:22:59.586158+08:00",
+  "total_titles_processed": 1381,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 102,
+      "match_count": 103,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -90,6 +90,18 @@
           "time_info": "07时16分"
         },
         {
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 15时22分]"
+        },
+        {
           "title": "周二（1月13日，美国CPI通胀数据发布日），降息赢家指数涨0.53%，报107.28点，出现六波V形走势。 “特朗普关税输家”指数涨0.42%，报120.23点。 “特朗普金融指数”跌1.05%，报174.13点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.50%，报16.44点。",
           "url": "https://wallstreetcn.com/livenews/3036416",
           "source": "华尔街见闻-快讯",
@@ -99,6 +111,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 15时22分]"
+        },
+        {
+          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
+          "url": "https://www.cls.cn/detail/2256871",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 15时22分]"
         },
         {
           "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
@@ -124,18 +161,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时19分]"
-        },
-        {
-          "title": "特朗普建议盟友“撤离”伊朗",
-          "url": "https://www.cls.cn/detail/2256898",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 14时28分]"
         },
         {
           "title": "美国总统特朗普：通用汽车和Stellantis公司发展势头良好。",
@@ -282,31 +307,6 @@
           "time_info": "[02时26分 ~ 03时17分]"
         },
         {
-          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
-          "url": "https://wallstreetcn.com/articles/3763222",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 14时28分]"
-        },
-        {
-          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
-          "url": "https://www.cls.cn/detail/2256871",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 14时28分]"
-        },
-        {
           "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
           "url": "https://www.cls.cn/detail/2256936",
           "source": "财联社热门",
@@ -316,8 +316,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 14时28分]"
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 15时22分]"
         },
         {
           "title": "美国总统特朗普谈及自己强迫更名的美国墨西哥加拿大贸易协议（USMCA）：加拿大想要USMCA，我们（美国）才不需要。",
@@ -552,7 +552,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -585,7 +585,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -596,7 +596,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -1019,6 +1019,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "特朗普演讲时突然模仿拜登",
+          "url": "https://www.toutiao.com/trending/7594003113268543524/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
           "title": "美国总统特朗普：美联储里有个真正的死脑筋。",
           "url": "https://flash.jin10.com/detail/20260114031246667800",
           "source": "金十数据",
@@ -1176,7 +1187,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -1217,6 +1228,18 @@
           "time_info": "[00时25分 ~ 07时16分]"
         },
         {
+          "title": "关系高度紧张，美军在伊朗附近集结多少兵力？",
+          "url": "https://news.ifeng.com/c/8psTbSveNse",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时18分 ~ 15时22分]"
+        },
+        {
           "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
           "url": "https://www.zhihu.com/question/1994338886751625788",
           "source": "知乎",
@@ -1247,18 +1270,6 @@
           "time_info": "[00时25分 ~ 11时43分]"
         },
         {
-          "title": "关系高度紧张，美军在伊朗附近集结多少兵力？",
-          "url": "https://news.ifeng.com/c/8psTbSveNse",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时18分 ~ 14时28分]"
-        },
-        {
           "title": "美国人权活动组织HRANA：伊朗抗议活动的经核实死亡人数已上升至2571人。",
           "url": "https://flash.jin10.com/detail/20260114130612270800",
           "source": "金十数据",
@@ -1281,6 +1292,20 @@
           "time_info": "07时16分"
         },
         {
+          "title": "美国会对伊朗动武吗",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            16,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时18分 ~ 15时22分]"
+        },
+        {
           "title": "中方回应美对伊朗贸易伙伴加税25%",
           "url": "https://www.toutiao.com/trending/7594742775778643502/",
           "source": "今日头条",
@@ -1292,6 +1317,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时22分 ~ 04时19分]"
+        },
+        {
+          "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
+          "url": "https://www.zhihu.com/question/1994353599640270638",
+          "source": "知乎",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 15时22分]"
         },
         {
           "title": "土耳其外交部消息人士称，土耳其外交部长在与伊朗外交部长的电话通话中讨论了最新事态发展。",
@@ -1314,31 +1351,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "美国会对伊朗动武吗",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            16,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时18分 ~ 14时28分]"
-        },
-        {
-          "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
-          "url": "https://www.zhihu.com/question/1994353599640270638",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 14时28分]"
         },
         {
           "title": "据AXIOS：美国特使威特科夫周末会见了伊朗流亡王储。",
@@ -1398,6 +1410,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时19分]"
+        },
+        {
+          "title": "伊朗驻荷兰大使馆遭袭 多人被捕",
+          "url": "https://flash.jin10.com/detail/20260114145800437800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "美国能源部长赖特：如果伊朗政权垮台，美国乐于与伊朗在石油领域开展合作。",
@@ -1461,7 +1484,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -1508,6 +1531,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "伊朗驻荷兰大使馆遭袭 多人被捕",
+          "url": "https://wallstreetcn.com/livenews/3036742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "伊朗称逮捕297名与美以有关联的骚乱分子",
@@ -1582,7 +1616,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         }
@@ -1662,11 +1696,12 @@
             18,
             23,
             21,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 14时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 15时22分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -1682,8 +1717,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 13时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 15时22分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -1708,8 +1743,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时18分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[09时18分 ~ 15时22分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -1721,6 +1756,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时25分 ~ 03时17分]"
+        },
+        {
+          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 15时22分]"
         },
         {
           "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
@@ -1735,6 +1784,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时18分 ~ 14时28分]"
+        },
+        {
+          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
+          "url": "https://www.zhihu.com/question/1994088546865284778",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 15时22分]"
         },
         {
           "title": "人工智能（AI）芯片初创公司Etched融资5亿美元，将挑战英伟达。",
@@ -1761,19 +1824,6 @@
           "time_info": "[11时43分 ~ 12时43分]"
         },
         {
-          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 14时28分]"
-        },
-        {
           "title": "阿里巴巴：1月15日10:00将召开千问APP发布会，见证AI如何“开启办事时代”。",
           "url": "https://wallstreetcn.com/livenews/3036624",
           "source": "华尔街见闻-快讯",
@@ -1786,30 +1836,17 @@
           "time_info": "[11时43分 ~ 12时43分]"
         },
         {
-          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
-          "url": "https://www.zhihu.com/question/1994088546865284778",
-          "source": "知乎",
-          "ranks": [
-            18,
-            14,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 14时28分]"
-        },
-        {
           "title": "韩服登顶账号是AI操作的吗",
           "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            28
+            28,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时28分]"
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 15时22分]"
         },
         {
           "title": "EDG官宣Maokai回归",
@@ -1937,8 +1974,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 14时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 15时22分]"
         },
         {
           "title": "网友发现 2026 LPL 新赛季北京 JDG 主场对阵 TES 的比赛大量余票堆积，这会是什么原因？",
@@ -1951,8 +1988,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 14时28分]"
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 15时22分]"
         },
         {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
@@ -2076,11 +2113,12 @@
             15,
             24,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 14时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 15时22分]"
         },
         {
           "title": "白宫顾问哈塞特：（美国白宫）正围绕所谓的信用卡利率上限研究各不相同的选项。",
@@ -2150,7 +2188,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -2161,7 +2199,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         }
@@ -2178,7 +2216,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         }
