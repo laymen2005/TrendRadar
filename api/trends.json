@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T17:25:24.993368+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2026-01-14T18:20:22.348233+08:00",
+  "total_titles_processed": 1684,
   "failed_sources": [],
   "trends": [
     {
@@ -66,6 +66,18 @@
           "time_info": "[00时25分 ~ 06时17分]"
         },
         {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时43分 ~ 18时20分]"
+        },
+        {
           "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
           "url": "https://www.cls.cn/detail/2256844",
           "source": "财联社热门",
@@ -77,18 +89,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时18分 ~ 14时28分]"
-        },
-        {
-          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
-          "url": "https://wallstreetcn.com/articles/3763222",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时43分 ~ 17时25分]"
         },
         {
           "title": "特朗普建议盟友“撤离”伊朗",
@@ -117,6 +117,17 @@
           "time_info": "[12时43分 ~ 17时25分]"
         },
         {
+          "title": "特朗普特使秘密见了伊朗末代王储",
+          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时20分]"
+        },
+        {
           "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
           "url": "https://flash.jin10.com/detail/20260114070919942800",
           "source": "金十数据",
@@ -134,18 +145,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
-          "title": "特朗普特使秘密见了伊朗末代王储",
-          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -348,11 +348,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 17时25分]"
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 18时20分]"
         },
         {
           "title": "美国总统特朗普谈及自己强迫更名的美国墨西哥加拿大贸易协议（USMCA）：加拿大想要USMCA，我们（美国）才不需要。",
@@ -545,6 +546,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时17分]"
+        },
+        {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时20分]"
         },
         {
           "title": "特朗普回应格陵兰岛总理选择丹麦而非美国：我不同意，他会有大麻烦",
@@ -928,7 +941,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -1008,17 +1021,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
-        },
-        {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         },
         {
           "title": "美国众议院议长约翰逊：特朗普无需在爱泼斯坦案调查中作证。",
@@ -1277,7 +1279,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -1360,6 +1362,18 @@
           "time_info": "[00时25分 ~ 11时43分]"
         },
         {
+          "title": "沙特带头，劝美国不要对伊朗动武",
+          "url": "https://news.ifeng.com/c/8puV4iW19Yi",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时20分]"
+        },
+        {
           "title": "美国人权活动组织HRANA：伊朗抗议活动的经核实死亡人数已上升至2571人。",
           "url": "https://flash.jin10.com/detail/20260114130612270800",
           "source": "金十数据",
@@ -1409,15 +1423,15 @@
           "time_info": "[01时22分 ~ 04时19分]"
         },
         {
-          "title": "伊朗官员：若美对伊发动袭击，将打击地区内美军基地",
-          "url": "https://wallstreetcn.com/livenews/3036868",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗官员：伊美“直接沟通”已停止",
+          "url": "https://news.ifeng.com/c/8puVxXLmGag",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时25分"
+          "time_info": "18时20分"
         },
         {
           "title": "伊朗驻荷兰大使馆遭袭，多人被捕",
@@ -1426,7 +1440,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -1441,17 +1455,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时43分 ~ 15时22分]"
-        },
-        {
-          "title": "沙特带头，劝美国不要对伊朗动武",
-          "url": "https://news.ifeng.com/c/8puV4iW19Yi",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         },
         {
           "title": "土耳其外交部消息人士称，土耳其外交部长在与伊朗外交部长的电话通话中讨论了最新事态发展。",
@@ -1497,6 +1500,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 03时17分]"
+        },
+        {
+          "title": "伊朗官员：若美对伊发动袭击，将打击地区内美军基地",
+          "url": "https://wallstreetcn.com/livenews/3036868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时20分]"
         },
         {
           "title": "中方回应“是否建议公民去伊朗”",
@@ -1563,7 +1578,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -1629,7 +1644,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -1662,7 +1677,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -1836,6 +1851,21 @@
           "time_info": "[09时18分 ~ 17时25分]"
         },
         {
+          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时43分 ~ 18时20分]"
+        },
+        {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
           "url": "https://www.zhihu.com/question/1994352106249873378",
           "source": "知乎",
@@ -1884,11 +1914,12 @@
             26,
             21,
             18,
-            30
+            30,
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 17时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 18时20分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -1905,21 +1936,6 @@
           "time_info": "[00时25分 ~ 06时17分]"
         },
         {
-          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时43分 ~ 17时25分]"
-        },
-        {
           "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
           "url": "https://www.zhihu.com/question/1994088546865284778",
           "source": "知乎",
@@ -1932,8 +1948,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时43分 ~ 17时25分]"
+          "appearance_count": 9,
+          "time_info": "[11时43分 ~ 18时20分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -1943,8 +1959,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 17时25分]"
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 18时20分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -1955,11 +1971,12 @@
             28,
             11,
             14,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时21分 ~ 17时25分]"
+          "appearance_count": 7,
+          "time_info": "[13时21分 ~ 18时20分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -1985,6 +2002,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时18分 ~ 14时28分]"
+        },
+        {
+          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
+          "url": "https://wallstreetcn.com/articles/3763239",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 18时20分]"
         },
         {
           "title": "人工智能（AI）芯片初创公司Etched融资5亿美元，将挑战英伟达。",
@@ -2023,28 +2052,29 @@
           "time_info": "[11时43分 ~ 12时43分]"
         },
         {
-          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
-          "url": "https://wallstreetcn.com/articles/3763239",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 17时25分]"
-        },
-        {
           "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
           "url": "https://www.zhihu.com/question/1994425649616671736",
           "source": "知乎",
           "ranks": [
             19,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 17时25分]"
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 18时20分]"
+        },
+        {
+          "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
+          "url": "https://www.cls.cn/detail/2257499",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时20分]"
         },
         {
           "title": "EDG官宣Maokai回归",
@@ -2102,17 +2132,6 @@
           "time_info": "16时24分"
         },
         {
-          "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
-          "url": "https://www.cls.cn/detail/2257499",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
           "title": "Salesforce发布Slack的升级版功能Slackbot，由Anthropic的AI模型提供支持。",
           "url": "https://wallstreetcn.com/livenews/3036304",
           "source": "华尔街见闻-快讯",
@@ -2130,7 +2149,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -2193,7 +2212,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "北京嫣然天使儿童医院回应房租债务问题：无力支付高于市场价的超额部分",
@@ -2223,6 +2242,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时43分 ~ 17时25分]"
+        },
+        {
+          "title": "紫光国微：拟通过发行股份及支付现金的方式向南昌建恩、北京广盟、天津瑞芯、建投华科等14名交易对方购买其合计持有的瑞能半导100%股权，股票复牌。",
+          "url": "https://wallstreetcn.com/livenews/3036903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
@@ -2274,6 +2304,18 @@
           "time_info": "[05时17分 ~ 06时17分]"
         },
         {
+          "title": "“国共论坛”将在北京登场？国台办回应",
+          "url": "https://www.cls.cn/detail/2257074",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 18时20分]"
+        },
+        {
           "title": "北京台春晚就差直接说肖战大名了",
           "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%8F%B0%E6%98%A5%E6%99%9A%E5%B0%B1%E5%B7%AE%E7%9B%B4%E6%8E%A5%E8%AF%B4%E8%82%96%E6%88%98%E5%A4%A7%E5%90%8D%E4%BA%86&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -2285,18 +2327,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时43分 ~ 13时21分]"
-        },
-        {
-          "title": "“国共论坛”将在北京登场？国台办回应",
-          "url": "https://www.cls.cn/detail/2257074",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 17时25分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨4.6%，刷新期内高位至4259点上方，北京时间12:00以来平滑地持续走高。 MarketVectorTM数字资产100中盘指数涨3.69%，刷新期内高位至3892点上方。 MarketVector数字资产100指数涨1.8%，报19415.75点。 目前，Solana涨2.31%，狗狗币涨4.25%，XRP涨2.23%。 此外，比特币涨3%，刷新日高至93720美元上方，以太坊涨超3.1%，持稳于日高3194.160美元附近。",
@@ -2350,7 +2380,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         }
@@ -2375,8 +2405,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 17时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 18时20分]"
         },
         {
           "title": "白宫顾问哈塞特：（美国白宫）正围绕所谓的信用卡利率上限研究各不相同的选项。",
