@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T16:24:05.010356+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2026-01-14T17:25:24.993368+08:00",
+  "total_titles_processed": 1603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 107,
+      "match_count": 111,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -79,6 +79,18 @@
           "time_info": "[09时18分 ~ 14时28分]"
         },
         {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时43分 ~ 17时25分]"
+        },
+        {
           "title": "特朗普建议盟友“撤离”伊朗",
           "url": "https://www.cls.cn/detail/2256898",
           "source": "财联社热门",
@@ -92,16 +104,17 @@
           "time_info": "[11时43分 ~ 16时24分]"
         },
         {
-          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
-          "url": "https://wallstreetcn.com/articles/3763222",
-          "source": "华尔街见闻",
+          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
+          "url": "https://www.cls.cn/detail/2256936",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            11,
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时43分 ~ 16时24分]"
+          "time_info": "[12时43分 ~ 17时25分]"
         },
         {
           "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
@@ -115,17 +128,26 @@
           "time_info": "07时16分"
         },
         {
-          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
-          "url": "https://www.cls.cn/detail/2256936",
-          "source": "财联社热门",
+          "title": "英国央行委员泰勒：特朗普关税促使出口国寻找替代市场 英国通胀得以缓解",
+          "url": "https://flash.jin10.com/detail/20260114171639019800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            13,
-            12
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时43分 ~ 16时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "特朗普特使秘密见了伊朗末代王储",
+          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "周二（1月13日，美国CPI通胀数据发布日），降息赢家指数涨0.53%，报107.28点，出现六波V形走势。 “特朗普关税输家”指数涨0.42%，报120.23点。 “特朗普金融指数”跌1.05%，报174.13点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.50%，报16.44点。",
@@ -319,6 +341,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 03时17分]"
+        },
+        {
+          "title": "中方回应“特朗普称不需要国际法”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 17时25分]"
         },
         {
           "title": "美国总统特朗普谈及自己强迫更名的美国墨西哥加拿大贸易协议（USMCA）：加拿大想要USMCA，我们（美国）才不需要。",
@@ -530,17 +564,6 @@
           "source": "今日头条",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
-        },
-        {
-          "title": "中方回应“特朗普称不需要国际法”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -899,6 +922,17 @@
           "time_info": "06时17分"
         },
         {
+          "title": "美国特使威特科夫和特朗普女婿或在不久后前往莫斯科与普京会面",
+          "url": "https://flash.jin10.com/detail/20260114164958044800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "特朗普称已取消所有与伊朗官员的会谈",
           "url": "https://wallstreetcn.com/livenews/3036306",
           "source": "华尔街见闻-快讯",
@@ -974,6 +1008,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "美国众议院议长约翰逊：特朗普无需在爱泼斯坦案调查中作证。",
@@ -1180,7 +1225,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -1232,7 +1277,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 43,
       "titles": [
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -1364,6 +1409,28 @@
           "time_info": "[01时22分 ~ 04时19分]"
         },
         {
+          "title": "伊朗官员：若美对伊发动袭击，将打击地区内美军基地",
+          "url": "https://wallstreetcn.com/livenews/3036868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "伊朗驻荷兰大使馆遭袭，多人被捕",
+          "url": "https://news.ifeng.com/c/8puQRfizORn",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
           "url": "https://www.zhihu.com/question/1994353599640270638",
           "source": "知乎",
@@ -1374,6 +1441,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时43分 ~ 15时22分]"
+        },
+        {
+          "title": "沙特带头，劝美国不要对伊朗动武",
+          "url": "https://news.ifeng.com/c/8puV4iW19Yi",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "土耳其外交部消息人士称，土耳其外交部长在与伊朗外交部长的电话通话中讨论了最新事态发展。",
@@ -1479,6 +1557,17 @@
           "time_info": "05时17分"
         },
         {
+          "title": "分析师：委内瑞拉恢复原油出口及伊朗局势主导原油市场",
+          "url": "https://flash.jin10.com/detail/20260114170148037800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "美政府再发安全警告，敦促美国公民立即离开伊朗",
           "url": "https://wallstreetcn.com/livenews/3036441",
           "source": "华尔街见闻-快讯",
@@ -1534,6 +1623,17 @@
           "time_info": "14时28分"
         },
         {
+          "title": "土耳其外交部消息人士：土耳其外交部长与伊朗同行通电话，强调有必要通过谈判解决当前的地区紧张局势。",
+          "url": "https://flash.jin10.com/detail/20260114165524487800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "市场消息：马斯克在伊朗互联网中断期间提供免费星链服务。",
           "url": "https://flash.jin10.com/detail/20260114033400015800",
           "source": "金十数据",
@@ -1554,6 +1654,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "伊朗司法总监敦促加快调查审理涉“恐怖分子和骚乱分子”案件",
+          "url": "https://wallstreetcn.com/livenews/3036839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "意大利外交部长：我已召见伊朗大使。",
@@ -1669,7 +1780,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -1710,6 +1821,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 04时19分]"
+        },
+        {
+          "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
+          "url": "https://www.zhihu.com/question/1994009798958657948",
+          "source": "知乎",
+          "ranks": [
+            4,
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时18分 ~ 17时25分]"
         },
         {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
@@ -1759,11 +1883,12 @@
             13,
             26,
             21,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 15时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 17时25分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -1780,19 +1905,6 @@
           "time_info": "[00时25分 ~ 06时17分]"
         },
         {
-          "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
-          "url": "https://www.zhihu.com/question/1994009798958657948",
-          "source": "知乎",
-          "ranks": [
-            4,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时18分 ~ 16时24分]"
-        },
-        {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
           "source": "澎湃新闻",
@@ -1804,8 +1916,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时43分 ~ 16时24分]"
+          "appearance_count": 8,
+          "time_info": "[11时43分 ~ 17时25分]"
         },
         {
           "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
@@ -1816,11 +1928,12 @@
             14,
             13,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时43分 ~ 16时24分]"
+          "appearance_count": 8,
+          "time_info": "[11时43分 ~ 17时25分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -1830,8 +1943,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 17时25分]"
+        },
+        {
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            28,
+            11,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时21分 ~ 17时25分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -1857,20 +1985,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时18分 ~ 14时28分]"
-        },
-        {
-          "title": "韩服登顶账号是AI操作的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            28,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时21分 ~ 16时24分]"
         },
         {
           "title": "人工智能（AI）芯片初创公司Etched融资5亿美元，将挑战英伟达。",
@@ -1913,22 +2027,24 @@
           "url": "https://wallstreetcn.com/articles/3763239",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 17时25分]"
         },
         {
           "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
           "url": "https://www.zhihu.com/question/1994425649616671736",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 17时25分]"
         },
         {
           "title": "EDG官宣Maokai回归",
@@ -1981,9 +2097,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
+          "url": "https://www.cls.cn/detail/2257499",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "Salesforce发布Slack的升级版功能Slackbot，由Anthropic的AI模型提供支持。",
@@ -1995,6 +2122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "星环科技：公司并不实际开展商业航天业务且与上海星环聚能科技有限公司无关。公司目前正就AI数据库等相关技术开展前期研发与联合调优，上述工作尚处于初期探索阶段，相关技术方案、应用场景及市场效益均存在不确定性，暂未对公司业绩产生重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3036838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "“末日博士”鲁比尼：AI繁荣正抵消包括美国总统和地缘政治在内的一系列风险。 AI将开创“美国例外论”的新篇章。",
@@ -2055,7 +2193,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "北京嫣然天使儿童医院回应房租债务问题：无力支付高于市场价的超额部分",
@@ -2068,8 +2206,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 16时24分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 17时25分]"
         },
         {
           "title": "网友发现 2026 LPL 新赛季北京 JDG 主场对阵 TES 的比赛大量余票堆积，这会是什么原因？",
@@ -2079,11 +2217,12 @@
             13,
             12,
             11,
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时43分 ~ 16时24分]"
+          "appearance_count": 8,
+          "time_info": "[11时43分 ~ 17时25分]"
         },
         {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
@@ -2148,6 +2287,18 @@
           "time_info": "[11时43分 ~ 13时21分]"
         },
         {
+          "title": "“国共论坛”将在北京登场？国台办回应",
+          "url": "https://www.cls.cn/detail/2257074",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 17时25分]"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨4.6%，刷新期内高位至4259点上方，北京时间12:00以来平滑地持续走高。 MarketVectorTM数字资产100中盘指数涨3.69%，刷新期内高位至3892点上方。 MarketVector数字资产100指数涨1.8%，报19415.75点。 目前，Solana涨2.31%，狗狗币涨4.25%，XRP涨2.23%。 此外，比特币涨3%，刷新日高至93720美元上方，以太坊涨超3.1%，持稳于日高3194.160美元附近。",
           "url": "https://wallstreetcn.com/livenews/3036317",
           "source": "华尔街见闻-快讯",
@@ -2158,17 +2309,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 02时26分]"
-        },
-        {
-          "title": "“国共论坛”将在北京登场？国台办回应",
-          "url": "https://www.cls.cn/detail/2257074",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
         },
         {
           "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
@@ -2202,6 +2342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9734，较上一交易日官方收盘价涨31点，较上日夜盘收盘涨61点。",
+          "url": "https://wallstreetcn.com/livenews/3036824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     },
@@ -2220,11 +2371,12 @@
             25,
             26,
             27,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 16时24分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 17时25分]"
         },
         {
           "title": "白宫顾问哈塞特：（美国白宫）正围绕所谓的信用卡利率上限研究各不相同的选项。",
