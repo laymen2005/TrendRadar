@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T13:21:33.877931+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-01-14T14:28:23.608378+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 99,
+      "match_count": 102,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -75,8 +75,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时18分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[09时18分 ~ 14时28分]"
         },
         {
           "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
@@ -124,6 +124,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时19分]"
+        },
+        {
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 14时28分]"
         },
         {
           "title": "美国总统特朗普：通用汽车和Stellantis公司发展势头良好。",
@@ -270,18 +282,6 @@
           "time_info": "[02时26分 ~ 03时17分]"
         },
         {
-          "title": "特朗普建议盟友“撤离”伊朗",
-          "url": "https://www.cls.cn/detail/2256898",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 13时21分]"
-        },
-        {
           "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
           "url": "https://wallstreetcn.com/articles/3763222",
           "source": "华尔街见闻",
@@ -290,8 +290,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 13时21分]"
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 14时28分]"
         },
         {
           "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
@@ -303,8 +303,21 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 14时28分]"
+        },
+        {
+          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
+          "url": "https://www.cls.cn/detail/2256936",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时43分 ~ 13时21分]"
+          "time_info": "[12时43分 ~ 14时28分]"
         },
         {
           "title": "美国总统特朗普谈及自己强迫更名的美国墨西哥加拿大贸易协议（USMCA）：加拿大想要USMCA，我们（美国）才不需要。",
@@ -389,18 +402,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时17分]"
-        },
-        {
-          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
-          "url": "https://www.cls.cn/detail/2256936",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 13时21分]"
         },
         {
           "title": "美国总统特朗普声称：未来数周将针对经济可承受能力给出更多计划。 （下周）将在达沃斯围绕住房政策提供更多细节信息。 赞赏2000亿美元抵押贷款支持证券（MBS）购买计划的“巨大影响”。",
@@ -545,6 +546,17 @@
           "time_info": "05时17分"
         },
         {
+          "title": "美媒：特朗普曾深夜发短信追问军舰“生锈”问题，美海军抓紧制定解决方案",
+          "url": "https://wallstreetcn.com/livenews/3036708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "美国总统特朗普：目前信用卡利率太高了。",
           "url": "https://flash.jin10.com/detail/20260114034307085800",
           "source": "金十数据",
@@ -565,6 +577,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "特朗普将率“最大美国代表团”出席达沃斯论坛",
+          "url": "https://wallstreetcn.com/livenews/3036705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "特朗普参观汽车工厂遭工人辱骂",
+          "url": "https://www.douyin.com/hot/2367043",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "美国总统特朗普：（当被问及是否会向伊朗提供援助时）你们会知道的。",
@@ -1142,7 +1176,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -1217,11 +1251,12 @@
           "url": "https://news.ifeng.com/c/8psTbSveNse",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时18分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[09时18分 ~ 14时28分]"
         },
         {
           "title": "美国人权活动组织HRANA：伊朗抗议活动的经核实死亡人数已上升至2571人。",
@@ -1230,7 +1265,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -1281,6 +1316,31 @@
           "time_info": "07时16分"
         },
         {
+          "title": "美国会对伊朗动武吗",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            16,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时18分 ~ 14时28分]"
+        },
+        {
+          "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
+          "url": "https://www.zhihu.com/question/1994353599640270638",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 14时28分]"
+        },
+        {
           "title": "据AXIOS：美国特使威特科夫周末会见了伊朗流亡王储。",
           "url": "https://flash.jin10.com/detail/20260114020738248800",
           "source": "金十数据",
@@ -1291,6 +1351,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 03时17分]"
+        },
+        {
+          "title": "中方回应“是否建议公民去伊朗”",
+          "url": "https://www.douyin.com/hot/2366959",
+          "source": "抖音",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 14时28分]"
         },
         {
           "title": "俄外交部：美国威胁对伊朗发动军事打击“绝不可接受”",
@@ -1305,40 +1377,15 @@
           "time_info": "[00时25分 ~ 01时23分]"
         },
         {
-          "title": "美国会对伊朗动武吗",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
-          "source": "百度热搜",
+          "title": "中方是否仍然建议中国公民前往伊朗旅游？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32374637",
+          "source": "澎湃新闻",
           "ranks": [
-            22,
-            16,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时18分 ~ 13时21分]"
-        },
-        {
-          "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
-          "url": "https://www.zhihu.com/question/1994353599640270638",
-          "source": "知乎",
-          "ranks": [
-            6
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时43分 ~ 13时21分]"
-        },
-        {
-          "title": "中方回应“是否建议公民去伊朗”",
-          "url": "https://www.douyin.com/hot/2366959",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 13时21分]"
+          "time_info": "[12时43分 ~ 14时28分]"
         },
         {
           "title": "伊朗国防部长：将对任何美国侵略行为作出回应。",
@@ -1351,17 +1398,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时19分]"
-        },
-        {
-          "title": "中方是否仍然建议中国公民前往伊朗旅游？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32374637",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 13时21分]"
         },
         {
           "title": "美国能源部长赖特：如果伊朗政权垮台，美国乐于与伊朗在石油领域开展合作。",
@@ -1417,6 +1453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "伊朗外长与阿联酋外长通话 强调加强地区稳定",
+          "url": "https://wallstreetcn.com/livenews/3036694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "市场消息：马斯克在伊朗互联网中断期间提供免费星链服务。",
@@ -1527,6 +1574,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "白宫：空袭只是对付伊朗的选项之一",
+          "url": "https://www.toutiao.com/trending/7594215539677888548/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         }
       ]
     },
@@ -1607,8 +1665,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 13时21分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 14时28分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -1650,8 +1708,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时18分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[09时18分 ~ 14时28分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -1663,6 +1721,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时25分 ~ 03时17分]"
+        },
+        {
+          "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
+          "url": "https://www.cls.cn/detail/2256809",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时18分 ~ 14时28分]"
         },
         {
           "title": "人工智能（AI）芯片初创公司Etched融资5亿美元，将挑战英伟达。",
@@ -1689,6 +1761,19 @@
           "time_info": "[11时43分 ~ 12时43分]"
         },
         {
+          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 14时28分]"
+        },
+        {
           "title": "阿里巴巴：1月15日10:00将召开千问APP发布会，见证AI如何“开启办事时代”。",
           "url": "https://wallstreetcn.com/livenews/3036624",
           "source": "华尔街见闻-快讯",
@@ -1701,43 +1786,30 @@
           "time_info": "[11时43分 ~ 12时43分]"
         },
         {
-          "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
-          "url": "https://www.cls.cn/detail/2256809",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时18分 ~ 13时21分]"
-        },
-        {
-          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 13时21分]"
-        },
-        {
           "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
           "url": "https://www.zhihu.com/question/1994088546865284778",
           "source": "知乎",
           "ranks": [
             18,
             14,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 13时21分]"
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 14时28分]"
+        },
+        {
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 14时28分]"
         },
         {
           "title": "EDG官宣Maokai回归",
@@ -1782,17 +1854,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        },
-        {
-          "title": "韩服登顶账号是AI操作的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
         },
         {
           "title": "Salesforce发布Slack的升级版功能Slackbot，由Anthropic的AI模型提供支持。",
@@ -1876,8 +1937,22 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 13时21分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 14时28分]"
+        },
+        {
+          "title": "网友发现 2026 LPL 新赛季北京 JDG 主场对阵 TES 的比赛大量余票堆积，这会是什么原因？",
+          "url": "https://www.zhihu.com/question/1994009552119621242",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 14时28分]"
         },
         {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
@@ -1936,19 +2011,6 @@
             7,
             14,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 13时21分]"
-        },
-        {
-          "title": "网友发现 2026 LPL 新赛季北京 JDG 主场对阵 TES 的比赛大量余票堆积，这会是什么原因？",
-          "url": "https://www.zhihu.com/question/1994009552119621242",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12,
-            11
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -2017,8 +2079,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 13时21分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 14时28分]"
         },
         {
           "title": "白宫顾问哈塞特：（美国白宫）正围绕所谓的信用卡利率上限研究各不相同的选项。",
@@ -2074,6 +2136,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "澳新银行预计，2026年下半年黄金交易价格将高于5000美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260114133123697800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "澳新银行预计2026年下半年黄金价格将高于5000美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3036683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "google",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
+          "url": "https://www.zhihu.com/question/1994310970621859099",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         }
       ]
     }
