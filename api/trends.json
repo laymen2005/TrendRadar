@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T18:19:05.983322+08:00",
-  "total_titles_processed": 1741,
+  "generated_at": "2026-01-15T19:17:02.773439+08:00",
+  "total_titles_processed": 1838,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 81,
+      "match_count": 83,
       "titles": [
         {
           "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
@@ -20,6 +20,17 @@
           "time_info": "[12时36分 ~ 18时19分]"
         },
         {
+          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
+          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时24分 ~ 19时17分]"
+        },
+        {
           "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
           "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
           "source": "澎湃新闻",
@@ -31,6 +42,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 09时14分]"
+        },
+        {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时36分 ~ 19时17分]"
         },
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -52,34 +78,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时13分 ~ 18时19分]"
-        },
-        {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时36分 ~ 18时19分]"
-        },
-        {
-          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
-          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时24分 ~ 18时19分]"
+          "appearance_count": 14,
+          "time_info": "[09时13分 ~ 19时17分]"
         },
         {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
@@ -105,6 +105,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时13分 ~ 15时22分]"
+        },
+        {
+          "title": "美军航母开往中东，特朗普要“速战速决”？",
+          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
         },
         {
           "title": "市场消息：美国总统特朗普表示，不知道他（伊朗反对派领袖礼萨·巴列维）在自己国家会如何表现。",
@@ -179,9 +190,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "美对委行动后特朗普支持率仍在低点",
+          "url": "https://www.toutiao.com/trending/7594447882443898943/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时23分 ~ 19时17分]"
         },
         {
           "title": "特朗普再批鲍威尔",
@@ -195,6 +218,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时17分 ~ 09时14分]"
+        },
+        {
+          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
+          "url": "https://news.ifeng.com/c/8pvxjHceg37",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 19时17分]"
         },
         {
           "title": "标普500能源指数回吐涨幅，美国总统特朗普谈及伊朗。",
@@ -243,29 +277,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时27分 ~ 14时26分]"
-        },
-        {
-          "title": "美对委行动后特朗普支持率仍在低点",
-          "url": "https://www.toutiao.com/trending/7594447882443898943/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 18时19分]"
-        },
-        {
-          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
-          "url": "https://news.ifeng.com/c/8pvxjHceg37",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时19分]"
         },
         {
           "title": "哥伦比亚总统称将于2月3日同特朗普会晤",
@@ -496,6 +507,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "民调显示，特朗普支持率从1月初的42%下滑至41%。",
+          "url": "https://flash.jin10.com/detail/20260115190107698800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "美国总统特朗普：签署了一项行动，将允许我们对芯片销售征收25%的关税。",
@@ -930,8 +952,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 71,
+      "match_count": 73,
       "titles": [
+        {
+          "title": "伊朗情报部门：骚乱事件主要幕后人员落网",
+          "url": "https://news.ifeng.com/c/8pvx2THKanp",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时26分 ~ 19时17分]"
+        },
         {
           "title": "伊朗：骚乱事件主要幕后人员落网",
           "url": "https://news.ifeng.com/c/8pv17Vq3RFg",
@@ -956,15 +989,19 @@
           "time_info": "[12时36分 ~ 17时23分]"
         },
         {
-          "title": "伊朗情报部门：骚乱事件主要幕后人员落网",
-          "url": "https://news.ifeng.com/c/8pvx2THKanp",
-          "source": "凤凰网",
+          "title": "伊朗宣布暂时关闭领空，美国一航母打击群正被调往中东地区，意味着什么？目前伊朗局势如何？",
+          "url": "https://www.zhihu.com/question/1995060884632987422",
+          "source": "知乎",
           "ranks": [
-            5
+            10,
+            11,
+            6,
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时26分 ~ 18时19分]"
+          "appearance_count": 11,
+          "time_info": "[12时36分 ~ 19时17分]"
         },
         {
           "title": "美军机沿伊朗边界飞行",
@@ -989,21 +1026,6 @@
           "time_info": "[00时24分 ~ 04时17分]"
         },
         {
-          "title": "伊朗宣布暂时关闭领空，美国一航母打击群正被调往中东地区，意味着什么？目前伊朗局势如何？",
-          "url": "https://www.zhihu.com/question/1995060884632987422",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11,
-            6,
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时36分 ~ 18时19分]"
-        },
-        {
           "title": "伊朗对德黑兰飞行情报区空域管控",
           "url": "https://www.douyin.com/hot/2368070",
           "source": "抖音",
@@ -1011,11 +1033,12 @@
             16,
             15,
             10,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时27分 ~ 18时19分]"
+          "appearance_count": 12,
+          "time_info": "[11时27分 ~ 19时17分]"
         },
         {
           "title": "伊朗高级将领：伊朗处于最高战备状态",
@@ -1200,6 +1223,29 @@
           "time_info": "06时18分"
         },
         {
+          "title": "王毅同伊朗外长阿拉格齐通电话",
+          "url": "https://wallstreetcn.com/livenews/3037946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "撤走侨民、调动航母、出动侦察机，美军准备好对伊朗“动武”了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32390075",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时23分 ~ 19时17分]"
+        },
+        {
           "title": "英国驻伊朗大使馆暂时关闭",
           "url": "https://wallstreetcn.com/livenews/3037298",
           "source": "华尔街见闻-快讯",
@@ -1236,6 +1282,18 @@
           "time_info": "[04时17分 ~ 05时17分]"
         },
         {
+          "title": "美国停办 75 国签证，其中包括巴西、伊朗、埃及，这在未来会影响 2026 年世界杯正常举办吗？",
+          "url": "https://www.zhihu.com/question/1995083094298944420",
+          "source": "知乎",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 19时17分]"
+        },
+        {
           "title": "伊朗外长：政府已完全掌控局面",
           "url": "https://www.toutiao.com/trending/7595402470608621094/",
           "source": "今日头条",
@@ -1259,18 +1317,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时13分 ~ 11时27分]"
-        },
-        {
-          "title": "撤走侨民、调动航母、出动侦察机，美军准备好对伊朗“动武”了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32390075",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 18时19分]"
         },
         {
           "title": "伊朗宣布暂时关闭领空",
@@ -1344,17 +1390,6 @@
           "time_info": "[12时36分 ~ 13时22分]"
         },
         {
-          "title": "美国停办 75 国签证，其中包括巴西、伊朗、埃及，这在未来会影响 2026 年世界杯正常举办吗？",
-          "url": "https://www.zhihu.com/question/1995083094298944420",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时19分]"
-        },
-        {
           "title": "伊朗外长重申将维护国家主权，反对任何外来干预",
           "url": "https://wallstreetcn.com/livenews/3037213",
           "source": "华尔街见闻-快讯",
@@ -1377,6 +1412,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时18分]"
+        },
+        {
+          "title": "美航母打击群调往中东 伊朗最高战备",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%88%AA%E6%AF%8D%E6%89%93%E5%87%BB%E7%BE%A4%E8%B0%83%E5%BE%80%E4%B8%AD%E4%B8%9C+%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E6%88%98%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
         },
         {
           "title": "伊朗密集展开外交沟通",
@@ -1758,7 +1804,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
@@ -1771,8 +1817,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时36分 ~ 18时19分]"
+          "appearance_count": 11,
+          "time_info": "[12时36分 ~ 19时17分]"
         },
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -1857,6 +1903,38 @@
           "time_info": "[00时24分 ~ 15时22分]"
         },
         {
+          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
+          "url": "https://www.cls.cn/detail/2258599",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时26分 ~ 19时17分]"
+        },
+        {
+          "title": "复盘苹果AI为何转投谷歌",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            10,
+            14,
+            8,
+            19,
+            16,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时36分 ~ 19时17分]"
+        },
+        {
           "title": "92胜率屠榜,老马AI杀穿韩服",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
           "source": "贴吧",
@@ -1867,11 +1945,12 @@
             18,
             19,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时24分 ~ 18时19分]"
+          "appearance_count": 24,
+          "time_info": "[00时24分 ~ 19时17分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -1903,28 +1982,12 @@
             15,
             17,
             30,
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时24分 ~ 17时23分]"
-        },
-        {
-          "title": "复盘苹果AI为何转投谷歌",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            10,
-            14,
-            8,
-            19,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时36分 ~ 18时19分]"
+          "appearance_count": 22,
+          "time_info": "[00时24分 ~ 19时17分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -1939,29 +2002,16 @@
           "time_info": "[01时24分 ~ 07时15分]"
         },
         {
-          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
-          "url": "https://www.cls.cn/detail/2258599",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时26分 ~ 18时19分]"
-        },
-        {
           "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
           "url": "https://www.zhihu.com/question/1993756665422509304",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 19时17分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -1977,6 +2027,18 @@
           "time_info": "[01时24分 ~ 07时15分]"
         },
         {
+          "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
+          "url": "https://www.cls.cn/detail/2259059",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 19时17分]"
+        },
+        {
           "title": "如何评价 Anthropic 发布通用 AI 代理 Claude Cowork，目前实际使用怎么样？",
           "url": "https://www.zhihu.com/question/1994356851211515794",
           "source": "知乎",
@@ -1986,17 +2048,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时36分 ~ 14时26分]"
-        },
-        {
-          "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
-          "url": "https://www.cls.cn/detail/2259059",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时19分]"
         },
         {
           "title": "加州总检察长对xAI和Grok展开调查",
@@ -2203,6 +2254,17 @@
           "time_info": "09时14分"
         },
         {
+          "title": "李斌开年内部讲话：预计2025年第四季度盈利目标可实现，推动AI在全业务链条落地",
+          "url": "https://wallstreetcn.com/livenews/3037912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "马斯克旗下xAI遭加州调查 Grok涉嫌生成违规图像",
           "url": "https://flash.jin10.com/detail/20260115021524216800",
           "source": "金十数据",
@@ -2239,7 +2301,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "加拿大总理卡尼抵达北京，开启就任后首次对华正式访问",
@@ -2251,11 +2313,12 @@
             17,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[02时26分 ~ 18时19分]"
+          "appearance_count": 22,
+          "time_info": "[02时26分 ~ 19时17分]"
         },
         {
           "title": "加拿大总理卡尼抵达北京",
@@ -2409,6 +2472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "北京将推进“3个100”重点工程 2026年计划完成投资超3000亿",
+          "url": "https://wallstreetcn.com/livenews/3037918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         }
       ]
     },
