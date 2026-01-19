@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-20T06:17:43.299593+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-01-20T07:16:45.199915+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "会武力夺岛？特朗普：无可奉告",
+          "url": "https://news.ifeng.com/c/8q3HDvDloum",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时24分 ~ 07时16分]"
+        },
         {
           "title": "特朗普致信挪威首相：我不再有义务只考虑和平",
           "url": "https://news.ifeng.com/c/8q2mrUjZSWs",
@@ -16,19 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
-        },
-        {
-          "title": "会武力夺岛？特朗普：无可奉告",
-          "url": "https://news.ifeng.com/c/8q3HDvDloum",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时24分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时24分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[02时24分 ~ 07时16分]"
         },
         {
           "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
@@ -48,11 +48,12 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
@@ -64,8 +65,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "普京被邀请加入特朗普“和平委员会”",
@@ -75,19 +76,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
           "url": "https://wallstreetcn.com/articles/3763556",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -234,13 +236,24 @@
           "time_info": "[05时16分 ~ 06时17分]"
         },
         {
+          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
+          "url": "https://www.cls.cn/detail/2262874",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "芬兰总统：欧盟拥有多种工具说服特朗普撤销格陵兰岛威胁",
           "url": "https://flash.jin10.com/detail/20260120045515099800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -298,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414383",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "美媒：特朗普拒绝表明他是否会动用武力来夺取格陵兰岛",
@@ -384,17 +408,6 @@
           "time_info": "[00时23分 ~ 03时17分]"
         },
         {
-          "title": "据知情人士透露，Yann LeCun旗下AI初创公司AMI Labs已经吸引到Cathay Innovation和Hiro等潜在的投资者。 这家由Meta Platforms Inc.研究员创立的公司有望在本轮融资中获得30亿欧元（折合35亿美元）估值。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3039928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
           "title": "卡塔尔主权基金CEO暗示对AI投资采取更加细致审慎的策略",
           "url": "https://wallstreetcn.com/livenews/3039909",
           "source": "华尔街见闻-快讯",
@@ -419,6 +432,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时19分 ~ 06时17分]"
+        },
+        {
+          "title": "据知情人士透露，Yann LeCun旗下AI初创公司AMI Labs已经吸引到Cathay Innovation和Hiro等潜在的投资者。 这家由Meta Platforms Inc.研究员创立的公司有望在本轮融资中获得30亿欧元（折合35亿美元）估值。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3039928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
         },
         {
           "title": "贝莱德CEO拉里·芬克警告说：人工智能（AI）可能会像全球化一样加剧不平等。 呼吁达沃斯更多地倾听普通民众的声音，而不仅仅是精英阶层的声音。",
@@ -481,9 +506,122 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 7,
+      "keyword_group": "北京",
+      "match_count": 8,
       "titles": [
+        {
+          "title": "提醒：日内请重点关注（以下均为北京时间）",
+          "url": "https://wallstreetcn.com/livenews/3039945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "周一（1月19日）纽约尾盘，现货黄金涨1.63%，报4670.87美元/盎司，亚太盘初急剧拉升、北京时间07:32涨至4690.59美元创历史新高。 现货白银涨4.66%，报94.3270美元/盎司，亚太盘初显著拉升，之后也持续高位震荡，01:31刷新历史高位至94.6805美元。",
+          "url": "https://wallstreetcn.com/livenews/3039930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌6.01%，暂报3824.50点，保持一段时间的微幅上涨状态之后，北京时间07:00从日高4106.50点跳水，迅速在08:08刷新日低至3714.89点。 MarketVectorTM数字资产100中盘指数跌5.90%，报3514.13点，06:54刷新日高至3765.08点，08:08刷新日低至3430.70点。 MarketVector数字资产100指数跌2.63%，报19159.74点， 07:00出现一波跳水行情，从日高19774.12点快速跌至18952.97点刷新日低。 目前，Solana跌5.73%，狗狗币跌6.17%，XRP跌1.61%。 比特币跌2.23%，暂报93184.25美元；以太坊跌3.75%，暂报3218.33美元。",
+          "url": "https://wallstreetcn.com/livenews/3039869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时17分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9640元，较上周五夜盘收盘涨80点。成交量357.05亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3039901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 06时17分]"
+        },
+        {
+          "title": "周一（1月19日）欧市尾盘，ICE英国天然气期货跌5.42%，报91.510便士/千卡，北京时间16:16曾刷新日低至86.150便士，随后逐步收复失地。 TTF基准荷兰天然气期货跌2.453%，报35.177欧元/兆瓦时，16:19刷新日低至33.148欧元。 ICE欧盟碳排放交易许可（期货价格）跌4.23%，报86.54欧元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3039868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时17分]"
+        },
+        {
+          "title": "特朗普和将于当时时间周四上午10:30（北京时间17:30）在达沃斯举行和平委员会宪章签署仪式。",
+          "url": "https://flash.jin10.com/detail/20260120035235865800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时17分]"
+        },
+        {
+          "title": "北京昌平发现罕见辽金时期水利遗址",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%98%8C%E5%B9%B3%E5%8F%91%E7%8E%B0%E7%BD%95%E8%A7%81%E8%BE%BD%E9%87%91%E6%97%B6%E6%9C%9F%E6%B0%B4%E5%88%A9%E9%81%97%E5%9D%80",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "周一（1月19日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.9567元，较上周五纽约尾盘涨111点，日内整体交投于6.9700-6.9547元区间。 日线图上，离岸人民币逼近2023年5月12日顶部6.9504元和当年5月4日顶部6.8963元。",
+          "url": "https://wallstreetcn.com/livenews/3039939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "伊朗洛雷斯坦省称逮捕134名骚乱事件头目",
+          "url": "https://flash.jin10.com/detail/20260120063144051800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
         {
           "title": "伊朗称在一省逮捕192名涉及骚乱事件的嫌疑人",
           "url": "https://flash.jin10.com/detail/20260120033815453800",
@@ -569,87 +707,8 @@
       ]
     },
     {
-      "keyword_group": "北京",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "周一（1月19日）纽约尾盘，现货黄金涨1.63%，报4670.87美元/盎司，亚太盘初急剧拉升、北京时间07:32涨至4690.59美元创历史新高。 现货白银涨4.66%，报94.3270美元/盎司，亚太盘初显著拉升，之后也持续高位震荡，01:31刷新历史高位至94.6805美元。",
-          "url": "https://wallstreetcn.com/livenews/3039930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌6.01%，暂报3824.50点，保持一段时间的微幅上涨状态之后，北京时间07:00从日高4106.50点跳水，迅速在08:08刷新日低至3714.89点。 MarketVectorTM数字资产100中盘指数跌5.90%，报3514.13点，06:54刷新日高至3765.08点，08:08刷新日低至3430.70点。 MarketVector数字资产100指数跌2.63%，报19159.74点， 07:00出现一波跳水行情，从日高19774.12点快速跌至18952.97点刷新日低。 目前，Solana跌5.73%，狗狗币跌6.17%，XRP跌1.61%。 比特币跌2.23%，暂报93184.25美元；以太坊跌3.75%，暂报3218.33美元。",
-          "url": "https://wallstreetcn.com/livenews/3039869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时17分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9640元，较上周五夜盘收盘涨80点。成交量357.05亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3039901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时19分 ~ 06时17分]"
-        },
-        {
-          "title": "周一（1月19日）欧市尾盘，ICE英国天然气期货跌5.42%，报91.510便士/千卡，北京时间16:16曾刷新日低至86.150便士，随后逐步收复失地。 TTF基准荷兰天然气期货跌2.453%，报35.177欧元/兆瓦时，16:19刷新日低至33.148欧元。 ICE欧盟碳排放交易许可（期货价格）跌4.23%，报86.54欧元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3039868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时17分]"
-        },
-        {
-          "title": "特朗普和将于当时时间周四上午10:30（北京时间17:30）在达沃斯举行和平委员会宪章签署仪式。",
-          "url": "https://flash.jin10.com/detail/20260120035235865800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时17分]"
-        },
-        {
-          "title": "北京昌平发现罕见辽金时期水利遗址",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%98%8C%E5%B9%B3%E5%8F%91%E7%8E%B0%E7%BD%95%E8%A7%81%E8%BE%BD%E9%87%91%E6%97%B6%E6%9C%9F%E6%B0%B4%E5%88%A9%E9%81%97%E5%9D%80",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
@@ -661,6 +720,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
+          "url": "https://www.zhihu.com/question/63359251",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         }
       ]
     },
@@ -677,11 +747,12 @@
             9,
             4,
             19,
-            30
+            30,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时16分]"
         }
       ]
     }
