@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T09:20:11.393990+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2026-01-19T11:46:59.508068+08:00",
+  "total_titles_processed": 802,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
@@ -51,8 +51,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 09时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 11时46分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -74,11 +74,12 @@
             7,
             8,
             9,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 09时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 11时46分]"
         },
         {
           "title": "联合国秘书长古特雷斯：（当被问及特朗普提出的和平委员会倡议时）会员国可以自由组成不同的团体。",
@@ -91,6 +92,29 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时19分 ~ 05时14分]"
+        },
+        {
+          "title": "欧洲8国集体回应特朗普关税威胁",
+          "url": "https://news.ifeng.com/c/8q27ChONuGJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时46分]"
+        },
+        {
+          "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
+          "url": "https://www.cls.cn/detail/2261562",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时46分]"
         },
         {
           "title": "北约秘书长吕特：与美国总统特朗普讨论格陵兰的安全形势。 我们将继续致力于解决格陵兰和北冰洋问题。 期待近期在达沃斯会见特朗普。",
@@ -121,17 +145,6 @@
           "time_info": "[01时14分 ~ 06时16分]"
         },
         {
-          "title": "欧洲8国集体回应特朗普关税威胁",
-          "url": "https://news.ifeng.com/c/8q27ChONuGJ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 09时20分]"
-        },
-        {
           "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
           "url": "https://wallstreetcn.com/livenews/3039284",
           "source": "华尔街见闻-快讯",
@@ -158,17 +171,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时19分 ~ 05时14分]"
-        },
-        {
-          "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
-          "url": "https://www.cls.cn/detail/2261562",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 09时20分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默与丹麦首相、欧盟委员会主席冯德莱恩、美国总统特朗普等国际领导人对话。 斯塔姆重申自己在格陵兰问题上的立场。 特朗普对北约盟友们发出关税威胁的做法是错误的。",
@@ -412,6 +414,18 @@
           "time_info": "[00时19分 ~ 01时14分]"
         },
         {
+          "title": "伊朗：将追究特朗普等人责任",
+          "url": "https://news.ifeng.com/c/8q2B9XoMclS",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时46分]"
+        },
+        {
           "title": "特朗普称加拿大需要增加国防开支。（NBC）",
           "url": "https://wallstreetcn.com/livenews/3039264",
           "source": "华尔街见闻-快讯",
@@ -438,17 +452,6 @@
           "time_info": "[00时19分 ~ 02时21分]"
         },
         {
-          "title": "伊朗：将追究特朗普等人责任",
-          "url": "https://news.ifeng.com/c/8q2B9XoMclS",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 09时20分]"
-        },
-        {
           "title": "英国首相斯塔默与欧洲领导人及特朗普通话 重申反对美国关税政策",
           "url": "https://flash.jin10.com/detail/20260119040945227800",
           "source": "金十数据",
@@ -473,110 +476,43 @@
           "time_info": "[00时19分 ~ 01时14分]"
         },
         {
+          "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
+          "url": "https://www.zhihu.com/question/1996211344383435054",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "美国邀约60国加入特朗普版联合国",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%82%80%E7%BA%A660%E5%9B%BD%E5%8A%A0%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E7%89%88%E8%81%94%E5%90%88%E5%9B%BD%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
           "title": "欧洲斯托克50指数期货下跌1%，德国DAX指数期货下跌1.1%。此前消息，特朗普称2月1日起对欧洲八国加征关税，直至“完全收购格陵兰岛”。报道称欧盟考虑对930亿欧元输欧美国商品加征关税反击。",
           "url": "https://wallstreetcn.com/livenews/3039369",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         }
       ]
     },
     {
-      "keyword_group": "北京",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "北京此次大雪为什么如此蓬松",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%AC%E6%AD%A4%E6%AC%A1%E5%A4%A7%E9%9B%AA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A6%82%E6%AD%A4%E8%93%AC%E6%9D%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            18,
-            14,
-            26,
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 09时20分]"
-        },
-        {
-          "title": "1 月 17-18 日北京多区出现降雪，你那里下雪了吗？拍到了哪些雪景大片吗？",
-          "url": "https://www.zhihu.com/question/1995791111801758944",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 03时13分]"
-        },
-        {
-          "title": "北京雪景",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%AC%E9%9B%AA%E6%99%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 07时15分]"
-        },
-        {
-          "title": "赵今麦整个北京最严厉的妈咪",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E6%95%B4%E4%B8%AA%E5%8C%97%E4%BA%AC%E6%9C%80%E4%B8%A5%E5%8E%89%E7%9A%84%E5%A6%88%E5%92%AA%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 09时20分]"
-        },
-        {
-          "title": "晒晒北京的雪天日常",
-          "url": "https://www.douyin.com/hot/2371012",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 09时20分]"
-        },
-        {
-          "title": "提醒：日内请重点关注（以下均为北京时间）",
-          "url": "https://wallstreetcn.com/livenews/3039321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "为何北京下鹅毛雪济南下冰针雪",
-          "url": "https://www.toutiao.com/trending/7596656942949338651/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "世界周刊之伊朗危机",
@@ -587,11 +523,12 @@
             30,
             26,
             18,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时13分 ~ 09时20分]"
+          "appearance_count": 11,
+          "time_info": "[01时13分 ~ 11时46分]"
         },
         {
           "title": "伊朗外交部：美国干涉应为美伊关系紧张负责",
@@ -620,6 +557,18 @@
           "time_info": "[03时13分 ~ 07时15分]"
         },
         {
+          "title": "伊朗总统：袭击最高领袖等同全面战争",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E8%A2%AD%E5%87%BB%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%AD%89%E5%90%8C%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时46分]"
+        },
+        {
           "title": "土耳其外长称以色列摩萨德正在介入伊朗局势",
           "url": "https://wallstreetcn.com/livenews/3039262",
           "source": "华尔街见闻-快讯",
@@ -645,15 +594,15 @@
           "time_info": "[05时14分 ~ 06时16分]"
         },
         {
-          "title": "伊朗总统：袭击最高领袖等同全面战争",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E8%A2%AD%E5%87%BB%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%AD%89%E5%90%8C%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89",
-          "source": "百度热搜",
+          "title": "一图看懂｜从中产跌落到空难激增：美国制裁如何重创伊朗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32411977",
+          "source": "澎湃新闻",
           "ranks": [
-            27
+            16
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 09时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
         },
         {
           "title": "伊拉克外长访问伊朗 强调需就地区安全保持沟通",
@@ -662,7 +611,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         }
@@ -670,7 +619,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
@@ -681,8 +630,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 09时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 11时46分]"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -720,13 +669,35 @@
           "time_info": "07时15分"
         },
         {
+          "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
+          "url": "https://wallstreetcn.com/articles/3763537",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "AI对存储的需求推动SSD发展 高速SSD主控芯片或供应吃紧",
+          "url": "https://www.cls.cn/detail/2261597",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
           "title": "飞书史上第一次硬件合作，和安克创新做了一款“AI录音豆”",
           "url": "https://wallstreetcn.com/livenews/3039374",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -744,6 +715,98 @@
       ]
     },
     {
+      "keyword_group": "北京",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "北京此次大雪为什么如此蓬松",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%AC%E6%AD%A4%E6%AC%A1%E5%A4%A7%E9%9B%AA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A6%82%E6%AD%A4%E8%93%AC%E6%9D%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            18,
+            14,
+            26,
+            22,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 11时46分]"
+        },
+        {
+          "title": "1 月 17-18 日北京多区出现降雪，你那里下雪了吗？拍到了哪些雪景大片吗？",
+          "url": "https://www.zhihu.com/question/1995791111801758944",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 03时13分]"
+        },
+        {
+          "title": "赵今麦整个北京最严厉的妈咪",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E6%95%B4%E4%B8%AA%E5%8C%97%E4%BA%AC%E6%9C%80%E4%B8%A5%E5%8E%89%E7%9A%84%E5%A6%88%E5%92%AA%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时46分]"
+        },
+        {
+          "title": "晒晒北京的雪天日常",
+          "url": "https://www.douyin.com/hot/2371012",
+          "source": "抖音",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时46分]"
+        },
+        {
+          "title": "北京雪景",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%AC%E9%9B%AA%E6%99%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 07时15分]"
+        },
+        {
+          "title": "提醒：日内请重点关注（以下均为北京时间）",
+          "url": "https://wallstreetcn.com/livenews/3039321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "为何北京下鹅毛雪济南下冰针雪",
+          "url": "https://www.toutiao.com/trending/7596656942949338651/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -756,8 +819,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 09时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 11时46分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
