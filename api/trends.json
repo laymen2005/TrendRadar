@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T09:15:04.582210+08:00",
-  "total_titles_processed": 783,
+  "generated_at": "2026-01-20T11:31:49.694606+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -53,8 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 09时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 11时31分]"
         },
         {
           "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
@@ -101,8 +101,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 11时31分]"
+        },
+        {
+          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
+          "url": "https://www.cls.cn/detail/2262874",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时16分 ~ 11时31分]"
         },
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -138,16 +151,15 @@
           "time_info": "00时23分"
         },
         {
-          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
-          "url": "https://www.cls.cn/detail/2262874",
-          "source": "财联社热门",
+          "title": "特朗普将于周三欧洲中部时间下午2:30在达沃斯论坛发表特别讲话。",
+          "url": "https://wallstreetcn.com/livenews/3040101",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            4
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 09时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "特朗普打关税牌吞格陵兰能得逞吗",
@@ -159,6 +171,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时24分 ~ 03时17分]"
+        },
+        {
+          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
+          "url": "https://wallstreetcn.com/articles/3763591",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 11时31分]"
+        },
+        {
+          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
+          "url": "https://www.zhihu.com/question/1995879633401374340",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 11时31分]"
         },
         {
           "title": "欧盟将召开特别峰会应对特朗普“夺岛”关税",
@@ -225,28 +261,6 @@
           "time_info": "[04时19分 ~ 05时16分]"
         },
         {
-          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
-          "url": "https://wallstreetcn.com/articles/3763591",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
-        },
-        {
-          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
-          "url": "https://www.zhihu.com/question/1995879633401374340",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
-        },
-        {
           "title": "摩洛哥外交部：摩洛哥接受特朗普邀请，加入加沙和平委员会。",
           "url": "https://flash.jin10.com/detail/20260120025838329800",
           "source": "金十数据",
@@ -283,6 +297,17 @@
           "time_info": "[05时16分 ~ 06时17分]"
         },
         {
+          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
+          "url": "https://wallstreetcn.com/articles/3763642",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "芬兰总统：欧盟拥有多种工具说服特朗普撤销格陵兰岛威胁",
           "url": "https://flash.jin10.com/detail/20260120045515099800",
           "source": "金十数据",
@@ -294,6 +319,17 @@
           "time_info": "06时17分"
         },
         {
+          "title": "特朗普嫉妒中国已是公开秘密",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AB%89%E5%A6%92%E4%B8%AD%E5%9B%BD%E5%B7%B2%E6%98%AF%E5%85%AC%E5%BC%80%E7%A7%98%E5%AF%86%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "美媒爆料：特朗普私下“密集谈论”加拿大",
           "url": "https://wallstreetcn.com/livenews/3039838",
           "source": "华尔街见闻-快讯",
@@ -303,6 +339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "特朗普拒绝表明他是否会动用武力来夺取格陵兰岛，现货黄金多头占比达66%，现货白银多头占比达76%。后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260120103856281800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "美国总统特朗普：（当被问及在未能达成格陵兰岛协议的情况下，是否会落实对欧洲国家加征关税的计划时）我会的，百分之百！",
@@ -424,12 +471,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "特朗普被爆私下密集谈论加拿大",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E7%88%86%E7%A7%81%E4%B8%8B%E5%AF%86%E9%9B%86%E8%B0%88%E8%AE%BA%E5%8A%A0%E6%8B%BF%E5%A4%A7%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
@@ -482,6 +540,18 @@
           "time_info": "[06时17分 ~ 07时16分]"
         },
         {
+          "title": "股票异动停牌核查完毕 400亿AI概念股明起复牌||盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2262717",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 11时31分]"
+        },
+        {
           "title": "贝莱德CEO拉里·芬克警告说：人工智能（AI）可能会像全球化一样加剧不平等。 呼吁达沃斯更多地倾听普通民众的声音，而不仅仅是精英阶层的声音。",
           "url": "https://wallstreetcn.com/livenews/3039880",
           "source": "华尔街见闻-快讯",
@@ -495,6 +565,17 @@
           "time_info": "[02时25分 ~ 04时19分]"
         },
         {
+          "title": "“蝙蝠侠”站队“大空头”：AI相关股票被严重高估",
+          "url": "https://www.cls.cn/detail/2262811",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 11时31分]"
+        },
+        {
           "title": "AI芯片初创公司FuriosaAI计划在IPO之前融资5亿美元。",
           "url": "https://wallstreetcn.com/livenews/3039846",
           "source": "华尔街见闻-快讯",
@@ -505,28 +586,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时20分]"
-        },
-        {
-          "title": "股票异动停牌核查完毕 400亿AI概念股明起复牌||盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2262717",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
-        },
-        {
-          "title": "“蝙蝠侠”站队“大空头”：AI相关股票被严重高估",
-          "url": "https://www.cls.cn/detail/2262811",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
         },
         {
           "title": "澎湃AI早新闻丨2026年1月19日",
@@ -551,6 +610,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "中国中车旗下八维通与宇树科技战略合作 深度布局“机器人+AI+行业场景”",
+          "url": "https://wallstreetcn.com/livenews/3040091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "泛欧交易所Euronext EQD PT122在欧洲中部时间（CET）15:18触发故障转移机制（failover mechanism）。",
           "url": "https://wallstreetcn.com/livenews/3039833",
           "source": "华尔街见闻-快讯",
@@ -568,7 +638,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -590,7 +660,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         }
@@ -598,7 +668,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
@@ -697,6 +767,17 @@
           "time_info": "[06时17分 ~ 07时16分]"
         },
         {
+          "title": "北京气温再创今冬新低",
+          "url": "https://www.toutiao.com/trending/7597125952497385508/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "周一（1月19日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.9567元，较上周五纽约尾盘涨111点，日内整体交投于6.9700-6.9547元区间。 日线图上，离岸人民币逼近2023年5月12日顶部6.9504元和当年5月4日顶部6.8963元。",
           "url": "https://wallstreetcn.com/livenews/3039939",
           "source": "华尔街见闻-快讯",
@@ -714,7 +795,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         }
@@ -821,18 +902,30 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
           "url": "https://www.cls.cn/detail/2262848",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 11时31分]"
+        },
+        {
+          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
+          "url": "https://www.cls.cn/detail/2262946",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
