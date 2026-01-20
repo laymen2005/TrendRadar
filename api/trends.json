@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T11:31:49.694606+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2026-01-20T12:41:02.569466+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -53,8 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 11时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 12时41分]"
         },
         {
           "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
@@ -101,8 +101,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 11时31分]"
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 12时41分]"
         },
         {
           "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
@@ -111,11 +111,12 @@
           "ranks": [
             11,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时16分 ~ 11时31分]"
+          "appearance_count": 6,
+          "time_info": "[07时16分 ~ 12时41分]"
         },
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -151,15 +152,41 @@
           "time_info": "00时23分"
         },
         {
+          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
+          "url": "https://wallstreetcn.com/articles/3763591",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 12时41分]"
+        },
+        {
+          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
+          "url": "https://www.zhihu.com/question/1995879633401374340",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 12时41分]"
+        },
+        {
           "title": "特朗普将于周三欧洲中部时间下午2:30在达沃斯论坛发表特别讲话。",
           "url": "https://wallstreetcn.com/livenews/3040101",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 12时41分]"
         },
         {
           "title": "特朗普打关税牌吞格陵兰能得逞吗",
@@ -173,28 +200,16 @@
           "time_info": "[02时24分 ~ 03时17分]"
         },
         {
-          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
-          "url": "https://wallstreetcn.com/articles/3763591",
+          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
+          "url": "https://wallstreetcn.com/articles/3763642",
           "source": "华尔街见闻",
           "ranks": [
-            8,
+            10,
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时14分 ~ 11时31分]"
-        },
-        {
-          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
-          "url": "https://www.zhihu.com/question/1995879633401374340",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 11时31分]"
+          "time_info": "[11时31分 ~ 12时41分]"
         },
         {
           "title": "欧盟将召开特别峰会应对特朗普“夺岛”关税",
@@ -261,6 +276,17 @@
           "time_info": "[04时19分 ~ 05时16分]"
         },
         {
+          "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
+          "url": "https://www.cls.cn/detail/2263060",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
+        },
+        {
           "title": "摩洛哥外交部：摩洛哥接受特朗普邀请，加入加沙和平委员会。",
           "url": "https://flash.jin10.com/detail/20260120025838329800",
           "source": "金十数据",
@@ -285,6 +311,17 @@
           "time_info": "[05时16分 ~ 06时17分]"
         },
         {
+          "title": "特朗普关税威胁引发欧股抛售 奢侈品股全线大跌",
+          "url": "https://www.cls.cn/detail/2262836",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
+        },
+        {
           "title": "叙利亚总统府：叙利亚总统沙拉与美国总统特朗普在电话中讨论了叙利亚局势的最新发展，沙拉和特朗普同意继续合作打击“伊斯兰国”。沙拉和特朗普强调，有必要在叙利亚国家框架内维护库尔德人民的权利。",
           "url": "https://flash.jin10.com/detail/20260120035612237800",
           "source": "金十数据",
@@ -297,15 +334,15 @@
           "time_info": "[05时16分 ~ 06时17分]"
         },
         {
-          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
-          "url": "https://wallstreetcn.com/articles/3763642",
-          "source": "华尔街见闻",
+          "title": "特朗普重返白宫1周年",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E8%BF%94%E7%99%BD%E5%AE%AB1%E5%91%A8%E5%B9%B4%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
           "title": "芬兰总统：欧盟拥有多种工具说服特朗普撤销格陵兰岛威胁",
@@ -325,7 +362,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -347,7 +384,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -479,7 +516,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         }
@@ -487,7 +524,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
@@ -500,6 +537,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 03时17分]"
+        },
+        {
+          "title": "“蝙蝠侠”站队“大空头”：AI相关股票被严重高估",
+          "url": "https://www.cls.cn/detail/2262811",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 12时41分]"
         },
         {
           "title": "卡塔尔主权基金CEO暗示对AI投资采取更加细致审慎的策略",
@@ -565,17 +614,6 @@
           "time_info": "[02时25分 ~ 04时19分]"
         },
         {
-          "title": "“蝙蝠侠”站队“大空头”：AI相关股票被严重高估",
-          "url": "https://www.cls.cn/detail/2262811",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 11时31分]"
-        },
-        {
           "title": "AI芯片初创公司FuriosaAI计划在IPO之前融资5亿美元。",
           "url": "https://wallstreetcn.com/livenews/3039846",
           "source": "华尔街见闻-快讯",
@@ -586,6 +624,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时20分]"
+        },
+        {
+          "title": "千问 App 接入淘宝、闪购测试 AI 购物，将如何影响消费习惯？",
+          "url": "https://www.zhihu.com/question/1995084390166988443",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
         },
         {
           "title": "澎湃AI早新闻丨2026年1月19日",
@@ -616,7 +665,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -675,11 +724,12 @@
           "url": "https://wallstreetcn.com/livenews/3039945",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 12时41分]"
         },
         {
           "title": "周一（1月19日）纽约尾盘，现货黄金涨1.63%，报4670.87美元/盎司，亚太盘初急剧拉升、北京时间07:32涨至4690.59美元创历史新高。 现货白银涨4.66%，报94.3270美元/盎司，亚太盘初显著拉升，之后也持续高位震荡，01:31刷新历史高位至94.6805美元。",
@@ -692,6 +742,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "北京气温再创今冬新低",
+          "url": "https://www.toutiao.com/trending/7597125952497385508/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 12时41分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌6.01%，暂报3824.50点，保持一段时间的微幅上涨状态之后，北京时间07:00从日高4106.50点跳水，迅速在08:08刷新日低至3714.89点。 MarketVectorTM数字资产100中盘指数跌5.90%，报3514.13点，06:54刷新日高至3765.08点，08:08刷新日低至3430.70点。 MarketVector数字资产100指数跌2.63%，报19159.74点， 07:00出现一波跳水行情，从日高19774.12点快速跌至18952.97点刷新日低。 目前，Solana跌5.73%，狗狗币跌6.17%，XRP跌1.61%。 比特币跌2.23%，暂报93184.25美元；以太坊跌3.75%，暂报3218.33美元。",
@@ -765,17 +827,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "北京气温再创今冬新低",
-          "url": "https://www.toutiao.com/trending/7597125952497385508/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
         },
         {
           "title": "周一（1月19日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.9567元，较上周五纽约尾盘涨111点，日内整体交投于6.9700-6.9547元区间。 日线图上，离岸人民币逼近2023年5月12日顶部6.9504元和当年5月4日顶部6.8963元。",
@@ -910,22 +961,24 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 11时31分]"
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 12时41分]"
         },
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
           "url": "https://www.cls.cn/detail/2262946",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 12时41分]"
         },
         {
           "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
