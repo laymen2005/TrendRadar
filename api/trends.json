@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T01:51:21.624882+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-01-22T02:36:21.761219+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普达沃斯发言改善风险情绪，美股指齐涨，英特尔涨11%，存储概念新高不断，现货白银日内跌2%",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时36分]"
         },
         {
           "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时36分]"
         },
         {
           "title": "泽连斯基将出席达沃斯论坛并与特朗普会面",
@@ -36,9 +36,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 02时36分]"
         },
         {
           "title": "泽连斯基将出席达沃斯论坛并与特朗普会面",
@@ -74,6 +74,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "美国总统特朗普：赞赏北约秘书长吕特。 （我们俩）将讨论格陵兰。",
+          "url": "https://wallstreetcn.com/livenews/3041469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
           "title": "市场消息：特朗普将于今天晚些时候在达沃斯会见北约秘书长吕特。",
           "url": "https://flash.jin10.com/detail/20260122000617583800",
           "source": "金十数据",
@@ -85,6 +96,28 @@
           "time_info": "00时36分"
         },
         {
+          "title": "据纽约时报：特朗普政府在缅因州启动移民行动。",
+          "url": "https://flash.jin10.com/detail/20260122015942687800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "白宫顾问Leavitt：美国总统特朗普将会见北约秘书长吕特。 双方将讨论格陵兰问题。 特朗普在（吞并且）拥有格陵兰方面是顽固的。",
+          "url": "https://wallstreetcn.com/livenews/3041467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
           "title": "格陵兰危机缓和？特朗普表态“软化”：将达成一个让北约“非常开心”的方案",
           "url": "https://wallstreetcn.com/articles/3763814",
           "source": "华尔街见闻",
@@ -92,8 +125,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时36分]"
         },
         {
           "title": "特朗普刚喊完中俄威胁，转头就否了",
@@ -103,8 +136,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时36分]"
         },
         {
           "title": "伊朗警告特朗普",
@@ -112,11 +145,12 @@
           "source": "抖音",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时36分]"
         },
         {
           "title": "特朗普再提收购格陵兰岛 奈飞绩后大跌超7% | 今夜看点",
@@ -126,8 +160,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时36分]"
         },
         {
           "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
@@ -135,11 +169,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时36分]"
         },
         {
           "title": "特朗普：正寻求就收购格陵兰岛谈判",
@@ -177,6 +212,41 @@
           "time_info": "[00时34分 ~ 00时36分]"
         },
         {
+          "title": "美国最高法院或拒绝特朗普罢免美联储理事库克的请求",
+          "url": "https://flash.jin10.com/detail/20260122010443055800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 02时36分]"
+        },
+        {
+          "title": "特朗普达沃斯演讲再提“收购格陵兰岛” 否认会动武强夺 现货黄金短线震荡",
+          "url": "https://www.cls.cn/detail/2265637",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 02时36分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：美联储对特朗普的批评与独立性不符。",
+          "url": "https://flash.jin10.com/detail/20260122005938386800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 02时36分]"
+        },
+        {
           "title": "特朗普达沃斯演讲再提“收购格陵兰岛” 但否认将动武强夺 美股、黄金短线震荡",
           "url": "https://www.cls.cn/detail/2265637",
           "source": "财联社热门",
@@ -188,15 +258,16 @@
           "time_info": "[00时34分 ~ 00时36分]"
         },
         {
-          "title": "美国最高法院或拒绝特朗普罢免美联储理事库克的请求",
-          "url": "https://flash.jin10.com/detail/20260122010443055800",
+          "title": "市场消息：美国最高法院似乎很可能拒绝特朗普立即罢免美联储理事库克的请求。",
+          "url": "https://flash.jin10.com/detail/20260122005246949800",
           "source": "金十数据",
           "ranks": [
-            6
+            15,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 02时36分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普现在会见波兰领导人。",
@@ -221,6 +292,28 @@
           "time_info": "00时36分"
         },
         {
+          "title": "特朗普再谈格陵兰岛问题 排除动用武力可能性",
+          "url": "https://flash.jin10.com/detail/20260122014622717800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "美国总统特朗普：我们正接近解决乌克兰战争。",
+          "url": "https://flash.jin10.com/detail/20260122014604447800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
           "title": "丹麦：美国总统特朗普不会对格陵兰动武的论调“是正面的”。",
           "url": "https://wallstreetcn.com/livenews/3041405",
           "source": "华尔街见闻-快讯",
@@ -238,31 +331,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
         {
-          "title": "特朗普达沃斯演讲再提“收购格陵兰岛” 否认会动武强夺 现货黄金短线震荡",
-          "url": "https://www.cls.cn/detail/2265637",
-          "source": "财联社热门",
+          "title": "1月21日美国最高法院大法官对特朗普罢免美联储理事库克的庭辩要点总结",
+          "url": "https://wallstreetcn.com/livenews/3041460",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：美联储对特朗普的批评与独立性不符。",
-          "url": "https://flash.jin10.com/detail/20260122005938386800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "02时36分"
         },
         {
           "title": "Citadel（城堡）的Ken Griffin：美国总统特朗普在为美国工人而努力。 特朗普必须弄明白，美国（应该）欢迎合法移民。 特朗普针对南部边境的那些政策“取得巨大成功”。 住房市场的真正问题在于缺乏供应。 住房许可太低，建筑规范臃肿冗长。（彭博电视）",
@@ -282,7 +364,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -293,20 +375,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
         {
-          "title": "市场消息：美国最高法院似乎很可能拒绝特朗普立即罢免美联储理事库克的请求。",
-          "url": "https://flash.jin10.com/detail/20260122005246949800",
-          "source": "金十数据",
+          "title": "美国总统特朗普赞扬苹果和丰田的投资。",
+          "url": "https://wallstreetcn.com/livenews/3041454",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "02时36分"
         },
         {
           "title": "白宫经济顾问哈塞特：美国经济增速可能会有两个季度超过5%。 总统特朗普正在搅局一个必须被打乱的（国际）秩序。 预计下一年对（财政/贸易）赤字的削减幅度将更大。",
@@ -315,7 +397,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -370,7 +452,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -392,7 +474,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -414,7 +496,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -425,7 +507,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -436,7 +518,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -447,7 +529,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -469,7 +551,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -480,7 +562,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -491,7 +573,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -524,7 +606,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -546,7 +628,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -557,7 +639,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -579,7 +661,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -601,7 +683,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -623,7 +705,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -642,7 +724,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "图灵的猫回应预测韩服AI疑云",
@@ -652,8 +734,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时36分]"
         },
         {
           "title": "白宫披露对AI的研究情况，以及对美国经济影响的研究。",
@@ -674,8 +756,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时36分]"
         },
         {
           "title": "咻咻满COS翻唱icantwait",
@@ -683,22 +765,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时51分]"
-        },
-        {
-          "title": "事关AI聊天机器人和自动驾驶！马斯克和奥尔特曼隔空互喷",
-          "url": "https://www.cls.cn/detail/2265088",
-          "source": "财联社热门",
-          "ranks": [
+            16,
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时36分]"
         },
         {
           "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
@@ -707,6 +779,17 @@
           "ranks": [
             19,
             18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时36分]"
+        },
+        {
+          "title": "事关AI聊天机器人和自动驾驶！马斯克和奥尔特曼隔空互喷",
+          "url": "https://www.cls.cn/detail/2265088",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -730,9 +813,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
+          "url": "https://wallstreetcn.com/articles/3763773",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "黄仁勋称AI时代蓝领更吃香，水管工、电工能拿六位数薪水",
+          "url": "https://wallstreetcn.com/livenews/3041458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         },
         {
           "title": "美国白宫AI主管David Sacks：美国（各州凳面）“拼凑的”AI制度威胁到创新。 儿童（数据隐私）安全必须是监管框架的一部分。",
@@ -744,12 +849,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "疑似AI玩家确认是Roamer",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BCAI%E7%8E%A9%E5%AE%B6%E7%A1%AE%E8%AE%A4%E6%98%AFRoamer",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         }
       ]
     },
     {
       "keyword_group": "北京",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "北京嫣然天使儿童医院：正积极推进新址寻找工作，将依法公布捐赠情况",
@@ -760,8 +876,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时36分]"
+        },
+        {
+          "title": "周三（1月21日），韩元兑美元最终涨0.85%，报1465.95韩元。 北京时间09:20前后，韩元显著走高，10:00过后持续、平滑跌继续走高。",
+          "url": "https://wallstreetcn.com/livenews/3041452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数持平，暂报3629.95点，北京时间23:19涨至3791.91点，随后快速回吐涨幅。 MarketVectorTM数字资产100中盘指数涨0.08%，报3415.49点，23:56曾涨至3536.13点。 MarketVector数字资产100指数跌2.34%，报17964.88点，23:19也曾涨至18520.85点。 目前，Solana跌0.84%，狗狗币跌1.70%，XRP跌0.88%。 比特币跌1.72%，暂报88000美元；以太坊跌3.15%，暂报2901.24美元。",
+          "url": "https://wallstreetcn.com/livenews/3041450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         }
       ]
     },
@@ -776,7 +914,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         }
@@ -795,8 +933,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时36分]"
         }
       ]
     },
@@ -811,9 +949,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 02时36分]"
         }
       ]
     },
