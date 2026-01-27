@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T16:26:32.612662+08:00",
-  "total_titles_processed": 1439,
+  "generated_at": "2026-01-27T17:28:53.582212+08:00",
+  "total_titles_processed": 1570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -54,6 +54,19 @@
           "time_info": "[09时21分 ~ 15时24分]"
         },
         {
+          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时17分 ~ 17时28分]"
+        },
+        {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
           "url": "https://news.ifeng.com/c/8qEZiQr69Vb",
           "source": "凤凰网",
@@ -89,19 +102,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时27分 ~ 12时43分]"
-        },
-        {
-          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时17分 ~ 16时26分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
@@ -236,6 +236,19 @@
           "time_info": "[14时28分 ~ 16时26分]"
         },
         {
+          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时24分 ~ 17时28分]"
+        },
+        {
           "title": "特朗普政府表示正在重组联邦航空管理局的架构，将把安全活动集中到一个办公室。",
           "url": "https://flash.jin10.com/detail/20260127042724482800",
           "source": "金十数据",
@@ -356,18 +369,6 @@
           "time_info": "[03时20分 ~ 04时21分]"
         },
         {
-          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 16时26分]"
-        },
-        {
           "title": "特朗普宣布对韩国加征关税",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%AF%B9%E9%9F%A9%E5%9B%BD%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E",
           "source": "百度热搜",
@@ -432,6 +433,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "美国总统特朗普：与明尼阿波利斯市长雅各布·弗雷进行了非常良好的电话交谈。",
@@ -506,7 +518,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -709,6 +721,17 @@
           "time_info": "11时44分"
         },
         {
+          "title": "韩国青瓦台：美国来信与美国总统特朗普关于关税的声明无直接关联。",
+          "url": "https://flash.jin10.com/detail/20260127164256155800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "美国财长贝森特：特朗普今天已与加拿大总理卡尼通话，卡尼正从先前在达沃斯世界经济论坛上的言论“大踏步回撤”。",
           "url": "https://wallstreetcn.com/livenews/3044388",
           "source": "华尔街见闻-快讯",
@@ -745,7 +768,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
@@ -768,8 +791,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时44分 ~ 16时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时44分 ~ 17时28分]"
+        },
+        {
+          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
+          "url": "https://wallstreetcn.com/articles/3764198",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时44分 ~ 17时28分]"
+        },
+        {
+          "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时44分 ~ 17时28分]"
         },
         {
           "title": "阶跃星辰印奇谈AI商业化",
@@ -783,30 +830,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时27分 ~ 13时23分]"
-        },
-        {
-          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
-          "url": "https://wallstreetcn.com/articles/3764198",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时44分 ~ 16时26分]"
-        },
-        {
-          "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时44分 ~ 16时26分]"
         },
         {
           "title": "瑞银展望2026美国经济：一旦AI泡沫破裂衰退概率将达50%，市场低估了6月前降息的可能性",
@@ -895,6 +918,20 @@
           "time_info": "[00时28分 ~ 01时26分]"
         },
         {
+          "title": "AI承诺内容有误赔偿10万 用户起诉",
+          "url": "https://www.baidu.com/s?wd=AI%E6%89%BF%E8%AF%BA%E5%86%85%E5%AE%B9%E6%9C%89%E8%AF%AF%E8%B5%94%E5%81%BF10%E4%B8%87+%E7%94%A8%E6%88%B7%E8%B5%B7%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            26,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时28分 ~ 17时28分]"
+        },
+        {
           "title": "AI 霸总「围猎」老年女性，婚介机构借此引流、老人被骗上千元学电商，类似情况为何屡禁不止？监管难在哪？",
           "url": "https://www.zhihu.com/question/1998804557132690728",
           "source": "知乎",
@@ -908,19 +945,6 @@
           "time_info": "[11时44分 ~ 13时23分]"
         },
         {
-          "title": "AI承诺内容有误赔偿10万 用户起诉",
-          "url": "https://www.baidu.com/s?wd=AI%E6%89%BF%E8%AF%BA%E5%86%85%E5%AE%B9%E6%9C%89%E8%AF%AF%E8%B5%94%E5%81%BF10%E4%B8%87+%E7%94%A8%E6%88%B7%E8%B5%B7%E8%AF%89",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            26,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时28分 ~ 16时26分]"
-        },
-        {
           "title": "开源 AI 助理 Clawdbot 获 Karpathy 点赞，它究竟是什么，有何亮点？",
           "url": "https://www.zhihu.com/question/1998931277835941056",
           "source": "知乎",
@@ -931,6 +955,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时43分 ~ 14时28分]"
+        },
+        {
+          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+          "url": "https://wallstreetcn.com/articles/3764241",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时28分]"
         },
         {
           "title": "外网AI视频假如中国替代了美国",
@@ -956,15 +992,15 @@
           "time_info": "[01时25分 ~ 01时26分]"
         },
         {
-          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
-          "url": "https://wallstreetcn.com/articles/3764241",
-          "source": "华尔街见闻",
+          "title": "印度国有天然气公司GAIL CEO：如果价格走软，印度将签署更多长期液化天然气进口合同。",
+          "url": "https://flash.jin10.com/detail/20260127165949365800",
+          "source": "金十数据",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时26分"
+          "time_info": "17时28分"
         },
         {
           "title": "拳打亚马逊、脚踢谷歌TPU 微软发布新一代AI加速器Maia 200",
@@ -987,6 +1023,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "印度国有天然气公司GAIL CEO：我们相信，随着布伦特油价走软，与油价挂钩的天然气合同价格肯定会比当前水平更加实惠。",
+          "url": "https://flash.jin10.com/detail/20260127165925776800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "印度国有天然气公司GAIL CEO：价格是推动印度电力行业天然气需求的最大担忧。",
+          "url": "https://flash.jin10.com/detail/20260127165904615800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "美光加码投资240亿美元在新加坡扩产 以应对AI芯片短缺",
@@ -1083,7 +1141,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         }
@@ -1091,7 +1149,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美国重兵合围伊朗！“林肯”号航母打击群抵达，大批战斗机周边集结！伊朗警告：任何攻击都将被视为全面战争",
@@ -1215,6 +1273,17 @@
           "time_info": "[03时20分 ~ 04时21分]"
         },
         {
+          "title": "伊朗还剩哪些底牌",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%BF%98%E5%89%A9%E5%93%AA%E4%BA%9B%E5%BA%95%E7%89%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "美国官员：如果伊朗希望与美方联系，华盛顿“敞开大门”。",
           "url": "https://flash.jin10.com/detail/20260127042034581800",
           "source": "金十数据",
@@ -1284,7 +1353,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "宠物犬中毒刑案受害人遭辱骂和威胁，北京警方：对男子罚款1000元",
@@ -1296,11 +1365,12 @@
             10,
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 16时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 17时28分]"
         },
         {
           "title": "北京最高大坝开建，将提升大石河流域防洪能力",
@@ -1433,6 +1503,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9576，较上一交易日官方收盘价跌4点，较上日夜盘收盘跌36点。",
+          "url": "https://wallstreetcn.com/livenews/3044598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         }
       ]
     },
@@ -1512,7 +1593,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -1536,6 +1617,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 05时19分]"
+        },
+        {
+          "title": "德意志银行：在其他情境下，6900美元/盎司的黄金价格目标实际上更符合过去两年的跑赢表现。",
+          "url": "https://flash.jin10.com/detail/20260127165825924800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "德意志银行：我们认为，在今年美元走软的情况下，（黄金）每盎司6000美元的价格目标是可实现的。",
+          "url": "https://flash.jin10.com/detail/20260127164945513800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         }
       ]
     },
