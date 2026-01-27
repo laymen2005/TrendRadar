@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T15:24:24.662784+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-01-27T16:26:32.612662+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -19,27 +19,16 @@
           "time_info": "[00时27分 ~ 07时18分]"
         },
         {
-          "title": "特朗普：提高对韩国关税",
-          "url": "https://news.ifeng.com/c/8qFDsemU0yq",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时21分 ~ 15时24分]"
-        },
-        {
           "title": "特朗普称对韩关税从15%上调至25%，韩方回应",
           "url": "https://news.ifeng.com/c/8qFQXdJS6AX",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时21分 ~ 15时24分]"
+          "appearance_count": 7,
+          "time_info": "[09时21分 ~ 16时26分]"
         },
         {
           "title": "韩国人还在睡梦中，特朗普突然下手了",
@@ -47,6 +36,18 @@
           "source": "凤凰网",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时21分 ~ 16时26分]"
+        },
+        {
+          "title": "特朗普：提高对韩国关税",
+          "url": "https://news.ifeng.com/c/8qFDsemU0yq",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -64,6 +65,19 @@
           "time_info": "[00时27分 ~ 07时18分]"
         },
         {
+          "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
+          "url": "https://www.cls.cn/detail/2270546",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时21分 ~ 16时26分]"
+        },
+        {
           "title": "美伊局势持续紧张：“哈梅内伊进入地堡”，特朗普表态自相矛盾",
           "url": "https://m.thepaper.cn/newsDetail_forward_32465454",
           "source": "澎湃新闻",
@@ -77,30 +91,6 @@
           "time_info": "[00时27分 ~ 12时43分]"
         },
         {
-          "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 05时19分]"
-        },
-        {
-          "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
-          "url": "https://www.cls.cn/detail/2270546",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时21分 ~ 15时24分]"
-        },
-        {
           "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
           "url": "https://wallstreetcn.com/articles/3764157",
           "source": "华尔街见闻",
@@ -110,8 +100,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时17分 ~ 15时24分]"
+          "appearance_count": 9,
+          "time_info": "[07时17分 ~ 16时26分]"
+        },
+        {
+          "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 05时19分]"
         },
         {
           "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
@@ -222,6 +223,19 @@
           "time_info": "[04时20分 ~ 06时17分]"
         },
         {
+          "title": "韩国人还在睡梦中特朗普突然下手",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E4%B8%8B%E6%89%8B%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 16时26分]"
+        },
+        {
           "title": "特朗普政府表示正在重组联邦航空管理局的架构，将把安全活动集中到一个办公室。",
           "url": "https://flash.jin10.com/detail/20260127042724482800",
           "source": "金十数据",
@@ -268,18 +282,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 04时21分]"
-        },
-        {
-          "title": "韩国人还在睡梦中特朗普突然下手",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E4%B8%8B%E6%89%8B%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 15时24分]"
         },
         {
           "title": "美国白宫：总统特朗普希望明尼阿波利斯枪击事件的调查继续进行。",
@@ -354,6 +356,18 @@
           "time_info": "[03时20分 ~ 04时21分]"
         },
         {
+          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 16时26分]"
+        },
+        {
           "title": "特朗普宣布对韩国加征关税",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%AF%B9%E9%9F%A9%E5%9B%BD%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E",
           "source": "百度热搜",
@@ -371,7 +385,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -484,6 +498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "特朗普施压伊朗",
+          "url": "https://www.douyin.com/hot/2380655",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "白宫：特朗普“不希望任何美国人丧生”",
@@ -651,17 +676,6 @@
           "time_info": "07时18分"
         },
         {
-          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
           "title": "民调：特朗普严打移民 支持率降至低位",
           "url": "https://flash.jin10.com/detail/20260127050316323800",
           "source": "金十数据",
@@ -731,7 +745,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
@@ -747,6 +761,17 @@
           "time_info": "[00时27分 ~ 15时24分]"
         },
         {
+          "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466140",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时44分 ~ 16时26分]"
+        },
+        {
           "title": "阶跃星辰印奇谈AI商业化",
           "url": "https://search.bilibili.com/all?keyword=%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0%E5%8D%B0%E5%A5%87%E8%B0%88AI%E5%95%86%E4%B8%9A%E5%8C%96",
           "source": "bilibili 热搜",
@@ -760,6 +785,30 @@
           "time_info": "[00时27分 ~ 13时23分]"
         },
         {
+          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
+          "url": "https://wallstreetcn.com/articles/3764198",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时44分 ~ 16时26分]"
+        },
+        {
+          "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时44分 ~ 16时26分]"
+        },
+        {
           "title": "瑞银展望2026美国经济：一旦AI泡沫破裂衰退概率将达50%，市场低估了6月前降息的可能性",
           "url": "https://wallstreetcn.com/articles/3764149",
           "source": "华尔街见闻",
@@ -770,17 +819,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时27分 ~ 15时24分]"
-        },
-        {
-          "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466140",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时44分 ~ 15时24分]"
         },
         {
           "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
@@ -808,28 +846,18 @@
           "time_info": "[00时27分 ~ 07时18分]"
         },
         {
-          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
-          "url": "https://wallstreetcn.com/articles/3764198",
-          "source": "华尔街见闻",
+          "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
+          "url": "https://www.cls.cn/detail/2270597",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            4
+            10,
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时44分 ~ 15时24分]"
-        },
-        {
-          "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时44分 ~ 15时24分]"
+          "appearance_count": 6,
+          "time_info": "[11时44分 ~ 16时26分]"
         },
         {
           "title": "EDA巨头：AI基建吞噬世界产能 存储芯片紧缺或持续到明年",
@@ -853,20 +881,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
-        },
-        {
-          "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
-          "url": "https://www.cls.cn/detail/2270597",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时44分 ~ 15时24分]"
         },
         {
           "title": "微软发布第二代AI芯片Maia 200 ，希望降低对英伟达的依赖",
@@ -894,6 +908,19 @@
           "time_info": "[11时44分 ~ 13时23分]"
         },
         {
+          "title": "AI承诺内容有误赔偿10万 用户起诉",
+          "url": "https://www.baidu.com/s?wd=AI%E6%89%BF%E8%AF%BA%E5%86%85%E5%AE%B9%E6%9C%89%E8%AF%AF%E8%B5%94%E5%81%BF10%E4%B8%87+%E7%94%A8%E6%88%B7%E8%B5%B7%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 16时26分]"
+        },
+        {
           "title": "开源 AI 助理 Clawdbot 获 Karpathy 点赞，它究竟是什么，有何亮点？",
           "url": "https://www.zhihu.com/question/1998931277835941056",
           "source": "知乎",
@@ -904,18 +931,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时43分 ~ 14时28分]"
-        },
-        {
-          "title": "AI承诺内容有误赔偿10万 用户起诉",
-          "url": "https://www.baidu.com/s?wd=AI%E6%89%BF%E8%AF%BA%E5%86%85%E5%AE%B9%E6%9C%89%E8%AF%AF%E8%B5%94%E5%81%BF10%E4%B8%87+%E7%94%A8%E6%88%B7%E8%B5%B7%E8%AF%89",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 15时24分]"
         },
         {
           "title": "外网AI视频假如中国替代了美国",
@@ -941,6 +956,17 @@
           "time_info": "[01时25分 ~ 01时26分]"
         },
         {
+          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+          "url": "https://wallstreetcn.com/articles/3764241",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "拳打亚马逊、脚踢谷歌TPU 微软发布新一代AI加速器Maia 200",
           "url": "https://www.cls.cn/detail/2270429",
           "source": "财联社热门",
@@ -958,7 +984,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -1035,7 +1061,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -1049,6 +1075,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "降价2000元iPhoneAir疑为库存机",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%8D%E4%BB%B72000%E5%85%83iPhoneAir%E7%96%91%E4%B8%BA%E5%BA%93%E5%AD%98%E6%9C%BA%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         }
       ]
     },
@@ -1076,8 +1113,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时21分 ~ 15时24分]"
+          "appearance_count": 7,
+          "time_info": "[09时21分 ~ 16时26分]"
         },
         {
           "title": "外媒报道称伊朗最高领袖哈梅内伊已进入德黑兰一处加固地堡，美国会对伊朗动武吗？当前伊朗局势如何？",
@@ -1258,11 +1295,12 @@
             11,
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 15时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 16时26分]"
         },
         {
           "title": "北京最高大坝开建，将提升大石河流域防洪能力",
@@ -1392,7 +1430,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         }
@@ -1445,8 +1483,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时24分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 16时26分]"
         },
         {
           "title": "微软(MSFT.O)：推出MAIA 200芯片，这是一款基于台积电3纳米工艺打造的AI推理加速器。MAIA 200 将服务于多种人工智能模型，包括来自OpenAI的最新 GPT-5.2 模型。",
