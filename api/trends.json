@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T16:25:28.614340+08:00",
-  "total_titles_processed": 1473,
+  "generated_at": "2026-01-28T17:31:13.212273+08:00",
+  "total_titles_processed": 1581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时16分 ~ 16时25分]"
+          "appearance_count": 10,
+          "time_info": "[09时16分 ~ 17时31分]"
         },
         {
           "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
@@ -28,6 +28,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时16分 ~ 15时22分]"
+        },
+        {
+          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
+          "url": "https://wallstreetcn.com/articles/3764299",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 17时31分]"
         },
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
@@ -42,19 +55,6 @@
           "time_info": "[09时16分 ~ 13时24分]"
         },
         {
-          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
-          "url": "https://wallstreetcn.com/articles/3764299",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 16时25分]"
-        },
-        {
           "title": "美媒：特朗普一周内两次妥协",
           "url": "https://news.ifeng.com/c/8qG16xqtXtH",
           "source": "凤凰网",
@@ -64,6 +64,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时24分 ~ 07时17分]"
+        },
+        {
+          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
+          "url": "https://www.cls.cn/detail/2271977",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 17时31分]"
         },
         {
           "title": "特朗普，两天内动手？",
@@ -78,18 +92,17 @@
           "time_info": "[09时16分 ~ 14时29分]"
         },
         {
-          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
-          "url": "https://www.cls.cn/detail/2271977",
-          "source": "财联社热门",
+          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
+          "url": "https://wallstreetcn.com/articles/3764257",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            12,
             10,
+            9,
             8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时41分 ~ 16时25分]"
+          "time_info": "[13时24分 ~ 17时31分]"
         },
         {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
@@ -284,19 +297,6 @@
           "time_info": "[03时23分 ~ 04时19分]"
         },
         {
-          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
-          "url": "https://wallstreetcn.com/articles/3764257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 16时25分]"
-        },
-        {
           "title": "以色列总理内塔尼亚胡未否认曾要求特朗普不要攻击伊朗。",
           "url": "https://flash.jin10.com/detail/20260128030532843800",
           "source": "金十数据",
@@ -346,6 +346,17 @@
           "time_info": "[06时19分 ~ 07时17分]"
         },
         {
+          "title": "特朗普乐见贬值，美元跌至四年低位，亚洲货币走强，现货黄金站上5300，银、铜、铝集体上涨",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时31分]"
+        },
+        {
           "title": "周二（1月27日），韩元兑美元最终涨0.27%，报1437.78韩元。 美国总统特朗普周一美股盘后威胁将韩国汽车等关税从15%提高至25%，韩元随后低开，全天持续走高。",
           "url": "https://wallstreetcn.com/livenews/3044921",
           "source": "华尔街见闻-快讯",
@@ -388,7 +399,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -443,7 +454,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -624,6 +635,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "惠誉评级：越南不断扩大的贸易顺差可能引发特朗普政府的更严格审查，增加了美国采取额外贸易措施的风险。",
+          "url": "https://flash.jin10.com/detail/20260128165630688800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "拜登批评特朗普政府在明州的移民执法行动",
           "url": "https://wallstreetcn.com/livenews/3044911",
           "source": "华尔街见闻-快讯",
@@ -718,7 +740,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -819,6 +841,22 @@
           "time_info": "[00时24分 ~ 09时17分]"
         },
         {
+          "title": "沙特不允许领空领土被用于打击伊朗",
+          "url": "https://www.toutiao.com/trending/7600164253504421897/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            8,
+            7,
+            5,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时16分 ~ 17时31分]"
+        },
+        {
           "title": "美航母打击群逼近，伊朗：不回避谈判，但对侵略将果断回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32471237",
           "source": "澎湃新闻",
@@ -832,21 +870,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时24分 ~ 11时41分]"
-        },
-        {
-          "title": "沙特不允许领空领土被用于打击伊朗",
-          "url": "https://www.toutiao.com/trending/7600164253504421897/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            8,
-            7,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时16分 ~ 16时25分]"
         },
         {
           "title": "美国被曝向以色列通报对伊朗行动准备进展 | 环球市场",
@@ -1181,7 +1204,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -1194,8 +1217,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 16时25分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 17时31分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -1235,6 +1258,20 @@
           "time_info": "[00时24分 ~ 07时17分]"
         },
         {
+          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
+          "url": "https://www.cls.cn/detail/2272264",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 17时31分]"
+        },
+        {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
           "url": "https://www.cls.cn/detail/2271331",
           "source": "财联社热门",
@@ -1261,18 +1298,28 @@
           "time_info": "[07时17分 ~ 14时29分]"
         },
         {
-          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
-          "url": "https://www.cls.cn/detail/2272264",
-          "source": "财联社热门",
+          "title": "刘强东在家乡打造了一个AI教室",
+          "url": "https://www.toutiao.com/trending/7600224231955988531/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            6,
-            7,
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时31分]"
+        },
+        {
+          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
+          "url": "https://www.cls.cn/detail/2272163",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时40分 ~ 16时25分]"
+          "time_info": "[14时29分 ~ 17时31分]"
         },
         {
           "title": "马云：孩子不应和AI比拼计算和记忆",
@@ -1286,16 +1333,16 @@
           "time_info": "[12时40分 ~ 15时22分]"
         },
         {
-          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
-          "url": "https://www.cls.cn/detail/2272163",
+          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
+          "url": "https://www.cls.cn/detail/2272316",
           "source": "财联社热门",
           "ranks": [
-            13,
+            11,
             10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时29分 ~ 16时25分]"
+          "time_info": "[16时25分 ~ 17时31分]"
         },
         {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
@@ -1372,18 +1419,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
-          "url": "https://www.cls.cn/detail/2272316",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -1421,6 +1457,17 @@
           "time_info": "13时24分"
         },
         {
+          "title": "SK海力士：公司正考虑通过AI公司投资美国的创新型企业并与之合作，以与SK集团的关联公司产生协同效应。",
+          "url": "https://flash.jin10.com/detail/20260128165607288800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "ASML第四季度订单额创新高 AI投资浪潮汹涌提振需求",
           "url": "https://wallstreetcn.com/livenews/3045333",
           "source": "华尔街见闻-快讯",
@@ -1435,7 +1482,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "国共两党智库论坛将在北京举办",
@@ -1444,11 +1491,12 @@
           "ranks": [
             8,
             9,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 16时25分]"
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 17时31分]"
         },
         {
           "title": "国共两党智库论坛将于2月3日在北京举办",
@@ -1460,8 +1508,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 16时25分]"
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 17时31分]"
         },
         {
           "title": "国台办：国共两党智库论坛将于2月3日在北京举办",
@@ -1473,8 +1521,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 16时25分]"
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 17时31分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9545元，较周一夜盘收盘跌5点。成交量378.21亿美元。",
@@ -1539,6 +1587,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "英国首相斯塔默抵达北京，开启4天访华行程。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3045476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "北京：2026年拟制定民营经济促进条例、人工智能产业发展条例等",
           "url": "https://wallstreetcn.com/livenews/3045293",
           "source": "华尔街见闻-快讯",
@@ -1567,7 +1626,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -1600,8 +1659,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 16时25分]"
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 17时31分]"
         },
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
@@ -1685,7 +1744,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "黄金价格大涨又大跌，是走还是留？",
@@ -1697,8 +1756,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 16时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 17时31分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -1711,8 +1770,19 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 16时25分]"
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 17时31分]"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时31分]"
         },
         {
           "title": "德意志银行表示，如果美元持续疲软，投资者将增加对非美元资产和实体资产的配置，那么2026年黄金价格可能会达到每盎司6000美元。",
