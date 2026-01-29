@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T07:22:29.383277+08:00",
-  "total_titles_processed": 799,
+  "generated_at": "2026-01-29T09:26:56.659940+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时26分]"
         },
         {
           "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
@@ -39,11 +39,12 @@
             6,
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时26分]"
         },
         {
           "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
@@ -77,11 +78,23 @@
             12,
             9,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时26分]"
+        },
+        {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
@@ -260,6 +273,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
+          "url": "https://www.cls.cn/detail/2273332",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
           "title": "美国总统特朗普感谢达利欧在康涅狄格州为“特朗普账户”进行投资。",
           "url": "https://flash.jin10.com/detail/20260129004148471800",
           "source": "金十数据",
@@ -282,15 +306,37 @@
           "time_info": "02时31分"
         },
         {
+          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2273451",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
           "title": "消息人士称，特朗普政府正逐步取消关键矿产项目的价格下限。",
           "url": "https://flash.jin10.com/detail/20260129064430759800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "特朗普政府继续施压加拿大 曾会见阿尔伯塔省分离主义分子",
+          "url": "https://flash.jin10.com/detail/20260129085655934800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
           "title": "美国财长贝森特接受CBS新闻采访，为总统特朗普的司法部刑事调查美联储主席鲍威尔一事“辩护”。 贝森特声称：美联储的独立性不等于“无需担责”。",
@@ -302,6 +348,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "特朗普被曝正考虑对伊朗发动重大打击",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%9B%9D%E6%AD%A3%E8%80%83%E8%99%91%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E9%87%8D%E5%A4%A7%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
           "title": "美国财长贝森特：总统特朗普希望民主党不要让政府（在1月30日）关门。",
@@ -370,6 +427,17 @@
           "time_info": "03时24分"
         },
         {
+          "title": "欧盟高官：特朗普的威胁“敲响警钟”，欧洲应审视对美国的能源依赖",
+          "url": "https://wallstreetcn.com/livenews/3045953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
           "title": "美国财长贝森特：总统特朗普的美联储主席人选可能会在一周左右浮出水面。（雅虎财经）",
           "url": "https://wallstreetcn.com/livenews/3045806",
           "source": "华尔街见闻-快讯",
@@ -414,6 +482,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://wallstreetcn.com/livenews/3045946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
           "title": "美国总统特朗普：对标普500指数涨至7000点表示欢迎。",
           "url": "https://wallstreetcn.com/livenews/3045663",
           "source": "华尔街见闻-快讯",
@@ -439,7 +518,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗启动紧急措施“备战”",
@@ -463,11 +542,12 @@
             20,
             19,
             14,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时26分]"
         },
         {
           "title": "伊朗外长回应美方威胁：伊朗武装力量高度戒备",
@@ -628,6 +708,17 @@
           "time_info": "03时24分"
         },
         {
+          "title": "伊朗副外长：做好200%的自卫准备",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%89%AF%E5%A4%96%E9%95%BF%EF%BC%9A%E5%81%9A%E5%A5%BD200%25%E7%9A%84%E8%87%AA%E5%8D%AB%E5%87%86%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
           "title": "哈梅内伊高级顾问：伊朗对美军事行动的回应将是“史无前例的”",
           "url": "https://wallstreetcn.com/livenews/3045738",
           "source": "华尔街见闻-快讯",
@@ -653,7 +744,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -662,11 +753,12 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时26分]"
         },
         {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
@@ -678,8 +770,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时26分]"
         },
         {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
@@ -702,11 +794,12 @@
             15,
             9,
             8,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时26分]"
         },
         {
           "title": "马云谈AI时代教育",
@@ -749,9 +842,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "蚂蚁集团入股AI大模型技术研发商西湖心辰",
+          "url": "https://wallstreetcn.com/livenews/3045963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
           "title": "分析师：苹果公司的AI路线图仍是投资者最关心的问题",
@@ -793,7 +897,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -831,6 +935,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "SK海力士：Nand正在成为支持AI的存储解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3045947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
           "title": "特斯拉将投资20亿美元购买XAI公司的E系列优先股。",
           "url": "https://flash.jin10.com/detail/20260129051210358800",
           "source": "金十数据",
@@ -848,7 +963,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         }
@@ -856,7 +971,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "视频：斯塔默抵达北京，开启访华行程",
@@ -880,8 +995,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时26分]"
         },
         {
           "title": "国台办：国共两党智库论坛将于2月3日在北京举办",
@@ -894,8 +1009,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时26分]"
+        },
+        {
+          "title": "英首相现身北京三里屯吃云南菜",
+          "url": "https://www.toutiao.com/trending/7600449583605547062/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
           "title": "周三（1月28日），韩元兑美元最终涨0.14%，报1435.77韩元，全天呈现出冲高回落走势，北京时间15:17刷新日高至1419.81韩元。",
@@ -949,9 +1075,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "北京男篮主帅：球队有脓包必须切除",
+          "url": "https://www.toutiao.com/trending/7599599655287111726/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
           "title": "周三（1月28日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.9437元，较周二纽约尾盘跌100点。 日内，离岸人民币整体交投于6.9319-6.9493元区间，整体持续下挫，03:00美联储宣布按兵不动时刷新日低，之后略微收复失地。",
@@ -960,7 +1097,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -991,8 +1128,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时26分]"
         }
       ]
     }
