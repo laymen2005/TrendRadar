@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T15:37:36.761970+08:00",
-  "total_titles_processed": 1478,
+  "generated_at": "2026-01-29T16:33:11.603132+08:00",
+  "total_titles_processed": 1578,
   "failed_sources": [],
   "trends": [
     {
@@ -29,6 +29,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时30分 ~ 09时26分]"
+        },
+        {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时26分 ~ 16时33分]"
         },
         {
           "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
@@ -86,18 +99,6 @@
           "time_info": "[00时30分 ~ 09时26分]"
         },
         {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 15时37分]"
-        },
-        {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
           "url": "https://www.cls.cn/detail/2273451",
           "source": "财联社热门",
@@ -120,11 +121,12 @@
             11,
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时04分 ~ 15时37分]"
+          "appearance_count": 8,
+          "time_info": "[12时04分 ~ 16时33分]"
         },
         {
           "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
@@ -133,11 +135,24 @@
           "ranks": [
             10,
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时04分 ~ 15时37分]"
+          "appearance_count": 8,
+          "time_info": "[12时04分 ~ 16时33分]"
+        },
+        {
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时39分 ~ 16时33分]"
         },
         {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
@@ -149,18 +164,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
-        },
-        {
-          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
-          "url": "https://www.zhihu.com/question/2000136531822794040",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时39分 ~ 15时37分]"
         },
         {
           "title": "美国总统特朗普结束在“特朗普账号”活动上的发言。",
@@ -563,7 +566,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -650,11 +653,12 @@
           "ranks": [
             5,
             7,
-            15
+            15,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时04分 ~ 15时37分]"
+          "appearance_count": 8,
+          "time_info": "[12时04分 ~ 16时33分]"
         },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -664,8 +668,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时04分 ~ 15时37分]"
+          "appearance_count": 8,
+          "time_info": "[12时04分 ~ 16时33分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -673,11 +677,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时04分 ~ 15时37分]"
+          "appearance_count": 8,
+          "time_info": "[12时04分 ~ 16时33分]"
         },
         {
           "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
@@ -686,11 +691,23 @@
           "ranks": [
             13,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时04分 ~ 15时37分]"
+          "appearance_count": 8,
+          "time_info": "[12时04分 ~ 16时33分]"
+        },
+        {
+          "title": "软银任命首席运营官Jun Shimba为董事长，4月1日起生效。现任董事长Yasuyuki Imai将担任特别顾问。",
+          "url": "https://wallstreetcn.com/livenews/3046285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "光明村村民领京东AI手机",
@@ -703,6 +720,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时39分 ~ 14时40分]"
+        },
+        {
+          "title": "阿里平头哥新款AI芯片正式亮相！",
+          "url": "https://www.cls.cn/detail/2273750",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时37分 ~ 16时33分]"
         },
         {
           "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
@@ -725,6 +754,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时39分 ~ 13时40分]"
+        },
+        {
+          "title": "阿里自研 AI 芯片亮相，由通义实验室、阿里云、平头哥组成的「通云哥」体系，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2000172562634790267",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "三星：公司将在Galaxy S26系列产品提供Agentic AI功能。",
@@ -769,17 +809,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
-        },
-        {
-          "title": "阿里平头哥新款AI芯片正式亮相！",
-          "url": "https://www.cls.cn/detail/2273750",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时37分"
         },
         {
           "title": "特斯拉：CyberCab、Semi、Megapack3都处于2026年规划的正轨之上。 将在多个产品铺开六条新的产品线。 公司将投资20亿美元，购买xAI的系列E优先股；特斯拉与xAI就此达成框架协议。 Cybercab和特斯拉Semi有望在2026年量产，Megapack3也有望在今年量产。 人形机器人Optimus第一代产品线正在铺设中。",
@@ -895,7 +924,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗启动紧急措施“备战”",
@@ -1178,6 +1207,17 @@
           "time_info": "12时04分"
         },
         {
+          "title": "欧盟拟将伊朗革命卫队列为恐怖组织",
+          "url": "https://flash.jin10.com/detail/20260129160346406800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "美国国务卿鲁比奥：伊朗的抗议活动可能已经平息，但未来还会再次爆发。",
           "url": "https://flash.jin10.com/detail/20260129000336275800",
           "source": "金十数据",
@@ -1192,7 +1232,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "视频：斯塔默抵达北京，开启访华行程",
@@ -1216,8 +1256,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时30分 ~ 15时37分]"
+          "appearance_count": 20,
+          "time_info": "[00时30分 ~ 16时33分]"
         },
         {
           "title": "国台办：国共两党智库论坛将于2月3日在北京举办",
@@ -1247,6 +1287,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时26分 ~ 15时37分]"
+        },
+        {
+          "title": "金十图示：北京时间1月29日23:00将有欧美、美日、澳美等外汇期权大单到期，1个行权价10亿以上大单，敬请管理风险。",
+          "url": "https://flash.jin10.com/detail/20260129162206881800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "英国首相斯塔默现身北京三里屯",
@@ -1306,6 +1357,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 13时40分]"
+        },
+        {
+          "title": "北京姑娘跨越2800公里到无人岛上班",
+          "url": "https://www.toutiao.com/trending/7600605336126652458/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "提醒：北京时间03:00，美联储发布FOMC利率决议声明（没有“季度性”经济预期概要/SEP），美联储主席将在03:30举行例行新闻发布会。",
@@ -1466,11 +1528,12 @@
             21,
             23,
             22,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时30分 ~ 15时37分]"
+          "appearance_count": 20,
+          "time_info": "[00时30分 ~ 16时33分]"
         }
       ]
     }
