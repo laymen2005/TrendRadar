@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T19:18:46.716255+08:00",
-  "total_titles_processed": 1092,
+  "generated_at": "2026-02-01T20:37:11.378166+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "伊朗新年将至市场冷清，民众：我不担心战争，更担心未来",
@@ -33,8 +33,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时50分 ~ 19时18分]"
+          "appearance_count": 13,
+          "time_info": "[09时50分 ~ 20时37分]"
         },
         {
           "title": "伊朗北部一地司法部门逮捕300名参与骚乱人员",
@@ -146,8 +146,20 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时26分 ~ 20时37分]"
+        },
+        {
+          "title": "美军侦察机现身伊朗附近空域，美国为何盯上伊朗？一旦动武将产生哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/2001056898753983700",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[12时26分 ~ 19时18分]"
+          "time_info": "[13时57分 ~ 20时37分]"
         },
         {
           "title": "两名以色列官员表示，以色列未参与伊朗爆炸事件。",
@@ -160,6 +172,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时22分 ~ 09时50分]"
+        },
+        {
+          "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32509724",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时46分 ~ 20时37分]"
         },
         {
           "title": "伊朗军方表示已完成备战随时待发",
@@ -209,18 +236,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时22分 ~ 07时17分]"
-        },
-        {
-          "title": "美军侦察机现身伊朗附近空域，美国为何盯上伊朗？一旦动武将产生哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/2001056898753983700",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时57分 ~ 19时18分]"
         },
         {
           "title": "伊朗阿巴斯港一楼房发生爆炸 约10人受伤",
@@ -358,29 +373,16 @@
           "time_info": "[00时22分 ~ 06时17分]"
         },
         {
-          "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32509724",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时46分 ~ 19时18分]"
-        },
-        {
           "title": "海军司令遭刺杀？多地爆炸？伊朗：都是假的",
           "url": "https://news.ifeng.com/c/8qOQkr7NP1F",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时18分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 20时37分]"
         },
         {
           "title": "伊朗阿巴斯港一楼房发生爆炸",
@@ -409,6 +411,32 @@
           "time_info": "[00时22分 ~ 05时17分]"
         },
         {
+          "title": "伊朗革命卫队：伊武装部队准备就绪 状态远超“12日战争”时期",
+          "url": "https://wallstreetcn.com/livenews/3047783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12,
+            16,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 20时37分]"
+        },
+        {
+          "title": "伊朗革命卫队海军司令：伊朗人民将继续坚定不移地抵御敌人的阴谋。",
+          "url": "https://flash.jin10.com/detail/20260201193037958800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "伊朗阿巴斯港一楼房发生爆炸",
           "url": "https://www.toutiao.com/trending/7600746871209508918/",
           "source": "今日头条",
@@ -428,20 +456,6 @@
             12,
             16,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 19时18分]"
-        },
-        {
-          "title": "伊朗革命卫队：伊武装部队准备就绪 状态远超“12日战争”时期",
-          "url": "https://wallstreetcn.com/livenews/3047783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12,
-            16,
-            21
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -510,6 +524,34 @@
           "time_info": "[09时50分 ~ 12时27分]"
         },
         {
+          "title": "伊朗最高领袖：如果美国挑起战争 这次冲突将不再局限于一地",
+          "url": "https://flash.jin10.com/detail/20260201163047620800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            12,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 20时37分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗最高领袖哈梅内伊表示，如果美国人这次发动战争，将引发地区性冲突。",
+          "url": "https://flash.jin10.com/detail/20260201162805324800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            13,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 20时37分]"
+        },
+        {
           "title": "伊朗总统谴责美以欧煽动仇恨",
           "url": "https://wallstreetcn.com/livenews/3047682",
           "source": "华尔街见闻-快讯",
@@ -531,32 +573,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时17分 ~ 09时50分]"
-        },
-        {
-          "title": "伊朗最高领袖：如果美国挑起战争 这次冲突将不再局限于一地",
-          "url": "https://flash.jin10.com/detail/20260201163047620800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 19时18分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗最高领袖哈梅内伊表示，如果美国人这次发动战争，将引发地区性冲突。",
-          "url": "https://flash.jin10.com/detail/20260201162805324800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 19时18分]"
         },
         {
           "title": "伊朗阿巴斯港一楼房发生爆炸，伊朗军方表示已完成备战随时待发，目前伊朗局势如何？",
@@ -618,7 +634,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
@@ -652,11 +668,12 @@
             6,
             7,
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时26分 ~ 19时18分]"
+          "appearance_count": 12,
+          "time_info": "[12时26分 ~ 20时37分]"
         },
         {
           "title": "特朗普夫人个人纪录片上映，成本超5亿元，全球票房惨淡，评分1.7分",
@@ -701,6 +718,18 @@
           "time_info": "[13时57分 ~ 18时20分]"
         },
         {
+          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时25分 ~ 20时37分]"
+        },
+        {
           "title": "美国政府多个部门再次陷入“停摆”，特朗普喊话：动动你们的脑子",
           "url": "https://news.ifeng.com/c/8qNur2Nbdfc",
           "source": "凤凰网",
@@ -738,6 +767,19 @@
           "time_info": "[05时17分 ~ 13时57分]"
         },
         {
+          "title": "特朗普：正与伊朗进行对话",
+          "url": "https://www.cls.cn/detail/2276668",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时26分 ~ 20时37分]"
+        },
+        {
           "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
           "url": "https://www.cls.cn/detail/2276217",
           "source": "财联社热门",
@@ -747,6 +789,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时24分 ~ 09时50分]"
+        },
+        {
+          "title": "爱泼斯坦案牵一众大佬提特朗普数百次",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%89%B5%E4%B8%80%E4%BC%97%E5%A4%A7%E4%BD%AC%E6%8F%90%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%B0%E7%99%BE%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            27,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时26分 ~ 20时37分]"
         },
         {
           "title": "特朗普称就格陵兰岛的谈判即将达成一致",
@@ -790,17 +845,6 @@
           "time_info": "[06时17分 ~ 13时57分]"
         },
         {
-          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
-          "url": "https://flash.jin10.com/detail/20260201190247560800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
           "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
           "url": "https://wallstreetcn.com/articles/3764623",
           "source": "华尔街见闻",
@@ -813,17 +857,6 @@
           "time_info": "[00时22分 ~ 07时17分]"
         },
         {
-          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：在美国总统特朗普领导下，与美国的接触已变得高效得多。在所谓“特朗普混乱”背后，他是一位高效且富有创造力的美国领导人。",
-          "url": "https://flash.jin10.com/detail/20260201190211010800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
           "title": "特朗普上任一周年做了什么",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8A%E4%BB%BB%E4%B8%80%E5%91%A8%E5%B9%B4%E5%81%9A%E4%BA%86%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -833,17 +866,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-01）",
-          "url": "https://flash.jin10.com/detail/20260201185420868800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
         },
         {
           "title": "特朗普称伊朗正“严肃”与美国对话",
@@ -891,18 +913,6 @@
           "time_info": "[12时27分 ~ 16时26分]"
         },
         {
-          "title": "特朗普：正与伊朗进行对话",
-          "url": "https://www.cls.cn/detail/2276668",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 19时18分]"
-        },
-        {
           "title": "特朗普称美伊正谈判",
           "url": "https://wallstreetcn.com/livenews/3047731",
           "source": "华尔街见闻-快讯",
@@ -918,16 +928,28 @@
           "time_info": "[09时50分 ~ 15时34分]"
         },
         {
-          "title": "爱泼斯坦案牵一众大佬提特朗普数百次",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%89%B5%E4%B8%80%E4%BC%97%E5%A4%A7%E4%BD%AC%E6%8F%90%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%B0%E7%99%BE%E6%AC%A1",
-          "source": "百度热搜",
+          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
+          "url": "https://flash.jin10.com/detail/20260201190247560800",
+          "source": "金十数据",
           "ranks": [
-            30,
-            27
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 19时18分]"
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时37分]"
+        },
+        {
+          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：在美国总统特朗普领导下，与美国的接触已变得高效得多。在所谓“特朗普混乱”背后，他是一位高效且富有创造力的美国领导人。",
+          "url": "https://flash.jin10.com/detail/20260201190211010800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时37分]"
         },
         {
           "title": "特朗普：伊朗正“严肃”地与美国进行对话",
@@ -942,6 +964,18 @@
           "time_info": "[12时27分 ~ 13时57分]"
         },
         {
+          "title": "特朗普：已下令国土安全部，暂不介入民主党主政城市的抗议",
+          "url": "https://news.ifeng.com/c/8qOQkr7NPBx",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 20时37分]"
+        },
+        {
           "title": "特朗普称沃什有望获民主党人支持 并预期其将推动降息",
           "url": "https://flash.jin10.com/detail/20260201105105064800",
           "source": "金十数据",
@@ -954,15 +988,16 @@
           "time_info": "[12时27分 ~ 13时57分]"
         },
         {
-          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
-          "source": "澎湃新闻",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-01）",
+          "url": "https://flash.jin10.com/detail/20260201185420868800",
+          "source": "金十数据",
           "ranks": [
-            9
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时25分 ~ 19时18分]"
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时37分]"
         },
         {
           "title": "特朗普称就格陵兰岛的谈判即将达成一致",
@@ -990,6 +1025,17 @@
           "time_info": "[00时22分 ~ 02时24分]"
         },
         {
+          "title": "特朗普给自己提名的美联储主席下马威：不降息，就起诉",
+          "url": "https://news.ifeng.com/c/8qOLT943YcA",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 20时37分]"
+        },
+        {
           "title": "特朗普：认为格陵兰岛协议已基本达成",
           "url": "https://flash.jin10.com/detail/20260201102818944800",
           "source": "金十数据",
@@ -1014,15 +1060,27 @@
           "time_info": "[15时34分 ~ 16时26分]"
         },
         {
-          "title": "特朗普：已下令国土安全部，暂不介入民主党主政城市的抗议",
-          "url": "https://news.ifeng.com/c/8qOQkr7NPBx",
-          "source": "凤凰网",
+          "title": "据以色列第12频道：以色列总参谋长与美国官员举行会谈，讨论了有关对伊朗进行潜在打击的军事协调问题。以色列方面尚不清楚特朗普对伊朗的意图，但他们正在为各种可能性做好准备。",
+          "url": "https://flash.jin10.com/detail/20260201181510875800",
+          "source": "金十数据",
           "ranks": [
-            9
+            10,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时18分]"
+          "time_info": "[19时18分 ~ 20时37分]"
+        },
+        {
+          "title": "特朗普：美委将“分享”石油收益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510288",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 20时37分]"
         },
         {
           "title": "特朗普称正与伊朗进行对话",
@@ -1081,17 +1139,6 @@
           "time_info": "12时27分"
         },
         {
-          "title": "据以色列第12频道：以色列总参谋长与美国官员举行会谈，讨论了有关对伊朗进行潜在打击的军事协调问题。以色列方面尚不清楚特朗普对伊朗的意图，但他们正在为各种可能性做好准备。",
-          "url": "https://flash.jin10.com/detail/20260201181510875800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
           "title": "美国总统特朗普：如果我在税务诉讼中获胜，将“考虑为慈善事业做点什么”。",
           "url": "https://flash.jin10.com/detail/20260201101644668800",
           "source": "金十数据",
@@ -1128,7 +1175,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "北京经开区发出全国首个虚拟偶像身份认证",
@@ -1146,6 +1193,18 @@
           "time_info": "[00时22分 ~ 09时50分]"
         },
         {
+          "title": "绍伊古抵达北京开启为期一天的访问",
+          "url": "https://www.toutiao.com/trending/7601783499229560859/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时25分 ~ 20时37分]"
+        },
+        {
           "title": "韦东奕已成为北京大学数学科学学院长聘副教授",
           "url": "https://m.thepaper.cn/newsDetail_forward_32509639",
           "source": "澎湃新闻",
@@ -1158,8 +1217,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时26分 ~ 19时18分]"
+          "appearance_count": 12,
+          "time_info": "[12时26分 ~ 20时37分]"
         },
         {
           "title": "乌拉圭总统奥尔西抵达北京",
@@ -1169,11 +1228,12 @@
             8,
             7,
             14,
-            9
+            9,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时26分 ~ 19时18分]"
+          "appearance_count": 12,
+          "time_info": "[12时26分 ~ 20时37分]"
         },
         {
           "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
@@ -1218,17 +1278,6 @@
           "time_info": "[13时57分 ~ 17时26分]"
         },
         {
-          "title": "绍伊古抵达北京开启为期一天的访问",
-          "url": "https://www.toutiao.com/trending/7601783499229560859/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时25分 ~ 19时18分]"
-        },
-        {
           "title": "北京经济技术开发区：推进数模混合、存算一体等芯片架构研发创新 延伸场景定义芯片、行业专用芯片、使能软件等产业链条",
           "url": "https://wallstreetcn.com/livenews/3047698",
           "source": "华尔街见闻-快讯",
@@ -1271,6 +1320,28 @@
           "time_info": "[14时46分 ~ 18时20分]"
         },
         {
+          "title": "绍伊古抵达北京",
+          "url": "https://www.douyin.com/hot/2386229",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 20时37分]"
+        },
+        {
+          "title": "正直播CBA：北京vs青岛",
+          "url": "https://www.toutiao.com/trending/7601241132517097535/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 20时37分]"
+        },
+        {
           "title": "北京黑色羽绒服选美大赛",
           "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E9%BB%91%E8%89%B2%E7%BE%BD%E7%BB%92%E6%9C%8D%E9%80%89%E7%BE%8E%E5%A4%A7%E8%B5%9B&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -1293,15 +1364,15 @@
           "time_info": "[18时20分 ~ 19时18分]"
         },
         {
-          "title": "绍伊古抵达北京",
-          "url": "https://www.douyin.com/hot/2386229",
-          "source": "抖音",
+          "title": "北京黑色羽绒服选美大赛冠军是只小狗",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%BB%91%E8%89%B2%E7%BE%BD%E7%BB%92%E6%9C%8D%E9%80%89%E7%BE%8E%E5%A4%A7%E8%B5%9B%E5%86%A0%E5%86%9B%E6%98%AF%E5%8F%AA%E5%B0%8F%E7%8B%97",
+          "source": "百度热搜",
           "ranks": [
-            6
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 20时37分]"
         },
         {
           "title": "北京市民排队8小时买黄金",
@@ -1332,8 +1403,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时26分 ~ 19时18分]"
+          "appearance_count": 12,
+          "time_info": "[12时26分 ~ 20时37分]"
         },
         {
           "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
@@ -1410,11 +1481,12 @@
           "ranks": [
             3,
             7,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 19时18分]"
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 20时37分]"
         },
         {
           "title": "智能体社交网络 Moltbook 不可思议的发展，是否预示着 AI 发展已接近失控边缘？",
@@ -1569,11 +1641,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时18分]"
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 20时37分]"
         },
         {
           "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
@@ -1581,22 +1654,24 @@
           "source": "金十数据",
           "ranks": [
             1,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时18分]"
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 20时37分]"
         },
         {
           "title": "黄仁勋：英伟达向OpenAI的投资从来不是一项承诺",
           "url": "https://flash.jin10.com/detail/20260201180928077800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时37分]"
         }
       ]
     },
