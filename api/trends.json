@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T12:27:22.174834+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-02-01T13:57:53.449537+08:00",
+  "total_titles_processed": 759,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "伊朗北部一地司法部门逮捕300名参与骚乱人员",
@@ -115,6 +115,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时22分 ~ 09时50分]"
+        },
+        {
+          "title": "伊朗新年将至市场冷清，民众：我不担心战争，更担心未来",
+          "url": "https://news.ifeng.com/c/8qNjxkFtr6T",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 13时57分]"
         },
         {
           "title": "伊朗军方表示已完成备战随时待发",
@@ -274,17 +285,6 @@
           "time_info": "[00时22分 ~ 07时17分]"
         },
         {
-          "title": "伊朗新年将至市场冷清，民众：我不担心战争，更担心未来",
-          "url": "https://news.ifeng.com/c/8qNjxkFtr6T",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 12时27分]"
-        },
-        {
           "title": "伊朗革命卫队否认海军司令遇刺",
           "url": "https://news.ifeng.com/c/8qN15z3Zel3",
           "source": "凤凰网",
@@ -345,6 +345,19 @@
           "time_info": "[09时50分 ~ 12时27分]"
         },
         {
+          "title": "伊朗最高领袖顾问：正形成对美“谈判架构”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32509010",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 13时57分]"
+        },
+        {
           "title": "伊朗外长称美国干涉其军演做法“荒谬”",
           "url": "https://flash.jin10.com/detail/20260201093135473800",
           "source": "金十数据",
@@ -368,18 +381,6 @@
           "time_info": "[00时22分 ~ 03时18分]"
         },
         {
-          "title": "伊朗最高领袖顾问：正形成对美“谈判架构”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32509010",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 12时27分]"
-        },
-        {
           "title": "伊朗最高领袖顾问：与人为制造的媒体战氛围相反，对美国的谈判架构正在逐步形成",
           "url": "https://wallstreetcn.com/livenews/3047721",
           "source": "华尔街见闻-快讯",
@@ -396,22 +397,24 @@
           "url": "https://www.zhihu.com/question/2001023837374998435",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 13时57分]"
         },
         {
           "title": "伊朗总统：战争既不符合伊朗也不符合美国利益",
           "url": "https://m.thepaper.cn/newsDetail_forward_32509366",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 13时57分]"
         },
         {
           "title": "伊朗总统称战争不符合伊美两国利益",
@@ -436,6 +439,28 @@
           "time_info": "07时17分"
         },
         {
+          "title": "美军侦察机现身伊朗附近空域，美国为何盯上伊朗？一旦动武将产生哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/2001056898753983700",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "伊朗总统与埃及总统通电话 讨论地区紧张局势",
+          "url": "https://flash.jin10.com/detail/20260201132106239800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
           "title": "市场消息：美国驻以色列大使表示，美方尚未作出对伊朗发动打击的决定。",
           "url": "https://flash.jin10.com/detail/20260201081524917800",
           "source": "金十数据",
@@ -450,7 +475,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
@@ -461,8 +486,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 12时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 13时57分]"
         },
         {
           "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
@@ -521,11 +546,12 @@
             1,
             2,
             15,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时17分 ~ 12时27分]"
+          "appearance_count": 6,
+          "time_info": "[05时17分 ~ 13时57分]"
         },
         {
           "title": "共和党参议员：鲍威尔调查结束前 将反对特朗普提名沃什出任美联储主席",
@@ -550,6 +576,31 @@
           "time_info": "[00时22分 ~ 01时20分]"
         },
         {
+          "title": "美国总统特朗普置评联邦政府关门问题，声称：民主党不想让政府停摆，那对国家不是好事。",
+          "url": "https://wallstreetcn.com/livenews/3047726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时17分 ~ 13时57分]"
+        },
+        {
+          "title": "特朗普：美委将“分享”石油收益",
+          "url": "https://wallstreetcn.com/livenews/3047762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
           "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
           "url": "https://wallstreetcn.com/articles/3764623",
           "source": "华尔街见闻",
@@ -566,46 +617,47 @@
           "url": "https://flash.jin10.com/detail/20260201110314645800",
           "source": "金十数据",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "美国总统特朗普置评联邦政府关门问题，声称：民主党不想让政府停摆，那对国家不是好事。",
-          "url": "https://wallstreetcn.com/livenews/3047726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14,
-            25
+            3,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时17分 ~ 12时27分]"
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时57分]"
         },
         {
           "title": "特朗普称沃什有望获民主党人支持 并预期其将推动降息",
           "url": "https://flash.jin10.com/detail/20260201105105064800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时57分]"
         },
         {
           "title": "特朗普称就格陵兰岛的谈判即将达成一致",
           "url": "https://wallstreetcn.com/livenews/3047752",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时57分]"
+        },
+        {
+          "title": "沃什的三大挑战：美联储、通胀和特朗普",
+          "url": "https://wallstreetcn.com/articles/3764667",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 13时57分]"
         },
         {
           "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
@@ -620,17 +672,6 @@
           "time_info": "[00时22分 ~ 02时24分]"
         },
         {
-          "title": "沃什的三大挑战：美联储、通胀和特朗普",
-          "url": "https://wallstreetcn.com/articles/3764667",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
-        },
-        {
           "title": "美国政府多个部门再次陷入“停摆”，特朗普喊话：动动你们的脑子",
           "url": "https://news.ifeng.com/c/8qNur2Nbdfc",
           "source": "凤凰网",
@@ -638,19 +679,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 13时57分]"
         },
         {
           "title": "特朗普称就格陵兰岛的谈判即将达成一致",
           "url": "https://m.thepaper.cn/newsDetail_forward_32509775",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 13时57分]"
         },
         {
           "title": "特朗普称美伊正谈判",
@@ -658,11 +700,60 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            23
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 13时57分]"
+        },
+        {
+          "title": "特朗普：认为格陵兰岛协议已基本达成",
+          "url": "https://flash.jin10.com/detail/20260201102818944800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时50分 ~ 12时27分]"
+          "time_info": "[12时27分 ~ 13时57分]"
+        },
+        {
+          "title": "特朗普称伊朗正“严肃”与美国对话",
+          "url": "https://wallstreetcn.com/livenews/3047751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时57分]"
+        },
+        {
+          "title": "特朗普谈及古巴 称将达成协议",
+          "url": "https://wallstreetcn.com/livenews/3047749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时57分]"
+        },
+        {
+          "title": "特朗普：希望沃什能降低利率。",
+          "url": "https://wallstreetcn.com/livenews/3047748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时57分]"
         },
         {
           "title": "特朗普称正与伊朗进行对话",
@@ -688,46 +779,13 @@
           "time_info": "[12时26分 ~ 12时27分]"
         },
         {
-          "title": "特朗普：认为格陵兰岛协议已基本达成",
-          "url": "https://flash.jin10.com/detail/20260201102818944800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "特朗普称伊朗正“严肃”与美国对话",
-          "url": "https://wallstreetcn.com/livenews/3047751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
           "title": "美国总统特朗普：认为我们即将就古巴达成一项协议。",
           "url": "https://flash.jin10.com/detail/20260201102227519800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "特朗普谈及古巴 称将达成协议",
-          "url": "https://wallstreetcn.com/livenews/3047749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -738,18 +796,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "特朗普：希望沃什能降低利率。",
-          "url": "https://wallstreetcn.com/livenews/3047748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -760,7 +807,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -771,7 +818,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -782,7 +829,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -793,7 +840,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         }
@@ -801,7 +848,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "北京经开区发出全国首个虚拟偶像身份认证",
@@ -876,26 +923,39 @@
           "time_info": "[00时22分 ~ 07时17分]"
         },
         {
+          "title": "北京菜百没开门就已排百人长队",
+          "url": "https://www.toutiao.com/trending/7601370544353656842/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
           "title": "乌拉圭总统奥尔西抵达北京",
           "url": "https://www.douyin.com/hot/2385750",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 13时57分]"
         },
         {
           "title": "韦东奕已成为北京大学数学科学学院长聘副教授",
           "url": "https://m.thepaper.cn/newsDetail_forward_32509639",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 13时57分]"
         },
         {
           "title": "北京黑色羽绒服选美大赛",
@@ -948,8 +1008,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 12时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 13时57分]"
         },
         {
           "title": "爆火AI助手数小时两度改名",
@@ -967,15 +1027,16 @@
           "time_info": "[01时20分 ~ 07时17分]"
         },
         {
-          "title": "男子被AI诊断梅毒医生否认却不信",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%ABAI%E8%AF%8A%E6%96%AD%E6%A2%85%E6%AF%92%E5%8C%BB%E7%94%9F%E5%90%A6%E8%AE%A4%E5%8D%B4%E4%B8%8D%E4%BF%A1%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
+          "url": "https://wallstreetcn.com/articles/3764675",
+          "source": "华尔街见闻",
           "ranks": [
-            29
+            9,
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[05时17分 ~ 07时17分]"
+          "time_info": "[12时26分 ~ 13时57分]"
         },
         {
           "title": "马斯克帝国大合并？AI太烧钱，首富也得“翻遍每一个口袋”",
@@ -985,8 +1046,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 13时57分]"
         },
         {
           "title": "中国AI交易：不确定“谁是最终赢家”，押注“AI应用大战”的受益者",
@@ -996,30 +1057,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
-        },
-        {
-          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
-          "url": "https://wallstreetcn.com/articles/3764675",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 13时57分]"
         },
         {
           "title": "SpaceX 申请发射百万颗卫星，建太空 AI 数据中心，为何硅谷巨头都热衷建太空 AI 数据中心？",
           "url": "https://www.zhihu.com/question/2000979139897811762",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 13时57分]"
+        },
+        {
+          "title": "男子被AI诊断梅毒医生否认却不信",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%ABAI%E8%AF%8A%E6%96%AD%E6%A2%85%E6%AF%92%E5%8C%BB%E7%94%9F%E5%90%A6%E8%AE%A4%E5%8D%B4%E4%B8%8D%E4%BF%A1%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 07时17分]"
         },
         {
           "title": "沈腾 不方便的话全让AI说了",
@@ -1107,6 +1169,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时19分 ~ 09时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印度国家证券交易所：交易所交易黄金及白银ETF的参考价将基于前一交易日（T-1）资产净值，规定的20%较低价格区间适用于T-1的资产净值。",
+          "url": "https://flash.jin10.com/detail/20260201133200801800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         }
       ]
     }
