@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T14:02:12.461948+08:00",
-  "total_titles_processed": 923,
+  "generated_at": "2026-02-02T15:12:28.349925+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
@@ -102,8 +102,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 15时12分]"
         },
         {
           "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
@@ -116,6 +116,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时31分 ~ 14时02分]"
+        },
+        {
+          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
+          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 15时12分]"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -144,16 +156,15 @@
           "time_info": "[04时20分 ~ 07时20分]"
         },
         {
-          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
-          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
+          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
+          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
           "source": "凤凰网",
           "ranks": [
-            7,
             5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 14时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
@@ -194,6 +205,18 @@
           "time_info": "[05时19分 ~ 07时20分]"
         },
         {
+          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
+          "url": "https://www.cls.cn/detail/2277005",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 15时12分]"
+        },
+        {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：在美国总统特朗普领导下，与美国的接触已变得高效得多。在所谓“特朗普混乱”背后，他是一位高效且富有创造力的美国领导人。",
           "url": "https://flash.jin10.com/detail/20260201190211010800",
           "source": "金十数据",
@@ -214,18 +237,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时22分 ~ 03时21分]"
-        },
-        {
-          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
-          "url": "https://www.cls.cn/detail/2277005",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 14时02分]"
         },
         {
           "title": "哈梅内伊：伊朗人民不应该被特朗普的话吓倒",
@@ -261,6 +272,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 07时20分]"
+        },
+        {
+          "title": "超过400名欧盟官员反对特朗普为加沙设立的“和平委员会”，并要求采取紧急行动解决当地的“恶劣状况”。",
+          "url": "https://flash.jin10.com/detail/20260202143523023800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -302,7 +324,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -333,8 +355,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 14时02分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 15时12分]"
         },
         {
           "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
@@ -387,6 +409,17 @@
           "time_info": "[00时22分 ~ 07时20分]"
         },
         {
+          "title": "武契奇预判48小时内伊朗将遭到美国袭击",
+          "url": "https://news.ifeng.com/c/8qPlpK894Ls",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 15时12分]"
+        },
+        {
           "title": "伊朗最高领袖顾问：正形成对美“谈判架构”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32509010",
           "source": "澎湃新闻",
@@ -398,17 +431,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时22分 ~ 03时21分]"
-        },
-        {
-          "title": "武契奇预判48小时内伊朗将遭到美国袭击",
-          "url": "https://news.ifeng.com/c/8qPlpK894Ls",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
         },
         {
           "title": "伊朗局势现转机 贵金属原油集体跳水",
@@ -570,7 +592,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -616,6 +638,19 @@
           "time_info": "[00时22分 ~ 09时31分]"
         },
         {
+          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
+          "url": "https://www.cls.cn/detail/2277020",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 15时12分]"
+        },
+        {
           "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
           "url": "https://wallstreetcn.com/livenews/3047799",
           "source": "华尔街见闻-快讯",
@@ -628,18 +663,6 @@
           "time_info": "[00时22分 ~ 06时19分]"
         },
         {
-          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
-          "url": "https://www.cls.cn/detail/2277020",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 14时02分]"
-        },
-        {
           "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
           "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
           "source": "澎湃新闻",
@@ -647,8 +670,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 15时12分]"
         },
         {
           "title": "马化腾的AI“阳谋”：撒钱10亿、狂挖大牛......腾讯打响AI突围战",
@@ -734,8 +757,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 14时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 15时12分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -748,6 +771,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时22分 ~ 06时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "泰国期货交易所：黄金在线期货每日价格波动幅度将扩大至最新结算价的±20%。",
+          "url": "https://flash.jin10.com/detail/20260202142855006800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         }
       ]
     }
