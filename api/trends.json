@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T16:37:19.330432+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2026-02-02T17:41:50.700101+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
@@ -118,6 +118,17 @@
           "time_info": "[12时19分 ~ 16时37分]"
         },
         {
+          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
+          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时12分 ~ 17时41分]"
+        },
+        {
           "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
           "url": "https://www.cls.cn/detail/2277005",
           "source": "财联社热门",
@@ -143,24 +154,13 @@
           "time_info": "[09时31分 ~ 14时02分]"
         },
         {
-          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
-          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时12分 ~ 16时37分]"
-        },
-        {
           "title": "特朗普口风转软缓解供需忧虑 欧能股随国际油价重挫全线走低",
           "url": "https://flash.jin10.com/detail/20260202161737942800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -355,7 +355,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "下周重磅日程：美非农、欧英央行决议、日本大选、伊朗局势、谷歌亚马逊AMD财报",
@@ -364,11 +364,12 @@
           "ranks": [
             6,
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 16时37分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 17时41分]"
         },
         {
           "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
@@ -402,8 +403,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时01分 ~ 16时37分]"
+          "appearance_count": 5,
+          "time_info": "[14时01分 ~ 17时41分]"
         },
         {
           "title": "伊朗官员：有关伊斯兰革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。伊斯兰革命卫队并未就将在霍尔木兹海峡举行军事演习发布任何官方公告。（路透）",
@@ -488,9 +489,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "伊朗否认收到美国“最后通牒” 称希望未来几天确定谈判细节",
+          "url": "https://wallstreetcn.com/livenews/3048278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "伊朗最高领袖：近期抗议示威形同政变，已被平定",
@@ -565,6 +577,18 @@
           "time_info": "[07时19分 ~ 07时20分]"
         },
         {
+          "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 17时41分]"
+        },
+        {
           "title": "美官员称美政府已通过多渠道向伊朗传达谈判意向",
           "url": "https://wallstreetcn.com/livenews/3047840",
           "source": "华尔街见闻-快讯",
@@ -576,24 +600,13 @@
           "time_info": "07时20分"
         },
         {
-          "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
           "title": "伊朗方面表示，与美国谈判的框架将在未来几天内敲定。",
           "url": "https://flash.jin10.com/detail/20260202160404546800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -604,7 +617,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -618,6 +631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "日媒：伊朗相关局势升温，阿联酋总统将取消访日行程",
+          "url": "https://wallstreetcn.com/livenews/3048246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "伊朗",
@@ -700,11 +724,12 @@
           "ranks": [
             8,
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时19分 ~ 16时37分]"
+          "appearance_count": 6,
+          "time_info": "[12时19分 ~ 17时41分]"
         },
         {
           "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
@@ -725,7 +750,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -735,11 +760,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时01分 ~ 16时37分]"
+          "appearance_count": 5,
+          "time_info": "[14时01分 ~ 17时41分]"
         },
         {
           "title": "马化腾的AI“阳谋”：撒钱10亿、狂挖大牛......腾讯打响AI突围战",
@@ -759,7 +785,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -770,7 +796,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         }
@@ -778,7 +804,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "北京爷爷连续8年给孙子买金条",
@@ -810,6 +836,29 @@
           "time_info": "[00时22分 ~ 09时31分]"
         },
         {
+          "title": "中共中央、国务院：高标准高质量建设河北雄安新区 把北京城市副中心建设成为首都发展新的增长极",
+          "url": "https://wallstreetcn.com/livenews/3048270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "北京长峰医院火灾事故致29死，被告人汪文杰等19人一审获刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32514675",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 17时41分]"
+        },
+        {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
           "url": "https://wallstreetcn.com/livenews/3047839",
           "source": "华尔街见闻-快讯",
@@ -821,17 +870,6 @@
           "time_info": "07时20分"
         },
         {
-          "title": "北京长峰医院火灾事故致29死，被告人汪文杰等19人一审获刑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32514675",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
           "title": "麦基若加盟北京队会有什么影响",
           "url": "https://www.toutiao.com/trending/7601783797945565190/",
           "source": "今日头条",
@@ -841,6 +879,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9513，较上一交易日官方收盘价跌27点，较上日夜盘收盘涨53点。",
+          "url": "https://wallstreetcn.com/livenews/3048221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         }
       ]
     },
@@ -858,8 +907,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 16时37分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 17时41分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -877,8 +926,19 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "土耳其提高部分黄金、白银基金的最低价格限制。",
+          "url": "https://wallstreetcn.com/livenews/3048241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
         {
           "title": "泰国期货交易所：黄金在线期货每日价格波动幅度将扩大至最新结算价的±20%。",
           "url": "https://flash.jin10.com/detail/20260202142855006800",
