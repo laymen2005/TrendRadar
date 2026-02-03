@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-04T02:49:08.140461+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-02-04T03:42:45.401578+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 03时42分]"
+        },
         {
           "title": "【报道称伊朗炮艇逼近悬挂美国旗油轮】据美国媒体2月3日援引英国海上安保公司消息报道称，悬挂美国国旗的“Stena Imperative”号油轮在霍尔木兹海峡“一度遭到6艘伊朗炮艇逼近”。之后该油轮在一艘美国军舰护送下继续航行。报道称，这些炮艇通过无线电呼叫油轮，命令船长“关闭引擎并准备被登船”，但油轮加速并保持航向。预计这艘油轮将于2月5日抵达巴林的锡特拉港。据伊朗法尔斯通讯社报道，有船只“因未经许可进入伊朗领海”而被拦截。(CCTV国际时讯)",
           "url": "https://wallstreetcn.com/livenews/3049255",
@@ -19,18 +31,6 @@
           "time_info": "01时49分"
         },
         {
-          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时49分]"
-        },
-        {
           "title": "伊朗据称希望改变与美国谈判的地点和形式",
           "url": "https://wallstreetcn.com/livenews/3049253",
           "source": "华尔街见闻-快讯",
@@ -41,6 +41,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 02时49分]"
+        },
+        {
+          "title": "美军击落一架接近“林肯”号航母的伊朗无人机",
+          "url": "https://wallstreetcn.com/livenews/3049269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时49分 ~ 03时42分]"
+        },
+        {
+          "title": "美中央司令部证实击落一架伊朗无人机",
+          "url": "https://wallstreetcn.com/livenews/3049268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时49分 ~ 03时42分]"
         },
         {
           "title": "伊朗外交部：交谈还强调了继续磋商、加强双边关系以及在维护地区安全与稳定方面开展联合合作的重要性。",
@@ -82,7 +106,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -98,17 +122,6 @@
           "time_info": "01时49分"
         },
         {
-          "title": "美军击落一架接近“林肯”号航母的伊朗无人机",
-          "url": "https://wallstreetcn.com/livenews/3049269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时49分"
-        },
-        {
           "title": "油价期货延续涨势，WTI和布伦特原油期货价格均上涨逾1美元，此前有消息称，美军击落一架逼近美国海军航母的伊朗无人机。",
           "url": "https://flash.jin10.com/detail/20260204011930064800",
           "source": "金十数据",
@@ -118,17 +131,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
-        },
-        {
-          "title": "美中央司令部证实击落一架伊朗无人机",
-          "url": "https://wallstreetcn.com/livenews/3049268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时49分"
         },
         {
           "title": "美媒称伊朗炮艇逼近悬挂美国旗油轮",
@@ -148,7 +150,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -162,6 +164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "伊朗外长同多国外长通电话 讨论地区局势",
+          "url": "https://flash.jin10.com/detail/20260204024839482800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
         },
         {
           "title": "消息人士：伊朗希望改变与美国进行核谈判的地点和形式",
@@ -192,9 +205,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "以色列总理办公室：在美国特使威特科夫前往会见伊朗代表之前，内塔尼亚胡重申了他的立场，即伊朗已经一再证明其承诺不可信。",
+          "url": "https://flash.jin10.com/detail/20260204024225346800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
         },
         {
           "title": "报道称伊朗炮艇逼近悬挂美国旗油轮",
@@ -203,7 +227,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -214,7 +238,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -225,7 +249,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -247,7 +271,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         }
@@ -255,7 +279,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -265,8 +289,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 03时42分]"
         },
         {
           "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
@@ -276,8 +300,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 03时42分]"
+        },
+        {
+          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
+          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 03时42分]"
         },
         {
           "title": "城堡投资创始人格里芬：美国总统特朗普提名的美联储主席人选是“非常稳妥的选择”。",
@@ -291,26 +326,27 @@
           "time_info": "00时45分"
         },
         {
+          "title": "美国众议院批准政府融资法案，将结束局部停摆。 后续，法案将移交给总统特朗普签字为法律。 标普500指数跌幅收窄至不足1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3049293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
+        },
+        {
           "title": "比特币创特朗普第二次当选为美国总统以来的新低，目前跌超5%，逼近7.4万美元。",
           "url": "https://wallstreetcn.com/livenews/3049277",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时49分"
-        },
-        {
-          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
-          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
+            3,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时49分]"
+          "appearance_count": 2,
+          "time_info": "[02时49分 ~ 03时42分]"
         },
         {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
@@ -324,15 +360,50 @@
           "time_info": "[00时45分 ~ 01时49分]"
         },
         {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普觉得，政府关门只会伤害经济。",
+          "url": "https://wallstreetcn.com/livenews/3049273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时49分 ~ 03时42分]"
+        },
+        {
+          "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
+          "url": "https://wallstreetcn.com/livenews/3049266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时49分 ~ 03时42分]"
+        },
+        {
           "title": "白宫新闻秘书：特朗普在伊朗问题上有很多选项。",
           "url": "https://flash.jin10.com/detail/20260204022425976800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "市场消息：美国众议院批准拨款法案以结束政府停摆；法案将送交美国总统特朗普签署成法。",
+          "url": "https://flash.jin10.com/detail/20260204031034048800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
         },
         {
           "title": "美国白宫：已与特朗普就俄罗斯袭击乌克兰一事进行沟通，特朗普的反应并不意外。",
@@ -341,31 +412,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普觉得，政府关门只会伤害经济。",
-          "url": "https://wallstreetcn.com/livenews/3049273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时49分"
-        },
-        {
-          "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
-          "url": "https://wallstreetcn.com/livenews/3049266",
+          "title": "特朗普与哥伦比亚总统佩特罗会晤，讨论打击毒品走私",
+          "url": "https://wallstreetcn.com/livenews/3049283",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时49分"
+          "time_info": "03时42分"
         },
         {
           "title": "白宫新闻秘书：特朗普认为政府停摆只会损害经济。",
@@ -374,7 +434,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -385,9 +445,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "特朗普与哥伦比亚总统佩特罗会晤 讨论打击毒品走私",
+          "url": "https://flash.jin10.com/detail/20260204024423166800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
         },
         {
           "title": "美国里士满联储主席Barkin：我既担心通胀，又担心就业。 需求和GDP数据都出现鼓舞人心的迹象。 期待与（总统特朗普的美联储主席提名人）凯文·沃什共事。 （现阶段的）生产力问题与20世纪90年代的现象是有区别的。 企业之间有韧性，并不存在（通胀）重新加速的问题。",
@@ -415,7 +486,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -425,8 +496,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 03时42分]"
         },
         {
           "title": "春节为何成为AI红包主战场",
@@ -436,8 +507,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 03时42分]"
         },
         {
           "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
@@ -447,8 +518,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 03时42分]"
         },
         {
           "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
@@ -458,8 +529,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 03时42分]"
         },
         {
           "title": "一图看懂 | 官宣与xAI合并，SpaceX接下来还有哪些大动作？",
@@ -469,8 +540,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 03时42分]"
         },
         {
           "title": "解读SpaceX收购xAI",
@@ -480,8 +551,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 03时42分]"
         },
         {
           "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
@@ -492,8 +563,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 03时42分]"
+        },
+        {
+          "title": "德意志银行牵头的一个银行团体为软件供应商一宗收购案承销的12亿美元贷款无人问津，投资者被AI相关的担忧情绪笼罩。 未来，该银行团体将通过6.25亿美元定期贷款、一笔2028年到期5.4亿美元贷款来支持Conga Corp.的收购交易。",
+          "url": "https://wallstreetcn.com/livenews/3049297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
         },
         {
           "title": "达索系统与英伟达构建合作伙伴关系，将打造工业AI平台。 将为跨行业的AI打造架构。 达索系统的OutScale AI Factories将应用英伟达的基础设施。",
@@ -512,11 +594,12 @@
           "url": "https://wallstreetcn.com/livenews/3049265",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时49分 ~ 03时42分]"
         },
         {
           "title": "新世界发展：上海K11 ATELIER Huaihai办公楼预出租率超50%",
@@ -533,7 +616,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -545,6 +628,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)对OpenAI的投资计划正在按计划推进。",
+          "url": "https://flash.jin10.com/detail/20260204033202172800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
         },
         {
           "title": "OpenAI的CEO Altman：Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。",
@@ -569,6 +663,18 @@
           "time_info": "[02时48分 ~ 02时49分]"
         },
         {
+          "title": "OpenAI的CEO Altman：公司可能会在AI医药发现方面寻找合作伙伴，或投资。",
+          "url": "https://wallstreetcn.com/livenews/3049262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时49分 ~ 03时42分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：Moltbook可能只是一时的潮流，但OpenCLAW并非如此。",
           "url": "https://flash.jin10.com/detail/20260204012612904800",
           "source": "金十数据",
@@ -580,24 +686,13 @@
           "time_info": "01时49分"
         },
         {
-          "title": "OpenAI的CEO Altman：公司可能会在AI医药发现方面寻找合作伙伴，或投资。",
-          "url": "https://wallstreetcn.com/livenews/3049262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时49分"
-        },
-        {
           "title": "OpenAI的CEO Altman：我的确担心美国无法在开源AI领域领先。 最重要的是，美国在前沿模型领先。 Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。 在某些方面人工智能的普及速度比自己预想的要慢。 OPENAI最终目标是实现全面的人工智能业务。",
           "url": "https://wallstreetcn.com/livenews/3049251",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -608,7 +703,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         }
@@ -616,7 +711,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "国共两党智库论坛在北京举办",
@@ -625,11 +720,34 @@
           "ranks": [
             25,
             27,
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 03时42分]"
+        },
+        {
+          "title": "比特币跌穿7.3万美元，跌幅扩大至将近7%，北京时间00:00之前大致持稳于7.8万美元附近，之后加速下跌。",
+          "url": "https://wallstreetcn.com/livenews/3049291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9397元，较周一夜盘收盘涨51点。成交量459.06亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3049289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
         },
         {
           "title": "周二（2月3日），韩元兑美元最终涨0.29%，报1447.73韩元，北京时间15:42曾冲高至1439.62韩元。",
@@ -638,7 +756,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         }
