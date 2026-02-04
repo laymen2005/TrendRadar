@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T17:39:09.718034+08:00",
-  "total_titles_processed": 1583,
+  "generated_at": "2026-02-04T18:34:25.961183+08:00",
+  "total_titles_processed": 1688,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时07分 ~ 17时39分]"
+          "appearance_count": 9,
+          "time_info": "[12时07分 ~ 18时34分]"
         },
         {
           "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时07分 ~ 17时39分]"
+          "appearance_count": 9,
+          "time_info": "[12时07分 ~ 18时34分]"
         },
         {
           "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
@@ -62,8 +62,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时44分 ~ 17时39分]"
+          "appearance_count": 7,
+          "time_info": "[13时44分 ~ 18时34分]"
         },
         {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
@@ -85,8 +85,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时44分 ~ 17时39分]"
+          "appearance_count": 7,
+          "time_info": "[13时44分 ~ 18时34分]"
         },
         {
           "title": "在特朗普签署政府拨款法案现场，没有一位记者向特朗普提问关于今日悬挂美国国旗油轮遭扣押未遂及伊朗沙赫德-139无人机被击落的事件。",
@@ -98,6 +98,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-04）",
+          "url": "https://flash.jin10.com/detail/20260204181439687800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "特朗普称有问题的是比尔盖茨那些人",
@@ -265,6 +276,18 @@
           "time_info": "[00时45分 ~ 01时49分]"
         },
         {
+          "title": "特朗普与爱泼斯坦聚会视频曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%81%9A%E4%BC%9A%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 18时34分]"
+        },
+        {
           "title": "市场消息：美国众议院批准拨款法案以结束政府停摆；法案将送交美国总统特朗普签署成法。",
           "url": "https://flash.jin10.com/detail/20260204031034048800",
           "source": "金十数据",
@@ -357,17 +380,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时44分 ~ 14时43分]"
-        },
-        {
-          "title": "特朗普与爱泼斯坦聚会视频曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%81%9A%E4%BC%9A%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 17时39分]"
         },
         {
           "title": "白宫新闻秘书：特朗普在伊朗问题上有很多选项。",
@@ -478,6 +490,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "据英国《金融时报》：美国参议员推动700亿美元融资协议，以支持美国总统特朗普的关键矿物议程。",
+          "url": "https://flash.jin10.com/detail/20260204180151298800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "美国总统特朗普：我希望普京结束战争。",
@@ -739,6 +762,20 @@
       "match_count": 46,
       "titles": [
         {
+          "title": "美军击落伊朗无人机",
+          "url": "https://www.douyin.com/hot/2388820",
+          "source": "抖音",
+          "ranks": [
+            8,
+            25,
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时34分 ~ 18时34分]"
+        },
+        {
           "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
           "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
           "source": "澎湃新闻",
@@ -752,19 +789,6 @@
           "time_info": "[00时45分 ~ 07时34分]"
         },
         {
-          "title": "美军击落伊朗无人机",
-          "url": "https://www.douyin.com/hot/2388820",
-          "source": "抖音",
-          "ranks": [
-            8,
-            25,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时34分 ~ 17时39分]"
-        },
-        {
           "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
           "url": "https://www.cls.cn/detail/2279689",
           "source": "财联社热门",
@@ -775,6 +799,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时34分 ~ 14时43分]"
+        },
+        {
+          "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
+          "url": "https://www.zhihu.com/question/2002278954355139608",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时44分 ~ 18时34分]"
         },
         {
           "title": "美军击落伊朗无人机后，油轮遭伊炮艇威胁",
@@ -798,20 +836,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
-        },
-        {
-          "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
-          "url": "https://www.zhihu.com/question/2002278954355139608",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时44分 ~ 17时39分]"
         },
         {
           "title": "伊朗塔斯尼姆通讯社：与一架无人机在国际水域的联络中断，联络中断的原因目前尚不清楚。",
@@ -854,11 +878,24 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 18时34分]"
+        },
+        {
+          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
+          "url": "https://wallstreetcn.com/articles/3764876",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时34分 ~ 17时39分]"
+          "time_info": "[17时38分 ~ 18时34分]"
         },
         {
           "title": "伊朗：一架无人机在公海执行合法侦察活动时失联",
@@ -871,17 +908,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时30分 ~ 06时25分]"
-        },
-        {
-          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
-          "url": "https://wallstreetcn.com/articles/3764876",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 17时39分]"
         },
         {
           "title": "美军击落一架接近“林肯”号航母的伊朗无人机",
@@ -1264,7 +1290,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -1275,8 +1301,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时26分 ~ 17时39分]"
+          "appearance_count": 11,
+          "time_info": "[09时26分 ~ 18时34分]"
         },
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -1314,6 +1340,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时45分 ~ 07时34分]"
+        },
+        {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时44分 ~ 18时34分]"
         },
         {
           "title": "一图看懂 | 官宣与xAI合并，SpaceX接下来还有哪些大动作？",
@@ -1364,17 +1403,16 @@
           "time_info": "[07时34分 ~ 14时43分]"
         },
         {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            4,
-            3
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时44分 ~ 17时39分]"
+          "time_info": "[14时43分 ~ 18时34分]"
         },
         {
           "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
@@ -1386,18 +1424,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时45分 ~ 04时31分]"
-        },
-        {
-          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时43分 ~ 17时39分]"
         },
         {
           "title": "澳大利亚12月AIG/PWC制造业表现指数 -19.4，前值-18。",
@@ -1420,6 +1446,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "【午报】创业板指半日跌1.74%，太空光伏概念持续活跃，AI应用方向陷入调整",
+          "url": "https://www.cls.cn/detail/2280058",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时41分 ~ 18时34分]"
         },
         {
           "title": "德意志银行牵头的一个银行团体为软件供应商一宗收购案承销的12亿美元贷款无人问津，投资者被AI相关的担忧情绪笼罩。 未来，该银行团体将通过6.25亿美元定期贷款、一笔2028年到期5.4亿美元贷款来支持Conga Corp.的收购交易。",
@@ -1446,16 +1485,28 @@
           "time_info": "[00时45分 ~ 01时49分]"
         },
         {
-          "title": "【午报】创业板指半日跌1.74%，太空光伏概念持续活跃，AI应用方向陷入调整",
-          "url": "https://www.cls.cn/detail/2280058",
+          "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
+          "url": "https://www.cls.cn/detail/2280128",
           "source": "财联社热门",
           "ranks": [
-            12,
-            11
+            11,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时41分 ~ 17时39分]"
+          "time_info": "[16时34分 ~ 18时34分]"
+        },
+        {
+          "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
+          "url": "https://www.cls.cn/detail/2280373",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 18时34分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
@@ -1468,18 +1519,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时07分 ~ 13时44分]"
-        },
-        {
-          "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
-          "url": "https://www.cls.cn/detail/2280128",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 17时39分]"
         },
         {
           "title": "中央一号文件促进AI与农业发展相结合 AI赋能种植链前景可期",
@@ -1495,15 +1534,16 @@
           "time_info": "[13时44分 ~ 15时41分]"
         },
         {
-          "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
-          "url": "https://www.cls.cn/detail/2280373",
-          "source": "财联社热门",
+          "title": "私募巨头阿波罗警告：“软件已死”！AI正重塑4400亿美元估值逻辑",
+          "url": "https://wallstreetcn.com/articles/3764867",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 17时39分]"
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 18时34分]"
         },
         {
           "title": "印度官员Jaishankar：2月3日在华盛顿特区会见美国财政部长贝森特。 讨论美国经济合作伙伴关系与协同。",
@@ -1516,17 +1556,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时30分]"
-        },
-        {
-          "title": "私募巨头阿波罗警告：“软件已死”！AI正重塑4400亿美元估值逻辑",
-          "url": "https://wallstreetcn.com/articles/3764867",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 17时39分]"
         },
         {
           "title": "美股爆发AI恐慌性抛售",
@@ -1649,6 +1678,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        },
+        {
+          "title": "AI时代UP主如何聊动画",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3UP%E4%B8%BB%E5%A6%82%E4%BD%95%E8%81%8A%E5%8A%A8%E7%94%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "新世界发展：上海K11 ATELIER Huaihai办公楼预出租率超50%",
@@ -1968,11 +2008,12 @@
             9,
             10,
             11,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时07分 ~ 17时39分]"
+          "appearance_count": 9,
+          "time_info": "[12时07分 ~ 18时34分]"
         },
         {
           "title": "在岸人民币兑美元北京时间16:30官方收报6.9376，较上一交易日官方收盘价跌14点，较上日夜盘收盘涨21点。",
