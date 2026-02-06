@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T22:42:32.305220+08:00",
-  "total_titles_processed": 2068,
+  "generated_at": "2026-02-06T23:35:46.627881+08:00",
+  "total_titles_processed": 2165,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 70,
+      "match_count": 75,
       "titles": [
         {
           "title": "贝森特：看到伊朗啥样了吧，我们干的",
@@ -78,8 +78,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时45分 ~ 22时42分]"
+          "appearance_count": 4,
+          "time_info": "[20时45分 ~ 23时35分]"
+        },
+        {
+          "title": "美伊核谈判在阿曼重启 伊朗武装部队今晚起将进入最高级别戒备状态",
+          "url": "https://www.cls.cn/detail/2283240",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时45分 ~ 23时35分]"
+        },
+        {
+          "title": "伊朗：武装部队进入最高级别战备状态",
+          "url": "https://news.ifeng.com/c/8qWnwy3D64q",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时29分 ~ 23时35分]"
         },
         {
           "title": "伊朗最高领袖政治顾问沙姆哈尼获任国防委员会秘书",
@@ -126,17 +150,6 @@
           "time_info": "13时50分"
         },
         {
-          "title": "伊朗：武装部队进入最高级别战备状态",
-          "url": "https://news.ifeng.com/c/8qWnwy3D64q",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时29分 ~ 22时42分]"
-        },
-        {
           "title": "伊朗外交部发言人：希望美方也能“以负责任、务实和严肃的态度”参与其中。",
           "url": "https://flash.jin10.com/detail/20260206022835465800",
           "source": "金十数据",
@@ -146,6 +159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "伊朗总统外交与媒体事务助理：伊朗致力于为本地区所有国家实现和平与安全。",
+          "url": "https://flash.jin10.com/detail/20260206232333160800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "伊朗与中俄进行了磋商？外交部回应",
@@ -187,21 +211,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
-        },
-        {
-          "title": "美伊核谈判在阿曼重启 伊朗武装部队今晚起将进入最高级别戒备状态",
-          "url": "https://www.cls.cn/detail/2283240",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时45分 ~ 22时42分]"
         },
         {
           "title": "伊朗展示先进弹道导弹",
@@ -214,6 +226,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时50分 ~ 14时46分]"
+        },
+        {
+          "title": "美财长承认在伊朗制造美元短缺",
+          "url": "https://news.ifeng.com/c/8qWsNTHopF6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时35分]"
         },
         {
           "title": "伊朗军事战略转向主动威慑",
@@ -239,15 +262,15 @@
           "time_info": "[20时45分 ~ 22时42分]"
         },
         {
-          "title": "美财长承认在伊朗制造美元短缺",
-          "url": "https://news.ifeng.com/c/8qWsNTHopF6",
-          "source": "凤凰网",
+          "title": "伊朗在谈判中表示绝不接受“零浓缩”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%9C%A8%E8%B0%88%E5%88%A4%E4%B8%AD%E8%A1%A8%E7%A4%BA%E7%BB%9D%E4%B8%8D%E6%8E%A5%E5%8F%97%E2%80%9C%E9%9B%B6%E6%B5%93%E7%BC%A9%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            8
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时42分]"
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时35分]"
         },
         {
           "title": "伊朗外长阿拉格齐抵达阿曼。",
@@ -334,17 +357,6 @@
           "time_info": "[06时22分 ~ 07时20分]"
         },
         {
-          "title": "伊朗在谈判中表示绝不接受“零浓缩”",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%9C%A8%E8%B0%88%E5%88%A4%E4%B8%AD%E8%A1%A8%E7%A4%BA%E7%BB%9D%E4%B8%8D%E6%8E%A5%E5%8F%97%E2%80%9C%E9%9B%B6%E6%B5%93%E7%BC%A9%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时42分]"
-        },
-        {
           "title": "伊朗特使：即将举行的美伊谈判仅聚焦核问题",
           "url": "https://flash.jin10.com/detail/20260206153254409800",
           "source": "金十数据",
@@ -362,7 +374,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -395,7 +407,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -450,7 +462,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -499,6 +511,17 @@
           "time_info": "19时30分"
         },
         {
+          "title": "美国财政部在与伊朗有关的制裁对象中新增多艘油轮。",
+          "url": "https://flash.jin10.com/detail/20260206230702533800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "伊朗称武装部队进入最高级别战备状态",
           "url": "https://wallstreetcn.com/livenews/3051343",
           "source": "华尔街见闻-快讯",
@@ -508,6 +531,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
+        },
+        {
+          "title": "美国财政部更新与伊朗相关的制裁指定对象。",
+          "url": "https://flash.jin10.com/detail/20260206230502802800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "据阿联酋《国家报》：在美伊准备进行外交谈判之际，白宫正秘密征询具有影响力的伊朗裔美国人士的意见，为伊朗现政权潜在的倒台制定局势过渡计划。",
@@ -615,7 +649,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -708,6 +742,17 @@
           "time_info": "21时59分"
         },
         {
+          "title": "伊朗副外长着急访华有何目的",
+          "url": "https://www.toutiao.com/trending/7603719229581299210/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "伊朗外长率团赴阿曼与美国进行核问题谈判",
           "url": "https://flash.jin10.com/detail/20260206025617070800",
           "source": "金十数据",
@@ -739,6 +784,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
+        },
+        {
+          "title": "据华尔街日报：伊朗在与美国的谈判中拒绝停止核浓缩。",
+          "url": "https://flash.jin10.com/detail/20260206225848562800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "伊朗一处冷库发生火灾",
@@ -799,8 +855,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
+        {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时35分 ~ 23时35分]"
+        },
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
           "url": "https://news.ifeng.com/c/8qW59pknpCi",
@@ -810,19 +877,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时28分 ~ 22时42分]"
-        },
-        {
-          "title": "中方回应特朗普公开支持高市早苗",
-          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时35分 ~ 22时42分]"
+          "appearance_count": 17,
+          "time_info": "[09时28分 ~ 23时35分]"
         },
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
@@ -836,8 +892,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时10分 ~ 22时42分]"
+          "appearance_count": 16,
+          "time_info": "[12时10分 ~ 23时35分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -883,6 +939,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
+        },
+        {
+          "title": "美国议员们寻求司法部与苹果公司、Alphabet旗下谷歌公司的联系记录。 他们调查司法部在总统特朗普的移民与海关执法局（ICE）追踪类APP上所发挥的作用。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3051529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "特朗普下场支持高市：她将赢得选举，下月来白宫",
@@ -969,6 +1036,19 @@
           "time_info": "[04时28分 ~ 05时24分]"
         },
         {
+          "title": "美伊谈判前特朗普发李小龙视频",
+          "url": "https://www.douyin.com/hot/2391580",
+          "source": "抖音",
+          "ranks": [
+            29,
+            28,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时29分 ~ 23时35分]"
+        },
+        {
           "title": "沃什未上任已被特朗普施压",
           "url": "https://www.douyin.com/hot/2390169",
           "source": "抖音",
@@ -980,18 +1060,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时43分 ~ 07时20分]"
-        },
-        {
-          "title": "美伊谈判前特朗普发李小龙视频",
-          "url": "https://www.douyin.com/hot/2391580",
-          "source": "抖音",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 22时42分]"
         },
         {
           "title": "外交部回应特朗普支持高市赢得大选",
@@ -1134,6 +1202,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "美国财长贝森特：花旗银行将为员工向“特朗普账户”的捐款提供等额配捐。",
+          "url": "https://flash.jin10.com/detail/20260206231347233800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "美国总统特朗普将于周四深夜宣布启动TrumpRX。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3050781",
           "source": "华尔街见闻-快讯",
@@ -1184,7 +1263,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -1316,7 +1395,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -1379,7 +1458,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
@@ -1431,8 +1510,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时41分 ~ 22时42分]"
+          "appearance_count": 21,
+          "time_info": "[00时41分 ~ 23时35分]"
         },
         {
           "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
@@ -1457,8 +1536,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时28分 ~ 22时42分]"
+          "appearance_count": 17,
+          "time_info": "[09时28分 ~ 23时35分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -1501,6 +1580,21 @@
           "time_info": "[09时28分 ~ 15时43分]"
         },
         {
+          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
+          "url": "https://www.cls.cn/detail/2282989",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            5,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时29分 ~ 23时35分]"
+        },
+        {
           "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
           "url": "https://www.cls.cn/detail/2281879",
           "source": "财联社热门",
@@ -1512,20 +1606,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时41分 ~ 06时22分]"
-        },
-        {
-          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
-          "url": "https://www.cls.cn/detail/2282989",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时29分 ~ 22时42分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
@@ -1576,6 +1656,18 @@
           "time_info": "[03时34分 ~ 04时28分]"
         },
         {
+          "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32475041",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时35分]"
+        },
+        {
           "title": "法国总统马克龙：法国将研究人工智能（AI）和视频游戏对儿童的影响。",
           "url": "https://wallstreetcn.com/livenews/3050847",
           "source": "华尔街见闻-快讯",
@@ -1609,18 +1701,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时45分 ~ 14时46分]"
-        },
-        {
-          "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32475041",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时42分]"
         },
         {
           "title": "实测AI点餐2块钱买三杯奶茶",
@@ -1673,7 +1753,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -1700,6 +1780,28 @@
           "time_info": "05时24分"
         },
         {
+          "title": "AI基建概念股反弹，英伟达涨5.6%，Sandisk涨超6%，CoreWeave涨超9%，中概指数涨2%",
+          "url": "https://wallstreetcn.com/livenews/3051518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
+          "title": "马斯克：如果没有AI和机器人技术，美国必破产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "亚马逊(AMZN.O)CEO：预计到2026年年中，所有Trainium 3芯片都将被预订完毕。",
           "url": "https://flash.jin10.com/detail/20260206061539402800",
           "source": "金十数据",
@@ -1720,6 +1822,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "AI 能救得了 SaaS 么？",
+          "url": "https://www.zhihu.com/question/658582077",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
+          "title": "脉脉：AI红包大战烧至人才端，元宝、千问百万年薪挖人",
+          "url": "https://wallstreetcn.com/livenews/3051513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "汤森路透跌幅扩大至7%。Anthropic发布人工智能（AI）模型的最新版本Claude Opus 4.6，用于进行金融研究和其他工作相关的功能。",
@@ -1753,6 +1877,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
+        },
+        {
+          "title": "腾讯元宝AI生图日均调用飙升30倍",
+          "url": "https://wallstreetcn.com/livenews/3051507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "千问“爆单”验证AI商业化前景",
@@ -1841,6 +1976,31 @@
           "time_info": "[05时24分 ~ 06时22分]"
         },
         {
+          "title": "00后小伙从北京骑电动车回云南过年",
+          "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E5%B0%8F%E4%BC%99%E4%BB%8E%E5%8C%97%E4%BA%AC%E9%AA%91%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%9B%9E%E4%BA%91%E5%8D%97%E8%BF%87%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时35分]"
+        },
+        {
+          "title": "玩转“金银铜”，“北京大空头”横空出世",
+          "url": "https://wallstreetcn.com/articles/3765129",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时35分]"
+        },
+        {
           "title": "重温北京冬奥会中国队夺金瞬间",
           "url": "https://www.baidu.com/s?wd=%E9%87%8D%E6%B8%A9%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E9%87%91%E7%9E%AC%E9%97%B4",
           "source": "百度热搜",
@@ -1852,16 +2012,15 @@
           "time_info": "[18时34分 ~ 19时30分]"
         },
         {
-          "title": "00后小伙从北京骑电动车回云南过年",
-          "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E5%B0%8F%E4%BC%99%E4%BB%8E%E5%8C%97%E4%BA%AC%E9%AA%91%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%9B%9E%E4%BA%91%E5%8D%97%E8%BF%87%E5%B9%B4",
-          "source": "百度热搜",
+          "title": "重温北京冬奥会开幕式",
+          "url": "https://www.douyin.com/hot/2392270",
+          "source": "抖音",
           "ranks": [
-            8,
-            25
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时42分]"
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时35分]"
         },
         {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
@@ -1874,29 +2033,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 13时50分]"
-        },
-        {
-          "title": "玩转“金银铜”，“北京大空头”横空出世",
-          "url": "https://wallstreetcn.com/articles/3765129",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时42分]"
-        },
-        {
-          "title": "重温北京冬奥会开幕式",
-          "url": "https://www.douyin.com/hot/2392270",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时42分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.3648元元，较周三夜盘收盘涨228点。成交量570.75亿美元。",
@@ -1927,7 +2063,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         }
@@ -2030,11 +2166,12 @@
           "url": "https://www.toutiao.com/trending/7603572602348421147/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 23时35分]"
         },
         {
           "title": "河北9个姑姑参加侄子婚礼，排成长龙送祝福",
