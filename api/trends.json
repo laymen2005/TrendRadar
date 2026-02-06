@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-06T19:30:40.654146+08:00",
-  "total_titles_processed": 1748,
+  "generated_at": "2026-02-06T20:45:29.628685+08:00",
+  "total_titles_processed": 1848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 56,
       "titles": [
+        {
+          "title": "贝森特：看到伊朗啥样了吧，我们干的",
+          "url": "https://news.ifeng.com/c/8qWIKuTzdj9",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时42分 ~ 20时45分]"
+        },
         {
           "title": "中方阐明在伊朗问题上的原则立场",
           "url": "https://news.ifeng.com/c/8qWWGUvFTRt",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[14时45分 ~ 19时30分]"
-        },
-        {
-          "title": "贝森特：看到伊朗啥样了吧，我们干的",
-          "url": "https://news.ifeng.com/c/8qWIKuTzdj9",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时42分 ~ 19时30分]"
         },
         {
           "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
@@ -126,6 +126,17 @@
           "time_info": "15时43分"
         },
         {
+          "title": "美国再发警告，敦促本国公民尽快离开伊朗",
+          "url": "https://news.ifeng.com/c/8qWlt2Y8DsQ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "伊朗外长和阿曼外长举行双边会晤",
           "url": "https://wallstreetcn.com/livenews/3051169",
           "source": "华尔街见闻-快讯",
@@ -146,6 +157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "伊朗：武装部队进入最高级别战备状态",
+          "url": "https://news.ifeng.com/c/8qWnwy3D64q",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 20时45分]"
         },
         {
           "title": "伊朗展示先进弹道导弹",
@@ -170,17 +192,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时50分 ~ 14时46分]"
-        },
-        {
-          "title": "伊朗：武装部队进入最高级别战备状态",
-          "url": "https://news.ifeng.com/c/8qWnwy3D64q",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时29分 ~ 19时30分]"
         },
         {
           "title": "伊朗外长阿拉格齐抵达阿曼。",
@@ -316,7 +327,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -343,13 +354,24 @@
           "time_info": "18时34分"
         },
         {
+          "title": "美伊核谈判在阿曼重启 伊朗武装部队今晚起将进入最高级别戒备状态",
+          "url": "https://www.cls.cn/detail/2283240",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "美媒：卫星图像显示伊朗优先修复弹道导弹设施 核设施重建有限",
           "url": "https://flash.jin10.com/detail/20260206185430722800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -360,7 +382,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -382,7 +404,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -393,7 +415,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -442,13 +464,24 @@
           "time_info": "14时46分"
         },
         {
+          "title": "伊朗媒体：美方已审议伊方谈判方案并将作出回应",
+          "url": "https://wallstreetcn.com/livenews/3051386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：在第二轮谈判中，美方的回应将转达给伊方。据悉伊朗方面表示，“我们必须观察美方的回应是会为谈判铺平道路，展现其外交诚意，还是会成为阻碍。”",
           "url": "https://flash.jin10.com/detail/20260206184438019800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -473,6 +506,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
+        },
+        {
+          "title": "伊朗称武装部队进入最高级别战备",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%AD%A6%E8%A3%85%E9%83%A8%E9%98%9F%E8%BF%9B%E5%85%A5%E6%9C%80%E9%AB%98%E7%BA%A7%E5%88%AB%E6%88%98%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "外交部副部长苗得雨会见伊朗外交部副部长加里布阿巴迪",
@@ -525,7 +569,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -558,7 +602,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -599,7 +643,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -610,8 +654,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时28分 ~ 19时30分]"
+          "appearance_count": 14,
+          "time_info": "[09时28分 ~ 20时45分]"
         },
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
@@ -625,8 +669,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时10分 ~ 19时30分]"
+          "appearance_count": 13,
+          "time_info": "[12时10分 ~ 20时45分]"
         },
         {
           "title": "中方回应特朗普公开支持高市早苗",
@@ -636,8 +680,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时35分 ~ 19时30分]"
+          "appearance_count": 7,
+          "time_info": "[16时35分 ~ 20时45分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -977,6 +1021,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "美国公司拿下大量委内瑞拉石油，打折卖仍滞销，特朗普亲自「带货」委石油，哪些国家会购买？为何会滞销？",
+          "url": "https://www.zhihu.com/question/2002762561406390549",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "美国总统特朗普：从今晚开始，数十种最常用的处方药将在一个新网站上（TrumpRx）以大幅折扣的价格面向所有消费者供应。",
           "url": "https://flash.jin10.com/detail/20260206084843211800",
           "source": "金十数据",
@@ -1145,7 +1200,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
@@ -1221,8 +1276,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时28分 ~ 19时30分]"
+          "appearance_count": 14,
+          "time_info": "[09时28分 ~ 20时45分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -1238,6 +1293,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时41分 ~ 09时28分]"
+        },
+        {
+          "title": "微信连环封禁千问、元宝红包口令 AI春节获客大战遇阻",
+          "url": "https://www.cls.cn/detail/2282814",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时37分 ~ 20时45分]"
         },
         {
           "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
@@ -1263,18 +1331,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时41分 ~ 06时22分]"
-        },
-        {
-          "title": "微信连环封禁千问、元宝红包口令 AI春节获客大战遇阻",
-          "url": "https://www.cls.cn/detail/2282814",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 19时30分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
@@ -1314,6 +1370,18 @@
           "time_info": "[03时34分 ~ 04时28分]"
         },
         {
+          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
+          "url": "https://www.cls.cn/detail/2282989",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 20时45分]"
+        },
+        {
           "title": "法国总统马克龙：法国将研究人工智能（AI）和视频游戏对儿童的影响。",
           "url": "https://wallstreetcn.com/livenews/3050847",
           "source": "华尔街见闻-快讯",
@@ -1336,17 +1404,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时22分]"
-        },
-        {
-          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
-          "url": "https://www.cls.cn/detail/2282989",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时29分 ~ 19时30分]"
         },
         {
           "title": "十大奶咖品牌求AI翻牌",
@@ -1402,6 +1459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "科技股回调 “抗AI”板块成为新赢家",
+          "url": "https://flash.jin10.com/detail/20260206193333001800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "宏观对冲基金1月表现强劲，Haidar回报率达19%",
