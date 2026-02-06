@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T07:20:23.643694+08:00",
-  "total_titles_processed": 678,
+  "generated_at": "2026-02-06T09:28:35.449878+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时41分 ~ 07时20分]"
+        },
+        {
+          "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
+          "url": "https://news.ifeng.com/c/8qW59pknpCi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "特朗普下场支持高市：她将赢得选举，下月来白宫",
+          "url": "https://news.ifeng.com/c/8qW6McngHpX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "阿根廷宣布与特朗普政府签署贸易协议",
@@ -256,6 +278,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "美国总统特朗普：从今晚开始，数十种最常用的处方药将在一个新网站上（TrumpRx）以大幅折扣的价格面向所有消费者供应。",
+          "url": "https://flash.jin10.com/detail/20260206084843211800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "加拿大央行行长麦克勒姆：（在被问及央行的经济预测时）我们不可能对美国总统特朗普的每一项威胁都做出回应。那样的话，我们就是在自掘坟墓。",
           "url": "https://flash.jin10.com/detail/20260206022354312800",
           "source": "金十数据",
@@ -369,7 +402,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "UP主们用AI办了场春晚",
@@ -377,11 +410,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 09时28分]"
         },
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -413,11 +447,12 @@
             9,
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 09时28分]"
         },
         {
           "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
@@ -439,9 +474,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
+          "url": "https://www.cls.cn/detail/2282247",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时28分]"
         },
         {
           "title": "Anthropic发布新AI 金融服务公司承压",
@@ -454,6 +501,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时34分 ~ 04时28分]"
+        },
+        {
+          "title": "唐宫奇案剧宣闯入ai赛道",
+          "url": "https://www.douyin.com/hot/2390538",
+          "source": "抖音",
+          "ranks": [
+            25,
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时22分 ~ 09时28分]"
         },
         {
           "title": "法国总统马克龙：法国将研究人工智能（AI）和视频游戏对儿童的影响。",
@@ -480,16 +540,15 @@
           "time_info": "[05时24分 ~ 06时22分]"
         },
         {
-          "title": "唐宫奇案剧宣闯入ai赛道",
-          "url": "https://www.douyin.com/hot/2390538",
-          "source": "抖音",
+          "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
+          "url": "https://www.cls.cn/detail/2282228",
+          "source": "财联社热门",
           "ranks": [
-            25,
-            29
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "亚马逊CEO：预计到2026年年中，所有Trainium 3芯片都将被预订完毕。 计划中的2000亿美元资本支出将主要用于AWS。",
@@ -498,20 +557,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
         {
-          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
-          "url": "https://www.cls.cn/detail/2282247",
-          "source": "财联社热门",
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "09时28分"
         },
         {
           "title": "宏观对冲基金1月表现强劲，Haidar回报率达19%",
@@ -531,7 +590,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -561,7 +620,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
@@ -703,6 +762,28 @@
           "time_info": "00时41分"
         },
         {
+          "title": "美伊谈判前夕 白宫谋划伊朗现政权更迭预案",
+          "url": "https://flash.jin10.com/detail/20260206085650471800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "据阿联酋《国家报》：在美伊准备进行外交谈判之际，白宫正秘密征询具有影响力的伊朗裔美国人士的意见，为伊朗现政权潜在的倒台制定局势过渡计划。",
+          "url": "https://flash.jin10.com/detail/20260206084441352800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "伊朗外长率团赴阿曼与美国进行核问题谈判",
           "url": "https://flash.jin10.com/detail/20260206025617070800",
           "source": "金十数据",
@@ -725,11 +806,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            2
+            2,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 09时28分]"
         },
         {
           "title": "现存唯一野生马种 北京动物园有1只",
@@ -794,7 +876,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -897,11 +979,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32543462",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时28分]"
         }
       ]
     },
