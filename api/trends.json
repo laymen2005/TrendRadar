@@ -1,34 +1,12 @@
 {
-  "generated_at": "2026-02-07T06:18:09.056088+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2026-02-07T07:21:14.316484+08:00",
+  "total_titles_processed": 648,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
       "match_count": 26,
       "titles": [
-        {
-          "title": "美伊核谈判在阿曼重启 伊朗武装部队今晚起将进入最高级别戒备状态",
-          "url": "https://www.cls.cn/detail/2283240",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 06时18分]"
-        },
-        {
-          "title": "美国再发警告，敦促本国公民尽快离开伊朗",
-          "url": "https://news.ifeng.com/c/8qWlt2Y8DsQ",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 06时18分]"
-        },
         {
           "title": "伊朗就美伊核谈判发表声明",
           "url": "https://news.ifeng.com/c/8qXCGc0ACP1",
@@ -37,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时41分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[02时41分 ~ 07时21分]"
         },
         {
           "title": "罕见！伊朗强硬派对美伊谈判态度克制",
@@ -48,8 +26,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时41分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[02时41分 ~ 07时21分]"
+        },
+        {
+          "title": "美伊核谈判在阿曼重启 伊朗武装部队今晚起将进入最高级别戒备状态",
+          "url": "https://www.cls.cn/detail/2283240",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 07时21分]"
+        },
+        {
+          "title": "美国再发警告，敦促本国公民尽快离开伊朗",
+          "url": "https://news.ifeng.com/c/8qWlt2Y8DsQ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 07时21分]"
         },
         {
           "title": "美财长承认在伊朗制造美元短缺",
@@ -60,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 06时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 07时21分]"
         },
         {
           "title": "美国宣布制裁伊朗相关实体及个人",
@@ -72,11 +72,12 @@
             25,
             17,
             16,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时38分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[01时38分 ~ 07时21分]"
         },
         {
           "title": "联合国秘书长发表声明：欢迎伊朗与美国恢复会谈",
@@ -307,18 +308,6 @@
       "match_count": 24,
       "titles": [
         {
-          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 06时18分]"
-        },
-        {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
           "url": "https://news.ifeng.com/c/8qW59pknpCi",
           "source": "凤凰网",
@@ -327,8 +316,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 06时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 07时21分]"
+        },
+        {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 07时21分]"
         },
         {
           "title": "美伊谈判前特朗普发李小龙视频",
@@ -338,11 +340,12 @@
             21,
             17,
             10,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 06时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 07时21分]"
         },
         {
           "title": "特朗普“下场”支持日本首相",
@@ -351,11 +354,12 @@
           "ranks": [
             17,
             18,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时41分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[02时41分 ~ 07时21分]"
         },
         {
           "title": "美媒：特朗普特使在阿曼与伊朗外长进行了直接会面",
@@ -366,8 +370,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时35分 ~ 06时18分]"
+          "appearance_count": 5,
+          "time_info": "[03时35分 ~ 07时21分]"
         },
         {
           "title": "中方回应特朗普公开支持高市早苗",
@@ -390,6 +394,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
+          "url": "https://flash.jin10.com/detail/20260207024944141800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时35分 ~ 07时21分]"
         },
         {
           "title": "白宫官员回应特朗普发布针对奥巴马夫妇的种族主义视频：这是白宫工作人员误发该帖，现已删除。",
@@ -442,18 +458,6 @@
           "time_info": "[02时41分 ~ 04时27分]"
         },
         {
-          "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
-          "url": "https://flash.jin10.com/detail/20260207024944141800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时35分 ~ 06时18分]"
-        },
-        {
           "title": "据CBS：特朗普下令将阿根廷的牛肉进口量增至四倍。",
           "url": "https://flash.jin10.com/detail/20260207021259349800",
           "source": "金十数据",
@@ -464,6 +468,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时41分 ~ 03时35分]"
+        },
+        {
+          "title": "美国总统特朗普：道琼斯工业平均指数历史上首次突破50,000点。祝贺美国！",
+          "url": "https://flash.jin10.com/detail/20260207034858058800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时27分 ~ 07时21分]"
         },
         {
           "title": "一名官员称，美国总统特朗普下令，从阿根廷进口的牛肉将增加三倍。（CBS）",
@@ -477,17 +492,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时41分 ~ 04时27分]"
-        },
-        {
-          "title": "美国总统特朗普：道琼斯工业平均指数历史上首次突破50,000点。祝贺美国！",
-          "url": "https://flash.jin10.com/detail/20260207034858058800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时27分 ~ 06时18分]"
         },
         {
           "title": "贝森特重申：特朗普有关解雇沃什的言论是个玩笑",
@@ -516,6 +520,18 @@
           "time_info": "[02时41分 ~ 04时27分]"
         },
         {
+          "title": "白宫：美国总统特朗普签署关于扩大进口阿根廷牛肉的命令是为了美国消费者。",
+          "url": "https://wallstreetcn.com/livenews/3051632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时21分]"
+        },
+        {
           "title": "美联储副主席杰斐逊：当前的货币政策对诸多风险准备就绪。 劳动力市场大致平衡，但仍然存在下行风险。 一旦（美国总统特朗普挑起的）关税的影响过去，通胀有望再次放缓。 强劲的生产力增速可能会推高中性利率。 生产力增速可能有助于遏制通胀。 我已经将自己对2026年经济增长速度的预期上修至2.2%。",
           "url": "https://wallstreetcn.com/livenews/3051562",
           "source": "华尔街见闻-快讯",
@@ -538,17 +554,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时38分]"
-        },
-        {
-          "title": "白宫：美国总统特朗普签署关于扩大进口阿根廷牛肉的命令是为了美国消费者。",
-          "url": "https://wallstreetcn.com/livenews/3051632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
         },
         {
           "title": "美国财长贝森特：特朗普账户或是其最伟大的政治遗产。",
@@ -617,22 +622,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 06时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 07时21分]"
         },
         {
           "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
           "url": "https://m.thepaper.cn/newsDetail_forward_32475041",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 06时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 07时21分]"
         },
         {
           "title": "苹果计划允许第三方语音控制AI聊天机器人接入CarPlay",
@@ -642,8 +649,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时27分 ~ 06时18分]"
+          "appearance_count": 4,
+          "time_info": "[04时27分 ~ 07时21分]"
         },
         {
           "title": "Gravity AI：拟申请在纳斯达克资本市场上市，正提交IPO申请，拟发行375万股，每股发行价格暂定为4.00美元，处于4.00美元至5.00美元发行区间低端。",
@@ -653,8 +660,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时27分 ~ 06时18分]"
+          "appearance_count": 4,
+          "time_info": "[04时27分 ~ 07时21分]"
         },
         {
           "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
@@ -662,11 +669,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 06时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 07时21分]"
         },
         {
           "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
@@ -677,8 +685,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 06时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 07时21分]"
         },
         {
           "title": "据媒体报道：Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。",
@@ -717,6 +725,17 @@
           "time_info": "[00时38分 ~ 03时35分]"
         },
         {
+          "title": "市场消息：苹果(AAPL.O)将允许在CarPlay AI中使用外部语音控制聊天机器人。",
+          "url": "https://flash.jin10.com/detail/20260207032751728800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时27分 ~ 07时21分]"
+        },
+        {
           "title": "AI 能救得了 SaaS 么？",
           "url": "https://www.zhihu.com/question/658582077",
           "source": "知乎",
@@ -728,17 +747,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时38分 ~ 02时41分]"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)将允许在CarPlay AI中使用外部语音控制聊天机器人。",
-          "url": "https://flash.jin10.com/detail/20260207032751728800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时27分 ~ 06时18分]"
         },
         {
           "title": "报道：苹果车载迎来战略转变，计划开放第三方语音AI助手",
@@ -753,6 +761,18 @@
           "time_info": "[05时26分 ~ 06时18分]"
         },
         {
+          "title": "Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3051623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时21分]"
+        },
+        {
           "title": "媒体：AI之争又打成了奶茶大战",
           "url": "https://www.toutiao.com/trending/7603738226825645604/",
           "source": "今日头条",
@@ -762,17 +782,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时34分 ~ 03时35分]"
-        },
-        {
-          "title": "Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3051623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
         }
       ]
     },
@@ -788,8 +797,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时27分 ~ 06时18分]"
+          "appearance_count": 4,
+          "time_info": "[04时27分 ~ 07时21分]"
         },
         {
           "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。（CNBC）",
@@ -885,7 +894,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "玩转“金银铜”，“北京大空头”横空出世",
@@ -893,11 +902,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 06时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 07时21分]"
         },
         {
           "title": "重温北京冬奥会开幕式",
@@ -936,6 +946,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时38分]"
+        },
+        {
+          "title": "周五（2月6日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9301元，较周四纽约尾盘涨104点，日内整体交投于6.9419-6.9297元区间。",
+          "url": "https://wallstreetcn.com/livenews/3051642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         }
       ]
     },
@@ -951,11 +972,12 @@
             2,
             4,
             12,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 06时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 07时21分]"
         }
       ]
     },
@@ -971,8 +993,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时27分 ~ 06时18分]"
+          "appearance_count": 4,
+          "time_info": "[04时27分 ~ 07时21分]"
         }
       ]
     }
