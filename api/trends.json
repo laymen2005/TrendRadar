@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T16:26:59.495965+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2026-02-08T17:25:41.896256+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
@@ -69,8 +69,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 16时26分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 17时25分]"
         },
         {
           "title": "特朗普是否参与了爱泼斯坦萝莉岛的犯罪行为？",
@@ -320,7 +320,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -331,8 +331,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 16时26分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 17时25分]"
         },
         {
           "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
@@ -364,8 +364,22 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 16时26分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 17时25分]"
+        },
+        {
+          "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
+          "url": "https://wallstreetcn.com/articles/3765241",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时59分 ~ 17时25分]"
         },
         {
           "title": "美科技股“崩盘式”回调的信号：风险资产普涨时代终结，AI输家将被无情抛弃！",
@@ -386,24 +400,12 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时01分 ~ 16时26分]"
-        },
-        {
-          "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
-          "url": "https://wallstreetcn.com/articles/3765241",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
+            4,
+            5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时59分 ~ 16时26分]"
+          "time_info": "[14时01分 ~ 17时25分]"
         },
         {
           "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
@@ -431,6 +433,19 @@
           "time_info": "[00时23分 ~ 07时24分]"
         },
         {
+          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
+          "url": "https://wallstreetcn.com/articles/3765246",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时41分 ~ 17时25分]"
+        },
+        {
           "title": "你认为AI会替代软件开发吗",
           "url": "https://www.toutiao.com/trending/7603910615171301402/",
           "source": "今日头条",
@@ -443,6 +458,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时28分 ~ 07时24分]"
+        },
+        {
+          "title": "人民日报：孩子用AI写作业，你怎么看？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时01分 ~ 17时25分]"
         },
         {
           "title": "“AI.com”域名卖出7000万美元",
@@ -470,28 +497,16 @@
           "time_info": "[10时02分 ~ 15时01分]"
         },
         {
-          "title": "人民日报：孩子用AI写作业，你怎么看？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时01分 ~ 16时26分]"
-        },
-        {
-          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
-          "url": "https://wallstreetcn.com/articles/3765246",
+          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
+          "url": "https://wallstreetcn.com/articles/3765245",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 16时26分]"
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时25分]"
         },
         {
           "title": "高盛解读本周市场焦点：“AI-SaaS”之争",
@@ -515,17 +530,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时24分 ~ 10时02分]"
-        },
-        {
-          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
-          "url": "https://wallstreetcn.com/articles/3765245",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
         },
         {
           "title": "百年康宁华丽转身：光纤终结二十年亏损，抱上Meta大腿成AI新贵！",
@@ -556,7 +560,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -570,12 +574,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "何同学谢谢AI请客",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%90%8C%E5%AD%A6%E8%B0%A2%E8%B0%A2AI%E8%AF%B7%E5%AE%A2%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊美谈判“暂时”结束，伊朗外长称开局良好",
@@ -685,27 +700,29 @@
           "time_info": "[00时23分 ~ 07时24分]"
         },
         {
+          "title": "伊朗外长：进行铀浓缩是伊朗的权利",
+          "url": "https://flash.jin10.com/detail/20260208154251792800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时25分]"
+        },
+        {
           "title": "伊朗总统：与美国会谈是向前迈出的一步",
           "url": "https://wallstreetcn.com/livenews/3051783",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 16时26分]"
-        },
-        {
-          "title": "伊朗外长：进行铀浓缩是伊朗的权利",
-          "url": "https://flash.jin10.com/detail/20260208154251792800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 17时25分]"
         },
         {
           "title": "伊朗总统：与美国会谈是向前迈出的一步",
@@ -713,11 +730,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 16时26分]"
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 17时25分]"
         },
         {
           "title": "伊朗外长：第二轮伊美谈判有望在未来几天内举行",
@@ -767,6 +785,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "伊朗外长：美国军事施压吓不倒伊朗",
+          "url": "https://wallstreetcn.com/livenews/3051796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     },
@@ -803,8 +832,42 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时59分 ~ 16时26分]"
+          "appearance_count": 7,
+          "time_info": "[12时59分 ~ 17时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI第一款硬件要来了，但可能“没那么AI”?",
+          "url": "https://wallstreetcn.com/articles/3765244",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么最近黄金价格波动这么大",
+          "url": "https://www.toutiao.com/trending/7604386572770741796/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     }
