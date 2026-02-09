@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T04:48:23.219889+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-02-10T05:35:39.580616+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时46分 ~ 05时35分]"
         },
         {
           "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时46分 ~ 05时35分]"
         },
         {
           "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时46分 ~ 05时35分]"
         },
         {
           "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时46分 ~ 05时35分]"
         },
         {
           "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
@@ -60,8 +60,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时46分 ~ 05时35分]"
         },
         {
           "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
@@ -83,8 +83,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时46分 ~ 05时35分]"
         },
         {
           "title": "AIGC整活新春联欢会",
@@ -93,11 +93,12 @@
           "ranks": [
             16,
             10,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时46分 ~ 05时35分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
@@ -107,8 +108,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时46分 ~ 05时35分]"
         },
         {
           "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
@@ -158,8 +159,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时46分 ~ 05时35分]"
         },
         {
           "title": "再翻一倍？特朗普豪言：我任期结束前 道指将站上10万点！",
@@ -169,19 +170,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时00分 ~ 04时48分]"
+          "appearance_count": 4,
+          "time_info": "[04时00分 ~ 05时35分]"
         },
         {
           "title": "美民调：多数人不认可特朗普关税政策",
           "url": "https://www.toutiao.com/trending/7604360239181807658/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 01时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时46分 ~ 05时35分]"
         },
         {
           "title": "美联储理事沃勒：加密货币法案的细节（出台）似乎被卡在了国会山。 随着特朗普第二次当选为美国总统而出现的加密货币（投资）热潮已经在一定程度上消退。 风险造成主流公司卖出比特币。",
@@ -201,7 +203,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -283,8 +285,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时46分 ~ 05时35分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9208元，较上周五夜盘收盘涨146点。成交量441.84亿美元。",
