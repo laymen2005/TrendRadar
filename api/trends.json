@@ -1,420 +1,88 @@
 {
-  "generated_at": "2026-02-10T22:23:54.725664+08:00",
-  "total_titles_processed": 1773,
+  "generated_at": "2026-02-11T00:02:24.746060+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 44,
+      "match_count": 9,
       "titles": [
         {
-          "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
-          "url": "https://www.cls.cn/detail/2284846",
-          "source": "财联社热门",
+          "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
+          "url": "https://wallstreetcn.com/articles/3765363",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            3,
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时46分 ~ 09时56分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
-          "title": "不要对AI说谢谢",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E8%A6%81%E5%AF%B9AI%E8%AF%B4%E8%B0%A2%E8%B0%A2",
-          "source": "百度热搜",
+          "title": "报道：Alphabet有望筹资320亿美元，AI军备竞赛进入白热化阶段",
+          "url": "https://wallstreetcn.com/livenews/3053132",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时46分 ~ 12时30分]"
-        },
-        {
-          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
-          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时46分 ~ 07时32分]"
-        },
-        {
-          "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
-          "url": "https://wallstreetcn.com/articles/3765259",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时46分 ~ 07时32分]"
-        },
-        {
-          "title": "Seedance2.0 对AI应用意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765320",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时55分 ~ 21时01分]"
-        },
-        {
-          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
-          "url": "https://wallstreetcn.com/articles/3765271",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时46分 ~ 15时57分]"
-        },
-        {
-          "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
-          "url": "https://wallstreetcn.com/articles/3765243",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时46分 ~ 07时32分]"
-        },
-        {
-          "title": "AI应用集体“上春晚” 豆包官宣“参战”!",
-          "url": "https://www.cls.cn/detail/2285532",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时29分 ~ 18时51分]"
-        },
-        {
-          "title": "美软件股危机未除！花旗：AI冲击或让终端价值蒸发三分之一",
-          "url": "https://wallstreetcn.com/articles/3765297",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时55分 ~ 19时46分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "AI应用成为最强主线引爆传媒链",
+          "url": "https://www.toutiao.com/trending/7604674566330449983/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "AI视频初创公司Runway据悉以53亿美元估值完成新一轮融资",
+          "url": "https://flash.jin10.com/detail/20260210231620915800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
           "source": "贴吧",
           "ranks": [
-            8,
-            14,
-            15,
-            18,
-            16,
-            17
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时29分 ~ 22时23分]"
-        },
-        {
-          "title": "AIGC整活新春联欢会",
-          "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            10,
-            25,
-            23,
-            13,
-            26,
-            18,
-            20,
-            7,
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时46分 ~ 16时45分]"
-        },
-        {
-          "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
-          "url": "https://www.cls.cn/detail/2284689",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时46分 ~ 07时32分]"
-        },
-        {
-          "title": "不要对AI说谢谢",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%AF%B9AI%E8%AF%B4%E8%B0%A2%E8%B0%A2%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时55分 ~ 14时10分]"
-        },
-        {
-          "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
-          "url": "https://wallstreetcn.com/articles/3765363",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时45分 ~ 22时23分]"
-        },
-        {
-          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
-          "url": "https://www.zhihu.com/question/2003997015852482602",
-          "source": "知乎",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时46分 ~ 04时01分]"
-        },
-        {
-          "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
-          "url": "https://www.cls.cn/detail/2285182",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时55分 ~ 14时10分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
           "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
           "url": "https://www.zhihu.com/question/2004239051759312966",
           "source": "知乎",
           "ranks": [
-            4,
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时51分 ~ 22时23分]"
-        },
-        {
-          "title": "台积电一月营收创记录新高 芯片订单并未因AI泡沫担忧而减少",
-          "url": "https://flash.jin10.com/detail/20260210135607903800",
-          "source": "金十数据",
-          "ranks": [
-            3
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时10分"
-        },
-        {
-          "title": "拒绝焦虑！从Deepseek到即梦，这一年到底有多少AI工具？丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20260210192736679800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "AI应用端延续强势，荣信文化、掌阅科技2连板，中文在线接近涨停，捷成股份涨超10%，人民网、视觉中国等多股高开。",
-          "url": "https://wallstreetcn.com/livenews/3052623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "阿里达摩院开源具身大脑基模RynnBrain 机器人首次拥有时空记忆",
-          "url": "https://wallstreetcn.com/livenews/3052752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时10分"
-        },
-        {
-          "title": "摩根大通策略师称对AI颠覆性的担忧过度，软件股有望反弹",
-          "url": "https://wallstreetcn.com/livenews/3053093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "无惧抛售？大摩首席：AI将继续助涨科技股，关注应用端！",
-          "url": "https://www.cls.cn/detail/2285290",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时09分 ~ 16时45分]"
-        },
-        {
-          "title": "AI工具引发颠覆担忧 美国保险经纪股周一遭重挫",
-          "url": "https://flash.jin10.com/detail/20260210060937090800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时32分]"
-        },
-        {
-          "title": "佰维存储：公司为Meta AI智能眼镜提供ROM+RAM存储器芯片",
-          "url": "https://wallstreetcn.com/livenews/3052964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时46分]"
-        },
-        {
-          "title": "AI短剧",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 14时10分]"
-        },
-        {
-          "title": "AI 恐怖",
-          "url": "https://s.weibo.com/weibo?q=AI%20%E6%81%90%E6%80%96&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
-        },
-        {
-          "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
-          "url": "https://www.cls.cn/detail/2284501",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 01时47分]"
-        },
-        {
-          "title": "沪指震荡收涨六连阳，AI应用大爆发，太空光伏集体调整，恒指上涨0.5%，智谱暴涨近15%",
-          "url": "https://wallstreetcn.com/articles/3765360",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "原来GAI早就官宣了",
-          "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5GAI%E6%97%A9%E5%B0%B1%E5%AE%98%E5%AE%A3%E4%BA%86&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "微软不到一周内评级两度遭下调，Melius警告AI相关风险",
-          "url": "https://wallstreetcn.com/livenews/3052446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "QuestMobile：AI红包效应带动用户量激增，千问春节活动首日DAU增长7.3倍",
-          "url": "https://wallstreetcn.com/livenews/3052738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时10分"
+          "time_info": "00时02分"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
           "url": "https://www.baidu.com/s?wd=AI%E5%91%A8%E6%98%9F%E9%A9%B0%E8%A7%86%E9%A2%91%E5%A4%A7%E9%87%8F%E4%BC%A0%E6%92%AD+%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%B4%A8%E7%96%91",
           "source": "百度热搜",
           "ranks": [
-            16
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时23分"
+          "time_info": "00时02分"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -423,97 +91,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "黄仁勋称中国或在 AI 竞赛中胜出，中美 AI 差距缩小，这一论断有何依据？",
-          "url": "https://www.zhihu.com/question/2003846551756362738",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "思科发布全新AI网络芯片，挑战博通和英伟达",
-          "url": "https://wallstreetcn.com/livenews/3052906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
-          "title": "没红包你还会用AI软件吗",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A1%E7%BA%A2%E5%8C%85%E4%BD%A0%E8%BF%98%E4%BC%9A%E7%94%A8AI%E8%BD%AF%E4%BB%B6%E5%90%97%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "孩子沉迷于和 AI 聊天，甚至把它当成寒假里最好的朋友，这正常吗？",
-          "url": "https://www.zhihu.com/question/2001660645247051342",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "百度加速出海，百度百科推出国际版BaiduWiki",
-          "url": "https://wallstreetcn.com/livenews/3052813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
-          "title": "横店影视：截至目前公司AI短剧业务尚处于投资制作阶段，尚未形成相关收入",
-          "url": "https://wallstreetcn.com/livenews/3052972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "千问APP接入大麦 测试AI买电影票能力",
-          "url": "https://wallstreetcn.com/livenews/3052722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时10分"
-        },
-        {
-          "title": "标普：下调Raizen七档，至垃圾级。",
-          "url": "https://wallstreetcn.com/livenews/3052432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "00时02分"
         },
         {
           "title": "“AI新大陆”正在向平民招手",
@@ -524,116 +104,14 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时01分"
-        },
-        {
-          "title": "洗衣机演奏I can't wait",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%BC%94%E5%A5%8FI%20can't%20wait",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时56分"
+          "time_info": "00时02分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
-          "url": "https://www.cls.cn/detail/2285295",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 16时45分]"
-        },
-        {
-          "title": "谷爱凌回应特朗普大骂冬奥运动员",
-          "url": "https://www.toutiao.com/trending/7605068464549744178/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            11,
-            13,
-            14,
-            26,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时29分 ~ 21时01分]"
-        },
-        {
-          "title": "特朗普：我犯了大错",
-          "url": "https://news.ifeng.com/c/8qctqBdiVbv",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 14时10分]"
-        },
-        {
-          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时46分 ~ 07时32分]"
-        },
-        {
-          "title": "谷爱凌回应特朗普大骂冬奥运动员",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E9%AA%82%E5%86%AC%E5%A5%A5%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            11,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时29分 ~ 16时45分]"
-        },
-        {
-          "title": "美媒：丹麦另一领地或成特朗普的新目标",
-          "url": "https://news.ifeng.com/c/8qcjl7IoRYq",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时55分 ~ 14时10分]"
-        },
-        {
-          "title": "加拿大谴责特朗普阻挠美加跨国大桥项目",
-          "url": "https://wallstreetcn.com/livenews/3052839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
           "url": "https://news.ifeng.com/c/8qdRnTGCb87",
@@ -641,653 +119,53 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时23分"
+          "time_info": "00时02分"
         },
         {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
           "url": "https://news.ifeng.com/c/8qdLiMlCmog",
           "source": "凤凰网",
           "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时56分 ~ 22时23分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：将与美国总统特朗普讨论伊朗、加沙和地区问题。",
-          "url": "https://flash.jin10.com/detail/20260210182252680800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
-          "title": "美国总统特朗普：如果美联储主席提名人凯文·沃什能够发挥自己的能力，美国经济可以增长15%。（福克斯商业新闻）",
-          "url": "https://wallstreetcn.com/livenews/3052529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "美国总统特朗普：如果沃什能胜任他的工作，美国经济可以增长15%。",
-          "url": "https://flash.jin10.com/detail/20260210055913441800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时32分]"
-        },
-        {
-          "title": "再翻一倍？特朗普豪言：我任期结束前 道指将站上10万点！",
-          "url": "https://www.cls.cn/detail/2284508",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时00分 ~ 05时35分]"
-        },
-        {
-          "title": "美民调：多数人不认可特朗普关税政策",
-          "url": "https://www.toutiao.com/trending/7604360239181807658/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时46分 ~ 05时35分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-10）",
-          "url": "https://flash.jin10.com/detail/20260210181924005800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
-          "title": "特朗普设定15%增长目标 沃什入主美联储压力倍增",
-          "url": "https://flash.jin10.com/detail/20260210070836785800",
-          "source": "金十数据",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "00时02分"
         },
         {
-          "title": "美国总统特朗普：共和党应该在中期选举中“大获全胜”。 美国形势不错，将不得不在中期选举中“推销它”。",
-          "url": "https://wallstreetcn.com/livenews/3052547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "美国总统特朗普声称：将与加拿大启动关于密歇根大桥的磋商。",
-          "url": "https://wallstreetcn.com/livenews/3052545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "美联储理事米兰：美联储缩减资产负债表（缩表）之前还需采取许多步骤。 如果货币政策没有（被总统特朗普）政治化，会有更好的结果。 如果保留美联储独立性，美联储就应该坚持其核心使命。",
-          "url": "https://wallstreetcn.com/livenews/3052543",
+          "title": "特朗普的商务部长卢特尼克承认：与妻子共同会见过爱泼斯坦",
+          "url": "https://wallstreetcn.com/livenews/3053128",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "00时02分"
         },
         {
-          "title": "美国总统特朗普：在获得“全额补偿”之前，将不允许安大略省与密歇根州之间的大桥通车。",
-          "url": "https://flash.jin10.com/detail/20260210065107652800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "美联储理事沃勒：加密货币法案的细节（出台）似乎被卡在了国会山。 随着特朗普第二次当选为美国总统而出现的加密货币（投资）热潮已经在一定程度上消退。 风险造成主流公司卖出比特币。",
-          "url": "https://wallstreetcn.com/livenews/3052476",
+          "title": "加拿大总理卡尼：特朗普要求特使Hoekstra参与大桥磋商。",
+          "url": "https://wallstreetcn.com/livenews/3053126",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时01分"
+          "time_info": "00时02分"
         },
         {
-          "title": "美国总统特朗普的贸易顾问纳瓦罗：我们需要调整对月度就业数字的预期。 并未预期就业数据疲软。 劳工遣返影响就业数据。",
-          "url": "https://wallstreetcn.com/livenews/3053082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "美国总统特朗普：将立即就双边问题与加拿大展开谈判。",
-          "url": "https://flash.jin10.com/detail/20260210064635825800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "美国贸易代表格里尔：美国与加拿大的谈判主要针对跨国大桥议题。特朗普总统对这一问题存在合理关切。",
-          "url": "https://flash.jin10.com/detail/20260210201654942800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时01分"
-        },
-        {
-          "title": "美媒：特朗普称首个任期内在美联储主席人选决策上“犯了大错”",
-          "url": "https://wallstreetcn.com/livenews/3052671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时30分"
-        },
-        {
-          "title": "美联储理事沃勒：特朗普引发的加密货币热潮可能正在消退",
-          "url": "https://wallstreetcn.com/livenews/3052476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "特朗普：若沃什履职得当，美国经济可增长15%",
-          "url": "https://wallstreetcn.com/livenews/3052529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "报道：特朗普计划废除奥巴马政府时期一项气候危害认定",
-          "url": "https://wallstreetcn.com/livenews/3052654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时30分"
-        },
-        {
-          "title": "美国众议院共和党人试图继续推迟对特朗普关税的投票",
-          "url": "https://wallstreetcn.com/livenews/3052653",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普表面祝贺高市私下大发雷霆",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E9%9D%A2%E7%A5%9D%E8%B4%BA%E9%AB%98%E5%B8%82%E7%A7%81%E4%B8%8B%E5%A4%A7%E5%8F%91%E9%9B%B7%E9%9C%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时30分"
-        },
-        {
-          "title": "特朗普威胁要阻止美加跨国大桥通车",
-          "url": "https://www.toutiao.com/trending/7604069122414231606/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
-          "title": "美国汽车工人联合会：1月13日冲撞美国总统特朗普的工人未受纪律处分，仍保留工作。",
-          "url": "https://flash.jin10.com/detail/20260210003111533800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "北京",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "财晓得｜从北京到米兰：中国冰雪的万亿答卷",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549035",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时46分 ~ 15时57分]"
-        },
-        {
-          "title": "习近平在北京考察科技创新工作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32565800",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时31分 ~ 12时30分]"
-        },
-        {
-          "title": "来北京过年吧",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A5%E5%8C%97%E4%BA%AC%E8%BF%87%E5%B9%B4%E5%90%A7%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 12时30分]"
-        },
-        {
-          "title": "“灶王爷”原来是北京顺义人",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%81%B6%E7%8E%8B%E7%88%B7%E2%80%9D%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%8C%97%E4%BA%AC%E9%A1%BA%E4%B9%89%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 12时30分]"
-        },
-        {
-          "title": "周一（2月9日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.9152元，较上周五纽约尾盘涨149点，日内整体交投于6.9332-6.9147元区间。",
-          "url": "https://wallstreetcn.com/livenews/3052531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时32分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9208元，较上周五夜盘收盘涨146点。成交量441.84亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3052481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时48分]"
-        },
-        {
-          "title": "金十图示：北京时间2月10日23:00将有欧美、美日等外汇期权大单到期，4个行权价10亿以上大单，敬请管理风险。",
-          "url": "https://flash.jin10.com/detail/20260210152133473800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数大致持平，暂报2700点。 MarketVectorTM数字资产100中盘指数跌0.84%，报2758.06点。 MarketVector数字资产100指数跌0.32%，报2693.81点，北京时间14:00-19:00持续下挫。 Solana跌1.15%，狗狗币跌1.43%，XRP涨0.92%。 比特币跌1.23%，暂报70069美元；以太坊跌0.80%，暂报2093.44美元。",
-          "url": "https://wallstreetcn.com/livenews/3052456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报6.9129，较上一交易日官方收盘价涨155点，较上日夜盘收盘涨79点。",
-          "url": "https://wallstreetcn.com/livenews/3052888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "习近平春节前夕在北京看望慰问基层干部群众",
-          "url": "https://wallstreetcn.com/livenews/3053001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "北京新增3款已完成备案的生成式人工智能服务",
-          "url": "https://wallstreetcn.com/livenews/3052886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "提醒：日内请重点关注（以下均为北京时间）",
-          "url": "https://wallstreetcn.com/livenews/3052538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "北京君正：公司存储芯片不同客户和产品涨价幅度不一样 DRAM涨价较多",
-          "url": "https://wallstreetcn.com/livenews/3052727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时10分"
-        },
-        {
-          "title": "北京人形机器人创新中心发布具身天工3.0",
-          "url": "https://wallstreetcn.com/livenews/3052725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "内塔尼亚胡赴美 伊朗呼吁美国不应受其影响",
-          "url": "https://wallstreetcn.com/livenews/3053043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时01分"
-        },
-        {
-          "title": "伊朗方面警告称，内塔尼亚胡访美将对谈判造成毁灭性影响。",
-          "url": "https://flash.jin10.com/detail/20260210162531438800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "阿曼苏丹同伊朗最高领袖顾问讨论伊美谈判进展",
-          "url": "https://wallstreetcn.com/livenews/3052958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时46分]"
-        },
-        {
-          "title": "伊朗：若所有制裁解除可稀释浓缩铀",
-          "url": "https://www.toutiao.com/trending/7605017397435023366/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 12时30分]"
-        },
-        {
-          "title": "伊朗外交部：若伊朗遭袭，将予以毁灭性回击",
-          "url": "https://wallstreetcn.com/livenews/3052952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
-          "title": "伊朗空军司令：军队处于最高级别战备状态",
-          "url": "https://flash.jin10.com/detail/20260210150541694800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
-          "title": "伊朗外交部：美国官员有责任不受以色列方面压力的影响，不能让他人代表美国做出外交政策方面的决策。",
-          "url": "https://flash.jin10.com/detail/20260210155550497800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "在美方建议悬挂美国国旗的船只尽可能远离伊朗后，布伦特原油期货上涨逾1美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260210003843105800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "伊朗空军司令：军队处于最高级别战备状态",
-          "url": "https://wallstreetcn.com/livenews/3052810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
-          "title": "美建议美商船远离伊朗领海",
-          "url": "https://wallstreetcn.com/livenews/3052466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "伊朗向中俄通报美伊谈判细节",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%90%91%E4%B8%AD%E4%BF%84%E9%80%9A%E6%8A%A5%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E7%BB%86%E8%8A%82%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "伊朗外交部：美方应在不受外部影响情况下独立谈判",
-          "url": "https://wallstreetcn.com/livenews/3053063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI推出首个在网络安全方面设定为高等级的模型GPT-5.3-Codex",
-          "url": "https://wallstreetcn.com/livenews/3052487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时48分]"
-        },
-        {
-          "title": "OpenAI：我们今天开始在美国向部分免费和Go计划订阅用户推出ChatGPT广告的测试。",
-          "url": "https://wallstreetcn.com/livenews/3052484",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时48分]"
-        },
-        {
-          "title": "OpenAI CEO Sam Altman：GPT-5.3-Codex今天在Cursor、Github和VS Code中推出。我们希望尽快向所有API客户推出这一模型。这是我们首个在网络安全方面设定为高等级的模型，相关的额外工作使上线进度略有延迟。",
-          "url": "https://flash.jin10.com/detail/20260210032212804800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时48分]"
-        },
-        {
-          "title": "OpenAI：我们今天开始在美国向部分免费和Go计划订阅用户推出ChatGPT广告的测试。",
-          "url": "https://flash.jin10.com/detail/20260210030701967800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "信用卡",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "微信信用卡账单分期还款可享“国补”贴息，首批接入七家银行",
-          "url": "https://wallstreetcn.com/livenews/3052889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "巴克莱首席财务官表示，该行“拥有多项手段”来缓解美国信用卡利率可能被设定在10%上限的影响。",
-          "url": "https://flash.jin10.com/detail/20260210160553965800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
+          "time_info": "00时02分"
         }
       ]
     },
@@ -1300,13 +178,28 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350514&amp;topic_name=%E5%BC%BA%E5%88%B6%E5%85%A5%E6%88%B7%21%E6%B2%B3%E5%8C%97%E4%B8%A5%E6%9F%A5%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9",
           "source": "贴吧",
           "ranks": [
-            6,
-            7,
-            8
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时45分 ~ 22时23分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国财长贝森特：将密切关注伊朗局势发展；对俄乌局势持乐观态度。",
+          "url": "https://flash.jin10.com/detail/20260210230204359800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
         }
       ]
     }
