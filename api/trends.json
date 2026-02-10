@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T21:01:54.540537+08:00",
-  "total_titles_processed": 1651,
+  "generated_at": "2026-02-10T22:23:54.725664+08:00",
+  "total_titles_processed": 1773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 38,
+      "match_count": 44,
       "titles": [
         {
           "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
@@ -132,11 +132,12 @@
             14,
             15,
             18,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时29分 ~ 21时01分]"
+          "appearance_count": 12,
+          "time_info": "[12时29分 ~ 22时23分]"
         },
         {
           "title": "AIGC整活新春联欢会",
@@ -185,6 +186,21 @@
           "time_info": "[09时55分 ~ 14时10分]"
         },
         {
+          "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
+          "url": "https://wallstreetcn.com/articles/3765363",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时45分 ~ 22时23分]"
+        },
+        {
           "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
           "url": "https://www.zhihu.com/question/2003997015852482602",
           "source": "知乎",
@@ -207,6 +223,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时55分 ~ 14时10分]"
+        },
+        {
+          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
+          "url": "https://www.zhihu.com/question/2004239051759312966",
+          "source": "知乎",
+          "ranks": [
+            4,
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时51分 ~ 22时23分]"
         },
         {
           "title": "台积电一月营收创记录新高 芯片订单并未因AI泡沫担忧而减少",
@@ -253,18 +282,15 @@
           "time_info": "14时10分"
         },
         {
-          "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
-          "url": "https://wallstreetcn.com/articles/3765363",
-          "source": "华尔街见闻",
+          "title": "摩根大通策略师称对AI颠覆性的担忧过度，软件股有望反弹",
+          "url": "https://wallstreetcn.com/livenews/3053093",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9,
-            8,
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时45分 ~ 21时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "无惧抛售？大摩首席：AI将继续助涨科技股，关注应用端！",
@@ -277,19 +303,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时09分 ~ 16时45分]"
-        },
-        {
-          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
-          "url": "https://www.zhihu.com/question/2004239051759312966",
-          "source": "知乎",
-          "ranks": [
-            4,
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时51分 ~ 21时01分]"
         },
         {
           "title": "AI工具引发颠覆担忧 美国保险经纪股周一遭重挫",
@@ -349,6 +362,28 @@
           "time_info": "[01时46分 ~ 01时47分]"
         },
         {
+          "title": "沪指震荡收涨六连阳，AI应用大爆发，太空光伏集体调整，恒指上涨0.5%，智谱暴涨近15%",
+          "url": "https://wallstreetcn.com/articles/3765360",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "原来GAI早就官宣了",
+          "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5GAI%E6%97%A9%E5%B0%B1%E5%AE%98%E5%AE%A3%E4%BA%86&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "微软不到一周内评级两度遭下调，Melius警告AI相关风险",
           "url": "https://wallstreetcn.com/livenews/3052446",
           "source": "华尔街见闻-快讯",
@@ -369,6 +404,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "AI周星驰视频大量传播 经纪人质疑",
+          "url": "https://www.baidu.com/s?wd=AI%E5%91%A8%E6%98%9F%E9%A9%B0%E8%A7%86%E9%A2%91%E5%A4%A7%E9%87%8F%E4%BC%A0%E6%92%AD+%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%B4%A8%E7%96%91",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32567447",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "黄仁勋称中国或在 AI 竞赛中胜出，中美 AI 差距缩小，这一论断有何依据？",
+          "url": "https://www.zhihu.com/question/2003846551756362738",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "思科发布全新AI网络芯片，挑战博通和英伟达",
@@ -454,7 +522,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -473,7 +541,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
@@ -567,6 +635,29 @@
           "time_info": "15时57分"
         },
         {
+          "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
+          "url": "https://news.ifeng.com/c/8qdRnTGCb87",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 22时23分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：将与美国总统特朗普讨论伊朗、加沙和地区问题。",
           "url": "https://flash.jin10.com/detail/20260210182252680800",
           "source": "金十数据",
@@ -587,17 +678,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
-        },
-        {
-          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
-          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 21时01分]"
         },
         {
           "title": "美国总统特朗普：如果沃什能胜任他的工作，美国经济可以增长15%。",
@@ -712,6 +792,17 @@
           "time_info": "04时01分"
         },
         {
+          "title": "美国总统特朗普的贸易顾问纳瓦罗：我们需要调整对月度就业数字的预期。 并未预期就业数据疲软。 劳工遣返影响就业数据。",
+          "url": "https://wallstreetcn.com/livenews/3053082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "美国总统特朗普：将立即就双边问题与加拿大展开谈判。",
           "url": "https://flash.jin10.com/detail/20260210064635825800",
           "source": "金十数据",
@@ -729,7 +820,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -982,7 +1073,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "内塔尼亚胡赴美 伊朗呼吁美国不应受其影响",
@@ -991,7 +1082,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -1105,6 +1196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "伊朗外交部：美方应在不受外部影响情况下独立谈判",
+          "url": "https://wallstreetcn.com/livenews/3053063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         }
       ]
     },
@@ -1199,11 +1301,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时45分 ~ 21时01分]"
+          "appearance_count": 6,
+          "time_info": "[16时45分 ~ 22时23分]"
         }
       ]
     }
