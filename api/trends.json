@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T19:46:20.525529+08:00",
-  "total_titles_processed": 1545,
+  "generated_at": "2026-02-10T21:01:54.540537+08:00",
+  "total_titles_processed": 1651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
@@ -68,8 +68,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时55分 ~ 19时46分]"
+          "appearance_count": 13,
+          "time_info": "[09时55分 ~ 21时01分]"
         },
         {
           "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
@@ -135,8 +135,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时29分 ~ 19时46分]"
+          "appearance_count": 11,
+          "time_info": "[12时29分 ~ 21时01分]"
         },
         {
           "title": "AIGC整活新春联欢会",
@@ -226,7 +226,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -253,6 +253,20 @@
           "time_info": "14时10分"
         },
         {
+          "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
+          "url": "https://wallstreetcn.com/articles/3765363",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时45分 ~ 21时01分]"
+        },
+        {
           "title": "无惧抛售？大摩首席：AI将继续助涨科技股，关注应用端！",
           "url": "https://www.cls.cn/detail/2285290",
           "source": "财联社热门",
@@ -270,11 +284,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时46分]"
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 21时01分]"
         },
         {
           "title": "AI工具引发颠覆担忧 美国保险经纪股周一遭重挫",
@@ -299,20 +314,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时51分 ~ 19时46分]"
-        },
-        {
-          "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
-          "url": "https://wallstreetcn.com/articles/3765363",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时45分 ~ 19时46分]"
         },
         {
           "title": "AI短剧",
@@ -387,7 +388,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -420,7 +421,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -447,6 +448,17 @@
           "time_info": "01时47分"
         },
         {
+          "title": "“AI新大陆”正在向平民招手",
+          "url": "https://www.toutiao.com/trending/7605168435990892082/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "洗衣机演奏I can't wait",
           "url": "https://search.bilibili.com/all?keyword=%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%BC%94%E5%A5%8FI%20can't%20wait",
           "source": "bilibili 热搜",
@@ -461,7 +473,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
@@ -486,11 +498,12 @@
             11,
             13,
             14,
-            26
+            26,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时29分 ~ 19时46分]"
+          "appearance_count": 11,
+          "time_info": "[12时29分 ~ 21时01分]"
         },
         {
           "title": "特朗普：我犯了大错",
@@ -576,6 +589,17 @@
           "time_info": "06时31分"
         },
         {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时56分 ~ 21时01分]"
+        },
+        {
           "title": "美国总统特朗普：如果沃什能胜任他的工作，美国经济可以增长15%。",
           "url": "https://flash.jin10.com/detail/20260210055913441800",
           "source": "金十数据",
@@ -597,17 +621,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时00分 ~ 05时35分]"
-        },
-        {
-          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
-          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时56分 ~ 19时46分]"
         },
         {
           "title": "美民调：多数人不认可特朗普关税政策",
@@ -708,6 +721,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "美国贸易代表格里尔：美国与加拿大的谈判主要针对跨国大桥议题。特朗普总统对这一问题存在合理关切。",
+          "url": "https://flash.jin10.com/detail/20260210201654942800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "美媒：特朗普称首个任期内在美联储主席人选决策上“犯了大错”",
@@ -906,7 +930,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -958,8 +982,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "内塔尼亚胡赴美 伊朗呼吁美国不应受其影响",
+          "url": "https://wallstreetcn.com/livenews/3053043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
         {
           "title": "伊朗方面警告称，内塔尼亚胡访美将对谈判造成毁灭性影响。",
           "url": "https://flash.jin10.com/detail/20260210162531438800",
@@ -1167,8 +1202,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时45分 ~ 19时46分]"
+          "appearance_count": 5,
+          "time_info": "[16时45分 ~ 21时01分]"
         }
       ]
     }
