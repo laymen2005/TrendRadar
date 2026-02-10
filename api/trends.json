@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T04:39:02.821874+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-02-11T05:38:16.730600+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时38分]"
         },
         {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
@@ -26,41 +26,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时38分]"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普全力支持商务部长卢特尼克。 （虽然爆出与爱博斯坦有过联系，但）卢特尼克仍然是特朗普团队的重要成员。",
-          "url": "https://wallstreetcn.com/livenews/3053222",
+          "title": "美国总统特朗普：我认为美联储主席提名人凯文·沃什同意所说说的。",
+          "url": "https://wallstreetcn.com/livenews/3053247",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时39分"
-        },
-        {
-          "title": "据PBS记者：美国总统特朗普将于周五前往布拉格堡，与执行了委内瑞拉行动、抓捕马杜罗的特种作战小组会面。",
-          "url": "https://flash.jin10.com/detail/20260211034403957800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时39分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，美方应该对Gordie Howe Bridge大桥拥有一半的所有权。 特朗普今天打电话给加拿大总理卡尼，讨论安大略（跨境）大桥。",
-          "url": "https://wallstreetcn.com/livenews/3053221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时39分"
+          "time_info": "05时38分"
         },
         {
           "title": "美国总统特朗普：（就伊朗问题）要么我们达成协议，要么我们将不得不采取非常强硬的措施。",
@@ -79,11 +57,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时03分 ~ 05时38分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普全力支持商务部长卢特尼克。 （虽然爆出与爱博斯坦有过联系，但）卢特尼克仍然是特朗普团队的重要成员。",
+          "url": "https://wallstreetcn.com/livenews/3053222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时03分 ~ 04时39分]"
+          "time_info": "[04时39分 ~ 05时38分]"
+        },
+        {
+          "title": "据PBS记者：美国总统特朗普将于周五前往布拉格堡，与执行了委内瑞拉行动、抓捕马杜罗的特种作战小组会面。",
+          "url": "https://flash.jin10.com/detail/20260211034403957800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 05时38分]"
         },
         {
           "title": "内塔尼亚胡将向特朗普提供有关伊朗军事能力的新情报",
@@ -96,6 +99,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时03分 ~ 04时39分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，美方应该对Gordie Howe Bridge大桥拥有一半的所有权。 特朗普今天打电话给加拿大总理卡尼，讨论安大略（跨境）大桥。",
+          "url": "https://wallstreetcn.com/livenews/3053221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 05时38分]"
         },
         {
           "title": "特朗普：伊朗不会拥有核武器或导弹",
@@ -134,6 +149,52 @@
           "time_info": "[01时57分 ~ 03时03分]"
         },
         {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普本周将聚焦能源和去监管。 特朗普将于2月11日主持一场关于煤炭的活动。",
+          "url": "https://wallstreetcn.com/livenews/3053211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 05时38分]"
+        },
+        {
+          "title": "美国白宫：特朗普支持美国商务部长卢特尼克。",
+          "url": "https://flash.jin10.com/detail/20260211030702917800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 05时38分]"
+        },
+        {
+          "title": "美国总统特朗普：我认为2026年将会很棒。",
+          "url": "https://flash.jin10.com/detail/20260211050353108800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "吉利德科学四季度营收79.3亿美元，分析师预期77.1亿美元。 四季度Biktarvy营收39.7亿美元，分析师预期38.4亿美元。 四季度Trodelvy营收3.84亿美元，分析师预期3.868亿美元。 四季度Veklury营收2.12亿美元，分析师预期2.714亿美元。 四季度调整后每股收益（EPS）为1.86美元，分析师预期1.78美元。 预计2026年产品销售296亿-300亿美元，分析师预期300.3亿美元。 预计2026年Veklury营收6亿美元。 2026年业绩展望受到（与美国总统特朗普达成的）关税协议和医疗保健Medicare政策变化的冲击幅度为2%。",
+          "url": "https://wallstreetcn.com/livenews/3053241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
           "title": "当地时间10日，美国总统特朗普表示，“伊朗不会拥有核武器或者导弹”。",
           "url": "https://flash.jin10.com/detail/20260211022808666800",
           "source": "金十数据",
@@ -145,15 +206,15 @@
           "time_info": "03时03分"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普本周将聚焦能源和去监管。 特朗普将于2月11日主持一场关于煤炭的活动。",
-          "url": "https://wallstreetcn.com/livenews/3053211",
+          "title": "特朗普：反对以色列推进约旦河西岸吞并举措",
+          "url": "https://wallstreetcn.com/livenews/3053235",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时39分"
+          "time_info": "05时38分"
         },
         {
           "title": "内塔尼亚胡将向特朗普提供有关伊朗军事能力的新情报",
@@ -200,17 +261,6 @@
           "time_info": "03时03分"
         },
         {
-          "title": "美国白宫：特朗普支持美国商务部长卢特尼克。",
-          "url": "https://flash.jin10.com/detail/20260211030702917800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时39分"
-        },
-        {
           "title": "据AXIOS网站：特朗普称，如果谈判失败，他可能会派遣第二艘航母打击伊朗。",
           "url": "https://flash.jin10.com/detail/20260211021733708800",
           "source": "金十数据",
@@ -228,7 +278,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
         },
@@ -239,7 +289,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
         },
@@ -250,7 +300,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
         },
@@ -261,7 +311,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
         },
@@ -272,7 +322,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
         },
@@ -291,7 +341,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -301,8 +351,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时38分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -312,11 +362,12 @@
             18,
             9,
             8,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时38分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -327,8 +378,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时38分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -338,8 +389,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时38分]"
         },
         {
           "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
@@ -351,8 +402,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时57分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时57分 ~ 05时38分]"
         },
         {
           "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
@@ -364,8 +415,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时38分]"
         },
         {
           "title": "美国克利夫兰联储主席Hammack：实现2%通胀目标具有至关重要的意义。 现在判断人工智能（AI）对经济的影响还言之过早。",
@@ -398,11 +449,12 @@
           "url": "https://s.weibo.com/weibo?q=AI%E5%88%B6%E5%9B%BE%E9%AA%97%E5%B1%80&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 04时39分]"
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 05时38分]"
         },
         {
           "title": "财富管理公司全线暴跌，新AI工具引发对行业前景忧虑",
@@ -461,6 +513,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
+          "url": "https://flash.jin10.com/detail/20260211042006504800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
           "title": "“AI新大陆”正在向平民招手",
           "url": "https://www.toutiao.com/trending/7605168435990892082/",
           "source": "今日头条",
@@ -475,29 +538,42 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美媒：美国考虑扣押伊朗油轮 忧虑报复及油价而按兵不动",
+          "url": "https://flash.jin10.com/detail/20260211050732186800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
         {
           "title": "伊朗官员：若美伊核问题谈判成功，对话或将拓展至其他领域",
           "url": "https://wallstreetcn.com/livenews/3053223",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 05时38分]"
         },
         {
           "title": "伊朗官员：若美伊核问题谈判成功 对话或将拓展至其他领域",
           "url": "https://flash.jin10.com/detail/20260211031807784800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 05时38分]"
         },
         {
           "title": "美国财长贝森特：将密切关注伊朗局势发展；对俄乌局势持乐观态度。",
@@ -521,11 +597,12 @@
           "url": "https://wallstreetcn.com/livenews/3053219",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 05时38分]"
         }
       ]
     },
@@ -542,8 +619,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时38分]"
         }
       ]
     }
