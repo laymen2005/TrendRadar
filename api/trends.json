@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T04:33:52.820181+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-02-12T05:29:57.896437+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -15,8 +15,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 05时29分]"
+        },
+        {
+          "title": "美国能源部长Wright：总统特朗普在委内瑞拉关系转型方面恪守承诺。",
+          "url": "https://wallstreetcn.com/livenews/3053969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
+          "url": "https://www.zhihu.com/question/2004862099634016476",
+          "source": "知乎",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 05时29分]"
         },
         {
           "title": "美国财长贝森特：特朗普总统促进经济增长的议程正在为美国工人带来好处。得益于特朗普总统的税收协议、贸易协议和和平协议，美国经济持续繁荣发展——而且最好的还在后头。",
@@ -28,29 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
-        },
-        {
-          "title": "以色列宣布总理内塔尼亚胡与美国总统特朗普会面的情况：双方同意继续紧密合作。",
-          "url": "https://wallstreetcn.com/livenews/3053939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
-        },
-        {
-          "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
-          "url": "https://www.zhihu.com/question/2004862099634016476",
-          "source": "知乎",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时33分]"
         },
         {
           "title": "美国总统特朗普：坚持继续与伊朗谈判。 与以色列总理内塔尼亚胡的会谈没能达成明确成果。 优先考虑与伊朗达成协议。",
@@ -65,6 +65,18 @@
           "time_info": "[03时12分 ~ 04时33分]"
         },
         {
+          "title": "以色列宣布总理内塔尼亚胡与美国总统特朗普会面的情况：双方同意继续紧密合作。",
+          "url": "https://wallstreetcn.com/livenews/3053939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时29分]"
+        },
+        {
           "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
           "url": "https://wallstreetcn.com/articles/3765521",
           "source": "华尔街见闻",
@@ -72,8 +84,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 04时33分]"
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 05时29分]"
+        },
+        {
+          "title": "美国财长贝森特：总统特朗普对伊朗保持“开放态度”。",
+          "url": "https://wallstreetcn.com/livenews/3053938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时29分]"
         },
         {
           "title": "以总理被曝向特朗普提要求：与伊朗的协议不应设置到期时间",
@@ -88,6 +112,18 @@
           "time_info": "[03时12分 ~ 04时33分]"
         },
         {
+          "title": "美国财长贝森特：2025年GDP增速可能达到3%。 预计制造业就业人口将在未来几个月回升。 总统特朗普专注于住房市场。 抵押贷款利率和10年期美债收益率都在下跌。",
+          "url": "https://wallstreetcn.com/livenews/3053933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时29分]"
+        },
+        {
           "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：预计（特朗普政府）很快将宣布住房消息。",
           "url": "https://wallstreetcn.com/livenews/3053917",
           "source": "华尔街见闻-快讯",
@@ -98,6 +134,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时33分]"
+        },
+        {
+          "title": "曾派遣武装退伍军人守卫加沙援助站点的美国安保公司UG Solutions周三表示，正与特朗普政府的“和平委员会”商讨该公司在加沙的后续行动。此前该公司因援助点发生致命冲突而遭到联合国谴责。",
+          "url": "https://flash.jin10.com/detail/20260212032551630800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时29分]"
         },
         {
           "title": "加拿大央行披露1月份管委会货币政策会议讨论的摘要：在担忧食品价格之际，消费者CPI预期偏高。 当前的不可预见性“几乎是空前的”。 美联储独立性面临的（来自美国总统特朗普的）威胁也（给加拿大）带来不确定性。 重申“北美重新评估美国墨西哥加拿大贸易协议（USMCA）”对前景构成重大风险。 委内瑞拉、伊朗、格陵兰相关事件造成波动。",
@@ -112,6 +160,42 @@
           "time_info": "[03时12分 ~ 04时33分]"
         },
         {
+          "title": "美国财长贝森特：特朗普对伊朗问题持开放态度。",
+          "url": "https://flash.jin10.com/detail/20260212032206474800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时29分]"
+        },
+        {
+          "title": "美国财长贝森特：特朗普正全力关注房地产市场。",
+          "url": "https://flash.jin10.com/detail/20260212032127249800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时29分]"
+        },
+        {
+          "title": "特朗普：要求与伊朗继续进行谈判 未与内塔尼亚胡达成任何其他决定",
+          "url": "https://flash.jin10.com/detail/20260212030900400800",
+          "source": "金十数据",
+          "ranks": [
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时29分]"
+        },
+        {
           "title": "美国总统特朗普：上次伊朗认为不达成协议对他们更有利，结果他们遭遇了午夜铁锤，这对他们并不好。希望这次他们会更加理性和负责任。",
           "url": "https://flash.jin10.com/detail/20260212025734183800",
           "source": "金十数据",
@@ -121,17 +205,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
-        },
-        {
-          "title": "美国财长贝森特：总统特朗普对伊朗保持“开放态度”。",
-          "url": "https://wallstreetcn.com/livenews/3053938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
         },
         {
           "title": "美国总统特朗普：如果能够达成协议，我已告知内塔尼亚胡那将是优先选择。如果无法达成协议，我们只能拭目以待。",
@@ -167,17 +240,6 @@
           "time_info": "03时12分"
         },
         {
-          "title": "美国财长贝森特：2025年GDP增速可能达到3%。 预计制造业就业人口将在未来几个月回升。 总统特朗普专注于住房市场。 抵押贷款利率和10年期美债收益率都在下跌。",
-          "url": "https://wallstreetcn.com/livenews/3053933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
-        },
-        {
           "title": "据AXIOS网站：特朗普与内塔尼亚胡的会议在近三个小时后结束。",
           "url": "https://flash.jin10.com/detail/20260212025205633800",
           "source": "金十数据",
@@ -211,17 +273,6 @@
           "time_info": "03时12分"
         },
         {
-          "title": "曾派遣武装退伍军人守卫加沙援助站点的美国安保公司UG Solutions周三表示，正与特朗普政府的“和平委员会”商讨该公司在加沙的后续行动。此前该公司因援助点发生致命冲突而遭到联合国谴责。",
-          "url": "https://flash.jin10.com/detail/20260212032551630800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
-        },
-        {
           "title": "据华盛顿邮报：特朗普政府从洛杉矶、芝加哥和波特兰撤回国民警卫队。",
           "url": "https://flash.jin10.com/detail/20260212002128389800",
           "source": "金十数据",
@@ -233,26 +284,15 @@
           "time_info": "01时01分"
         },
         {
-          "title": "美国财长贝森特：特朗普对伊朗问题持开放态度。",
-          "url": "https://flash.jin10.com/detail/20260212032206474800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
-        },
-        {
-          "title": "美国财长贝森特：特朗普正全力关注房地产市场。",
-          "url": "https://flash.jin10.com/detail/20260212032127249800",
-          "source": "金十数据",
+          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
+          "url": "https://wallstreetcn.com/livenews/3053948",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时33分"
+          "time_info": "05时29分"
         },
         {
           "title": "据AXIOS网站：特朗普与以色列总理内塔尼亚胡的会面已经开始。",
@@ -286,23 +326,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
-        },
-        {
-          "title": "特朗普：要求与伊朗继续进行谈判 未与内塔尼亚胡达成任何其他决定",
-          "url": "https://flash.jin10.com/detail/20260212030900400800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "最癫的AI赛博榨菜",
@@ -312,8 +341,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 05时29分]"
         },
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -323,19 +352,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时33分]"
-        },
-        {
-          "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
-          "url": "https://flash.jin10.com/detail/20260212035557254800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 05时29分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -345,19 +363,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 05时29分]"
         },
         {
-          "title": "马斯克旗下xAI披露全体会议的视频。",
-          "url": "https://wallstreetcn.com/livenews/3053940",
-          "source": "华尔街见闻-快讯",
+          "title": "市场继续寻找AI时代的潜在输家 今日轮到地产服务",
+          "url": "https://flash.jin10.com/detail/20260212045127691800",
+          "source": "金十数据",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时33分"
+          "time_info": "05时29分"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -368,8 +386,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 05时29分]"
         },
         {
           "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
@@ -379,8 +397,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 05时29分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -390,8 +408,43 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 05时29分]"
+        },
+        {
+          "title": "马斯克重组xAI 拟设四大核心板块",
+          "url": "https://flash.jin10.com/detail/20260212043905187800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
+          "url": "https://flash.jin10.com/detail/20260212035557254800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时29分]"
+        },
+        {
+          "title": "马斯克旗下xAI披露全体会议的视频。",
+          "url": "https://wallstreetcn.com/livenews/3053940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时29分]"
         },
         {
           "title": "中美AI“隔空开打”",
@@ -510,7 +563,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗总统致歉",
@@ -520,8 +573,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 05时29分]"
         },
         {
           "title": "伊朗总统道歉",
@@ -530,11 +583,23 @@
           "ranks": [
             5,
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 05时29分]"
+        },
+        {
+          "title": "伊朗最高领袖顾问：美国趋向理性 以方欲挑事端",
+          "url": "https://flash.jin10.com/detail/20260212041753249800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "伊朗总统：不寻求核武器 愿接受核查",
@@ -548,6 +613,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时01分 ~ 04时33分]"
+        },
+        {
+          "title": "美国财长贝森特：正在追踪伊朗领导层及其在全球转移的资金。",
+          "url": "https://flash.jin10.com/detail/20260212032434907800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时29分]"
+        },
+        {
+          "title": "据华尔街日报：三名美国官员透露，美国国防部已指示第二个航空母舰打击群做好部署到中东的准备，美军正在为可能对伊朗发动的袭击做准备。一位官员称，部署命令可能在数小时内下达。",
+          "url": "https://flash.jin10.com/detail/20260212031133708800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时29分]"
         },
         {
           "title": "伊朗最高领袖顾问：正与美国磋商下一轮谈判时间",
@@ -583,28 +672,6 @@
           "time_info": "01时01分"
         },
         {
-          "title": "美国财长贝森特：正在追踪伊朗领导层及其在全球转移的资金。",
-          "url": "https://flash.jin10.com/detail/20260212032434907800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
-        },
-        {
-          "title": "据华尔街日报：三名美国官员透露，美国国防部已指示第二个航空母舰打击群做好部署到中东的准备，美军正在为可能对伊朗发动的袭击做准备。一位官员称，部署命令可能在数小时内下达。",
-          "url": "https://flash.jin10.com/detail/20260212031133708800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
-        },
-        {
           "title": "伊朗举行庆祝伊斯兰革命胜利47周年活动",
           "url": "https://wallstreetcn.com/livenews/3053902",
           "source": "华尔街见闻-快讯",
@@ -619,7 +686,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "北京WB战胜KSG",
@@ -640,22 +707,24 @@
           "ranks": [
             25,
             15,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 04时33分]"
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 05时29分]"
         },
         {
           "title": "刚被北京的休学率惊到，又看到上海学生的抑郁检出率，我们是不是正在养出一代「低电量的孩子」？",
           "url": "https://www.zhihu.com/question/1999493147412169200",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 04时33分]"
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 05时29分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9106元，较周二夜盘收盘涨34点。成交量351.12亿美元。",
@@ -664,9 +733,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "周三（2月11日）美股尾盘，彭博电动汽车价格回报指数涨1.32%，报3662.78点。 北京时间09:25出现一波快速上涨行情，10:15过后持续高位震荡。 成分股智利化工矿业公司（SQM）涨7.1%，美国雅宝涨4.3%，小米集团H股收涨4.27%，意法半导体欧股收涨2.92%，禾赛科技则跌6.2%，Lucid集团跌8.3%。",
+          "url": "https://wallstreetcn.com/livenews/3053953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         }
       ]
     },
@@ -682,8 +762,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 05时29分]"
         }
       ]
     }
