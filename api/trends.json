@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T18:44:15.278114+08:00",
-  "total_titles_processed": 1512,
+  "generated_at": "2026-02-11T19:41:34.382869+08:00",
+  "total_titles_processed": 1611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时52分 ~ 18时44分]"
+          "appearance_count": 14,
+          "time_info": "[09时52分 ~ 19时41分]"
         },
         {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
@@ -83,8 +83,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 18时44分]"
+          "appearance_count": 3,
+          "time_info": "[18时43分 ~ 19时41分]"
         },
         {
           "title": "美国总统特朗普：我认为美联储主席提名人凯文·沃什同意所说说的。",
@@ -238,6 +238,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时26分 ~ 17时47分]"
+        },
+        {
+          "title": "外交部回应特朗普涉中加合作言论",
+          "url": "https://www.toutiao.com/trending/7605448481570897961/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时43分 ~ 19时41分]"
         },
         {
           "title": "特朗普表面祝贺高市私下大发雷霆",
@@ -397,17 +409,6 @@
           "time_info": "[06时35分 ~ 07时34分]"
         },
         {
-          "title": "外交部回应特朗普涉中加合作言论",
-          "url": "https://www.toutiao.com/trending/7605448481570897961/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 18时44分]"
-        },
-        {
           "title": "美国白宫：特朗普支持美国商务部长卢特尼克。",
           "url": "https://flash.jin10.com/detail/20260211030702917800",
           "source": "金十数据",
@@ -506,7 +507,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -643,6 +644,17 @@
           "time_info": "04时39分"
         },
         {
+          "title": "特朗普在爱泼斯坦案文件出现100万次",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E5%87%BA%E7%8E%B0100%E4%B8%87%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "美国总统特朗普：我认为美联储主席提名人凯文·沃什同意所说的。 我认为2026年将会很棒。 重申股市应该因为好消息而上涨。",
           "url": "https://wallstreetcn.com/livenews/3053247",
           "source": "华尔街见闻-快讯",
@@ -693,28 +705,18 @@
       "match_count": 37,
       "titles": [
         {
-          "title": "国产AI降维打击,老外酸了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时26分 ~ 18时44分]"
-        },
-        {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
           "url": "https://wallstreetcn.com/articles/3765438",
           "source": "华尔街见闻",
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时52分 ~ 18时44分]"
+          "appearance_count": 14,
+          "time_info": "[09时52分 ~ 19时41分]"
         },
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -738,8 +740,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时26分 ~ 18时44分]"
+          "appearance_count": 13,
+          "time_info": "[12时26分 ~ 19时41分]"
+        },
+        {
+          "title": "国产AI降维打击,老外酸了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[12时26分 ~ 19时41分]"
         },
         {
           "title": "持股持基过节，都买什么？Seedance带疯AI应用，资金再流向红利",
@@ -780,8 +794,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时06分 ~ 18时44分]"
+          "appearance_count": 11,
+          "time_info": "[14时06分 ~ 19时41分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -816,6 +830,21 @@
           "time_info": "[01时57分 ~ 12时27分]"
         },
         {
+          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
+          "url": "https://www.zhihu.com/question/2004565156580049390",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            11,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时52分 ~ 19时41分]"
+        },
+        {
           "title": "以假乱真,奥特曼大AI时代来临",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
           "source": "贴吧",
@@ -826,11 +855,12 @@
             22,
             23,
             24,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时02分 ~ 18时44分]"
+          "appearance_count": 23,
+          "time_info": "[00时02分 ~ 19时41分]"
         },
         {
           "title": "阿里AI战事再加码！千问支持买电影票，下一代模型亮相在即",
@@ -847,20 +877,6 @@
           "time_info": "[09时52分 ~ 15时53分]"
         },
         {
-          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
-          "url": "https://www.zhihu.com/question/2004565156580049390",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时52分 ~ 18时44分]"
-        },
-        {
           "title": "如何看待《黑神话：悟空》制作人冯骥谈即梦 Seedance 2.0「AIGC 的童年时代，结束了」？",
           "url": "https://www.zhihu.com/question/2004509950915868142",
           "source": "知乎",
@@ -870,8 +886,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时52分 ~ 18时44分]"
+          "appearance_count": 9,
+          "time_info": "[15时52分 ~ 19时41分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -1155,7 +1171,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "伊朗外长向巴基斯坦外长介绍伊美谈判进展",
@@ -1175,7 +1191,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -1189,6 +1205,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "伊朗总统：不寻求核武器 愿接受核查",
+          "url": "https://www.toutiao.com/trending/7604987910697287722/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "伊朗总统致歉",
+          "url": "https://news.ifeng.com/c/8qf5xxJfwSa",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "美媒：美国考虑扣押伊朗油轮 忧虑报复及油价而按兵不动",
@@ -1228,6 +1266,18 @@
           "time_info": "[15时53分 ~ 16时42分]"
         },
         {
+          "title": "中方送伊朗歼-20模型传递何种信号",
+          "url": "https://www.toutiao.com/trending/7605520149600292406/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时43分 ~ 19时41分]"
+        },
+        {
           "title": "伊朗的地缘政治包袱与以色列的阴影：美伊谈判前景难言乐观",
           "url": "https://m.thepaper.cn/newsDetail_forward_32567450",
           "source": "澎湃新闻",
@@ -1240,15 +1290,16 @@
           "time_info": "[09时52分 ~ 12时27分]"
         },
         {
-          "title": "中方送伊朗歼-20模型传递何种信号",
-          "url": "https://www.toutiao.com/trending/7605520149600292406/",
+          "title": "伊朗军事实力如何",
+          "url": "https://www.toutiao.com/trending/7605529877277576740/",
           "source": "今日头条",
           "ranks": [
-            9
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 18时44分]"
+          "appearance_count": 3,
+          "time_info": "[18时43分 ~ 19时41分]"
         },
         {
           "title": "伊朗官员：若美伊核问题谈判成功 对话或将拓展至其他领域",
@@ -1263,26 +1314,16 @@
           "time_info": "[04时39分 ~ 05时38分]"
         },
         {
-          "title": "伊朗军事实力如何",
-          "url": "https://www.toutiao.com/trending/7605529877277576740/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 18时44分]"
-        },
-        {
           "title": "伊朗最高领袖政治顾问：导弹能力不在谈判授权范围内",
           "url": "https://wallstreetcn.com/livenews/3053672",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时41分]"
         },
         {
           "title": "美国财长贝森特：将密切关注伊朗局势发展；对俄乌局势持乐观态度。",
@@ -1357,8 +1398,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时26分 ~ 18时44分]"
+          "appearance_count": 13,
+          "time_info": "[12时26分 ~ 19时41分]"
         },
         {
           "title": "北京WB vs KSG KPL春季赛",
@@ -1377,11 +1418,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            23
+            23,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时46分 ~ 18时44分]"
+          "appearance_count": 5,
+          "time_info": "[17时46分 ~ 19时41分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9140元，较周一夜盘收盘涨68点。成交量448.03亿美元。",
@@ -1476,8 +1518,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时26分 ~ 18时44分]"
+          "appearance_count": 13,
+          "time_info": "[12时26分 ~ 19时41分]"
         },
         {
           "title": "强制入户!河北严查烟花爆竹",
@@ -1541,6 +1583,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "信用卡",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "赖清德被批搞“情绪勒索”“比信用卡推销还急”",
+          "url": "https://news.ifeng.com/c/8qf76Vyx2i1",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         }
       ]
     }
