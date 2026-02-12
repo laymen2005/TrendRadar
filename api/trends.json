@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T14:01:48.534707+08:00",
-  "total_titles_processed": 1095,
+  "generated_at": "2026-02-12T15:14:03.335133+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时01分 ~ 14时01分]"
+          "appearance_count": 12,
+          "time_info": "[02时01分 ~ 15时14分]"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -66,6 +66,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
+          "url": "https://www.cls.cn/detail/2288046",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 15时14分]"
         },
         {
           "title": "美国能源部长Wright：总统特朗普在委内瑞拉关系转型方面恪守承诺。",
@@ -162,6 +174,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时27分]"
+        },
+        {
+          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 15时14分]"
+        },
+        {
+          "title": "强劲非农难撼白宫鸽派论调 特朗普亲信：美联储仍有“充足”降息空间",
+          "url": "https://www.cls.cn/detail/2287874",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 15时14分]"
+        },
+        {
+          "title": "特朗普否认了，仅拒邀两人",
+          "url": "https://news.ifeng.com/c/8qgMtgtYs0u",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
         },
         {
           "title": "美国财长贝森特：总统特朗普对伊朗保持“开放态度”。",
@@ -412,17 +459,6 @@
           "time_info": "03时12分"
         },
         {
-          "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
-          "url": "https://www.cls.cn/detail/2288046",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
           "title": "美国总统特朗普：已结束与以色列总理内塔尼亚胡的会晤，这是一次非常成功的会晤。与内塔尼亚胡讨论了加沙以及整个地区正在取得的巨大进展。",
           "url": "https://flash.jin10.com/detail/20260212025541001800",
           "source": "金十数据",
@@ -443,17 +479,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
-        },
-        {
-          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
         },
         {
           "title": "据AXIOS网站：特朗普与内塔尼亚胡的会议在近三个小时后结束。",
@@ -520,17 +545,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
-        },
-        {
-          "title": "强劲非农难撼白宫鸽派论调 特朗普亲信：美联储仍有“充足”降息空间",
-          "url": "https://www.cls.cn/detail/2287874",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
         },
         {
           "title": "据华盛顿邮报：特朗普政府从洛杉矶、芝加哥和波特兰撤回国民警卫队。",
@@ -613,7 +627,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 41,
+      "match_count": 45,
       "titles": [
         {
           "title": "最癫的AI赛博榨菜",
@@ -627,8 +641,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时00分 ~ 14时01分]"
+          "appearance_count": 14,
+          "time_info": "[01时00分 ~ 15时14分]"
+        },
+        {
+          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 15时14分]"
         },
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -649,11 +675,12 @@
             16,
             14,
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时00分 ~ 14时01分]"
+          "appearance_count": 14,
+          "time_info": "[01时00分 ~ 15时14分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -663,11 +690,12 @@
             14,
             15,
             23,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时00分 ~ 14时01分]"
+          "appearance_count": 14,
+          "time_info": "[01时00分 ~ 15时14分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -693,16 +721,16 @@
           "time_info": "[01时00分 ~ 07时27分]"
         },
         {
-          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3765486",
-          "source": "华尔街见闻",
+          "title": "从Deepseek到Seedance中国AI成了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            2,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时27分 ~ 14时01分]"
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 15时14分]"
         },
         {
           "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
@@ -718,15 +746,29 @@
           "time_info": "[09时45分 ~ 14时01分]"
         },
         {
-          "title": "从Deepseek到Seedance中国AI成了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
+          "url": "https://wallstreetcn.com/articles/3765544",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            8,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 15时14分]"
+        },
+        {
+          "title": "让AI集体翻车的洗车难题",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9AI%E9%9B%86%E4%BD%93%E7%BF%BB%E8%BD%A6%E7%9A%84%E6%B4%97%E8%BD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 15时14分]"
         },
         {
           "title": "市场继续寻找AI时代的潜在输家 今日轮到地产服务",
@@ -746,7 +788,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -762,29 +804,29 @@
           "time_info": "05时29分"
         },
         {
-          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
-          "url": "https://wallstreetcn.com/articles/3765544",
-          "source": "华尔街见闻",
+          "title": "铠侠：AI在数据中心和企业领域的需求推动NAND市场增长。 受数据中心强劲需求驱动，预计NAND需求将超出供应。",
+          "url": "https://wallstreetcn.com/livenews/3054268",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            5
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 14时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
-          "title": "让AI集体翻车的洗车难题",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9AI%E9%9B%86%E4%BD%93%E7%BF%BB%E8%BD%A6%E7%9A%84%E6%B4%97%E8%BD%A6%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
+          "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
+          "source": "澎湃新闻",
           "ranks": [
-            1,
-            7,
-            10
+            17,
+            13,
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 14时01分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 15时14分]"
         },
         {
           "title": "美团升级“问小团”加入AI大战，春节前上线吃喝玩乐“AI管家”",
@@ -835,19 +877,6 @@
           "time_info": "[12时20分 ~ 14时01分]"
         },
         {
-          "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 14时01分]"
-        },
-        {
           "title": "AI淘金热变成AI恐慌潮！华尔街新共识：躲开一切可能被颠覆的公司",
           "url": "https://wallstreetcn.com/articles/3765478",
           "source": "华尔街见闻",
@@ -872,6 +901,17 @@
           "time_info": "[02时01分 ~ 03时12分]"
         },
         {
+          "title": "蚂蚁阿福开启春节支付宝红包活动 AI医疗行业有望再度站上风口",
+          "url": "https://www.cls.cn/detail/2287850",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
+        },
+        {
           "title": "巴西Flavio Bolsonaro：在我竞选总统一事上，Minas Gerais的Zema会是一个不错的副总统人选，但我们还没有谈及此事。",
           "url": "https://wallstreetcn.com/livenews/3053915",
           "source": "华尔街见闻-快讯",
@@ -882,6 +922,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时33分]"
+        },
+        {
+          "title": "国产大模型密集上新 AI算力景气度与确定性依然可期",
+          "url": "https://www.cls.cn/detail/2287838",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
         },
         {
           "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
@@ -917,6 +968,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时33分]"
+        },
+        {
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
         },
         {
           "title": "男子用AI一夜赚够一线房首付",
@@ -958,7 +1020,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -969,7 +1031,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -1024,7 +1086,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -1155,6 +1217,29 @@
           "time_info": "[06时25分 ~ 07时27分]"
         },
         {
+          "title": "美记者背北京冬奥包去米兰：结实耐用",
+          "url": "https://www.toutiao.com/trending/7605029561042157622/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 15时14分]"
+        },
+        {
+          "title": "北京市市场监督管理局约谈12家第三方火车票网络销售平台",
+          "url": "https://www.cls.cn/detail/2287968",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 15时14分]"
+        },
+        {
           "title": "国新办：北京平原新城经济总量达到万亿元规模",
           "url": "https://wallstreetcn.com/livenews/3054177",
           "source": "华尔街见闻-快讯",
@@ -1202,17 +1287,6 @@
           "time_info": "[07时27分 ~ 14时01分]"
         },
         {
-          "title": "美记者背北京冬奥包去米兰：结实耐用",
-          "url": "https://www.toutiao.com/trending/7605029561042157622/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 14时01分]"
-        },
-        {
           "title": "北京市市场监督管理局约谈12家第三方火车票网络销售平台",
           "url": "https://wallstreetcn.com/livenews/3054082",
           "source": "华尔街见闻-快讯",
@@ -1230,18 +1304,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "北京市市场监督管理局约谈12家第三方火车票网络销售平台",
-          "url": "https://www.cls.cn/detail/2287968",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -1318,7 +1381,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -1337,6 +1400,19 @@
           "time_info": "[02时01分 ~ 06时25分]"
         },
         {
+          "title": "伊朗总统：愿接受任何形式的核查",
+          "url": "https://www.douyin.com/hot/2397305",
+          "source": "抖音",
+          "ranks": [
+            17,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 15时14分]"
+        },
+        {
           "title": "美国财长贝森特：正在追踪伊朗领导层及其在全球转移的资金。",
           "url": "https://flash.jin10.com/detail/20260212032434907800",
           "source": "金十数据",
@@ -1347,18 +1423,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时29分]"
-        },
-        {
-          "title": "伊朗总统：愿接受任何形式的核查",
-          "url": "https://www.douyin.com/hot/2397305",
-          "source": "抖音",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 14时01分]"
         },
         {
           "title": "据华尔街日报：三名美国官员透露，美国国防部已指示第二个航空母舰打击群做好部署到中东的准备，美军正在为可能对伊朗发动的袭击做准备。一位官员称，部署命令可能在数小时内下达。",
@@ -1390,7 +1454,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -1412,7 +1476,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -1437,6 +1501,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "软银集团：将以软银公司股份为抵押的保证金贷款增加了4000亿日元。 2025年4月至12月期间，因投资OpenAI录得2.8万亿日元投资收益。 愿景基金二号（Vision Fund 2）在2025年4月至12月期间，因投资OpenAI录得170亿美元投资收益。",
+          "url": "https://wallstreetcn.com/livenews/3054264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "软银集团：在2025年4月至12月期间，对OpenAI的投资录得2.8万亿日元的投资收益。",
+          "url": "https://flash.jin10.com/detail/20260212143638598800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         }
       ]
     },
