@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T09:45:56.893032+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2026-02-12T12:20:58.405269+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -26,11 +26,12 @@
             10,
             9,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时01分 ~ 09时45分]"
+          "appearance_count": 9,
+          "time_info": "[02时01分 ~ 12时20分]"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -417,9 +418,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
+          "url": "https://www.cls.cn/detail/2287759",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "据AXIOS网站：特朗普与内塔尼亚胡的会议在近三个小时后结束。",
@@ -568,7 +580,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 36,
       "titles": [
         {
           "title": "最癫的AI赛博榨菜",
@@ -578,11 +590,12 @@
             1,
             8,
             10,
-            24
+            24,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时00分 ~ 09时45分]"
+          "appearance_count": 11,
+          "time_info": "[01时00分 ~ 12时20分]"
         },
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -601,11 +614,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时00分 ~ 09时45分]"
+          "appearance_count": 11,
+          "time_info": "[01时00分 ~ 12时20分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -613,11 +627,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时00分 ~ 09时45分]"
+          "appearance_count": 11,
+          "time_info": "[01时00分 ~ 12时20分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -651,19 +666,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 09时45分]"
+          "appearance_count": 3,
+          "time_info": "[07时27分 ~ 12时20分]"
         },
         {
-          "title": "让AI集体翻车的洗车难题",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9AI%E9%9B%86%E4%BD%93%E7%BF%BB%E8%BD%A6%E7%9A%84%E6%B4%97%E8%BD%A6%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
+          "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
+          "url": "https://www.cls.cn/detail/2287778",
+          "source": "财联社热门",
           "ranks": [
-            1
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 12时20分]"
         },
         {
           "title": "市场继续寻找AI时代的潜在输家 今日轮到地产服务",
@@ -677,6 +693,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "美团升级“问小团”加入AI大战，春节前上线吃喝玩乐“AI管家”",
+          "url": "https://wallstreetcn.com/livenews/3054185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "马斯克重组xAI 拟设四大核心板块",
           "url": "https://flash.jin10.com/detail/20260212043905187800",
           "source": "金十数据",
@@ -688,15 +715,27 @@
           "time_info": "05时29分"
         },
         {
-          "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
-          "url": "https://www.cls.cn/detail/2287778",
-          "source": "财联社热门",
+          "title": "支付宝AI付笔数超1.2亿",
+          "url": "https://wallstreetcn.com/livenews/3054179",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时45分"
+          "time_info": "12时20分"
+        },
+        {
+          "title": "让AI集体翻车的洗车难题",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9AI%E9%9B%86%E4%BD%93%E7%BF%BB%E8%BD%A6%E7%9A%84%E6%B4%97%E8%BD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 12时20分]"
         },
         {
           "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
@@ -711,6 +750,18 @@
           "time_info": "[04时33分 ~ 05时29分]"
         },
         {
+          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
+          "url": "https://wallstreetcn.com/articles/3765544",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 12时20分]"
+        },
+        {
           "title": "马斯克旗下xAI披露全体会议的视频。",
           "url": "https://wallstreetcn.com/livenews/3053940",
           "source": "华尔街见闻-快讯",
@@ -721,6 +772,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时29分]"
+        },
+        {
+          "title": "AI淘金热变成AI恐慌潮！华尔街新共识：躲开一切可能被颠覆的公司",
+          "url": "https://wallstreetcn.com/articles/3765478",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 12时20分]"
         },
         {
           "title": "中美AI“隔空开打”",
@@ -747,6 +810,18 @@
           "time_info": "[03时12分 ~ 04时33分]"
         },
         {
+          "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 12时20分]"
+        },
+        {
           "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
           "url": "https://www.zhihu.com/question/2004565156580049390",
           "source": "知乎",
@@ -770,6 +845,17 @@
           "time_info": "[03时12分 ~ 04时33分]"
         },
         {
+          "title": "男子用AI一夜赚够一线房首付",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8AI%E4%B8%80%E5%A4%9C%E8%B5%9A%E5%A4%9F%E4%B8%80%E7%BA%BF%E6%88%BF%E9%A6%96%E4%BB%98%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "据Business Insider：马斯克在周二深夜主持xAI全体员工会议，讨论公司的重组事宜。",
           "url": "https://flash.jin10.com/detail/20260212011336268800",
           "source": "金十数据",
@@ -779,28 +865,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
-        },
-        {
-          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
-          "url": "https://wallstreetcn.com/articles/3765544",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "AI淘金热变成AI恐慌潮！华尔街新共识：躲开一切可能被颠覆的公司",
-          "url": "https://wallstreetcn.com/articles/3765478",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
         },
         {
           "title": "马斯克在周二深夜主持xAI全体员工会议。 马斯克讨论了该公司的重组事宜，但并非透露具体信息。（Business Insider）",
@@ -820,7 +884,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -842,20 +906,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
         {
-          "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
-          "source": "澎湃新闻",
+          "title": "智谱盘中持续拉升，日内涨超30%，公司上调AI编程订阅套餐价格并将推出新模型。",
+          "url": "https://wallstreetcn.com/livenews/3054162",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时45分"
+          "time_info": "12时20分"
         },
         {
           "title": "德国总理默茨：由于复杂监管制度的缘故，欧盟（辖区内）公司在AI问题上落后。",
@@ -869,6 +933,28 @@
           "time_info": "02时01分"
         },
         {
+          "title": "马斯克xAI全员大会宣布裁员",
+          "url": "https://www.toutiao.com/trending/7605774882411908671/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "AI预测中国米兰冬奥首金",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E9%A2%84%E6%B5%8B%E4%B8%AD%E5%9B%BD%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E9%A6%96%E9%87%91%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "边问边买，谷歌将AI购物功能嵌入搜索与Gemini",
           "url": "https://wallstreetcn.com/livenews/3053878",
           "source": "华尔街见闻-快讯",
@@ -878,6 +964,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "千问6天AI订单量破1.2亿单",
+          "url": "https://wallstreetcn.com/livenews/3054153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "智谱盘中拉升，日内涨幅扩大至20%，公司上调AI编程订阅套餐价格并将推出新模型。",
+          "url": "https://wallstreetcn.com/livenews/3054143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "白宫经济委员会主任哈塞特：AI繁荣能驱动生产力和经济增速。",
@@ -894,7 +1002,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "北京WB战胜KSG",
@@ -981,9 +1089,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "国新办：北京平原新城经济总量达到万亿元规模",
+          "url": "https://wallstreetcn.com/livenews/3054177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9106元，较周二夜盘收盘涨34点。成交量351.12亿美元。",
@@ -1017,12 +1136,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "美记者背北京冬奥包去米兰：结实耐用",
+          "url": "https://www.toutiao.com/trending/7605029561042157622/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗总统致歉",
@@ -1132,6 +1262,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "伊朗总统：愿接受任何形式的核查",
+          "url": "https://www.douyin.com/hot/2397305",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "伊朗举行庆祝伊斯兰革命胜利47周年活动",
