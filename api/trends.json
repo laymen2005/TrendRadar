@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T12:06:12.740649+08:00",
-  "total_titles_processed": 893,
+  "generated_at": "2026-02-14T13:41:03.130995+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
@@ -17,8 +17,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时31分 ~ 12时06分]"
+          "appearance_count": 11,
+          "time_info": "[04时31分 ~ 13时41分]"
+        },
+        {
+          "title": "特朗普将访问委内瑞拉",
+          "url": "https://news.ifeng.com/c/8qitxi0GRdt",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[04时31分 ~ 13时41分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -35,20 +47,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 12时06分]"
-        },
-        {
-          "title": "特朗普将访问委内瑞拉",
-          "url": "https://news.ifeng.com/c/8qitxi0GRdt",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时31分 ~ 12时06分]"
+          "appearance_count": 17,
+          "time_info": "[00时44分 ~ 13时41分]"
         },
         {
           "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
@@ -130,6 +130,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "特朗普证实美军将向中东派第二艘航母",
+          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时27分 ~ 13时41分]"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉的关系尽可能地好。",
@@ -248,6 +260,18 @@
           "time_info": "[01时37分 ~ 03时39分]"
         },
         {
+          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
+          "url": "https://www.cls.cn/detail/2290201",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 13时41分]"
+        },
+        {
           "title": "特朗普称将访问委内瑞拉",
           "url": "https://flash.jin10.com/detail/20260214021300671800",
           "source": "金十数据",
@@ -260,16 +284,28 @@
           "time_info": "[02时40分 ~ 03时39分]"
         },
         {
-          "title": "特朗普证实美军将向中东派第二艘航母",
-          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
-          "source": "凤凰网",
+          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
+          "url": "https://www.cls.cn/detail/2290097",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时06分]"
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 13时41分]"
+        },
+        {
+          "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
+          "url": "https://www.cls.cn/detail/2290112",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 13时41分]"
         },
         {
           "title": "美国总统特朗普宣扬股市表现和通胀数据。",
@@ -310,17 +346,6 @@
           "time_info": "[01时37分 ~ 02时40分]"
         },
         {
-          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
-          "url": "https://www.cls.cn/detail/2290097",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时05分 ~ 12时06分]"
-        },
-        {
           "title": "美国总统特朗普：（被攫取的）石油流出委内瑞拉，仅仅美国能提炼。",
           "url": "https://wallstreetcn.com/livenews/3055309",
           "source": "华尔街见闻-快讯",
@@ -331,17 +356,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时37分 ~ 02时40分]"
-        },
-        {
-          "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
-          "url": "https://www.cls.cn/detail/2290112",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时05分 ~ 12时06分]"
         },
         {
           "title": "美国总统特朗普：当前谈判格陵兰问题。",
@@ -380,17 +394,6 @@
           "time_info": "[03时39分 ~ 04时31分]"
         },
         {
-          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
-          "url": "https://www.cls.cn/detail/2290201",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时05分 ~ 12时06分]"
-        },
-        {
           "title": "美国总统特朗普称赞通胀下降，声称：今天发布了不错的金融数据。",
           "url": "https://wallstreetcn.com/livenews/3055305",
           "source": "华尔街见闻-快讯",
@@ -401,6 +404,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时37分 ~ 02时40分]"
+        },
+        {
+          "title": "日媒披露特朗普拒绝在中日间力挺日本",
+          "url": "https://www.toutiao.com/trending/7605283067519008810/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
         },
         {
           "title": "美国总统特朗普：美国是北约的重要成员。",
@@ -673,7 +687,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -703,7 +717,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -748,11 +762,12 @@
           "ranks": [
             5,
             6,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 12时06分]"
+          "appearance_count": 17,
+          "time_info": "[00时44分 ~ 13时41分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -773,11 +788,27 @@
           "ranks": [
             8,
             9,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 12时06分]"
+          "appearance_count": 17,
+          "time_info": "[00时44分 ~ 13时41分]"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2026年2月13日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32603983",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            15,
+            17,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时39分 ~ 13时41分]"
         },
         {
           "title": "一个2.6万亿AI独角兽诞生",
@@ -795,20 +826,6 @@
           "time_info": "[00时44分 ~ 09时27分]"
         },
         {
-          "title": "澎湃AI晚新闻丨2026年2月13日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32603983",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            15,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时39分 ~ 09时27分]"
-        },
-        {
           "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
           "url": "https://www.cls.cn/detail/2290109",
           "source": "财联社热门",
@@ -818,8 +835,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时26分 ~ 12时06分]"
+          "appearance_count": 6,
+          "time_info": "[07时26分 ~ 13时41分]"
         },
         {
           "title": "Seedance2.0展示中国AI潜力",
@@ -837,15 +854,17 @@
           "time_info": "[00时44分 ~ 04时31分]"
         },
         {
-          "title": "桥水Q4增持英伟达、亚马逊等AI热门股 同时加重黄金股持仓",
-          "url": "https://flash.jin10.com/detail/20260214113020245800",
-          "source": "金十数据",
+          "title": "小伙5个月用AI做120多个App",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%995%E4%B8%AA%E6%9C%88%E7%94%A8AI%E5%81%9A120%E5%A4%9A%E4%B8%AAApp",
+          "source": "百度热搜",
           "ranks": [
-            5
+            14,
+            10,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时27分 ~ 13时41分]"
         },
         {
           "title": "OpenSpec 最近火了，规范驱动开发是 AI 编程的未来吗？",
@@ -873,16 +892,16 @@
           "time_info": "[02时40分 ~ 04时31分]"
         },
         {
-          "title": "小伙5个月用AI做120多个App",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%995%E4%B8%AA%E6%9C%88%E7%94%A8AI%E5%81%9A120%E5%A4%9A%E4%B8%AAApp",
-          "source": "百度热搜",
+          "title": "桥水Q4增持英伟达、亚马逊等AI热门股 同时加重黄金股持仓",
+          "url": "https://flash.jin10.com/detail/20260214113020245800",
+          "source": "金十数据",
           "ranks": [
-            14,
-            10
+            5,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时06分]"
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 13时41分]"
         },
         {
           "title": "软件股风声鹤唳之际，高盛推出“抗AI替代”主题股票篮子",
@@ -896,6 +915,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时40分 ~ 04时31分]"
+        },
+        {
+          "title": "杭州一创业者开 1 人公司，团队完全由 AI 智能体组成，月入 200 万，真能挣这么多钱吗？",
+          "url": "https://www.zhihu.com/question/2005725246167147371",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
+        },
+        {
+          "title": "美团杀入春节AI大战",
+          "url": "https://www.toutiao.com/trending/7606531766676885028/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
         },
         {
           "title": "科大讯飞总裁吴晓如：2025年公司海外营收超10亿元 AI核心业务推动出海提速",
@@ -959,7 +1000,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -977,6 +1018,147 @@
       ]
     },
     {
+      "keyword_group": "北京",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "北京JDG战胜成都AG超玩会",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%90%E9%83%BDAG%E8%B6%85%E7%8E%A9%E4%BC%9A%20%E5%8C%97%E4%BA%ACJDG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 06时28分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9032元，较周四夜盘收盘涨1点。成交量305.62亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3055343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 05时30分]"
+        },
+        {
+          "title": "周五（2月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9012元，较周四纽约尾盘跌31点，日内整体交投于6.8973-6.9109元区间。 本周，离岸人民币累计上涨大约290点，涨幅大约0.4%，2月12日美股盘前曾涨至6.8912元。",
+          "url": "https://wallstreetcn.com/livenews/3055388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 09时27分]"
+        },
+        {
+          "title": "2月13日北京新房网签85套、二手房网签220套",
+          "url": "https://wallstreetcn.com/livenews/3055466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "2月13日北京新房网签85套、二手房网签220套",
+          "url": "https://flash.jin10.com/detail/20260214121915710800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "北京今年首批城市更新计划项目清单公布，共1321个",
+          "url": "https://wallstreetcn.com/livenews/3055436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
+          "url": "https://wallstreetcn.com/livenews/3055377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时30分 ~ 07时26分]"
+        },
+        {
+          "title": "报道：OpenAI参与美国“无人机群”竞赛，提供语音控制技术",
+          "url": "https://wallstreetcn.com/livenews/3055331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时31分]"
+        },
+        {
+          "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
+          "url": "https://www.cls.cn/detail/2290186",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
+        },
+        {
+          "title": "市场消息：OpenAI的语音控制技术被选中用于美国无人机集群竞赛。",
+          "url": "https://flash.jin10.com/detail/20260214020718488800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "OpenAI总裁布罗克曼：我们现在正将我们的模型应用于前沿领域的研究当中。在10个数学研究难题中（这些难题是数学研究者已经解决但从未公布解决方案的难题），在一周内，我们的模型发现了至少6个问题的可能正确解决方案。",
+          "url": "https://flash.jin10.com/detail/20260214122124232800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 5,
       "titles": [
@@ -988,8 +1170,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时05分 ~ 12时06分]"
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 13时41分]"
         },
         {
           "title": "美方代表团将于17日与伊朗方面会晤",
@@ -1034,103 +1216,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "北京",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "北京JDG战胜成都AG超玩会",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%90%E9%83%BDAG%E8%B6%85%E7%8E%A9%E4%BC%9A%20%E5%8C%97%E4%BA%ACJDG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 06时28分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9032元，较周四夜盘收盘涨1点。成交量305.62亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3055343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时39分 ~ 05时30分]"
-        },
-        {
-          "title": "周五（2月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9012元，较周四纽约尾盘跌31点，日内整体交投于6.8973-6.9109元区间。 本周，离岸人民币累计上涨大约290点，涨幅大约0.4%，2月12日美股盘前曾涨至6.8912元。",
-          "url": "https://wallstreetcn.com/livenews/3055388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时26分 ~ 09时27分]"
-        },
-        {
-          "title": "北京今年首批城市更新计划项目清单公布，共1321个",
-          "url": "https://wallstreetcn.com/livenews/3055436",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
-          "url": "https://wallstreetcn.com/livenews/3055377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时30分 ~ 07时26分]"
-        },
-        {
-          "title": "报道：OpenAI参与美国“无人机群”竞赛，提供语音控制技术",
-          "url": "https://wallstreetcn.com/livenews/3055331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 04时31分]"
-        },
-        {
-          "title": "市场消息：OpenAI的语音控制技术被选中用于美国无人机集群竞赛。",
-          "url": "https://flash.jin10.com/detail/20260214020718488800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
         }
       ]
     }
