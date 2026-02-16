@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T20:50:52.426237+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-02-16T22:03:20.036598+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时22分 ~ 20时50分]"
+          "appearance_count": 23,
+          "time_info": "[00时22分 ~ 22时03分]"
         },
         {
           "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
@@ -96,8 +96,21 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时50分 ~ 22时03分]"
+        },
+        {
+          "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
+          "url": "https://wallstreetcn.com/articles/3765774",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[15时50分 ~ 20时50分]"
+          "time_info": "[16时40分 ~ 22时03分]"
         },
         {
           "title": "影响万亿资本的市场叙事争夺：一边是“AI颠覆一切”，一边是“AI回报不够”",
@@ -112,19 +125,6 @@
           "time_info": "[00时22分 ~ 09时44分]"
         },
         {
-          "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
-          "url": "https://wallstreetcn.com/articles/3765774",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时40分 ~ 20时50分]"
-        },
-        {
           "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
           "url": "https://www.cls.cn/detail/2290580",
           "source": "财联社热门",
@@ -135,8 +135,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时22分 ~ 20时50分]"
+          "appearance_count": 23,
+          "time_info": "[00时22分 ~ 22时03分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -147,8 +147,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时43分 ~ 20时50分]"
+          "appearance_count": 13,
+          "time_info": "[09时43分 ~ 22时03分]"
         },
         {
           "title": "美军被曝在委内瑞拉军事行动中使用AI模型，开发公司回应质疑",
@@ -231,11 +231,42 @@
             7,
             9,
             13,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时50分 ~ 20时50分]"
+          "appearance_count": 8,
+          "time_info": "[15时50分 ~ 22时03分]"
+        },
+        {
+          "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            14,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时50分 ~ 22时03分]"
+        },
+        {
+          "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32611897",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时50分 ~ 22时03分]"
         },
         {
           "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
@@ -251,32 +282,15 @@
           "time_info": "[15时50分 ~ 20时50分]"
         },
         {
-          "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
-          "source": "澎湃新闻",
+          "title": "软件开发商达索系统法国巴黎股价维持超过7%的跌幅，投资者对人工智能（AI）的恐慌情绪挥之不去。",
+          "url": "https://wallstreetcn.com/livenews/3055756",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            16,
-            14,
-            12
+            5
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时50分 ~ 20时50分]"
-        },
-        {
-          "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32611897",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时50分 ~ 20时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "AI购票成春节档预售亮点，“千问帮我买电影票”订单量暴增500%",
@@ -298,11 +312,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时44分 ~ 20时50分]"
+          "appearance_count": 5,
+          "time_info": "[18时44分 ~ 22时03分]"
         },
         {
           "title": "AI定制祝福语惊艳你的朋友圈",
@@ -329,6 +344,18 @@
           "time_info": "[19时37分 ~ 20时50分]"
         },
         {
+          "title": "这波三角洲AI春晚真该留到今晚看",
+          "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E6%B3%A2%E4%B8%89%E8%A7%92%E6%B4%B2AI%E6%98%A5%E6%99%9A%E7%9C%9F%E8%AF%A5%E7%95%99%E5%88%B0%E4%BB%8A%E6%99%9A%E7%9C%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 22时03分]"
+        },
+        {
           "title": "斯坦福专家：美国正跨入“AI收获期”，2025年生产率增速有望翻倍至2.7%",
           "url": "https://wallstreetcn.com/articles/3765763",
           "source": "华尔街见闻",
@@ -351,15 +378,15 @@
           "time_info": "16时40分"
         },
         {
-          "title": "这波三角洲AI春晚真该留到今晚看",
-          "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E6%B3%A2%E4%B8%89%E8%A7%92%E6%B4%B2AI%E6%98%A5%E6%99%9A%E7%9C%9F%E8%AF%A5%E7%95%99%E5%88%B0%E4%BB%8A%E6%99%9A%E7%9C%8B",
-          "source": "bilibili 热搜",
+          "title": "德银：AI“输家”惨遭抛售的种子早在2022年就已种下",
+          "url": "https://wallstreetcn.com/livenews/3055751",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时50分"
+          "time_info": "22时03分"
         },
         {
           "title": "印度AI概念股Fractal Analytics上市首日重挫5%",
@@ -389,8 +416,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时03分 ~ 20时50分]"
+          "appearance_count": 9,
+          "time_info": "[14时03分 ~ 22时03分]"
         },
         {
           "title": "伊朗外长启程赴会，以总理预设四项条件",
@@ -513,6 +540,19 @@
           "time_info": "[17时47分 ~ 19时37分]"
         },
         {
+          "title": "伊朗革命卫队海军在霍尔木兹海峡举行军演",
+          "url": "https://wallstreetcn.com/livenews/3055730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 22时03分]"
+        },
+        {
           "title": "美国务卿：向中东派兵是为防御，仍尝试与伊朗达成协议",
           "url": "https://news.ifeng.com/c/8qmDbCkeOUn",
           "source": "凤凰网",
@@ -547,18 +587,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时21分 ~ 09时44分]"
-        },
-        {
-          "title": "伊朗革命卫队海军在霍尔木兹海峡举行军演",
-          "url": "https://wallstreetcn.com/livenews/3055730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 20时50分]"
         },
         {
           "title": "美官员称美军情报部门讨论支持以色列空袭伊朗",
@@ -898,6 +926,18 @@
           "time_info": "[19时37分 ~ 20时50分]"
         },
         {
+          "title": "美国国务卿卢比奥：与匈牙利的关系极为紧密。 我们不想把任何和平协议强加于乌克兰。 如果匈牙利出现任何金融困难，美国总统唐纳德·特朗普将准备好提供协助。",
+          "url": "https://wallstreetcn.com/livenews/3055729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 22时03分]"
+        },
+        {
           "title": "涉特朗普政府政策，希拉里与捷克副总理上演言语冲突",
           "url": "https://flash.jin10.com/detail/20260216131526064800",
           "source": "金十数据",
@@ -915,7 +955,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
         },
@@ -929,17 +969,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
-        },
-        {
-          "title": "美国国务卿卢比奥：与匈牙利的关系极为紧密。 我们不想把任何和平协议强加于乌克兰。 如果匈牙利出现任何金融困难，美国总统唐纳德·特朗普将准备好提供协助。",
-          "url": "https://wallstreetcn.com/livenews/3055729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时50分"
         },
         {
           "title": "美国国务卿鲁比奥：美国总统特朗普坚定致力于你们（匈牙利总理欧尔班）的成功。",
@@ -981,8 +1010,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时20分 ~ 20时50分]"
+          "appearance_count": 11,
+          "time_info": "[12时20分 ~ 22时03分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
