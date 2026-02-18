@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T17:41:57.791803+08:00",
-  "total_titles_processed": 1377,
+  "generated_at": "2026-02-18T18:41:05.241088+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -46,6 +46,17 @@
           "time_info": "[00时52分 ~ 07时24分]"
         },
         {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 18时41分]"
+        },
+        {
           "title": "特朗普宣布大消息，日本要当冤大头了",
           "url": "https://news.ifeng.com/c/8qq0daMEvoo",
           "source": "凤凰网",
@@ -77,17 +88,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时44分 ~ 07时24分]"
-        },
-        {
-          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
-          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 17时41分]"
         },
         {
           "title": "美国纽约市市长：美国总统特朗普政府再次解冻了7700万美元的纽约隧道资金。",
@@ -137,15 +137,38 @@
           "time_info": "07时24分"
         },
         {
-          "title": "特朗普女儿伊万卡中文拜年",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
+          "url": "https://wallstreetcn.com/livenews/3056288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
+          "url": "https://flash.jin10.com/detail/20260218180824939800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时41分"
+          "time_info": "18时41分"
+        },
+        {
+          "title": "特朗普女儿伊万卡中文拜年",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 18时41分]"
         },
         {
           "title": "特朗普关税引发巨额亏损，企业纷纷加大汇率套期保值力度",
@@ -207,6 +230,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时53分]"
+        },
+        {
+          "title": "泽连斯基抱怨：特朗普总是要求乌克兰让步，这不公平",
+          "url": "https://news.ifeng.com/c/8qqOE4vhF5L",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 18时41分]"
         },
         {
           "title": "侨民抢在特朗普新税生效前寄钱回家，菲律宾12月海外汇款创纪录",
@@ -280,17 +314,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时57分 ~ 14时59分]"
-        },
-        {
-          "title": "泽连斯基抱怨：特朗普总是要求乌克兰让步，这不公平",
-          "url": "https://news.ifeng.com/c/8qqOE4vhF5L",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
         },
         {
           "title": "美国副总统万斯：但伊朗人尚未愿意承认特朗普设定的某些红线。",
@@ -387,7 +410,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -472,20 +495,8 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
-        {
-          "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
-          "url": "https://www.cls.cn/detail/2290959",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时52分 ~ 17时41分]"
-        },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
           "url": "https://wallstreetcn.com/articles/3765810",
@@ -495,8 +506,33 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时45分 ~ 17时41分]"
+          "appearance_count": 10,
+          "time_info": "[09时45分 ~ 18时41分]"
+        },
+        {
+          "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
+          "url": "https://www.cls.cn/detail/2290959",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时52分 ~ 18时41分]"
+        },
+        {
+          "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
+          "url": "https://wallstreetcn.com/articles/3765830",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时16分 ~ 18时41分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -511,8 +547,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时52分 ~ 17时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时52分 ~ 18时41分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -525,21 +561,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时52分 ~ 17时41分]"
-        },
-        {
-          "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
-          "url": "https://wallstreetcn.com/articles/3765830",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时16分 ~ 17时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时52分 ~ 18时41分]"
         },
         {
           "title": "王菲化妆师改口问就是AI",
@@ -578,6 +601,30 @@
           "time_info": "[00时52分 ~ 06时25分]"
         },
         {
+          "title": "AI大战:鹅厂阿里双双出局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时53分 ~ 18时41分]"
+        },
+        {
+          "title": "AI眼中的二十四节气",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%8A%82%E6%B0%94%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 18时41分]"
+        },
+        {
           "title": "美国旧金山联储主席戴利：官员们应该等待关于AI影响的迹象。",
           "url": "https://wallstreetcn.com/livenews/3056106",
           "source": "华尔街见闻-快讯",
@@ -590,17 +637,16 @@
           "time_info": "[03时44分 ~ 04时31分]"
         },
         {
-          "title": "AI大战:鹅厂阿里双双出局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
-          "source": "贴吧",
+          "title": "化妆师回应王菲春晚妆造：问就是AI",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%96%E5%A6%86%E5%B8%88%E5%9B%9E%E5%BA%94%E7%8E%8B%E8%8F%B2%E6%98%A5%E6%99%9A%E5%A6%86%E9%80%A0%EF%BC%9A%E9%97%AE%E5%B0%B1%E6%98%AFAI",
+          "source": "百度热搜",
           "ranks": [
-            3,
-            4,
-            6
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时53分 ~ 17时41分]"
+          "appearance_count": 6,
+          "time_info": "[14时59分 ~ 18时41分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -614,15 +660,15 @@
           "time_info": "07时24分"
         },
         {
-          "title": "AI眼中的二十四节气",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%8A%82%E6%B0%94%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "苹果股价在AI热潮中与纳指脱钩 分析师：这是好事",
+          "url": "https://flash.jin10.com/detail/20260218181224442800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时41分"
+          "time_info": "18时41分"
         },
         {
           "title": "印度外交部发言人：印度总理莫迪与西班牙首相桑切斯于2026年印度AI影响峰会期间进行了会晤。两位领导人讨论了旨在深化印西伙伴关系的广泛议题。讨论的重点领域包括贸易与经济、数字化、创新、健康、气候行动和教育等。总理对西班牙在加强印欧关系方面的持续支持表示赞赏。",
@@ -676,16 +722,15 @@
           "time_info": "[12时16分 ~ 14时59分]"
         },
         {
-          "title": "化妆师回应王菲春晚妆造：问就是AI",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%96%E5%A6%86%E5%B8%88%E5%9B%9E%E5%BA%94%E7%8E%8B%E8%8F%B2%E6%98%A5%E6%99%9A%E5%A6%86%E9%80%A0%EF%BC%9A%E9%97%AE%E5%B0%B1%E6%98%AFAI",
-          "source": "百度热搜",
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            15
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时59分 ~ 17时41分]"
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 18时41分]"
         },
         {
           "title": "千问3.5引爆全球AI产业链，英伟达、华为昇腾、AMD、苹果等第一时间适配",
@@ -809,17 +854,6 @@
           "time_info": "05时31分"
         },
         {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
           "title": "Anthropic发布新AI模型：操控计算机能力大幅提升",
           "url": "https://wallstreetcn.com/livenews/3056082",
           "source": "华尔街见闻-快讯",
@@ -933,7 +967,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -993,11 +1027,12 @@
             11,
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时45分 ~ 17时41分]"
+          "appearance_count": 10,
+          "time_info": "[09时45分 ~ 18时41分]"
         },
         {
           "title": "美军 18 架战机飞向中东，伊朗举行军演，谈判前夕互亮「底牌」，双方有哪些核心分歧？最终结果可能如何？",
@@ -1006,11 +1041,12 @@
           "ranks": [
             11,
             6,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时16分 ~ 17时41分]"
+          "appearance_count": 9,
+          "time_info": "[12时16分 ~ 18时41分]"
         },
         {
           "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
@@ -1021,8 +1057,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时16分 ~ 17时41分]"
+          "appearance_count": 9,
+          "time_info": "[12时16分 ~ 18时41分]"
         },
         {
           "title": "伊朗说永不寻求核武并随时接受核查",
@@ -1036,6 +1072,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时53分 ~ 17时41分]"
+        },
+        {
+          "title": "土耳其总统埃尔多安：针对伊朗的新战争对任何人都没有好处。",
+          "url": "https://flash.jin10.com/detail/20260218181307784800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "伊美技术层面谈判已开始，伊朗军演进行中",
@@ -1099,6 +1146,18 @@
           "time_info": "[01时53分 ~ 02时50分]"
         },
         {
+          "title": "伊朗将与俄罗斯举行海上联合军演",
+          "url": "https://wallstreetcn.com/livenews/3056261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 18时41分]"
+        },
+        {
           "title": "哈梅内伊：美国无法摧毁伊朗",
           "url": "https://www.toutiao.com/trending/7606880300451086355/",
           "source": "今日头条",
@@ -1143,17 +1202,6 @@
           "time_info": "05时31分"
         },
         {
-          "title": "伊朗将与俄罗斯举行海上联合军演",
-          "url": "https://wallstreetcn.com/livenews/3056261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
           "title": "伊朗总统：伊朗愿就其核工业和平性质接受任何形式核查",
           "url": "https://flash.jin10.com/detail/20260218023510875800",
           "source": "金十数据",
@@ -1171,7 +1219,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -1182,7 +1230,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -1259,7 +1307,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -1270,7 +1318,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         }
@@ -1278,7 +1326,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "檀健次新歌北京台春晚首唱",
@@ -1435,6 +1483,17 @@
           "time_info": "16时38分"
         },
         {
+          "title": "美团旅行：春节出行迎节中首轮高峰，北京、成都、广州、重庆跻身热门目的地",
+          "url": "https://wallstreetcn.com/livenews/3056271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "北京卫视春晚热闹有年味",
           "url": "https://www.toutiao.com/trending/7607496944634544171/",
           "source": "今日头条",
@@ -1458,7 +1517,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         }
