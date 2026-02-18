@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-19T00:58:16.601300+08:00",
-  "total_titles_processed": 319,
+  "generated_at": "2026-02-19T01:52:30.864685+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
-          "url": "https://wallstreetcn.com/articles/3765810",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时58分]"
-        },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
           "url": "https://www.cls.cn/detail/2290959",
@@ -26,19 +15,54 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时52分]"
+        },
+        {
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时52分]"
         },
         {
           "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
           "url": "https://wallstreetcn.com/articles/3765830",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时52分]"
+        },
+        {
+          "title": "英伟达深入印度市场，在当地构建一系列合作伙伴关系、作出基础设施承诺。该公司向印度数据中心公司Yotta Data Services和人工智能（AI）云平台公司E2E Networks Ltd.提供先进的Blackwell Ultra GPUs。",
+          "url": "https://wallstreetcn.com/livenews/3056423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "AI先驱李飞飞的初创公司World Labs融资10亿美元，英伟达参投",
+          "url": "https://wallstreetcn.com/livenews/3056417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -48,8 +72,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时52分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -59,69 +83,96 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时52分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时52分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时52分]"
         },
         {
           "title": "AI时代或将削减对招聘人员的需求，人力资源巨头面临考验",
           "url": "https://wallstreetcn.com/livenews/3056391",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 01时52分]"
+        },
+        {
+          "title": "爱尔兰财政部：AI应用已冲击爱尔兰毕业生就业市场",
+          "url": "https://wallstreetcn.com/livenews/3056415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时58分"
+          "time_info": "01时52分"
+        },
+        {
+          "title": "谷歌与苹果加码生成式AI，进军音乐创作领域",
+          "url": "https://wallstreetcn.com/livenews/3056395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗将迅速落实伊俄全面战略合作计划",
           "url": "https://www.toutiao.com/trending/7607948856885624895/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时52分]"
         },
         {
           "title": "伊朗与俄罗斯将举行海上联合军演",
           "url": "https://m.thepaper.cn/newsDetail_forward_32629571",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时52分]"
         },
         {
           "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
@@ -131,8 +182,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时52分]"
+        },
+        {
+          "title": "美媒：对伊朗开展军事行动“迫在眉睫”",
+          "url": "https://news.ifeng.com/c/8qr5IKOpqxr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
         },
         {
           "title": "伊朗首都附近发生火灾，靠近军事设施",
@@ -141,7 +203,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
         }
@@ -149,7 +211,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普、拜登、奥巴马、克林顿齐发声",
@@ -163,13 +225,24 @@
           "time_info": "[00时57分 ~ 00时58分]"
         },
         {
+          "title": "机构：德国国债正取代日元，成为抗衡“特朗普冲击”的避险新宠",
+          "url": "https://wallstreetcn.com/livenews/3056416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
           "title": "白宫新闻处宣布，美国总统特朗普将于2月24日向参议院和众议院发表国情咨文。",
           "url": "https://flash.jin10.com/detail/20260218234329184800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
         },
@@ -180,7 +253,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
         }
@@ -188,8 +261,19 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "以色列政治-安全内阁原定于周四举行的会议已改期至周日晚18:30（北京时间次日00:30）。",
+          "url": "https://flash.jin10.com/detail/20260219011635947800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
         {
           "title": "35岁徐梦桃夺冠分数超过北京冬奥",
           "url": "https://www.toutiao.com/trending/7608194986395307566/",
@@ -198,8 +282,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 00时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时52分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.72%，暂报2816.96点。 MarketVectorTM数字资产100中盘指数涨0.27%，报2819.24点，北京时间23:41曾冲高至2858.83点。 MarketVector数字资产100指数跌0.67%，报13555.77点。 目前，Solana跌3.29%，狗狗币跌0.77%，XRP跌1.48%。 比特币跌0.93%，暂报67072美元；以太坊跌1.26%，暂报1969.18美元。",
+          "url": "https://wallstreetcn.com/livenews/3056412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
         }
       ]
     }
