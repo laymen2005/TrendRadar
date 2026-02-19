@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T13:56:02.546381+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2026-02-19T14:55:03.997086+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 13时56分]"
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 14时55分]"
         },
         {
           "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
@@ -26,8 +26,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时15分 ~ 13时56分]"
+          "appearance_count": 6,
+          "time_info": "[12时15分 ~ 14时55分]"
+        },
+        {
+          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
+          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时15分 ~ 14时55分]"
         },
         {
           "title": "特朗普、拜登、奥巴马、克林顿齐发声",
@@ -85,17 +96,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时45分 ~ 04时45分]"
-        },
-        {
-          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
-          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时15分 ~ 13时56分]"
         },
         {
           "title": "美国总统特朗普援引《国防生产法》， 签署行政命令，指示美国农业部和国防部确保元素磷、除草剂充足。",
@@ -194,6 +194,17 @@
           "time_info": "[05时31分 ~ 06时27分]"
         },
         {
+          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
+          "url": "https://wallstreetcn.com/livenews/3056582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "加州就终止能源中心资金起诉特朗普",
           "url": "https://flash.jin10.com/detail/20260219084435962800",
           "source": "金十数据",
@@ -244,7 +255,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -381,6 +392,17 @@
           "time_info": "03时44分"
         },
         {
+          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
+          "url": "https://flash.jin10.com/detail/20260219140818011800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "美国总统特朗普兜售股市上涨。",
           "url": "https://wallstreetcn.com/livenews/3056468",
           "source": "华尔街见闻-快讯",
@@ -472,8 +494,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时57分 ~ 13时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时57分 ~ 14时55分]"
         },
         {
           "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
@@ -514,6 +536,17 @@
           "time_info": "[00时57分 ~ 09时44分]"
         },
         {
+          "title": "西方跳脚:东大AI惹怒上帝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时15分 ~ 14时55分]"
+        },
+        {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
@@ -522,8 +555,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时57分 ~ 13时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时57分 ~ 14时55分]"
+        },
+        {
+          "title": "终末地建模,AI偷偷加料",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 14时55分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -537,8 +583,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时57分 ~ 13时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时57分 ~ 14时55分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -552,8 +598,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时57分 ~ 13时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时57分 ~ 14时55分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -567,30 +613,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时45分 ~ 09时44分]"
-        },
-        {
-          "title": "西方跳脚:东大AI惹怒上帝",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时15分 ~ 13时56分]"
-        },
-        {
-          "title": "终末地建模,AI偷偷加料",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 13时56分]"
         },
         {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
@@ -610,7 +632,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -624,17 +646,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
-        },
-        {
-          "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
-          "url": "https://wallstreetcn.com/livenews/3056579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
         },
         {
           "title": "AI 编程会替代程序员吗?",
@@ -664,6 +675,18 @@
           "time_info": "[06时27分 ~ 07时25分]"
         },
         {
+          "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
+          "url": "https://wallstreetcn.com/livenews/3056579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 14时55分]"
+        },
+        {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
           "url": "https://wallstreetcn.com/livenews/3056438",
           "source": "华尔街见闻-快讯",
@@ -675,6 +698,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时45分 ~ 04时45分]"
+        },
+        {
+          "title": "印度AI峰会大学展示泡沫塑料版无人机",
+          "url": "https://www.toutiao.com/trending/7608301157190156351/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时55分 ~ 14时55分]"
         },
         {
           "title": "AI先驱李飞飞的初创公司World Labs融资10亿美元，英伟达参投",
@@ -702,17 +737,6 @@
           "time_info": "[05时31分 ~ 07时25分]"
         },
         {
-          "title": "印度AI峰会大学展示泡沫塑料版无人机",
-          "url": "https://www.toutiao.com/trending/7608301157190156351/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
-        },
-        {
           "title": "据华尔街日报：Meta启动两份超级协议，以应对人工智能（AI）勒索。",
           "url": "https://flash.jin10.com/detail/20260219051053365800",
           "source": "金十数据",
@@ -735,6 +759,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 02时45分]"
+        },
+        {
+          "title": "国版“OpenClaw” 网易有道 LobsterAI宣布开源",
+          "url": "https://wallstreetcn.com/livenews/3056572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 14时55分]"
         },
         {
           "title": "扎克伯格出庭：美国法官威胁将对任何使用AI眼镜录像的人处以蔑视法庭罪",
@@ -796,17 +832,6 @@
           "time_info": "[03时44分 ~ 04时45分]"
         },
         {
-          "title": "国版“OpenClaw” 网易有道 LobsterAI宣布开源",
-          "url": "https://wallstreetcn.com/livenews/3056572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
           "title": "美国宣布与网络安全和AI风险管理相关的倡议。",
           "url": "https://wallstreetcn.com/livenews/3056433",
           "source": "华尔街见闻-快讯",
@@ -835,7 +860,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -876,7 +901,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "美媒：对伊朗开展军事行动“迫在眉睫”",
@@ -899,11 +924,12 @@
             8,
             7,
             10,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时57分 ~ 13时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时57分 ~ 14时55分]"
         },
         {
           "title": "伊朗与俄罗斯将举行海上联合军演",
@@ -915,8 +941,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时57分 ~ 13时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时57分 ~ 14时55分]"
         },
         {
           "title": "美油大涨5%！美以或对伊朗联合袭击，白宫称谈判取得进展、但关键议题相距甚远",
@@ -927,8 +953,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时15分 ~ 13时56分]"
+          "appearance_count": 6,
+          "time_info": "[12时15分 ~ 14时55分]"
+        },
+        {
+          "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
+          "url": "https://wallstreetcn.com/articles/3765857",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时15分 ~ 14时55分]"
         },
         {
           "title": "美国国务院：美国国务卿鲁比奥正采取措施，对18名伊朗政权官员和电信行业领导人实施签证限制。",
@@ -940,28 +979,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
-        },
-        {
-          "title": "俄外长：美国对伊朗的任何新打击将产生严重后果",
-          "url": "https://wallstreetcn.com/livenews/3056575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "伊朗政府发言人：伊国防部队已进入全面战备状态",
-          "url": "https://wallstreetcn.com/livenews/3056574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
         },
         {
           "title": "据华尔街日报：官员称，美国正从叙利亚撤出所有部队，部队将在未来两个月内从剩余地点撤军。消息人士称，撤军与为可能袭击伊朗而部署部队无关。",
@@ -976,16 +993,40 @@
           "time_info": "[04时45分 ~ 05时31分]"
         },
         {
-          "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
-          "url": "https://wallstreetcn.com/articles/3765857",
-          "source": "华尔街见闻",
+          "title": "俄外长：美国对伊朗的任何新打击将产生严重后果",
+          "url": "https://wallstreetcn.com/livenews/3056575",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 14时55分]"
+        },
+        {
+          "title": "伊朗政府发言人：伊国防部队已进入全面战备状态",
+          "url": "https://wallstreetcn.com/livenews/3056574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 14时55分]"
+        },
+        {
+          "title": "伊朗：已进入全面战备状态",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%85%A8%E9%9D%A2%E6%88%98%E5%A4%87%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时15分 ~ 13时56分]"
+          "time_info": "[13时55分 ~ 14时55分]"
         },
         {
           "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
@@ -1035,15 +1076,26 @@
           "time_info": "[03时44分 ~ 04时45分]"
         },
         {
-          "title": "伊朗：已进入全面战备状态",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%85%A8%E9%9D%A2%E6%88%98%E5%A4%87%E7%8A%B6%E6%80%81",
-          "source": "百度热搜",
+          "title": "伊朗备战",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%87%E6%88%98%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
           "ranks": [
-            22
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
+          "time_info": "[14时54分 ~ 14时55分]"
+        },
+        {
+          "title": "俄外长警告美若打击伊朗后果严重",
+          "url": "https://www.toutiao.com/trending/7608026768025157678/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 14时55分]"
         },
         {
           "title": "曝美军准备“最早本周末打伊朗”",
@@ -1118,7 +1170,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -1129,7 +1181,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -1228,11 +1280,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 13时56分]"
+          "appearance_count": 3,
+          "time_info": "[07时25分 ~ 14时55分]"
         },
         {
           "title": "提醒：北京时间03:00，美联储将发布会议纪要。",
@@ -1299,6 +1352,19 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3056559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 14时55分]"
+        },
+        {
           "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
           "url": "https://wallstreetcn.com/livenews/3056432",
           "source": "华尔街见闻-快讯",
@@ -1322,18 +1388,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时25分]"
-        },
-        {
-          "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3056559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 13时56分]"
         },
         {
           "title": "富时罗素正就IPO“快速纳入”规则征求市场意见。富时罗素提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
