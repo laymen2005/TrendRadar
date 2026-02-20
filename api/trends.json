@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T19:28:32.873495+08:00",
-  "total_titles_processed": 1504,
+  "generated_at": "2026-02-20T20:44:40.317145+08:00",
+  "total_titles_processed": 1603,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时28分 ~ 19时28分]"
+          "appearance_count": 11,
+          "time_info": "[09时28分 ~ 20时44分]"
         },
         {
           "title": "特朗普：高市早苗“特别喜欢我”",
@@ -32,17 +32,6 @@
           "time_info": "[12时10分 ~ 18时32分]"
         },
         {
-          "title": "特朗普开了前所未有的一个会",
-          "url": "https://news.ifeng.com/c/8qtKTnIR6kQ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 18时32分]"
-        },
-        {
           "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
           "url": "https://news.ifeng.com/c/8qtXIx1u77H",
           "source": "凤凰网",
@@ -50,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时10分 ~ 19时28分]"
+          "appearance_count": 10,
+          "time_info": "[12时10分 ~ 20时44分]"
         },
         {
           "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
@@ -64,8 +53,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时10分 ~ 20时44分]"
+        },
+        {
+          "title": "特朗普开了前所未有的一个会",
+          "url": "https://news.ifeng.com/c/8qtKTnIR6kQ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[12时10分 ~ 19时28分]"
+          "time_info": "[09时28分 ~ 18时32分]"
         },
         {
           "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
@@ -120,7 +120,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -131,7 +131,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -449,6 +449,18 @@
           "time_info": "[02时44分 ~ 04时26分]"
         },
         {
+          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
+          "url": "https://www.zhihu.com/question/2008125477047509192",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 20时44分]"
+        },
+        {
           "title": "美国总统特朗普：乐意让俄罗斯加入“和平委员会”。",
           "url": "https://flash.jin10.com/detail/20260220034153793800",
           "source": "金十数据",
@@ -531,17 +543,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时25分 ~ 09时28分]"
-        },
-        {
-          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
-          "url": "https://www.zhihu.com/question/2008125477047509192",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时28分]"
         },
         {
           "title": "据AXIOS网站：特朗普在加沙问题和平委员会首次会议上承诺投入100亿美元。",
@@ -1108,7 +1109,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
@@ -1131,8 +1132,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时28分 ~ 19时28分]"
+          "appearance_count": 11,
+          "time_info": "[09时28分 ~ 20时44分]"
         },
         {
           "title": "美油大涨5%！美以或对伊朗联合袭击，白宫称谈判取得进展、但关键议题相距甚远",
@@ -1154,11 +1155,24 @@
             19,
             2,
             1,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时10分 ~ 19时28分]"
+          "appearance_count": 10,
+          "time_info": "[12时10分 ~ 20时44分]"
+        },
+        {
+          "title": "美军在中东集结近 23 年来最大空中兵力，伊朗致信联合国称若遭军事侵略将反击，局势会怎样发展？",
+          "url": "https://www.zhihu.com/question/2008093003923808772",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时10分 ~ 20时44分]"
         },
         {
           "title": "俄外长：美国若打击伊朗后果严重",
@@ -1178,6 +1192,20 @@
           "time_info": "[00时44分 ~ 09时28分]"
         },
         {
+          "title": "伊朗致函联合国",
+          "url": "https://www.douyin.com/hot/2406601",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5,
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时50分 ~ 20时44分]"
+        },
+        {
           "title": "原油贵金属大幅收涨 消息称美以或将联合袭击伊朗 | 环球市场",
           "url": "https://www.cls.cn/detail/2291663",
           "source": "财联社热门",
@@ -1187,8 +1215,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时44分 ~ 19时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时44分 ~ 20时44分]"
         },
         {
           "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
@@ -1249,31 +1277,6 @@
           "time_info": "[00时44分 ~ 09时28分]"
         },
         {
-          "title": "伊朗致函联合国",
-          "url": "https://www.douyin.com/hot/2406601",
-          "source": "抖音",
-          "ranks": [
-            6,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时50分 ~ 19时28分]"
-        },
-        {
-          "title": "美军在中东集结近 23 年来最大空中兵力，伊朗致信联合国称若遭军事侵略将反击，局势会怎样发展？",
-          "url": "https://www.zhihu.com/question/2008093003923808772",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时10分 ~ 19时28分]"
-        },
-        {
           "title": "伊朗",
           "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -1318,6 +1321,17 @@
           "time_info": "[12时10分 ~ 15时44分]"
         },
         {
+          "title": "伊朗石油部长：与美国石油合作并非不可能",
+          "url": "https://news.ifeng.com/c/8qtwXLy365G",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 20时44分]"
+        },
+        {
           "title": "俄罗斯：已准备好接收伊朗浓缩铀",
           "url": "https://news.ifeng.com/c/8qtFgNSIZ3k",
           "source": "凤凰网",
@@ -1329,6 +1343,42 @@
           "time_info": "09时28分"
         },
         {
+          "title": "伊朗外长阿拉格齐：我们并不把美国人视为敌人。我们认为美国政府对伊朗的政策是敌对的。当这些敌对行动停止时，我们或许可以考虑建立另一种关系。",
+          "url": "https://flash.jin10.com/detail/20260220202745048800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：美国并未要求伊朗完全停止铀浓缩活动。 伊朗并未提出“零浓缩”选项。 会谈旨在确保伊朗核计划和平性质。",
+          "url": "https://wallstreetcn.com/livenews/3056936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "伊朗石油部长：伊朗与美国石油合作并非不可能",
+          "url": "https://wallstreetcn.com/livenews/3056916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时36分 ~ 20时44分]"
+        },
+        {
           "title": "伊朗致信联合国：不寻求战争，若遭军事侵略将反击",
           "url": "https://news.ifeng.com/c/8qt4n1oaql6",
           "source": "凤凰网",
@@ -1338,30 +1388,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
-        },
-        {
-          "title": "伊朗石油部长：与美国石油合作并非不可能",
-          "url": "https://news.ifeng.com/c/8qtwXLy365G",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "伊朗石油部长：伊朗与美国石油合作并非不可能",
-          "url": "https://wallstreetcn.com/livenews/3056916",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时36分 ~ 19时28分]"
         },
         {
           "title": "伊朗致信联合国：如遭侵略将回击",
@@ -1508,6 +1534,28 @@
           "time_info": "17时36分"
         },
         {
+          "title": "伊朗外长阿拉格齐：会谈旨在确保伊朗核计划用于和平目的。",
+          "url": "https://flash.jin10.com/detail/20260220194941667800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：伊朗并未提出“零浓缩”选项。",
+          "url": "https://flash.jin10.com/detail/20260220194757392800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "伊朗致联合国秘书长的信：伊朗并不寻求紧张局势或战争，也不会率先发动战争。",
           "url": "https://flash.jin10.com/detail/20260220062312689800",
           "source": "金十数据",
@@ -1517,6 +1565,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "市场消息：伊朗外长阿拉格齐表示，在日内瓦的会谈中，美国谈判代表威特科夫和库什纳并未向伊朗提出“零铀浓缩”的要求。",
+          "url": "https://flash.jin10.com/detail/20260220194543908800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "伊朗石油部长：伊朗与美国石油合作并非不可能",
@@ -1566,7 +1625,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -1593,6 +1652,21 @@
           "time_info": "[00时44分 ~ 12时10分]"
         },
         {
+          "title": "澎湃AI晚新闻丨2026年2月19日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32633724",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            14,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时10分 ~ 20时44分]"
+        },
+        {
           "title": "西方跳脚:东大AI惹怒上帝",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
           "source": "贴吧",
@@ -1603,8 +1677,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时44分 ~ 19时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时44分 ~ 20时44分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -1617,8 +1691,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时44分 ~ 19时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时44分 ~ 20时44分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -1652,25 +1726,12 @@
             1,
             2,
             13,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时48分 ~ 19时28分]"
-        },
-        {
-          "title": "澎湃AI晚新闻丨2026年2月19日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32633724",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时10分 ~ 19时28分]"
+          "appearance_count": 8,
+          "time_info": "[14时48分 ~ 20时44分]"
         },
         {
           "title": "男子用AI鉴定玉石8个月收入上百万",
@@ -1715,7 +1776,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -1795,8 +1856,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时36分 ~ 19时28分]"
+          "appearance_count": 4,
+          "time_info": "[17时36分 ~ 20时44分]"
         },
         {
           "title": "什么样的软件会被AI淘汰？",
@@ -1849,6 +1910,18 @@
           "time_info": "[16时35分 ~ 17时36分]"
         },
         {
+          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
+          "url": "https://wallstreetcn.com/articles/3765898",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 20时44分]"
+        },
+        {
           "title": "微软：XAI Grok 4.1快速版现已在Microsoft Copilot Studio中可用。",
           "url": "https://flash.jin10.com/detail/20260220043316320800",
           "source": "金十数据",
@@ -1860,26 +1933,26 @@
           "time_info": "05时34分"
         },
         {
-          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
-          "url": "https://wallstreetcn.com/articles/3765898",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
           "url": "https://www.cls.cn/detail/2291704",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
+          "url": "https://www.cls.cn/detail/2292111",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "港股AI应用股走强",
@@ -1891,6 +1964,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "如何看待微软预测 18 个月内白领将被 AI 取代？",
+          "url": "https://www.zhihu.com/question/2005731383423824873",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629236",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "欧洲头部AI公司的CEO警告：AI由少数企业主导恐致市场滥用",
@@ -1939,9 +2034,132 @@
       ]
     },
     {
-      "keyword_group": "北京",
-      "match_count": 7,
+      "keyword_group": "chatgpt openai",
+      "match_count": 9,
       "titles": [
+        {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 12时10分]"
+        },
+        {
+          "title": "OpenAI CEO Sam Altman：对儿童社交媒体的限制将是好事。",
+          "url": "https://wallstreetcn.com/livenews/3056937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "OpenAI：关于芯片供应，公司已做到“对未来需求心中有数”",
+          "url": "https://wallstreetcn.com/livenews/3056822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 09时28分]"
+        },
+        {
+          "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
+          "url": "https://flash.jin10.com/detail/20260220020324756800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时44分 ~ 04时26分]"
+        },
+        {
+          "title": "英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。英伟达投资是OpenAI新一轮融资的一部分。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3056832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 12时10分]"
+        },
+        {
+          "title": "印度AI峰会出现尴尬一幕：OpenAI与Anthropic的老板们拒绝牵手",
+          "url": "https://wallstreetcn.com/livenews/3056737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时26分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：对儿童社交媒体的限制将是好事。",
+          "url": "https://flash.jin10.com/detail/20260220200907201800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "英伟达接近敲定300亿美元投资OpenAI 取代原1000亿合作计划",
+          "url": "https://flash.jin10.com/detail/20260220082223005800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "据英国金融时报：英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。",
+          "url": "https://flash.jin10.com/detail/20260220081800116800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "北京",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "北京多条地铁线将延长运营时间",
+          "url": "https://www.toutiao.com/trending/7608898942487101450/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
         {
           "title": "周四（2月19日）纽约尾盘，ICE美元指数涨0.20%，报97.894点，北京时间17:08跌至97.572点刷新日低，随后逐步上扬，22:25刷新日高至98.074点。 彭博美元指数涨0.16%，报1191.07点，日内交投区间为1188.01-1192.71点。",
           "url": "https://wallstreetcn.com/livenews/3056755",
@@ -2029,96 +2247,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
-          "url": "https://wallstreetcn.com/articles/3765864",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 12时10分]"
-        },
-        {
-          "title": "OpenAI：关于芯片供应，公司已做到“对未来需求心中有数”",
-          "url": "https://wallstreetcn.com/livenews/3056822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 09时28分]"
-        },
-        {
-          "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
-          "url": "https://flash.jin10.com/detail/20260220020324756800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时44分 ~ 04时26分]"
-        },
-        {
-          "title": "英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。英伟达投资是OpenAI新一轮融资的一部分。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3056832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 12时10分]"
-        },
-        {
-          "title": "印度AI峰会出现尴尬一幕：OpenAI与Anthropic的老板们拒绝牵手",
-          "url": "https://wallstreetcn.com/livenews/3056737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时36分 ~ 04时26分]"
-        },
-        {
-          "title": "英伟达接近敲定300亿美元投资OpenAI 取代原1000亿合作计划",
-          "url": "https://flash.jin10.com/detail/20260220082223005800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "据英国金融时报：英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。",
-          "url": "https://flash.jin10.com/detail/20260220081800116800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "河北",
       "match_count": 3,
       "titles": [
@@ -2144,22 +2272,24 @@
           "ranks": [
             7,
             4,
-            9
+            9,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时36分 ~ 19时28分]"
+          "appearance_count": 4,
+          "time_info": "[17时36分 ~ 20时44分]"
         },
         {
           "title": "河北女婿江西过年 全是辣椒难下筷",
           "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E5%A5%B3%E5%A9%BF%E6%B1%9F%E8%A5%BF%E8%BF%87%E5%B9%B4+%E5%85%A8%E6%98%AF%E8%BE%A3%E6%A4%92%E9%9A%BE%E4%B8%8B%E7%AD%B7",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 20时44分]"
         }
       ]
     },
