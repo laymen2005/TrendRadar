@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-24T06:35:59.106565+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-02-24T07:31:08.399189+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 43,
       "titles": [
-        {
-          "title": "加州州长：特朗普正摧毁美国经济",
-          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时35分]"
-        },
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
           "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
@@ -27,15 +16,27 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时31分]"
         },
         {
           "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
           "url": "https://wallstreetcn.com/articles/3765969",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时31分]"
+        },
+        {
+          "title": "加州州长：特朗普正摧毁美国经济",
+          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
+          "source": "凤凰网",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -50,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时31分]"
         },
         {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
@@ -63,19 +64,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时35分]"
-        },
-        {
-          "title": "美国国会预算办公室主任斯瓦格尔：静待特朗普政府作出决定，一旦获得最新预测数据将及时公布。",
-          "url": "https://flash.jin10.com/detail/20260224061914251800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时31分]"
         },
         {
           "title": "市场消息：美国总统特使威特科夫、特朗普女婿库什纳计划于周四在日内瓦举行美伊会谈。",
@@ -98,17 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        },
-        {
-          "title": "美国国会预算办公室（CBO）主任Swagel：正追踪特朗普政府的关税计划。 一旦掌握情况，将（针对联邦政府赤字问题）提供最新预期。 将静观特朗普政府会做出怎样的决定。",
-          "url": "https://wallstreetcn.com/livenews/3057679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
         },
         {
           "title": "美国参议院民主党成员Warren：总统特朗普的政府考虑出售联邦学生贷款债务组合。",
@@ -134,6 +113,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时35分]"
+        },
+        {
+          "title": "美国国会预算办公室主任斯瓦格尔：静待特朗普政府作出决定，一旦获得最新预测数据将及时公布。",
+          "url": "https://flash.jin10.com/detail/20260224061914251800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时31分]"
         },
         {
           "title": "美国众议长约翰逊：国会山不可能将总统特朗普的关税写入法律。（Politico）",
@@ -172,6 +163,18 @@
           "time_info": "[05时40分 ~ 06时35分]"
         },
         {
+          "title": "美国国会预算办公室（CBO）主任Swagel：正追踪特朗普政府的关税计划。 一旦掌握情况，将（针对联邦政府赤字问题）提供最新预期。 将静观特朗普政府会做出怎样的决定。",
+          "url": "https://wallstreetcn.com/livenews/3057679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时31分]"
+        },
+        {
           "title": "德国10年期国债收益率跌约3个基点，特朗普关税带来的不确定性迫使投资者避险",
           "url": "https://wallstreetcn.com/livenews/3057598",
           "source": "华尔街见闻-快讯",
@@ -194,6 +197,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 04时46分]"
+        },
+        {
+          "title": "特朗普否认美军将领“反对与伊朗开战”",
+          "url": "https://news.ifeng.com/c/8qzrgfsJcR3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "欧盟方面警告称，特朗普的新关税政策违反了现有的贸易协定。",
+          "url": "https://flash.jin10.com/detail/20260224055403039800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时31分]"
+        },
+        {
+          "title": "特朗普否认美军将领“反对与伊朗开战”",
+          "url": "https://wallstreetcn.com/livenews/3057674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时31分]"
         },
         {
           "title": "据华尔街日报记者：五角大楼向特朗普总统表达了对卷入与伊朗的长期军事行动的担忧，并指出正在考虑的战争计划存在风险，包括美国及其盟国的人员伤亡、防空力量削弱以及军队不堪重负。",
@@ -232,15 +270,15 @@
           "time_info": "[05时40分 ~ 06时35分]"
         },
         {
-          "title": "欧盟方面警告称，特朗普的新关税政策违反了现有的贸易协定。",
-          "url": "https://flash.jin10.com/detail/20260224055403039800",
-          "source": "金十数据",
+          "title": "联邦快递起诉美国，在最高法院推翻总统特朗普关税政策之后寻求政府全额退款。",
+          "url": "https://wallstreetcn.com/livenews/3057695",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "07时31分"
         },
         {
           "title": "美国众议院议长约翰逊称：不认为特朗普政府应该退还关税款项。（CNN）",
@@ -254,15 +292,26 @@
           "time_info": "04时46分"
         },
         {
-          "title": "特朗普否认美军将领“反对与伊朗开战”",
-          "url": "https://wallstreetcn.com/livenews/3057674",
+          "title": "美国总统特朗普将于周五访问德克萨斯州Corpus Christi，发表“以能源和经济为主题”的演讲。（MS Now）",
+          "url": "https://wallstreetcn.com/livenews/3057693",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "07时31分"
+        },
+        {
+          "title": "欧盟警告称特朗普的新关税政策违反了贸易协定",
+          "url": "https://flash.jin10.com/detail/20260224065522123800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "欧盟警告称：美国总统特朗普的最新关税政策破坏双边贸易协议。",
@@ -271,9 +320,42 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
+        },
+        {
+          "title": "美媒：特朗普政府考虑对六大行业征收新的国家安全关税 涵盖电池、生铁与铁质配件等",
+          "url": "https://flash.jin10.com/detail/20260224065013551800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "据华尔街日报：特朗普政府正在考虑对六种行业征收新的“国家安全关税”。",
+          "url": "https://flash.jin10.com/detail/20260224064535357800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "报道：特朗普考虑对大约六个行业加征关税",
+          "url": "https://wallstreetcn.com/livenews/3057690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "道指暴跌超600点，特朗普在周末上调全球关税——恐将让全球贸易重新陷入混乱",
@@ -304,9 +386,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
+        },
+        {
+          "title": "美媒：尽管特朗普发文 但并无美国医院船奉命前往格陵兰岛",
+          "url": "https://flash.jin10.com/detail/20260224062743419800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "机构：特朗普关税引发不确定性，金价有望再创新高",
@@ -386,6 +479,17 @@
           "time_info": "02时07分"
         },
         {
+          "title": "欧盟警告称：特朗普的新关税政策破坏了双方贸易协定",
+          "url": "https://wallstreetcn.com/livenews/3057673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
           "title": "美国总统特朗普所谓的“和平委员会”研究为加沙发行稳定币。 关于“加沙稳定币”的谈判还处于初级阶段。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3057572",
           "source": "华尔街见闻-快讯",
@@ -400,7 +504,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -410,8 +514,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时31分]"
         },
         {
           "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
@@ -425,19 +529,34 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时31分]"
         },
         {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
           "url": "https://wallstreetcn.com/articles/3765970",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时31分]"
+        },
+        {
+          "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
+          "url": "https://www.cls.cn/detail/2292870",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时06分 ~ 07时31分]"
         },
         {
           "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
@@ -449,21 +568,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时35分]"
-        },
-        {
-          "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
-          "url": "https://www.cls.cn/detail/2292870",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时06分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时31分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -472,9 +578,43 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时35分 ~ 07时31分]"
+        },
+        {
+          "title": "摩根大通CEO戴蒙在摩根大通投资者日发表讲话：考虑到人工智能，已制定重新部署员工的计划。关于AI导致大规模裁员的讨论，目前其实并没有发生。",
+          "url": "https://wallstreetcn.com/livenews/3057705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "07时31分"
+        },
+        {
+          "title": "春节旅游市场迎结构性转变，AI入局成为新亮点",
+          "url": "https://wallstreetcn.com/livenews/3057701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
+          "url": "https://wallstreetcn.com/articles/3765997",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时39分 ~ 07时31分]"
         },
         {
           "title": "拉加德：即使在开发前沿模型方面落后，欧洲仍可从AI中获益",
@@ -513,15 +653,27 @@
           "time_info": "[04时46分 ~ 05时40分]"
         },
         {
-          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
-          "url": "https://wallstreetcn.com/articles/3765997",
-          "source": "华尔街见闻",
+          "title": "摩根大通CFO Jeremy Barnum：在所有开支品类都存在通胀。 （本公司）对脆弱的软件公司的风险敞口“相当小”。 与多家软件公司谈及人工智能（AI）风险。",
+          "url": "https://wallstreetcn.com/livenews/3057672",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时39分 ~ 06时35分]"
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时31分]"
+        },
+        {
+          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
+          "url": "https://www.cls.cn/detail/2293058",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
         },
         {
           "title": "Anthropic CEO将与美国防部长会面，讨论AI模型在国防部的使用",
@@ -559,17 +711,6 @@
           "time_info": "00时50分"
         },
         {
-          "title": "摩根大通CFO Jeremy Barnum：在所有开支品类都存在通胀。 （本公司）对脆弱的软件公司的风险敞口“相当小”。 与多家软件公司谈及人工智能（AI）风险。",
-          "url": "https://wallstreetcn.com/livenews/3057672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
           "title": "Anthropic新工具引发AI颠覆担忧，网络安全股连续两日重挫",
           "url": "https://wallstreetcn.com/livenews/3057628",
           "source": "华尔街见闻-快讯",
@@ -587,7 +728,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         }
@@ -595,7 +736,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "WW3预热,美国对伊朗动手",
@@ -605,19 +746,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时35分]"
-        },
-        {
-          "title": "美国被曝已决定对伊朗发动军事打击，预计 23 日或 24 日，是极限施压还是真要打？",
-          "url": "https://www.zhihu.com/question/2009287749354688656",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时31分]"
         },
         {
           "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
@@ -629,19 +759,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时31分]"
         },
         {
-          "title": "与美国达成“临时协议”？伊朗：毫无根据",
-          "url": "https://news.ifeng.com/c/8qyqpPm0Q9R",
-          "source": "凤凰网",
+          "title": "美国被曝已决定对伊朗发动军事打击，预计 23 日或 24 日，是极限施压还是真要打？",
+          "url": "https://www.zhihu.com/question/2009287749354688656",
+          "source": "知乎",
           "ranks": [
-            7
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时31分]"
         },
         {
           "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
@@ -651,8 +782,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时31分]"
         },
         {
           "title": "美国已经得到委内瑞拉了，为什么还要去搞伊朗呢?",
@@ -664,8 +795,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时31分]"
         },
         {
           "title": "美军重兵合围伊朗",
@@ -673,7 +804,19 @@
           "source": "抖音",
           "ranks": [
             19,
-            18
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 07时31分]"
+        },
+        {
+          "title": "与美国达成“临时协议”？伊朗：毫无根据",
+          "url": "https://news.ifeng.com/c/8qyqpPm0Q9R",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -703,6 +846,18 @@
           "time_info": "[03时02分 ~ 04时46分]"
         },
         {
+          "title": "春节假期，美国和伊朗闹到哪一步了？到底打还是不打？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32646111",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时35分 ~ 07时31分]"
+        },
+        {
           "title": "据阿联酋通讯社：阿联酋和伊朗外长讨论了地区发展和双边关系，并审查了影响和平、安全和共同利益的问题。",
           "url": "https://flash.jin10.com/detail/20260224045258156800",
           "source": "金十数据",
@@ -715,6 +870,17 @@
           "time_info": "[05时40分 ~ 06时35分]"
         },
         {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
           "title": "以总理：若遭伊朗袭击 将以其无法想象的力度回击",
           "url": "https://flash.jin10.com/detail/20260224001057861800",
           "source": "金十数据",
@@ -724,17 +890,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        },
-        {
-          "title": "春节假期，美国和伊朗闹到哪一步了？到底打还是不打？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32646111",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
         },
         {
           "title": "美媒：美军将领警告对伊朗动武风险极高，易陷长期冲突",
@@ -762,19 +917,8 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "周一（2月23日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.8879元，较上周五纽约尾盘涨99点，日内整体交投于6.9009-6.8823元区间。",
-          "url": "https://wallstreetcn.com/livenews/3057678",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
         {
           "title": "周一（2月23日）纽约尾盘，ICE美元指数跌0.10%，报97.702点，日内交投区间为97.853-97.355点，亚太盘初“跳空低开”，北京时间14:30之前低位震荡，随后逐步收复失地、曾在20:00过后短暂地微幅转涨。 彭博美元指数涨0.06%，报1189.31点，日内交投区间为1185-1190.08点。",
           "url": "https://wallstreetcn.com/livenews/3057635",
@@ -798,6 +942,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时35分]"
+        },
+        {
+          "title": "周一（2月23日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.8879元，较上周五纽约尾盘涨99点，日内整体交投于6.9009-6.8823元区间。",
+          "url": "https://wallstreetcn.com/livenews/3057678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时31分]"
+        },
+        {
+          "title": "提醒：日内请重点关注（以下均为北京时间）",
+          "url": "https://wallstreetcn.com/livenews/3057683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "周一（2月23日）纽约尾盘，欧元兑美元涨0.05%，报1.1790，北京时间07:08曾开启一波快速上涨的行情。",
