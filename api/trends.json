@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T22:09:29.079142+08:00",
-  "total_titles_processed": 1839,
+  "generated_at": "2026-02-24T23:53:58.196983+08:00",
+  "total_titles_processed": 1955,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 76,
       "titles": [
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
@@ -53,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时45分 ~ 22时09分]"
+          "appearance_count": 8,
+          "time_info": "[17时45分 ~ 23时53分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -66,8 +66,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时40分 ~ 22时09分]"
+          "appearance_count": 9,
+          "time_info": "[16时40分 ~ 23时53分]"
         },
         {
           "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
@@ -108,6 +108,21 @@
           "time_info": "[09时29分 ~ 14时54分]"
         },
         {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时45分 ~ 23时53分]"
+        },
+        {
           "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
           "url": "https://www.cls.cn/detail/2293302",
           "source": "财联社热门",
@@ -122,18 +137,16 @@
           "time_info": "[14时54分 ~ 20时53分]"
         },
         {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
-          "source": "澎湃新闻",
+          "title": "中美就特朗普访华事宜保持着沟通",
+          "url": "https://www.douyin.com/hot/2410424",
+          "source": "抖音",
           "ranks": [
-            14,
-            12,
-            6,
-            4
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时45分 ~ 22时09分]"
+          "appearance_count": 9,
+          "time_info": "[16时40分 ~ 23时53分]"
         },
         {
           "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
@@ -147,17 +160,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时29分 ~ 14时54分]"
-        },
-        {
-          "title": "中美就特朗普访华事宜保持着沟通",
-          "url": "https://www.douyin.com/hot/2410424",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时40分 ~ 22时09分]"
         },
         {
           "title": "特朗普接连出招，伤害性不大，侮辱性极强",
@@ -606,6 +608,17 @@
           "time_info": "14时17分"
         },
         {
+          "title": "美国民主党参议员沃伦：我会问任何特朗普提名的美联储人选，他们与特朗普在哪些方面存在分歧。",
+          "url": "https://flash.jin10.com/detail/20260224233707666800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "报道：特朗普考虑对大约六个行业加征关税",
           "url": "https://wallstreetcn.com/livenews/3057690",
           "source": "华尔街见闻-快讯",
@@ -700,7 +713,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
@@ -821,7 +834,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
@@ -854,7 +867,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
@@ -884,7 +897,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 43,
+      "match_count": 49,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -895,8 +908,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时29分 ~ 22时09分]"
+          "appearance_count": 15,
+          "time_info": "[09时29分 ~ 23时53分]"
         },
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -935,8 +948,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时29分 ~ 22时09分]"
+          "appearance_count": 15,
+          "time_info": "[09时29分 ~ 23时53分]"
         },
         {
           "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
@@ -1088,6 +1101,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "美联储理事库克：AI已经被纳入美联储的预测。",
+          "url": "https://wallstreetcn.com/livenews/3058228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "Arini创始人：无需颠覆真正发生 对AI的忧虑便足以引发软件公司违约",
           "url": "https://wallstreetcn.com/livenews/3058136",
           "source": "华尔街见闻-快讯",
@@ -1110,16 +1134,62 @@
           "time_info": "07时31分"
         },
         {
+          "title": "Anthropic的Claude AI模型产品负责人Scott White：公司的目标是消除人们使用人工智能（AI）回答工作相关查询的方式与他们从事具体工作所用的工具之间的隔阂。 将市场表现与单一产品发布联系起来“有点过度解读或反应过度了”，公司的AI模型正在帮助企业客户实现增长。",
+          "url": "https://wallstreetcn.com/livenews/3058226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "Anthropic推出智能体AI工具，针对实现投资银行和人力资源自动化",
+          "url": "https://wallstreetcn.com/livenews/3058225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
+          "url": "https://www.zhihu.com/question/41253586",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时42分 ~ 23时53分]"
+        },
+        {
           "title": "李佳薇JKAI声乐大师课",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 22时09分]"
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 23时53分]"
         },
         {
           "title": "镁信健康张小栋发布内部信：全面落地AI Inside新战略，重点赋能两大业务方向",
@@ -1195,17 +1265,6 @@
           "time_info": "[20时24分 ~ 20时53分]"
         },
         {
-          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
-          "url": "https://www.zhihu.com/question/41253586",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时42分 ~ 22时09分]"
-        },
-        {
           "title": "摩根大通CFO Jeremy Barnum：在所有开支品类都存在通胀。 （本公司）对脆弱的软件公司的风险敞口“相当小”。 与多家软件公司谈及人工智能（AI）风险。",
           "url": "https://wallstreetcn.com/livenews/3057672",
           "source": "华尔街见闻-快讯",
@@ -1277,6 +1336,17 @@
           "time_info": "[02时07分 ~ 03时02分]"
         },
         {
+          "title": "普华永道（PwC）与Anthropic围绕企业AI插件构建合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3058221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "英伟达(NVDA.O)：与Akamai、Forescout、Palo Alto Networks、Xage Security、西门子展开合作，将加速推进计算和人工智能引入工业控制系统（OT）网络安全。",
           "url": "https://flash.jin10.com/detail/20260224000737522800",
           "source": "金十数据",
@@ -1327,7 +1397,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
@@ -1352,6 +1422,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "李在明社媒发AI视频",
+          "url": "https://www.douyin.com/hot/2410021",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "马斯克设想从月球电磁弹射AI卫星",
@@ -1412,7 +1493,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
@@ -1471,8 +1552,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时50分 ~ 22时09分]"
+          "appearance_count": 26,
+          "time_info": "[00时50分 ~ 23时53分]"
         },
         {
           "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
@@ -1496,8 +1577,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时29分 ~ 22时09分]"
+          "appearance_count": 15,
+          "time_info": "[09时29分 ~ 23时53分]"
         },
         {
           "title": "美国已经得到委内瑞拉了，为什么还要去搞伊朗呢?",
@@ -1535,6 +1616,34 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时50分 ~ 06时35分]"
+        },
+        {
+          "title": "中方回应“美考虑军事打击伊朗”",
+          "url": "https://www.douyin.com/hot/2410571",
+          "source": "抖音",
+          "ranks": [
+            14,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时42分 ~ 23时53分]"
+        },
+        {
+          "title": "伊朗一军用直升机坠毁",
+          "url": "https://www.douyin.com/hot/2410332",
+          "source": "抖音",
+          "ranks": [
+            9,
+            17,
+            16,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时42分 ~ 23时53分]"
         },
         {
           "title": "伊朗副总统表示，伊朗希望建立从克尔曼沙赫到伊拉克巴格达的货物运输走廊。",
@@ -1596,32 +1705,6 @@
           "time_info": "00时50分"
         },
         {
-          "title": "伊朗一军用直升机坠毁",
-          "url": "https://www.douyin.com/hot/2410332",
-          "source": "抖音",
-          "ranks": [
-            9,
-            17,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时42分 ~ 22时09分]"
-        },
-        {
-          "title": "中方回应“美考虑军事打击伊朗”",
-          "url": "https://www.douyin.com/hot/2410571",
-          "source": "抖音",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时42分 ~ 22时09分]"
-        },
-        {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
           "url": "https://wallstreetcn.com/livenews/3057617",
           "source": "华尔街见闻-快讯",
@@ -1632,6 +1715,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 04时46分]"
+        },
+        {
+          "title": "在伊朗中国人：华联会已准备撤离方案",
+          "url": "https://www.toutiao.com/trending/7609535429876056107/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时09分 ~ 23时53分]"
         },
         {
           "title": "伊朗",
@@ -1768,6 +1863,17 @@
           "time_info": "05时40分"
         },
         {
+          "title": "伊朗副外长：德黑兰希望美方展现出同样达成核协议的意愿。",
+          "url": "https://flash.jin10.com/detail/20260224233124581800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "学者：伊朗在内忧外患中稳住阵脚",
           "url": "https://www.toutiao.com/trending/7609923172338499625/",
           "source": "今日头条",
@@ -1790,15 +1896,15 @@
           "time_info": "12时38分"
         },
         {
-          "title": "在伊朗中国人：华联会已准备撤离方案",
-          "url": "https://www.toutiao.com/trending/7609535429876056107/",
-          "source": "今日头条",
+          "title": "伊朗副外长：德黑兰已准备好尽快与美国达成协议。",
+          "url": "https://flash.jin10.com/detail/20260224232951446800",
+          "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时09分"
+          "time_info": "23时53分"
         },
         {
           "title": "以媒：以色列医疗系统为与伊朗“长期战争”做准备",
@@ -1810,6 +1916,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "伊朗副外长：美国对伊朗发动打击是“一场真正的豪赌”。",
+          "url": "https://flash.jin10.com/detail/20260224232848284800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "黎巴嫩官员表示，黎巴嫩方面担心，如果与伊朗的局势进一步恶化，以色列可能会对该国的基础设施发动攻击。",
@@ -1835,11 +1952,12 @@
           "ranks": [
             11,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时48分 ~ 22时09分]"
+          "appearance_count": 10,
+          "time_info": "[15时48分 ~ 23时53分]"
         },
         {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
@@ -1985,11 +2103,12 @@
           "source": "抖音",
           "ranks": [
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时24分 ~ 22时09分]"
+          "appearance_count": 4,
+          "time_info": "[20时24分 ~ 23时53分]"
         }
       ]
     },
