@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T20:24:45.269367+08:00",
-  "total_titles_processed": 1666,
+  "generated_at": "2026-02-24T20:53:39.758355+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,31 @@
           "time_info": "[00时50分 ~ 09时29分]"
         },
         {
+          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
+          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时45分 ~ 20时53分]"
+        },
+        {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2293557",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时40分 ~ 20时53分]"
+        },
+        {
           "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
           "url": "https://www.cls.cn/detail/2292918",
           "source": "财联社热门",
@@ -83,29 +108,18 @@
           "time_info": "[09时29分 ~ 14时54分]"
         },
         {
-          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
-          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 20时24分]"
-        },
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2293557",
+          "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
+          "url": "https://www.cls.cn/detail/2293302",
           "source": "财联社热门",
           "ranks": [
-            7,
-            2,
-            1
+            13,
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时40分 ~ 20时24分]"
+          "appearance_count": 9,
+          "time_info": "[14时54分 ~ 20时53分]"
         },
         {
           "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
@@ -119,20 +133,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时29分 ~ 14时54分]"
-        },
-        {
-          "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
-          "url": "https://www.cls.cn/detail/2293302",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时54分 ~ 20时24分]"
         },
         {
           "title": "特朗普接连出招，伤害性不大，侮辱性极强",
@@ -180,8 +180,34 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时40分 ~ 20时53分]"
+        },
+        {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时40分 ~ 20时24分]"
+          "time_info": "[17时45分 ~ 20时53分]"
+        },
+        {
+          "title": "中美就特朗普访华事宜保持沟通",
+          "url": "https://www.toutiao.com/trending/7609338724627234859/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时45分 ~ 20时53分]"
         },
         {
           "title": "市场消息：美国总统特使威特科夫、特朗普女婿库什纳计划于周四在日内瓦举行美伊会谈。",
@@ -204,31 +230,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        },
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 20时24分]"
-        },
-        {
-          "title": "中美就特朗普访华事宜保持沟通",
-          "url": "https://www.toutiao.com/trending/7609338724627234859/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 20时24分]"
         },
         {
           "title": "中美就特朗普访华事宜保持沟通",
@@ -786,7 +787,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -849,7 +850,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -860,8 +861,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时29分 ~ 20时24分]"
+          "appearance_count": 13,
+          "time_info": "[09时29分 ~ 20时53分]"
         },
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -900,8 +901,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时29分 ~ 20时24分]"
+          "appearance_count": 13,
+          "time_info": "[09时29分 ~ 20时53分]"
         },
         {
           "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
@@ -911,11 +912,12 @@
             10,
             9,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[05时39分 ~ 20时24分]"
+          "appearance_count": 18,
+          "time_info": "[05时39分 ~ 20时53分]"
         },
         {
           "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
@@ -930,8 +932,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时16分 ~ 20时24分]"
+          "appearance_count": 11,
+          "time_info": "[14时16分 ~ 20时53分]"
+        },
+        {
+          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
+          "url": "https://www.cls.cn/detail/2293343",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时54分 ~ 20时53分]"
         },
         {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
@@ -987,20 +1003,6 @@
           "time_info": "[00时50分 ~ 12时38分]"
         },
         {
-          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
-          "url": "https://www.cls.cn/detail/2293343",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时54分 ~ 20时24分]"
-        },
-        {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
           "url": "https://wallstreetcn.com/articles/3765966",
           "source": "华尔街见闻",
@@ -1037,8 +1039,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时40分 ~ 20时24分]"
+          "appearance_count": 7,
+          "time_info": "[16时40分 ~ 20时53分]"
         },
         {
           "title": "摩根大通CEO戴蒙在摩根大通投资者日发表讲话：考虑到人工智能，已制定重新部署员工的计划。关于AI导致大规模裁员的讨论，目前其实并没有发生。",
@@ -1052,6 +1054,28 @@
           "time_info": "07时31分"
         },
         {
+          "title": "Arini创始人：无需颠覆真正发生 对AI的忧虑便足以引发软件公司违约",
+          "url": "https://wallstreetcn.com/livenews/3058136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "李佳薇JKAI声乐大师课",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "春节旅游市场迎结构性转变，AI入局成为新亮点",
           "url": "https://wallstreetcn.com/livenews/3057701",
           "source": "华尔街见闻-快讯",
@@ -1061,28 +1085,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "AMD美股盘前涨超15%，META与AMD签署巨额协议，将购买后者AI设备。",
-          "url": "https://wallstreetcn.com/livenews/3058124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "META与AMD签署巨额协议，将购买后者AI设备。META将获得认股权证，可分阶段购买不超1.6亿股AMD股票。META将在AMD设备上花费每吉瓦数百亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3058122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
         },
         {
           "title": "镁信健康张小栋发布内部信：全面落地AI Inside新战略，重点赋能两大业务方向",
@@ -1122,6 +1124,18 @@
           "time_info": "[04时46分 ~ 05时40分]"
         },
         {
+          "title": "AMD美股盘前涨超15%，META与AMD签署巨额协议，将购买后者AI设备。",
+          "url": "https://wallstreetcn.com/livenews/3058124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时53分]"
+        },
+        {
           "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
           "url": "https://wallstreetcn.com/livenews/3057632",
           "source": "华尔街见闻-快讯",
@@ -1132,6 +1146,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时40分]"
+        },
+        {
+          "title": "META与AMD签署巨额协议，将购买后者AI设备。META将获得认股权证，可分阶段购买不超1.6亿股AMD股票。META将在AMD设备上花费每吉瓦数百亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3058122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时53分]"
+        },
+        {
+          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
+          "url": "https://www.zhihu.com/question/41253586",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 20时53分]"
         },
         {
           "title": "摩根大通CFO Jeremy Barnum：在所有开支品类都存在通胀。 （本公司）对脆弱的软件公司的风险敞口“相当小”。 与多家软件公司谈及人工智能（AI）风险。",
@@ -1181,15 +1218,16 @@
           "time_info": "[02时07分 ~ 03时02分]"
         },
         {
-          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
-          "url": "https://www.zhihu.com/question/41253586",
-          "source": "知乎",
+          "title": "马斯克设想从月球电磁弹射AI卫星",
+          "url": "https://wallstreetcn.com/livenews/3058106",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            16,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时42分 ~ 18时43分]"
+          "time_info": "[20时24分 ~ 20时53分]"
         },
         {
           "title": "Altman为AI资源消耗辩护：耗水担忧是“假的”，且“人类也消耗能量”",
@@ -1259,17 +1297,6 @@
           "time_info": "18时43分"
         },
         {
-          "title": "马斯克设想从月球电磁弹射AI卫星",
-          "url": "https://wallstreetcn.com/livenews/3058106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
           "title": "Anthropic新工具引发AI颠覆担忧，网络安全股连续两日重挫",
           "url": "https://wallstreetcn.com/livenews/3057628",
           "source": "华尔街见闻-快讯",
@@ -1287,9 +1314,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
+        },
+        {
+          "title": "AMD宣布与Meta扩大战略合作 将向Meta部署6吉瓦定制AI芯片",
+          "url": "https://flash.jin10.com/detail/20260224200932075800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "AMD(AMD.O)美股盘前涨幅扩大至15%，此前与META达成AI设备和股份交易协议。",
+          "url": "https://flash.jin10.com/detail/20260224200638377800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "IBM创2000年以来最大日跌幅，Anthropic宣称AI工具可助COBOL现代化改造",
@@ -1301,12 +1350,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
+        },
+        {
+          "title": "AMD(AMD.O)盘前大涨10.9%，此前该公司同意五年内向Meta公司出售价值高达600亿美元的AI芯片。",
+          "url": "https://flash.jin10.com/detail/20260224200259353800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
@@ -1333,8 +1393,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时35分 ~ 20时24分]"
+          "appearance_count": 16,
+          "time_info": "[06时35分 ~ 20时53分]"
         },
         {
           "title": "美国被曝已决定对伊朗发动军事打击，预计 23 日或 24 日，是极限施压还是真要打？",
@@ -1364,8 +1424,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时50分 ~ 20时24分]"
+          "appearance_count": 24,
+          "time_info": "[00时50分 ~ 20时53分]"
         },
         {
           "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
@@ -1389,8 +1449,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时29分 ~ 20时24分]"
+          "appearance_count": 13,
+          "time_info": "[09时29分 ~ 20时53分]"
         },
         {
           "title": "美国已经得到委内瑞拉了，为什么还要去搞伊朗呢?",
@@ -1460,7 +1520,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -1506,11 +1566,12 @@
           "source": "抖音",
           "ranks": [
             9,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 20时24分]"
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 20时53分]"
         },
         {
           "title": "中方回应“美考虑军事打击伊朗”",
@@ -1521,8 +1582,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 20时24分]"
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 20时53分]"
         },
         {
           "title": "伊朗",
@@ -1534,6 +1595,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时30分 ~ 09时29分]"
+        },
+        {
+          "title": "伊朗军队在南部沿海地区举行军事演习",
+          "url": "https://wallstreetcn.com/livenews/3058119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时53分]"
         },
         {
           "title": "据阿联酋通讯社：阿联酋和伊朗外长讨论了地区发展和双边关系，并审查了影响和平、安全和共同利益的问题。",
@@ -1568,17 +1641,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        },
-        {
-          "title": "伊朗军队在南部沿海地区举行军事演习",
-          "url": "https://wallstreetcn.com/livenews/3058119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
         },
         {
           "title": "伊朗一军用直升机坠毁4人死亡",
@@ -1689,6 +1751,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "黎巴嫩官员表示，黎巴嫩方面担心，如果与伊朗的局势进一步恶化，以色列可能会对该国的基础设施发动攻击。",
+          "url": "https://flash.jin10.com/detail/20260224195929987800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     },
@@ -1706,8 +1779,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时48分 ~ 20时24分]"
+          "appearance_count": 8,
+          "time_info": "[15时48分 ~ 20时53分]"
         },
         {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
@@ -1854,9 +1927,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时53分]"
         }
       ]
     },
