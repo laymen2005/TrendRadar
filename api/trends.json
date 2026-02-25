@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T19:37:24.448350+08:00",
-  "total_titles_processed": 1620,
+  "generated_at": "2026-02-25T20:53:36.343613+08:00",
+  "total_titles_processed": 1732,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 83,
+      "match_count": 85,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -52,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时01分 ~ 19时37分]"
+          "appearance_count": 20,
+          "time_info": "[01时01分 ~ 20时53分]"
         },
         {
           "title": "特朗普：100%错误",
@@ -67,6 +67,29 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时44分 ~ 16时49分]"
+        },
+        {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时48分 ~ 20时53分]"
+        },
+        {
+          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
+          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时48分 ~ 20时53分]"
         },
         {
           "title": "特朗普发表国情咨文演讲，一议员举横幅被带离(图)",
@@ -91,29 +114,6 @@
           "time_info": "[15时17分 ~ 16时49分]"
         },
         {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时48分 ~ 19时37分]"
-        },
-        {
-          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
-          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时48分 ~ 19时37分]"
-        },
-        {
           "title": "中美就特朗普访华事宜保持着沟通",
           "url": "https://www.douyin.com/hot/2410424",
           "source": "抖音",
@@ -127,17 +127,6 @@
           "time_info": "[01时01分 ~ 07时26分]"
         },
         {
-          "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
-          "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 13时58分]"
-        },
-        {
           "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
           "url": "https://www.cls.cn/detail/2294552",
           "source": "财联社热门",
@@ -147,8 +136,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时48分 ~ 19时37分]"
+          "appearance_count": 7,
+          "time_info": "[16时48分 ~ 20时53分]"
+        },
+        {
+          "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
+          "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时58分]"
         },
         {
           "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
@@ -179,7 +179,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -297,6 +297,19 @@
           "time_info": "16时49分"
         },
         {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时48分 ~ 20时53分]"
+        },
+        {
           "title": "中方回应特朗普3月31日将访问中国",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E5%B0%86%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -331,19 +344,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
-        },
-        {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时48分 ~ 19时37分]"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
@@ -629,7 +629,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -755,6 +755,17 @@
           "time_info": "13时58分"
         },
         {
+          "title": "特朗普：我们赢得太多了",
+          "url": "https://www.douyin.com/hot/2411181",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "乌克兰驻美大使斯特凡尼希娜：美国的制裁法案总体而言是一项非常好的法案，若该法案获国会通过，预计美国总统特朗普会予以签署。",
           "url": "https://flash.jin10.com/detail/20260225011033725800",
           "source": "金十数据",
@@ -819,6 +830,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "白宫称特朗普对伊朗问题的首选手段永远是外交",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32650673",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "美国总统特朗普：正努力结束俄乌冲突。",
@@ -956,7 +978,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -966,8 +988,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时44分 ~ 19时37分]"
+          "appearance_count": 12,
+          "time_info": "[09时44分 ~ 20时53分]"
         },
         {
           "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
@@ -981,8 +1003,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[03时10分 ~ 19时37分]"
+          "appearance_count": 18,
+          "time_info": "[03时10分 ~ 20时53分]"
         },
         {
           "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
@@ -1042,8 +1064,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时15分 ~ 19时37分]"
+          "appearance_count": 11,
+          "time_info": "[12时15分 ~ 20时53分]"
         },
         {
           "title": "李在明社媒发AI视频",
@@ -1474,6 +1496,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "韩女子用AI精密策划诱杀致2死1伤",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "AI恐慌暂歇，欧股涨至历史新高，日本长债收益率集体飙升，现货黄金日内涨超1%",
           "url": "https://wallstreetcn.com/articles/3766102",
           "source": "华尔街见闻",
@@ -1483,6 +1516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
+        },
+        {
+          "title": "债市交易员押注美联储明年将继续降息 AI对就业的影响促使市场重估",
+          "url": "https://wallstreetcn.com/livenews/3058865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "“AI灭霸”Anthropic与“受害股”合作推出智能体 软件板块集体回血",
@@ -1551,6 +1595,17 @@
           "time_info": "12时15分"
         },
         {
+          "title": "一份末日式的AI报告搅动美国股市",
+          "url": "https://www.toutiao.com/trending/7610728625494560310/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "方正证券电力设备行业2026年策略：AI大周期开启 海外拓展空间广阔",
           "url": "https://wallstreetcn.com/livenews/3058417",
           "source": "华尔街见闻-快讯",
@@ -1576,7 +1631,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗大规模军演 试射多种导弹",
@@ -1585,11 +1640,12 @@
           "ranks": [
             2,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时58分 ~ 19时37分]"
+          "appearance_count": 10,
+          "time_info": "[13时58分 ~ 20时53分]"
         },
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -1684,8 +1740,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时48分 ~ 19时37分]"
+          "appearance_count": 5,
+          "time_info": "[17时48分 ~ 20时53分]"
         },
         {
           "title": "伊朗发布航行通告称，将在靠近阿塞拜疆边境的地面至10000英尺高度范围内进行遥控飞行器活动。",
@@ -1710,6 +1766,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时01分 ~ 05时29分]"
+        },
+        {
+          "title": "德国外交部发言人就即将在日内瓦举行的伊核谈判表示，我们期待伊朗抓住机遇，以建设性方式参与谈判。",
+          "url": "https://flash.jin10.com/detail/20260225202647910800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "据官方媒体报道，伊朗谈判代表团已离开德黑兰，前往日内瓦参加第三轮核谈判。",
+          "url": "https://flash.jin10.com/detail/20260225202053665800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -1932,11 +2010,12 @@
             5,
             1,
             16,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时15分 ~ 19时37分]"
+          "appearance_count": 11,
+          "time_info": "[12时15分 ~ 20时53分]"
         },
         {
           "title": "德媒：默茨将率“庞大商务代表团”访华，到访北京和杭州",
@@ -2019,11 +2098,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时44分 ~ 19时37分]"
+          "appearance_count": 4,
+          "time_info": "[18时44分 ~ 20时53分]"
         },
         {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
@@ -2066,7 +2146,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
