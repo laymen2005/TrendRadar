@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T15:17:46.602026+08:00",
-  "total_titles_processed": 1215,
+  "generated_at": "2026-02-25T15:58:25.044022+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 76,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时01分 ~ 15时17分]"
+          "appearance_count": 13,
+          "time_info": "[01时01分 ~ 15时58分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -52,8 +52,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时01分 ~ 15时17分]"
+          "appearance_count": 13,
+          "time_info": "[01时01分 ~ 15时58分]"
+        },
+        {
+          "title": "特朗普：100%错误",
+          "url": "https://news.ifeng.com/c/8r1UTBsOox0",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时44分 ~ 15时58分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -67,19 +80,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时01分 ~ 07时26分]"
-        },
-        {
-          "title": "特朗普：100%错误",
-          "url": "https://news.ifeng.com/c/8r1UTBsOox0",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时44分 ~ 15时17分]"
         },
         {
           "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
@@ -99,9 +99,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时58分]"
+        },
+        {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时58分]"
         },
         {
           "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
@@ -146,17 +157,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
-        },
-        {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
         },
         {
           "title": "据福克斯新闻：特朗普将呼吁实施新一轮减税。",
@@ -285,6 +285,19 @@
           "time_info": "[04时38分 ~ 05时29分]"
         },
         {
+          "title": "多数美国人称特朗普愈发反复无常",
+          "url": "https://www.toutiao.com/trending/7609682757731647524/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时58分]"
+        },
+        {
           "title": "白宫：特朗普对伊朗首选方案是外交",
           "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%A6%96%E9%80%89%E6%96%B9%E6%A1%88%E6%98%AF%E5%A4%96%E4%BA%A4",
           "source": "百度热搜",
@@ -298,6 +311,18 @@
           "time_info": "[05时29分 ~ 07时26分]"
         },
         {
+          "title": "特朗普：伊朗正研制能打到美国的导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时58分]"
+        },
+        {
           "title": "美国进口商请求法院执行特朗普关税败诉裁决、索要退款。",
           "url": "https://wallstreetcn.com/livenews/3058339",
           "source": "华尔街见闻-快讯",
@@ -308,18 +333,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时28分]"
-        },
-        {
-          "title": "多数美国人称特朗普愈发反复无常",
-          "url": "https://www.toutiao.com/trending/7609682757731647524/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 15时17分]"
         },
         {
           "title": "美国民主党指责司法部为特朗普“打掩护” 关键证据或遭扣押",
@@ -370,15 +383,16 @@
           "time_info": "[06时28分 ~ 07时26分]"
         },
         {
-          "title": "特朗普：伊朗正研制能打到美国的导弹",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
+          "title": "美议员称宁愿瞎也不想听特朗普演说",
+          "url": "https://www.toutiao.com/trending/7610278765754794003/",
+          "source": "今日头条",
           "ranks": [
-            21
+            25,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时58分 ~ 15时17分]"
+          "time_info": "[15时17分 ~ 15时58分]"
         },
         {
           "title": "市场消息：美国总统特朗普将表示，作为总统，我会尽可能地促进和平，但只要是我们必须采取行动的时候，我绝不会退缩，会毫不犹豫地应对对美国构成的威胁。",
@@ -673,7 +687,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -687,6 +701,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "特朗普试戴美冰球队的奥运金牌",
+          "url": "https://www.toutiao.com/trending/7610318993089400356/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "特朗普：美关税将依据其他法律条款继续维持有效",
@@ -764,17 +789,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
-        },
-        {
-          "title": "美议员称宁愿瞎也不想听特朗普演说",
-          "url": "https://www.toutiao.com/trending/7610278765754794003/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
         },
         {
           "title": "美国总统特朗普：感谢美国特使威特科夫和女婿库什纳帮助结束战争。",
@@ -857,7 +871,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
@@ -871,8 +885,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时10分 ~ 15时17分]"
+          "appearance_count": 11,
+          "time_info": "[03时10分 ~ 15时58分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -909,6 +923,17 @@
           "time_info": "[01时01分 ~ 06时28分]"
         },
         {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时44分 ~ 15时58分]"
+        },
+        {
           "title": "李在明社媒发AI视频",
           "url": "https://www.douyin.com/hot/2410021",
           "source": "抖音",
@@ -924,17 +949,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时01分 ~ 09时44分]"
-        },
-        {
-          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3766041",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时44分 ~ 15时17分]"
         },
         {
           "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
@@ -979,6 +993,19 @@
           "time_info": "[01时01分 ~ 07时26分]"
         },
         {
+          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
+          "url": "https://www.cls.cn/detail/2294409",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 15时58分]"
+        },
+        {
           "title": "反向逻辑：城堡证券驳斥Citrini的“AI危机”设想",
           "url": "https://wallstreetcn.com/livenews/3058389",
           "source": "华尔街见闻-快讯",
@@ -1001,16 +1028,18 @@
           "time_info": "07时26分"
         },
         {
-          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
-          "url": "https://www.cls.cn/detail/2294409",
-          "source": "财联社热门",
+          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
+          "url": "https://wallstreetcn.com/articles/3766059",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            3
+            7,
+            8,
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 15时17分]"
+          "appearance_count": 5,
+          "time_info": "[09时44分 ~ 15时58分]"
         },
         {
           "title": "西安一市民除夕夜被AI给骂了",
@@ -1073,18 +1102,17 @@
           "time_info": "[03时10分 ~ 04时38分]"
         },
         {
-          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
-          "url": "https://wallstreetcn.com/articles/3766059",
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
           "source": "华尔街见闻",
           "ranks": [
-            7,
+            10,
             8,
-            9,
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时44分 ~ 15时17分]"
+          "time_info": "[12时15分 ~ 15时58分]"
         },
         {
           "title": "寻找AI惊涛骇浪下的避风港，高盛团队称资产密集型股票表现更佳",
@@ -1109,19 +1137,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时26分]"
-        },
-        {
-          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
-          "url": "https://wallstreetcn.com/articles/3766105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 15时17分]"
         },
         {
           "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
@@ -1171,6 +1186,18 @@
           "time_info": "[06时28分 ~ 07时26分]"
         },
         {
+          "title": "AI开始雇佣人类",
+          "url": "https://www.toutiao.com/trending/7609867693969178633/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时58分]"
+        },
+        {
           "title": "据Axios网站：美国国防部长赫格塞思给Anthropic CEO达里奥·阿莫代设下最后期限——周五晚之前必须向军方无限制开放其AI模型，否则将面临严厉惩罚。",
           "url": "https://flash.jin10.com/detail/20260225022633218800",
           "source": "金十数据",
@@ -1205,6 +1232,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 03时10分]"
+        },
+        {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时58分]"
         },
         {
           "title": "MSCI向客户提供AI接口，支持调用专属数据",
@@ -1267,6 +1306,28 @@
           "time_info": "[03时10分 ~ 04时38分]"
         },
         {
+          "title": "让 AI 爆改兵马俑挤地铁、蒙娜丽莎敲代码，职场人的精神状态有多超前？",
+          "url": "https://www.zhihu.com/topic/2005965391747314002/hot",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时58分]"
+        },
+        {
+          "title": "AI助盲眼镜成出行神器",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%8A%A9%E7%9B%B2%E7%9C%BC%E9%95%9C%E6%88%90%E5%87%BA%E8%A1%8C%E7%A5%9E%E5%99%A8%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时58分]"
+        },
+        {
           "title": "Citrini创始人对其AI预测引发股市大跌表示震惊",
           "url": "https://wallstreetcn.com/livenews/3058382",
           "source": "华尔街见闻-快讯",
@@ -1278,15 +1339,15 @@
           "time_info": "07时26分"
         },
         {
-          "title": "AI开始雇佣人类",
-          "url": "https://www.toutiao.com/trending/7609867693969178633/",
-          "source": "今日头条",
+          "title": "AI投资热潮带动电力基建需求 机构称这些环节有望放量",
+          "url": "https://www.cls.cn/detail/2294145",
+          "source": "财联社热门",
           "ranks": [
-            8
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "15时58分"
         },
         {
           "title": "“AI灭霸”Anthropic与“受害股”合作推出智能体 软件板块集体回血",
@@ -1300,15 +1361,15 @@
           "time_info": "13时58分"
         },
         {
-          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
-          "url": "https://www.cls.cn/detail/2294269",
+          "title": "马斯克设想从月球电磁弹射AI卫星 电磁发射有望成商业航天重要方向",
+          "url": "https://www.cls.cn/detail/2294154",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时17分"
+          "time_info": "15时58分"
         },
         {
           "title": "拉美电商巨头MercadoLibre（MELI.US）：代理AI工具将有助于跨境销售和个人财务。",
@@ -1331,17 +1392,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
-        },
-        {
-          "title": "让 AI 爆改兵马俑挤地铁、蒙娜丽莎敲代码，职场人的精神状态有多超前？",
-          "url": "https://www.zhihu.com/topic/2005965391747314002/hot",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
         },
         {
           "title": "亚马逊(AMZN.O)AI实验室负责人将在领导层调整中离任。",
@@ -1386,23 +1436,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
-        },
-        {
-          "title": "AI助盲眼镜成出行神器",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%8A%A9%E7%9B%B2%E7%9C%BC%E9%95%9C%E6%88%90%E5%87%BA%E8%A1%8C%E7%A5%9E%E5%99%A8%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -1457,8 +1496,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时01分 ~ 15时17分]"
+          "appearance_count": 13,
+          "time_info": "[01时01分 ~ 15时58分]"
         },
         {
           "title": "媒体：伊朗即将购入中国超音速反舰导弹",
@@ -1469,8 +1508,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 15时17分]"
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 15时58分]"
         },
         {
           "title": "美大军压境伊朗为何不屈服",
@@ -1481,8 +1520,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 15时17分]"
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时58分]"
         },
         {
           "title": "伊朗大规模军演 试射多种导弹",
@@ -1492,8 +1531,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 15时17分]"
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时58分]"
+        },
+        {
+          "title": "伊朗发布航行通告称，将在靠近阿塞拜疆边境的地面至10000英尺高度范围内进行遥控飞行器活动。",
+          "url": "https://flash.jin10.com/detail/20260225152602709800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -1591,6 +1641,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 02时01分]"
+        },
+        {
+          "title": "日媒：一名日本公民被伊朗拘留",
+          "url": "https://www.toutiao.com/trending/7610698832640216603/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "伊朗外长阿拉格齐：只要优先考虑外交途径，与美国达成核协议是可能的。",
@@ -1696,8 +1757,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 15时17分]"
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 15时58分]"
         },
         {
           "title": "德总理抵达北京 小跑两步出机舱",
@@ -1706,9 +1767,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时58分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8812元，较上个交易日夜盘收盘涨220点。成交量365.49亿美元。",
@@ -1826,11 +1887,12 @@
           "url": "https://wallstreetcn.com/livenews/3058672",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时58分]"
         }
       ]
     },
@@ -1859,6 +1921,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "摩根大通：将长期黄金价格预测上调至每盎司4500美元。",
+          "url": "https://flash.jin10.com/detail/20260225150843874800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
+          "title": "摩根大通：预计2026年底黄金价格将达到每盎司6300美元。",
+          "url": "https://flash.jin10.com/detail/20260225150719104800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         }
       ]
     }
