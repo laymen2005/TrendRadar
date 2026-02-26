@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T06:28:59.981385+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2026-02-27T07:24:53.184106+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 06时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 07时24分]"
         },
         {
           "title": "如美发动攻击，中俄会否联手支援伊朗？外交部回应",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 06时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 07时24分]"
         },
         {
           "title": "中方正密切关注伊朗局势发展",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 06时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 07时24分]"
         },
         {
           "title": "一图看懂｜新一轮谈判在即，美军如何在伊朗周边布阵？",
@@ -49,22 +49,24 @@
           "ranks": [
             11,
             12,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 06时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 07时24分]"
         },
         {
           "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32653060",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 06时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 07时24分]"
         },
         {
           "title": "伊朗外长Abbas Araghchi在国家电视台表示：今天的谈判属于最严肃的磋商之一。",
@@ -87,17 +89,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
-        },
-        {
-          "title": "伊朗拒绝向国外转移浓缩铀",
-          "url": "https://wallstreetcn.com/livenews/3059794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
         },
         {
           "title": "中长期美债收益率跌超3个基点，投资者关注英伟达财报和伊朗谈判",
@@ -135,6 +126,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时41分 ~ 04时31分]"
+        },
+        {
+          "title": "伊朗拒绝向国外转移浓缩铀",
+          "url": "https://wallstreetcn.com/livenews/3059794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时24分]"
         },
         {
           "title": "伊朗代表团已返回谈判地点，参加美伊日内瓦会谈。（CGTN）",
@@ -284,7 +287,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -446,7 +449,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -456,8 +459,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 06时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 07时24分]"
         },
         {
           "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
@@ -467,11 +470,12 @@
             11,
             16,
             18,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 06时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 07时24分]"
         },
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -482,8 +486,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 06时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 07时24分]"
         },
         {
           "title": "特朗普旨在引导古巴加大对美依赖",
@@ -561,6 +565,18 @@
           "time_info": "[01时54分 ~ 02时44分]"
         },
         {
+          "title": "周四（2月26日），降息赢家指数涨1.02%。 “特朗普关税输家”指数涨0.97%，“特朗普金融指数”涨1.11%。 散户抱团概念股指数/迷因股（meme stock）指数涨3.57%。",
+          "url": "https://wallstreetcn.com/livenews/3059780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时24分]"
+        },
+        {
           "title": "特朗普威胁驱逐教父饰演者",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E9%A9%B1%E9%80%90%E6%95%99%E7%88%B6%E9%A5%B0%E6%BC%94%E8%80%85%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -581,6 +597,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "美国纽约市长Mandani与总统特朗普讨论修建1.2万套住房的想法。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3059806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "媒体：特朗普旨在借能源让古巴更加依赖美国",
@@ -622,7 +649,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -658,17 +685,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
-        },
-        {
-          "title": "周四（2月26日），降息赢家指数涨1.02%。 “特朗普关税输家”指数涨0.97%，“特朗普金融指数”涨1.11%。 散户抱团概念股指数/迷因股（meme stock）指数涨3.57%。",
-          "url": "https://wallstreetcn.com/livenews/3059780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
         },
         {
           "title": "美国参议院少数党领袖舒默：在特朗普任内，制造业岗位减少了10万个。",
@@ -728,8 +744,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 06时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 07时24分]"
         },
         {
           "title": "强劲财报难解AI担忧，英伟达跌超5%，纳指跌幅扩大至2%，芯片股承压，金涨银跌，油价反弹",
@@ -753,8 +769,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 06时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 07时24分]"
         },
         {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
@@ -764,8 +780,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 06时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 07时24分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -777,8 +793,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 06时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 07时24分]"
         },
         {
           "title": "AI圈爆火的FARS是什么",
@@ -788,11 +804,12 @@
             30,
             29,
             27,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 06时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 07时24分]"
         },
         {
           "title": "霍华德·马克斯：伟大投资者在AI最薄弱的领域展现强势",
@@ -880,6 +897,42 @@
           "time_info": "[00时52分 ~ 01时54分]"
         },
         {
+          "title": "瑞穗计划利用人工智能（AI）技术，才未来十年裁员5000个行政岗位。（日本读卖新闻）",
+          "url": "https://wallstreetcn.com/livenews/3059783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时24分]"
+        },
+        {
+          "title": "谷歌公司在谷歌翻译中推出基于人工智能（AI）的功能。 谷歌与Mass. AI启动新款训练试点。",
+          "url": "https://wallstreetcn.com/livenews/3059781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时24分]"
+        },
+        {
+          "title": "周四（2月26日），存储芯片与硬件供应链指数跌2.34%，报113.55点。 信息科技指数跌0.71%，人工智能（AI）赢家指数跌2.17%，AI软件先驱指数涨1.95%。",
+          "url": "https://wallstreetcn.com/livenews/3059779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时24分]"
+        },
+        {
           "title": "挪威主权财富基金：AI发现了他人遗漏的风险",
           "url": "https://wallstreetcn.com/livenews/3059691",
           "source": "华尔街见闻-快讯",
@@ -903,28 +956,6 @@
           "time_info": "00时53分"
         },
         {
-          "title": "瑞穗计划利用人工智能（AI）技术，才未来十年裁员5000个行政岗位。（日本读卖新闻）",
-          "url": "https://wallstreetcn.com/livenews/3059783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "谷歌公司在谷歌翻译中推出基于人工智能（AI）的功能。 谷歌与Mass. AI启动新款训练试点。",
-          "url": "https://wallstreetcn.com/livenews/3059781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
           "title": "谷歌：谷歌翻译App在美国和印度上线AI驱动的新功能，网页版也将很快推出。",
           "url": "https://flash.jin10.com/detail/20260227020628578800",
           "source": "金十数据",
@@ -934,17 +965,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
-        },
-        {
-          "title": "周四（2月26日），存储芯片与硬件供应链指数跌2.34%，报113.55点。 信息科技指数跌0.71%，人工智能（AI）赢家指数跌2.17%，AI软件先驱指数涨1.95%。",
-          "url": "https://wallstreetcn.com/livenews/3059779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
         },
         {
           "title": "Ithina组建全球人工智能（AI）操作平台。",
@@ -964,7 +984,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -986,7 +1006,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         }
@@ -994,7 +1014,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "北京城区已飘雪",
@@ -1007,8 +1027,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时24分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8500元，较周三夜盘收盘涨92点。成交量600.56亿美元。",
@@ -1024,13 +1044,24 @@
           "time_info": "[03时41分 ~ 05时28分]"
         },
         {
+          "title": "提醒：日内请重点关注（以下均为北京时间）",
+          "url": "https://wallstreetcn.com/livenews/3059796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周四（2月26日），美国科技股七巨头（Magnificent 7）指数跌1.89%，报196.96点，美股早盘持续走低，北京时间23:34刷新日低至195.64点，随后持续低位震荡。",
           "url": "https://wallstreetcn.com/livenews/3059778",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         }
@@ -1045,11 +1076,12 @@
           "url": "https://flash.jin10.com/detail/20260227062334976800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时24分]"
         },
         {
           "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
