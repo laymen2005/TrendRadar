@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T12:20:47.275057+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-03-18T14:00:23.262530+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 100,
+      "match_count": 107,
       "titles": [
         {
           "title": "战争进一步升级！以色列称伊朗最高安全官员拉里贾尼“已被打死”",
@@ -66,8 +66,22 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时00分 ~ 12时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 14时00分]"
+        },
+        {
+          "title": "美国家反恐中心主任辞职：无法昧着良心支持对伊朗战争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32784308",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[02时54分 ~ 14时00分]"
         },
         {
           "title": "伊朗最高领袖驳回斡旋提案",
@@ -93,17 +107,17 @@
           "time_info": "[00时00分 ~ 09时46分]"
         },
         {
-          "title": "美国家反恐中心主任辞职：无法昧着良心支持对伊朗战争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32784308",
-          "source": "澎湃新闻",
+          "title": "白宫经济顾问哈塞特：伊朗冲突几周内就能结束，不会拖上几个月",
+          "url": "https://wallstreetcn.com/articles/3767742",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            11,
-            6
+            10,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时54分 ~ 12时20分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 14时00分]"
         },
         {
           "title": "外媒：伊朗向印度提条件",
@@ -115,6 +129,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时00分 ~ 07时28分]"
+        },
+        {
+          "title": "以军袭击伊朗最高安全官员拉里贾尼，伊朗方面尚未表态",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32782863",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 14时00分]"
         },
         {
           "title": "美以袭击伊朗进入第 18 天，当前局势如何？有哪些信息值得关注？",
@@ -170,20 +199,6 @@
           "time_info": "[00时00分 ~ 07时28分]"
         },
         {
-          "title": "以军袭击伊朗最高安全官员拉里贾尼，伊朗方面尚未表态",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32782863",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时00分 ~ 12时20分]"
-        },
-        {
           "title": "中方向伊朗等4国提供人道主义援助",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%90%91%E4%BC%8A%E6%9C%97%E7%AD%894%E5%9B%BD%E6%8F%90%E4%BE%9B%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E6%8F%B4%E5%8A%A9",
           "source": "百度热搜",
@@ -215,16 +230,17 @@
           "time_info": "[00时00分 ~ 07时28分]"
         },
         {
-          "title": "白宫经济顾问哈塞特：伊朗冲突几周内就能结束，不会拖上几个月",
-          "url": "https://wallstreetcn.com/articles/3767742",
-          "source": "华尔街见闻",
+          "title": "伊朗总统证实拉里贾尼已遇难并发表悼词",
+          "url": "https://www.cls.cn/detail/2316118",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            8
+            5,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 12时20分]"
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 14时00分]"
         },
         {
           "title": "美以伊战争丨伊朗证实巴斯基民兵指挥官身亡",
@@ -236,6 +252,40 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时01分 ~ 05时32分]"
+        },
+        {
+          "title": "以军空袭,伊朗最高安全官遇害",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351988&amp;topic_name=%E4%BB%A5%E5%86%9B%E7%A9%BA%E8%A2%AD%2C%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E5%AE%89%E5%85%A8%E5%AE%98%E9%81%87%E5%AE%B3",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 14时00分]"
+        },
+        {
+          "title": "伊媒：伊朗已为国家关键职位指定多名替代人选",
+          "url": "https://news.ifeng.com/c/8raCHguShhT",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 14时00分]"
+        },
+        {
+          "title": "伊朗誓言复仇！",
+          "url": "https://news.ifeng.com/c/8raXWTWWY2z",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 14时00分]"
         },
         {
           "title": "中方：向伊朗等4国提供人道主义援助",
@@ -251,17 +301,29 @@
           "time_info": "[00时00分 ~ 07时28分]"
         },
         {
-          "title": "伊朗总统证实拉里贾尼已遇难并发表悼词",
-          "url": "https://www.cls.cn/detail/2316118",
+          "title": "中东油价飙破150美元！一文读懂：伊朗的威胁要成真了？",
+          "url": "https://www.cls.cn/detail/2316387",
           "source": "财联社热门",
           "ranks": [
-            5,
-            6,
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时27分 ~ 12时20分]"
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时00分]"
+        },
+        {
+          "title": "伊朗总统证实拉里贾尼已遇难",
+          "url": "https://www.douyin.com/hot/2434350",
+          "source": "抖音",
+          "ranks": [
+            8,
+            7,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时28分 ~ 14时00分]"
         },
         {
           "title": "美以伊战争丨伊朗证实拉里贾尼遇害",
@@ -275,38 +337,16 @@
           "time_info": "[07时27分 ~ 07时28分]"
         },
         {
-          "title": "以军空袭,伊朗最高安全官遇害",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351988&amp;topic_name=%E4%BB%A5%E5%86%9B%E7%A9%BA%E8%A2%AD%2C%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E5%AE%89%E5%85%A8%E5%AE%98%E9%81%87%E5%AE%B3",
-          "source": "贴吧",
+          "title": "伊朗总统证实：拉里贾尼遇袭身亡！儿子与副手一同遇害，以色列对其进行了数周跟踪，内塔尼亚胡：后续会有更多“惊喜”",
+          "url": "https://wallstreetcn.com/articles/3767776",
+          "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 12时20分]"
-        },
-        {
-          "title": "伊媒：伊朗已为国家关键职位指定多名替代人选",
-          "url": "https://news.ifeng.com/c/8raCHguShhT",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 12时20分]"
-        },
-        {
-          "title": "伊朗誓言复仇！",
-          "url": "https://news.ifeng.com/c/8raXWTWWY2z",
-          "source": "凤凰网",
-          "ranks": [
+            8,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 14时00分]"
         },
         {
           "title": "美以伊战争丨伊朗总统证实拉里贾尼已遇难",
@@ -331,15 +371,15 @@
           "time_info": "07时28分"
         },
         {
-          "title": "中东油价飙破150美元！一文读懂：伊朗的威胁要成真了？",
-          "url": "https://www.cls.cn/detail/2316387",
-          "source": "财联社热门",
+          "title": "伊朗外交部长在接受半岛电视台采访时表示，理解地区国家对此事的不满，但美国应对这场战争承担全部责任。",
+          "url": "https://flash.jin10.com/detail/20260318134552109800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时20分"
+          "time_info": "14时00分"
         },
         {
           "title": "伊朗外交部：白宫发言人在对美国国家反恐中心主任辞职的反应中再次撒谎。美国官员为了为其对伊朗的非法战争辩护，反复提到一个“谎言”，即“伊朗试图获取核武器”。",
@@ -351,6 +391,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "伊朗外交部长在接受半岛电视台采访时表示，伊朗的目标是美军集结的任何地点，包括靠近城市地区的区域。",
+          "url": "https://flash.jin10.com/detail/20260318134538744800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
+          "title": "以军称空袭伊朗军事指挥中心和弹道导弹阵地",
+          "url": "https://wallstreetcn.com/livenews/3072155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
+          "title": "伊朗最高安全官员拉里贾尼是谁",
+          "url": "https://www.douyin.com/hot/2434452",
+          "source": "抖音",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时00分]"
         },
         {
           "title": "以色列国防军探测到伊朗发动了新的弹道导弹袭击。",
@@ -373,17 +447,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
-        },
-        {
-          "title": "伊朗最高安全官员拉里贾尼是谁",
-          "url": "https://www.douyin.com/hot/2434452",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         },
         {
           "title": "阿联酋高级官员Gargash：我们目前与伊朗没有进行积极的对话。",
@@ -436,22 +499,43 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
         {
-          "title": "伊朗总统证实拉里贾尼已遇难",
-          "url": "https://www.douyin.com/hot/2434350",
-          "source": "抖音",
+          "title": "伊朗证实拉里贾尼遇难 其子一同身亡",
+          "url": "https://www.toutiao.com/trending/7618144836088188479/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            7,
-            19
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时28分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 14时00分]"
+        },
+        {
+          "title": "伊朗总统证实拉里贾尼已遇难，这意味着什么？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2017504813336720406",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 14时00分]"
+        },
+        {
+          "title": "伊朗总统证实拉里贾尼已遇难",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%AF%81%E5%AE%9E%E6%8B%89%E9%87%8C%E8%B4%BE%E5%B0%BC%E5%B7%B2%E9%81%87%E9%9A%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 14时00分]"
         },
         {
           "title": "以军威胁将“追杀”伊朗新任最高领袖",
@@ -515,18 +599,6 @@
           "time_info": "[02时54分 ~ 04时02分]"
         },
         {
-          "title": "伊朗总统证实：拉里贾尼遇袭身亡！儿子与副手一同遇害，以色列对其进行了数周跟踪，内塔尼亚胡：后续会有更多“惊喜”",
-          "url": "https://wallstreetcn.com/articles/3767776",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 12时20分]"
-        },
-        {
           "title": "据伊朗塔斯尼姆通讯社报道，伊朗最高国家安全委员会秘书阿里·拉里贾尼与其子、资深安全官员莫尔特扎·拉里贾尼以及一组随行保镖一同遇害。伊朗最高国家安全委员会在一份声明中确认阿里·拉里贾尼死亡，称其与其子、副安全官员阿里雷扎·巴亚特以及其安保团队成员一同遇害。",
           "url": "https://flash.jin10.com/detail/20260318051148630800",
           "source": "金十数据",
@@ -563,6 +635,113 @@
           "time_info": "[06时28分 ~ 07时28分]"
         },
         {
+          "title": "伊朗发起第61波攻势报复拉里贾尼遇害",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E8%B5%B7%E7%AC%AC61%E6%B3%A2%E6%94%BB%E5%8A%BF%E6%8A%A5%E5%A4%8D%E6%8B%89%E9%87%8C%E8%B4%BE%E5%B0%BC%E9%81%87%E5%AE%B3",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 14时00分]"
+        },
+        {
+          "title": "伊朗总统证实拉里贾尼已遇难并发表悼词",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32786116",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 14时00分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 19 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2017376091363305103",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 14时00分]"
+        },
+        {
+          "title": "伊朗总统证实拉里贾尼已遇难",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%AF%81%E5%AE%9E%E6%8B%89%E9%87%8C%E8%B4%BE%E5%B0%BC%E5%B7%B2%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 14时00分]"
+        },
+        {
+          "title": "伊朗总统誓言为拉里贾尼复仇",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%AA%93%E8%A8%80%E4%B8%BA%E6%8B%89%E9%87%8C%E8%B4%BE%E5%B0%BC%E5%A4%8D%E4%BB%87",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 14时00分]"
+        },
+        {
+          "title": "中方向伊朗、约旦、黎巴嫩、伊拉克四国提供紧急人道主义援助，对当地有哪些帮助？",
+          "url": "https://www.zhihu.com/question/2017318663665967568",
+          "source": "知乎",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 14时00分]"
+        },
+        {
+          "title": "伊朗“事实上的最高负责人”，遇害了",
+          "url": "https://wallstreetcn.com/articles/3767800",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时00分]"
+        },
+        {
+          "title": "伊朗发射导弹 为拉里贾尼复仇",
+          "url": "https://www.toutiao.com/trending/7618150235286634550/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时00分]"
+        },
+        {
+          "title": "人物｜以色列再“斩首”，伊朗最高安全官员拉里贾尼是谁？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32783188",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时00分]"
+        },
+        {
           "title": "伊朗大使：最高领袖在俄治疗为假新闻",
           "url": "https://www.toutiao.com/trending/7618194293509082633/",
           "source": "今日头条",
@@ -587,37 +766,15 @@
           "time_info": "[00时00分 ~ 01时10分]"
         },
         {
-          "title": "伊朗证实拉里贾尼遇难 其子一同身亡",
-          "url": "https://www.toutiao.com/trending/7618144836088188479/",
-          "source": "今日头条",
+          "title": "伊朗议长：封锁霍尔木兹海峡是为了自卫",
+          "url": "https://news.ifeng.com/c/8raklTRyQzh",
+          "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时46分 ~ 12时20分]"
-        },
-        {
-          "title": "伊朗总统证实拉里贾尼已遇难",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%AF%81%E5%AE%9E%E6%8B%89%E9%87%8C%E8%B4%BE%E5%B0%BC%E5%B7%B2%E9%81%87%E9%9A%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 12时20分]"
-        },
-        {
-          "title": "伊朗总统证实拉里贾尼已遇难，这意味着什么？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2017504813336720406",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 12时20分]"
+          "time_info": "[13时59分 ~ 14时00分]"
         },
         {
           "title": "伊朗总统誓言要为拉里贾尼复仇",
@@ -644,18 +801,6 @@
           "time_info": "[05时32分 ~ 06时28分]"
         },
         {
-          "title": "伊朗发起第61波攻势报复拉里贾尼遇害",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E8%B5%B7%E7%AC%AC61%E6%B3%A2%E6%94%BB%E5%8A%BF%E6%8A%A5%E5%A4%8D%E6%8B%89%E9%87%8C%E8%B4%BE%E5%B0%BC%E9%81%87%E5%AE%B3",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 12时20分]"
-        },
-        {
           "title": "伊朗议长：霍尔木兹海峡不会恢复到战前状态",
           "url": "https://wallstreetcn.com/livenews/3071870",
           "source": "华尔街见闻-快讯",
@@ -666,17 +811,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时02分 ~ 04时33分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 19 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2017376091363305103",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 12时20分]"
         },
         {
           "title": "伊朗原子能组织：布什尔核电站区域遭袭",
@@ -691,17 +825,6 @@
           "time_info": "[04时02分 ~ 04时33分]"
         },
         {
-          "title": "伊朗总统证实拉里贾尼已遇难",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%AF%81%E5%AE%9E%E6%8B%89%E9%87%8C%E8%B4%BE%E5%B0%BC%E5%B7%B2%E9%81%87%E9%9A%BE",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 12时20分]"
-        },
-        {
           "title": "伊朗媒体：伊朗已为国家关键职位指定多名替代人选",
           "url": "https://wallstreetcn.com/livenews/3071919",
           "source": "华尔街见闻-快讯",
@@ -714,42 +837,6 @@
           "time_info": "[06时28分 ~ 07时28分]"
         },
         {
-          "title": "伊朗总统誓言为拉里贾尼复仇",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%AA%93%E8%A8%80%E4%B8%BA%E6%8B%89%E9%87%8C%E8%B4%BE%E5%B0%BC%E5%A4%8D%E4%BB%87",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 12时20分]"
-        },
-        {
-          "title": "伊朗总统证实拉里贾尼已遇难并发表悼词",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32786116",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 12时20分]"
-        },
-        {
-          "title": "中方向伊朗、约旦、黎巴嫩、伊拉克四国提供紧急人道主义援助，对当地有哪些帮助？",
-          "url": "https://www.zhihu.com/question/2017318663665967568",
-          "source": "知乎",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 12时20分]"
-        },
-        {
           "title": "伊朗伊斯兰革命卫队证实巴斯基民兵组织负责人身亡",
           "url": "https://wallstreetcn.com/livenews/3071863",
           "source": "华尔街见闻-快讯",
@@ -760,6 +847,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时02分 ~ 04时33分]"
+        },
+        {
+          "title": "战火下的文明之殇：美以军事打击下，伊朗哪些世界遗产被毁？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32784550",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时00分]"
         },
         {
           "title": "伊朗最高领袖驳回斡旋提案",
@@ -796,15 +894,15 @@
           "time_info": "05时32分"
         },
         {
-          "title": "伊朗“事实上的最高负责人”，遇害了",
-          "url": "https://wallstreetcn.com/articles/3767800",
-          "source": "华尔街见闻",
+          "title": "伊朗外交部长在接受半岛电视台采访时，指责美军在地区国家的城区内驻扎。",
+          "url": "https://flash.jin10.com/detail/20260318134108478800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时20分"
+          "time_info": "14时00分"
         },
         {
           "title": "美国中央司令部：数小时前，美军在霍尔木兹海峡附近伊朗沿海的伊朗导弹基地使用了5000磅级深穿透炸弹。",
@@ -846,18 +944,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "伊朗发射导弹 为拉里贾尼复仇",
-          "url": "https://www.toutiao.com/trending/7618150235286634550/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -950,6 +1037,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "以色列国防军：以色列国防军完成了一波针对伊朗政权指挥中心的打击行动。作为昨日（周二）在德黑兰进行的全面袭击行动的一部分，以色列空军在以色列国防军情报局的指挥下，对伊朗政权的指挥中心、弹道导弹发射场以及更多基础设施进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260318133508833800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
           "title": "据路透：伊朗媒体证实，伊朗最高国家安全委员会秘书拉里贾尼遇害。",
           "url": "https://flash.jin10.com/detail/20260318045229455800",
           "source": "金十数据",
@@ -967,7 +1065,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -1000,7 +1098,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -1036,17 +1134,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
-        },
-        {
-          "title": "人物｜以色列再“斩首”，伊朗最高安全官员拉里贾尼是谁？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32783188",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         },
         {
           "title": "声明显示：受伊朗支持的组织发表声明，要求所有“外国士兵”离开伊拉克。",
@@ -1099,7 +1186,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -1154,7 +1241,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -1173,7 +1260,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
@@ -1247,8 +1334,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时28分 ~ 12时20分]"
+          "appearance_count": 7,
+          "time_info": "[06时28分 ~ 14时00分]"
         },
         {
           "title": "【早报】特朗普：应考虑美国退出北约的可能性；存储现货倒挂加剧",
@@ -1259,8 +1346,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时27分 ~ 12时20分]"
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 14时00分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普：不担心伊朗会成为另一个越南",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时00分]"
+        },
+        {
+          "title": "国台办回应特朗普或将批准对台军售案",
+          "url": "https://www.toutiao.com/trending/7617485967372320822/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时00分]"
         },
         {
           "title": "格雷厄姆警告美国盟友：特朗普从未如此生气",
@@ -1301,11 +1410,59 @@
           "url": "https://www.cls.cn/detail/2316165",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 14时00分]"
+        },
+        {
+          "title": "特朗普称应考虑美国退出北约的可能性",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32786280",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 14时00分]"
+        },
+        {
+          "title": "遭北约背刺，特朗普怒了：愚蠢！美国一定会“记仇”",
+          "url": "https://news.ifeng.com/c/8radF7mAvMh",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时00分]"
+        },
+        {
+          "title": "为何不谴责美以？高市早苗：因为我要见特朗普，说完了",
+          "url": "https://news.ifeng.com/c/8raajLUudf0",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时00分]"
+        },
+        {
+          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
+          "url": "https://www.cls.cn/detail/2316263",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时00分]"
         },
         {
           "title": "美国总统特朗普重申，将在任期内封杀风力发电机",
@@ -1380,16 +1537,15 @@
           "time_info": "[05时32分 ~ 06时28分]"
         },
         {
-          "title": "特朗普称应考虑美国退出北约的可能性",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32786280",
+          "title": "特朗普亲自澄清：因对伊朗战事未了请求推迟行程，“期待访华”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32783811",
           "source": "澎湃新闻",
           "ranks": [
-            20,
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时46分 ~ 12时20分]"
+          "time_info": "[13时59分 ~ 14时00分]"
         },
         {
           "title": "特朗普谈反恐中心主任辞职：他走人是好事",
@@ -1414,17 +1570,6 @@
           "time_info": "06时28分"
         },
         {
-          "title": "遭北约背刺，特朗普怒了：愚蠢！美国一定会“记仇”",
-          "url": "https://news.ifeng.com/c/8radF7mAvMh",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
           "title": "特朗普称应考虑美国退出北约的可能性",
           "url": "https://flash.jin10.com/detail/20260318003433795800",
           "source": "金十数据",
@@ -1442,18 +1587,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "为何不谴责美以？高市早苗：因为我要见特朗普，说完了",
-          "url": "https://news.ifeng.com/c/8raajLUudf0",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -1467,17 +1601,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
-        },
-        {
-          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
-          "url": "https://www.cls.cn/detail/2316263",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）我们进展大大超前。",
@@ -1736,7 +1859,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 42,
       "titles": [
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -1747,8 +1870,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时00分 ~ 12时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 14时00分]"
         },
         {
           "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
@@ -1814,9 +1937,44 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时00分]"
+        },
+        {
+          "title": "如何看待 2026 EWC 官方因 Xiaohai 更换战队而取消其《街霸 6》卫冕冠军直邀资格的行为？",
+          "url": "https://www.zhihu.com/question/2016967278948787751",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时00分]"
+        },
+        {
+          "title": "男二以下 AI演员",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%20AI%E6%BC%94%E5%91%98&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 14时00分]"
+        },
+        {
+          "title": "官方辟谣“AI安全治理3年计划”",
+          "url": "https://www.douyin.com/hot/2434741",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时00分]"
         },
         {
           "title": "36 岁程序员，被 AI 写代码吓到了，如果再不转型，我几年内会失业吗？",
@@ -1830,17 +1988,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时00分 ~ 02时54分]"
-        },
-        {
-          "title": "如何看待 2026 EWC 官方因 Xiaohai 更换战队而取消其《街霸 6》卫冕冠军直邀资格的行为？",
-          "url": "https://www.zhihu.com/question/2016967278948787751",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         },
         {
           "title": "橡树资本联合创始人Howard Marks：投资者低估了人工智能（AI）。 AI让世界变得更难预测。 赋予AI重要性的“力量”也让AI未来会做些什么变得难以预料。",
@@ -1866,18 +2013,6 @@
           "time_info": "[07时27分 ~ 09时46分]"
         },
         {
-          "title": "男二以下 AI演员",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%20AI%E6%BC%94%E5%91%98&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 12时20分]"
-        },
-        {
           "title": "“龙虾”火出圈，券商纷纷自研AI智能体",
           "url": "https://wallstreetcn.com/livenews/3071935",
           "source": "华尔街见闻-快讯",
@@ -1888,6 +2023,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时28分]"
+        },
+        {
+          "title": "七部门发AI安全治理3年计划？谣言",
+          "url": "https://www.toutiao.com/trending/7618388030847700530/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 14时00分]"
+        },
+        {
+          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
+          "url": "https://www.zhihu.com/question/2016095792616744489",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时00分]"
+        },
+        {
+          "title": "七部门发AI安全治理3年计划系谣言",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%83%E9%83%A8%E9%97%A8%E5%8F%91AI%E5%AE%89%E5%85%A8%E6%B2%BB%E7%90%863%E5%B9%B4%E8%AE%A1%E5%88%92%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时00分]"
+        },
+        {
+          "title": "网传“男二以下用AI演员” 于正发声",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E2%80%9C%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%E7%94%A8AI%E6%BC%94%E5%91%98%E2%80%9D+%E4%BA%8E%E6%AD%A3%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时00分]"
         },
         {
           "title": "德国寻求扩大AI基础设施 计划瞄准大规模数据中心扩张",
@@ -1914,17 +2093,6 @@
           "time_info": "[04时02分 ~ 04时33分]"
         },
         {
-          "title": "七部门发AI安全治理3年计划？谣言",
-          "url": "https://www.toutiao.com/trending/7618388030847700530/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 12时20分]"
-        },
-        {
           "title": "惠与（HPE）推出由英伟达产品支持的HPE AI Grid。",
           "url": "https://wallstreetcn.com/livenews/3071844",
           "source": "华尔街见闻-快讯",
@@ -1935,6 +2103,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时54分 ~ 04时02分]"
+        },
+        {
+          "title": "为何游戏大厂都在聊AI",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E6%B8%B8%E6%88%8F%E5%A4%A7%E5%8E%82%E9%83%BD%E5%9C%A8%E8%81%8AAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时00分]"
         },
         {
           "title": "超微电脑加入英伟达BlueField-4 STX首发阵营，旨在通过存储服务器提升AI推理性能",
@@ -1948,17 +2127,6 @@
           "time_info": "01时10分"
         },
         {
-          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
-          "url": "https://www.zhihu.com/question/2016095792616744489",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
           "title": "摩根大通：上调哔哩哔哩评级至超配并建议抄底 公司AI投资战略正确",
           "url": "https://wallstreetcn.com/livenews/3072012",
           "source": "华尔街见闻-快讯",
@@ -1970,17 +2138,6 @@
           "time_info": "09时46分"
         },
         {
-          "title": "七部门发AI安全治理3年计划系谣言",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%83%E9%83%A8%E9%97%A8%E5%8F%91AI%E5%AE%89%E5%85%A8%E6%B2%BB%E7%90%863%E5%B9%B4%E8%AE%A1%E5%88%92%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
           "title": "公募机构争夺AI好感度，业内提示谨防信息污染",
           "url": "https://wallstreetcn.com/livenews/3071939",
           "source": "华尔街见闻-快讯",
@@ -1990,6 +2147,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "阿里巴巴2027届实习生招聘启动，AI相关岗位占比超八成",
+          "url": "https://wallstreetcn.com/livenews/3072139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850486&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/WjvjpqNlCKyb04k5cTDna.jpg/lite\" height=\"120\" /></a>",
@@ -2014,6 +2182,17 @@
           "time_info": "00时01分"
         },
         {
+          "title": "阿里巴巴港股午后走高，现涨2.6%，阿里云AI算力和存储产品最高涨价34%。",
+          "url": "https://wallstreetcn.com/livenews/3072135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
           "title": "微软整合个人与工作Copilot团队，全力推进AI布局",
           "url": "https://wallstreetcn.com/livenews/3071773",
           "source": "华尔街见闻-快讯",
@@ -2034,6 +2213,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "A股算力概念股持续活跃，数据港直线涨停，杭钢股份、首都在线、优刻得、铜牛信息、东方国信等纷纷冲高，消息上，阿里云AI算力和存储产品最高涨价34%。",
+          "url": "https://wallstreetcn.com/livenews/3072133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
         },
         {
           "title": "麒麟信安发布企业级云上AI安全部署方案",
@@ -2069,6 +2259,17 @@
           "time_info": "02时54分"
         },
         {
+          "title": "金蝶徐少春：AI转型是生死之战",
+          "url": "https://wallstreetcn.com/livenews/3072128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
           "title": "必和必拓集团任命Brandon Craig为首席执行官，自7月1日起接替Mike Henry。",
           "url": "https://flash.jin10.com/detail/20260318052306073800",
           "source": "金十数据",
@@ -2102,6 +2303,17 @@
           "time_info": "09时46分"
         },
         {
+          "title": "阿里云AI算力和存储产品最高涨价34%",
+          "url": "https://wallstreetcn.com/livenews/3072122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
           "title": "MasterCard Inc.推出新款生成式AI模型。 大模型Tabular在结构性数据的基础上进行训练。",
           "url": "https://wallstreetcn.com/livenews/3071824",
           "source": "华尔街见闻-快讯",
@@ -2122,6 +2334,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "阿里巴巴2027届校招正式启动，新增七类AI岗位，AI相关岗位占比超八成。",
+          "url": "https://wallstreetcn.com/livenews/3072118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
         }
       ]
     },
@@ -2178,6 +2401,18 @@
           "time_info": "[05时32分 ~ 06时28分]"
         },
         {
+          "title": "提醒：日内请重点关注（以下均为北京时间）",
+          "url": "https://wallstreetcn.com/livenews/3071938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 14时00分]"
+        },
+        {
           "title": "周二（3月17日）纽约尾盘，ICE美元指数跌0.14%，报99.577点，日内交投区间为100.115-99.503点，北京时间14:14刷新日高之后，持续走低。 彭博美元指数跌0.18%，报1206.96点，日内交投区间为1212-1206.06点。 美元兑日元跌0.02%，报159.04日元，日内交投区间为159.49-158.72日元。 欧元兑日元涨0.27%，英镑兑日元涨0.28%。",
           "url": "https://wallstreetcn.com/livenews/3071867",
           "source": "华尔街见闻-快讯",
@@ -2202,17 +2437,6 @@
           "time_info": "[04时02分 ~ 04时33分]"
         },
         {
-          "title": "提醒：日内请重点关注（以下均为北京时间）",
-          "url": "https://wallstreetcn.com/livenews/3071938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.58%，暂报2771.72点，北京时间12:00前后出现一波显著的下挫行情，随后持续低位震荡。 MarketVectorTM数字资产100中盘指数跌0.86%，报3002.22点。 MarketVector数字资产100指数涨0.64%，报15001.15点。 目前，Solana跌0.63%，狗狗币跌1.99%，XRP跌0.66%。 比特币涨0.27%，暂报74255.79美元；以太坊跌0.04%，暂报2331.63美元。",
           "url": "https://wallstreetcn.com/livenews/3071821",
           "source": "华尔街见闻-快讯",
@@ -2227,7 +2451,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”",
@@ -2238,8 +2462,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 14时00分]"
         },
         {
           "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
@@ -2274,6 +2498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "微软考虑就亚马逊与OpenAI达成的500亿美元云交易采取法律行动。 (英国金融时报)",
+          "url": "https://wallstreetcn.com/livenews/3072134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
         },
         {
           "title": "OpenAI：GPT-5.4 Mini在ChatGPT、Codex、API上线。 在GPT-5.4中，GPT-5.4 Nano是最便宜的一款。",
