@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T06:35:09.834819+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-04-17T07:36:22.315049+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时36分]"
         },
         {
           "title": "美对伊启动“经济狂怒”行动、施压达成协议，伊朗斥为经济恐怖主义，称敌人误判战局",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时36分]"
         },
         {
           "title": "美军喊话 ：要去伊朗的船立即掉头，否则我们就动武",
@@ -39,8 +39,45 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时36分]"
+        },
+        {
+          "title": "美方对伊朗启动代号为“经济狂怒”的行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32986818",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时36分]"
+        },
+        {
+          "title": "伊朗披露击落美C-130细节",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8A%AB%E9%9C%B2%E5%87%BB%E8%90%BD%E7%BE%8EC-130%E7%BB%86%E8%8A%82",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时36分]"
+        },
+        {
+          "title": "美方对伊朗启动代号为「经济狂怒」的行动，其具体措施与以往制裁会有何差异？可能对双方谈判有怎样的影响？",
+          "url": "https://www.zhihu.com/question/2028214096009412938",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时36分]"
         },
         {
           "title": "伊朗战争丨美参联会主席：将全球追击挂伊朗国旗船只",
@@ -54,42 +91,6 @@
           "time_info": "[01时08分 ~ 03时05分]"
         },
         {
-          "title": "伊朗披露击落美C-130细节",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8A%AB%E9%9C%B2%E5%87%BB%E8%90%BD%E7%BE%8EC-130%E7%BB%86%E8%8A%82",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时35分]"
-        },
-        {
-          "title": "美方对伊朗启动代号为「经济狂怒」的行动，其具体措施与以往制裁会有何差异？可能对双方谈判有怎样的影响？",
-          "url": "https://www.zhihu.com/question/2028214096009412938",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时35分]"
-        },
-        {
-          "title": "美方对伊朗启动代号为“经济狂怒”的行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32986818",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时35分]"
-        },
-        {
           "title": "伊朗战争丨伊朗总统：民众对美国不再抱有任何信任",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -97,8 +98,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时34分 ~ 06时35分]"
+          "appearance_count": 3,
+          "time_info": "[06时34分 ~ 07时36分]"
         },
         {
           "title": "美称伊朗最高领袖已受伤但仍活着",
@@ -109,8 +110,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时36分]"
         },
         {
           "title": "美防长称伊朗最高领袖受伤但活着",
@@ -121,11 +122,12 @@
             30,
             23,
             25,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时36分]"
         },
         {
           "title": "伊朗总统感谢中国",
@@ -138,8 +140,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时36分]"
         },
         {
           "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
@@ -151,6 +153,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "伊朗早有后手",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%97%A9%E6%9C%89%E5%90%8E%E6%89%8B%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            24,
+            20,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时05分 ~ 07时36分]"
         },
         {
           "title": "伊朗代表：霍尔木兹海峡的稳定需以尊重伊朗权利为前提",
@@ -238,6 +255,20 @@
           "time_info": "[01时08分 ~ 05时38分]"
         },
         {
+          "title": "美国和伊朗打了一个多月，一共烧了多少钱？",
+          "url": "https://www.zhihu.com/question/2027115873823973436",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时43分 ~ 07时36分]"
+        },
+        {
           "title": "伊朗披露击落美C-130运输机细节",
           "url": "https://www.toutiao.com/trending/7628411394106523658/",
           "source": "今日头条",
@@ -251,30 +282,17 @@
           "time_info": "[03时05分 ~ 06时35分]"
         },
         {
-          "title": "伊朗早有后手",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%97%A9%E6%9C%89%E5%90%8E%E6%89%8B%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            24,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时05分 ~ 06时35分]"
-        },
-        {
           "title": "伊朗议长：黎巴嫩是地区全面停火不可或缺一环",
           "url": "https://wallstreetcn.com/livenews/3089592",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时35分]"
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 07时36分]"
         },
         {
           "title": "伊朗议会议长：伊朗将以谨慎态度对待黎以停火",
@@ -295,11 +313,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时35分]"
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 07时36分]"
+        },
+        {
+          "title": "伊朗总统：美国多次违约 伊朗人民已对其完全失去信任",
+          "url": "https://wallstreetcn.com/livenews/3089589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 07时36分]"
         },
         {
           "title": "据伊朗媒体：伊朗外交部发言人表示，伊朗强调以色列需全面撤出黎巴嫩南部地区。",
@@ -314,18 +346,6 @@
           "time_info": "[04时43分 ~ 05时38分]"
         },
         {
-          "title": "伊朗总统：美国多次违约 伊朗人民已对其完全失去信任",
-          "url": "https://wallstreetcn.com/livenews/3089589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时35分]"
-        },
-        {
           "title": "据伊朗媒体：伊朗外交部发言人表示，伊朗欢迎黎巴嫩停火，这是伊朗与美国在巴基斯坦调解下达成的停火协议的一部分。",
           "url": "https://flash.jin10.com/detail/20260417041422151800",
           "source": "金十数据",
@@ -336,19 +356,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时38分]"
-        },
-        {
-          "title": "美国和伊朗打了一个多月，一共烧了多少钱？",
-          "url": "https://www.zhihu.com/question/2027115873823973436",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时43分 ~ 06时35分]"
         },
         {
           "title": "伊朗议会议长：美国屡屡违约阻碍地区和平进程",
@@ -467,7 +474,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -574,7 +581,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普：美伊下次会晤或在本周末举行",
@@ -584,8 +591,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时05分 ~ 06时35分]"
+          "appearance_count": 6,
+          "time_info": "[03时05分 ~ 07时36分]"
         },
         {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
@@ -600,6 +607,45 @@
           "time_info": "[01时08分 ~ 06时35分]"
         },
         {
+          "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
+          "url": "https://wallstreetcn.com/articles/3770137",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时36分]"
+        },
+        {
+          "title": "特朗普就访华明确表态，中方回应",
+          "url": "https://news.ifeng.com/c/8sN67BgzZcR",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时36分]"
+        },
+        {
+          "title": "特朗普称以黎停火10天",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BB%A5%E9%BB%8E%E5%81%9C%E7%81%AB10%E5%A4%A9%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            18,
+            17,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时36分]"
+        },
+        {
           "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
           "url": "https://www.cls.cn/detail/2346178",
           "source": "财联社热门",
@@ -611,18 +657,6 @@
           "time_info": "[01时08分 ~ 03时05分]"
         },
         {
-          "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
-          "url": "https://wallstreetcn.com/articles/3770137",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时35分]"
-        },
-        {
           "title": "伊朗战争丨特朗普：伊朗已同意不拥有核武器",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -632,31 +666,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时38分]"
-        },
-        {
-          "title": "特朗普就访华明确表态，中方回应",
-          "url": "https://news.ifeng.com/c/8sN67BgzZcR",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时35分]"
-        },
-        {
-          "title": "特朗普称以黎停火10天",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BB%A5%E9%BB%8E%E5%81%9C%E7%81%AB10%E5%A4%A9%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            18,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时35分]"
         },
         {
           "title": "以色列北部地区委员会负责人：特朗普将伊朗问题引入黎巴嫩局势是不合理的。",
@@ -692,16 +701,28 @@
           "time_info": "03时05分"
         },
         {
+          "title": "黎以停火十天生效，特朗普趁势喊话：伊朗同意不拥核，美伊周末或复谈",
+          "url": "https://flash.jin10.com/detail/20260417071827235800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
           "title": "美国总统特朗普：意大利（在发动伊朗战争方面）不支持我们，我们将来也不会支持他们。",
           "url": "https://wallstreetcn.com/livenews/3089591",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时35分]"
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 07时36分]"
         },
         {
           "title": "罗马教皇再发声 暗指特朗普操控宗教",
@@ -833,7 +854,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -855,7 +876,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -1039,7 +1060,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "苏林从北京乘高铁赴广西参访",
@@ -1050,8 +1071,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时36分]"
         },
         {
           "title": "越共中央总书记、国家主席苏林从北京乘高铁赴广西参访",
@@ -1063,8 +1084,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时36分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.99%，暂报2636.68点，整体持续走高，北京时间21:27以来出现一波尖锐的V形走势。 MarketVectorTM数字资产100中盘指数涨4.54%，报2910.95点。 MarketVector数字资产100指数涨0.44%，报14848.38点。 目前，Solana涨0.60%，狗狗币涨0.90%，XRP涨1.65%。 比特币跌0.98%，暂报74240美元；以太坊跌2.34%，暂报2318.11美元。",
@@ -1150,6 +1171,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "提醒：日内请重点关注（以下均为北京时间）",
+          "url": "https://wallstreetcn.com/livenews/3089605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
           "title": "周四（4月16日）纽约尾盘，ICE美元指数涨0.14%，报98.194点，日内交投区间为97.832-98.292点，北京时间16:00之前呈现出V形反转行情，随后持续交投于98.200点附近。 彭博美元指数涨0.07%，报1193.23点，日内交投区间为1189.77-1194.49点。 美元兑日元涨0.07%，报159.11日元，日内交投区间为158.27-159.31日元。 欧元兑日元跌0.05%，英镑兑日元跌0.15%。",
           "url": "https://wallstreetcn.com/livenews/3089556",
           "source": "华尔街见闻-快讯",
@@ -1175,7 +1207,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -1185,8 +1217,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时36分]"
         },
         {
           "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
@@ -1197,8 +1229,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时36分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -1209,8 +1241,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时36分]"
         },
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -1220,8 +1252,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时36分]"
         },
         {
           "title": "玩家AI生图捧洛克,网友一秒戳穿",
@@ -1231,8 +1263,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时36分]"
         },
         {
           "title": "美国自1999年以来最大规模的工业股IPO：Madison Air Solutions美国IPO首日开盘报32美元，此前给出的IPO发行价为27美元。",
@@ -1256,6 +1288,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时38分 ~ 06时35分]"
+        },
+        {
+          "title": "曝常春藤名校用打字机对抗AI",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E5%B8%B8%E6%98%A5%E8%97%A4%E5%90%8D%E6%A0%A1%E7%94%A8%E6%89%93%E5%AD%97%E6%9C%BA%E5%AF%B9%E6%8A%97AI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
         },
         {
           "title": "Upscale AI洽谈获得20亿美元估值，该公司的投资者包括老虎环球。",
