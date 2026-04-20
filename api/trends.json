@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T21:18:03.674673+08:00",
-  "total_titles_processed": 1525,
+  "generated_at": "2026-04-20T23:14:21.644703+08:00",
+  "total_titles_processed": 1665,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 167,
+      "match_count": 176,
       "titles": [
         {
           "title": "伊朗议长披露谈判细节：我告诉美方“如果你们再往前一步，我们肯定会开火”，最后美方求给15分钟，下令撤退",
@@ -53,6 +53,19 @@
           "time_info": "[00时33分 ~ 07时31分]"
         },
         {
+          "title": "“停火最后期限”临近，伊朗再封海峡、美国首次扣船，双方都在争取“谈判砝码”",
+          "url": "https://wallstreetcn.com/articles/3770363",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时36分 ~ 23时14分]"
+        },
+        {
           "title": "伊朗战争丨伊朗拒绝参加美伊第二轮谈判",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -62,6 +75,29 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时40分 ~ 06时30分]"
+        },
+        {
+          "title": "谈还是不谈？伊朗矛盾表态下 美伊第二轮谈判迷雾笼罩",
+          "url": "https://www.cls.cn/detail/2349508",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时17分 ~ 23时14分]"
+        },
+        {
+          "title": "伊朗外交部回应外长帖文争议",
+          "url": "https://news.ifeng.com/c/8sTw2gCASXZ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时17分 ~ 23时14分]"
         },
         {
           "title": "美以袭击伊朗进入第 51 天，当前局势如何？哪些信息值得关注？",
@@ -89,19 +125,6 @@
           "time_info": "[00时33分 ~ 10时06分]"
         },
         {
-          "title": "“停火最后期限”临近，伊朗再封海峡、美国首次扣船，双方都在争取“谈判砝码”",
-          "url": "https://wallstreetcn.com/articles/3770363",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时36分 ~ 21时18分]"
-        },
-        {
           "title": "伊朗释放混乱信号，美股期货回落，油价飙升近8%，黄金小幅走软",
           "url": "https://wallstreetcn.com/articles/3770361",
           "source": "华尔街见闻",
@@ -112,17 +135,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时57分 ~ 21时18分]"
-        },
-        {
-          "title": "伊朗嘲讽欧盟外长：哦，你管那个叫国际法？",
-          "url": "https://news.ifeng.com/c/8sTnYkkWuL2",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时17分 ~ 21时18分]"
         },
         {
           "title": "美国交通部长Duffy：如果伊朗战争结束，航空燃油价格将低于（美国和以色列发动）伊朗战争之前。",
@@ -140,27 +152,42 @@
           "time_info": "[00时34分 ~ 06时30分]"
         },
         {
-          "title": "谈还是不谈？伊朗矛盾表态下 美伊第二轮谈判迷雾笼罩",
-          "url": "https://www.cls.cn/detail/2349508",
-          "source": "财联社热门",
+          "title": "到底谈不谈？伊朗议员：谈判“今天或明天”进行，伊外交部：暂无第二轮谈判计划",
+          "url": "https://wallstreetcn.com/articles/3770391",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时17分 ~ 21时18分]"
-        },
-        {
-          "title": "伊朗外交部回应外长帖文争议",
-          "url": "https://news.ifeng.com/c/8sTw2gCASXZ",
-          "source": "凤凰网",
-          "ranks": [
+            9,
+            7,
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时17分 ~ 21时18分]"
+          "appearance_count": 7,
+          "time_info": "[17时57分 ~ 23时14分]"
+        },
+        {
+          "title": "伊朗嘲讽欧盟外长：哦，你管那个叫国际法？",
+          "url": "https://news.ifeng.com/c/8sTnYkkWuL2",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时17分 ~ 23时14分]"
+        },
+        {
+          "title": "伊朗在霍尔木兹海峡划定新航线，未经许可不得通行，有何战略意图？是否标志着伊朗对海峡的控制进入新阶段？",
+          "url": "https://www.zhihu.com/question/2029474310302032341",
+          "source": "知乎",
+          "ranks": [
+            6,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时57分 ~ 23时14分]"
         },
         {
           "title": "美以袭击伊朗进入第 52 天，当前局势如何？哪些信息值得关注？",
@@ -240,6 +267,29 @@
           "time_info": "[00时34分 ~ 06时30分]"
         },
         {
+          "title": "伊朗如何看谈判？一文读懂伊朗“首席谈判代表”周末的重磅阐述",
+          "url": "https://wallstreetcn.com/articles/3770369",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时57分 ~ 23时14分]"
+        },
+        {
+          "title": "伊朗战争丨美伊谈判悬念丛生，局势走向有几种可能？",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
+        {
           "title": "伊朗媒体：只要海上封锁持续，谈判就不会进行",
           "url": "https://wallstreetcn.com/livenews/3090639",
           "source": "华尔街见闻-快讯",
@@ -284,30 +334,19 @@
           "time_info": "[03时38分 ~ 07时31分]"
         },
         {
-          "title": "到底谈不谈？伊朗议员：谈判“今天或明天”进行，伊外交部：暂无第二轮谈判计划",
-          "url": "https://wallstreetcn.com/articles/3770391",
-          "source": "华尔街见闻",
+          "title": "美军向伊朗商船开火",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%90%91%E4%BC%8A%E6%9C%97%E5%95%86%E8%88%B9%E5%BC%80%E7%81%AB",
+          "source": "bilibili 热搜",
           "ranks": [
-            9,
-            7,
-            4
+            14,
+            11,
+            15,
+            21,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时57分 ~ 21时18分]"
-        },
-        {
-          "title": "伊朗在霍尔木兹海峡划定新航线，未经许可不得通行，有何战略意图？是否标志着伊朗对海峡的控制进入新阶段？",
-          "url": "https://www.zhihu.com/question/2029474310302032341",
-          "source": "知乎",
-          "ranks": [
-            6,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时57分 ~ 21时18分]"
+          "appearance_count": 7,
+          "time_info": "[13时36分 ~ 23时14分]"
         },
         {
           "title": "伊朗消息人士：伊方尚无参加下一轮伊美谈判的计划",
@@ -366,6 +405,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "伊朗媒体：伊朗不参加谈判的决定尚未改变",
+          "url": "https://wallstreetcn.com/livenews/3091230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "伊朗未证实新一轮美伊会谈消息",
@@ -506,18 +556,6 @@
           "time_info": "[17时57分 ~ 19时18分]"
         },
         {
-          "title": "伊朗如何看谈判？一文读懂伊朗“首席谈判代表”周末的重磅阐述",
-          "url": "https://wallstreetcn.com/articles/3770369",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时57分 ~ 21时18分]"
-        },
-        {
           "title": "伊朗放话：要想免费，拿这一条件来换",
           "url": "https://news.ifeng.com/c/8sTPQ2AjLvQ",
           "source": "凤凰网",
@@ -576,20 +614,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时06分 ~ 15时57分]"
-        },
-        {
-          "title": "美军向伊朗商船开火",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%90%91%E4%BC%8A%E6%9C%97%E5%95%86%E8%88%B9%E5%BC%80%E7%81%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            11,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时36分 ~ 19时18分]"
         },
         {
           "title": "伊朗：只要存在海上封锁就不会谈判",
@@ -816,6 +840,17 @@
           "time_info": "[19时17分 ~ 21时18分]"
         },
         {
+          "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2349767",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时17分 ~ 23时14分]"
+        },
+        {
           "title": "伊朗总统问美国凭什么决定伊核权利",
           "url": "https://flash.jin10.com/detail/20260420004907090800",
           "source": "金十数据",
@@ -910,6 +945,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时31分]"
+        },
+        {
+          "title": "美舰向伊朗货船开火画面曝光",
+          "url": "https://www.toutiao.com/trending/7630820401467100699/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时17分 ~ 23时14分]"
+        },
+        {
+          "title": "伊朗已决定继续与美国谈判",
+          "url": "https://www.douyin.com/hot/2472753",
+          "source": "抖音",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时17分 ~ 23时14分]"
         },
         {
           "title": "白宫官员表示：美国副总统万斯、特使Witkoff、特使库什纳将前往巴基斯坦，再次与伊朗对话。（路透）",
@@ -1082,17 +1141,6 @@
           "time_info": "[21时17分 ~ 21时18分]"
         },
         {
-          "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2349767",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时18分]"
-        },
-        {
           "title": "美军袭击一艘伊朗商船 迫使其返航",
           "url": "https://flash.jin10.com/detail/20260420012156661800",
           "source": "金十数据",
@@ -1126,6 +1174,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时36分 ~ 15时57分]"
+        },
+        {
+          "title": "满仓都是导弹 伊朗军方自曝库存",
+          "url": "https://www.toutiao.com/trending/7630112244986105350/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
+        {
+          "title": "美军：已指令27艘船只掉头或返回伊朗港口",
+          "url": "https://news.ifeng.com/c/8sUEtyjK76q",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
         },
         {
           "title": "美国共和党参议员格雷厄姆：这场出色的（美国）封锁正在摧毁伊朗经济。伊斯兰革命卫队对国际航运的袭击是绝望的表现。",
@@ -1271,17 +1341,6 @@
           "time_info": "[13时36分 ~ 15时57分]"
         },
         {
-          "title": "伊朗已决定继续与美国谈判",
-          "url": "https://www.douyin.com/hot/2472753",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时18分]"
-        },
-        {
           "title": "伊朗确认将参加2026年美加墨世界杯",
           "url": "https://flash.jin10.com/detail/20260419224906832800",
           "source": "金十数据",
@@ -1306,15 +1365,15 @@
           "time_info": "[00时34分 ~ 01时31分]"
         },
         {
-          "title": "美舰向伊朗货船开火画面曝光",
-          "url": "https://www.toutiao.com/trending/7630820401467100699/",
-          "source": "今日头条",
+          "title": "伊朗官员：最高领袖完全健康",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%98%E5%91%98%EF%BC%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%AE%8C%E5%85%A8%E5%81%A5%E5%BA%B7",
+          "source": "百度热搜",
           "ranks": [
-            30
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时18分]"
+          "time_info": "[23时13分 ~ 23时14分]"
         },
         {
           "title": "伊朗第一副总统阿雷夫：霍尔木兹海峡的安全并非免费。限制伊朗的石油出口时，不要期待他国获得免费的安全。选择很明确：要么实现对所有人而言都自由的石油市场，要么所有人承担重大成本的风险。全球燃料价格的稳定取决于有保证且永久地消除对伊朗及其盟友的经济和军事压力。",
@@ -1653,7 +1712,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -1768,6 +1827,17 @@
           "time_info": "17时57分"
         },
         {
+          "title": "美军称已指令27艘船只掉头或返回伊朗港口",
+          "url": "https://wallstreetcn.com/livenews/3091212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "伊朗外交部发言人巴加埃：美国封锁伊朗港口和海岸线既违反了巴基斯坦斡旋达成的停火协议，也是非法行为。",
           "url": "https://flash.jin10.com/detail/20260420040656802800",
           "source": "金十数据",
@@ -1823,6 +1893,17 @@
           "time_info": "17时57分"
         },
         {
+          "title": "Trafigura：全球大约3%的铝供应受到伊朗战争的干扰。",
+          "url": "https://wallstreetcn.com/livenews/3091210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "伊朗外交部发言人巴加埃：如果美国和以色列想要发起新的侵略，我们的武装部队将做出相应回应。",
           "url": "https://flash.jin10.com/detail/20260420153859219800",
           "source": "金十数据",
@@ -1851,7 +1932,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -1944,6 +2025,17 @@
           "time_info": "15时57分"
         },
         {
+          "title": "美军：封锁霍尔木兹海峡已经造成27艘船只调头、或重返伊朗港口。",
+          "url": "https://wallstreetcn.com/livenews/3091204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "伊朗外交部发言人巴加埃：美国从停火协议实施之初就违反了协议，我们已将此情况通报给巴基斯坦调解人。",
           "url": "https://flash.jin10.com/detail/20260420153832199800",
           "source": "金十数据",
@@ -1953,6 +2045,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
+        },
+        {
+          "title": "美国中央司令部：自对进出伊朗港口及沿海区域的船只实施封锁以来，美国部队已指示27艘船舶掉头或返回伊朗港口。",
+          "url": "https://flash.jin10.com/detail/20260420223011368800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美军武力拦截伊朗货船",
@@ -1969,7 +2072,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 48,
       "titles": [
         {
           "title": "停火“还剩三天”，以军袭击黎巴嫩，伊朗军方关闭霍尔木兹海峡，特朗普再召“战情室会议”",
@@ -1983,6 +2086,17 @@
           "time_info": "[00时33分 ~ 07时31分]"
         },
         {
+          "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
+          "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时06分 ~ 23时14分]"
+        },
+        {
           "title": "特朗普称若伊不达成停火或发动打击",
           "url": "https://www.cls.cn/detail/2348194",
           "source": "财联社热门",
@@ -1992,17 +2106,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 06时30分]"
-        },
-        {
-          "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
-          "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时06分 ~ 21时18分]"
         },
         {
           "title": "美国代表抵达伊斯兰堡参加谈判，特朗普：美伊仍能达成协议",
@@ -2017,6 +2120,17 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时33分 ~ 19时18分]"
+        },
+        {
+          "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
+          "url": "https://news.ifeng.com/c/8sTsOA6jP1W",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时57分 ~ 23时14分]"
         },
         {
           "title": "特朗普称美伊20日将在伊斯兰堡举行谈判",
@@ -2055,17 +2169,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 07时31分]"
-        },
-        {
-          "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
-          "url": "https://news.ifeng.com/c/8sTsOA6jP1W",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时57分 ~ 21时18分]"
         },
         {
           "title": "超1600亿美元！“特朗普关税退款”周一启动，企业能全部拿回吗？",
@@ -2153,6 +2256,28 @@
           "time_info": "[03时38分 ~ 07时31分]"
         },
         {
+          "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
+          "url": "https://news.ifeng.com/c/8sUALVwFbq7",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
+        {
+          "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
+          "url": "https://wallstreetcn.com/articles/3770404",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
+        {
           "title": "伊朗战争丨特朗普透露谈判消息：伊朗担心有诈",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -2162,6 +2287,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
+        },
+        {
+          "title": "美国总统特朗普称愿意参加会谈，但认为没有必要。",
+          "url": "https://flash.jin10.com/detail/20260420225300214800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国总统特朗普：坚持认为战争接近结束。（福克斯新闻）",
@@ -2192,6 +2328,28 @@
           "time_info": "[00时34分 ~ 05时31分]"
         },
         {
+          "title": "美国总统特朗普：与伊朗的会晤对各方都有利。",
+          "url": "https://flash.jin10.com/detail/20260420225236678800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "美国总统特朗普：停火协议将于华盛顿时间周三晚间到期。",
+          "url": "https://flash.jin10.com/detail/20260420225232052800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "特朗普：美军在阿曼湾拦截并控制一艘伊朗货船",
           "url": "https://wallstreetcn.com/livenews/3090659",
           "source": "华尔街见闻-快讯",
@@ -2201,6 +2359,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "标普500指数跌幅扩大至0.5%，此前美国总统特朗普声称“极不可能”延长与伊朗的停火协议。",
+          "url": "https://wallstreetcn.com/livenews/3091226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国总统特朗普：伊朗已经同意了协议的许多条款。（福克斯新闻）",
@@ -2363,6 +2532,17 @@
           "time_info": "[00时34分 ~ 01时31分]"
         },
         {
+          "title": "美国总统特朗普：“极不可能”延长与伊朗的停火协议。在签署协议之前不会开放霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260420225214077800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "特朗普透露谈判消息：伊朗担心有诈",
           "url": "https://news.ifeng.com/c/8sTGH8fIj93",
           "source": "凤凰网",
@@ -2372,6 +2552,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
+        },
+        {
+          "title": "特朗普：“极不可能”延长与伊朗的停火协议，万斯周一就要启程去巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3091221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
@@ -2391,7 +2582,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -2407,6 +2598,17 @@
           "time_info": "17时57分"
         },
         {
+          "title": "特朗普称并非因以色列才对伊朗开战",
+          "url": "https://wallstreetcn.com/livenews/3091211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "巴基斯坦安全消息人士：巴基斯坦陆军参谋长穆尼尔与美国总统特朗普通话，告知他霍尔木兹海峡封锁是谈判的障碍。特朗普告知穆尼尔会考虑他的建议。（路透）",
           "url": "https://wallstreetcn.com/livenews/3090981",
           "source": "华尔街见闻-快讯",
@@ -2416,6 +2618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
+        },
+        {
+          "title": "特朗普：以色列从未把我拉进与伊朗的战争",
+          "url": "https://wallstreetcn.com/livenews/3091209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "特朗普称就对伊朗封锁一事考虑巴基斯坦方面建议",
@@ -2432,7 +2645,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 41,
       "titles": [
         {
           "title": "如何看待番茄平台上月稿费 80 万的金番作者使用 AI 写作，甚至在正文中没有删除 AI 提示词的现象？",
@@ -2505,15 +2718,40 @@
           "time_info": "[00时33分 ~ 10时06分]"
         },
         {
-          "title": "华为首款AI眼镜来了",
-          "url": "https://www.toutiao.com/trending/7630378679035101225/",
-          "source": "今日头条",
+          "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
+          "url": "https://wallstreetcn.com/articles/3770370",
+          "source": "华尔街见闻",
           "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时57分 ~ 23时14分]"
+        },
+        {
+          "title": "AI围剿影视圈,演员签卖身契",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时17分 ~ 23时14分]"
+        },
+        {
+          "title": "陈哲远、曾舜晞等百位演员入驻爱奇艺 AI 艺人库，明知可能分走自己饭碗，演员们为何还要入场？",
+          "url": "https://www.zhihu.com/question/2029556060424332961",
+          "source": "知乎",
+          "ranks": [
+            9,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时18分]"
+          "appearance_count": 4,
+          "time_info": "[21时17分 ~ 23时14分]"
         },
         {
           "title": "女子酒窝超大被网友怀疑是AI",
@@ -2530,6 +2768,54 @@
           "time_info": "[15时57分 ~ 21时18分]"
         },
         {
+          "title": "华为首款AI眼镜来了",
+          "url": "https://www.toutiao.com/trending/7630378679035101225/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时17分 ~ 23时14分]"
+        },
+        {
+          "title": "爱奇艺称AI艺人库仅是合作意愿",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E7%A7%B0AI%E8%89%BA%E4%BA%BA%E5%BA%93%E4%BB%85%E6%98%AF%E5%90%88%E4%BD%9C%E6%84%8F%E6%84%BF%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时17分 ~ 23时14分]"
+        },
+        {
+          "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
+          "url": "https://wallstreetcn.com/articles/3770390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时17分 ~ 23时14分]"
+        },
+        {
+          "title": "曝王楚然早就融了AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时17分 ~ 23时14分]"
+        },
+        {
           "title": "中石油天然气集团等成立数科科技公司，含AI业务",
           "url": "https://flash.jin10.com/detail/20260420094913700800",
           "source": "金十数据",
@@ -2539,18 +2825,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
-        },
-        {
-          "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
-          "url": "https://wallstreetcn.com/articles/3770370",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时57分 ~ 21时18分]"
         },
         {
           "title": "AI养马能代替养虾吗",
@@ -2565,39 +2839,16 @@
           "time_info": "[17时57分 ~ 19时18分]"
         },
         {
-          "title": "AI围剿影视圈,演员签卖身契",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
-          "source": "贴吧",
+          "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011101",
+          "source": "澎湃新闻",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时17分 ~ 21时18分]"
-        },
-        {
-          "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
-          "url": "https://wallstreetcn.com/articles/3770390",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时17分 ~ 21时18分]"
-        },
-        {
-          "title": "曝王楚然早就融了AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
+            14,
             11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时17分 ~ 21时18分]"
+          "time_info": "[21时17分 ~ 23时14分]"
         },
         {
           "title": "未授权AI艺人",
@@ -2626,6 +2877,18 @@
           "time_info": "[15时57分 ~ 19时18分]"
         },
         {
+          "title": "爱奇艺 CEO 龚宇称 AI 影视化无法阻挡，真人实拍可能成为非物质文化遗产，你认同他的观点吗？",
+          "url": "https://www.zhihu.com/question/2029557729014933493",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时17分 ~ 23时14分]"
+        },
+        {
           "title": "怎样能够一眼分辨出是 AI 生成的文章？",
           "url": "https://www.zhihu.com/question/3022969383",
           "source": "知乎",
@@ -2649,17 +2912,6 @@
           "time_info": "[00时34分 ~ 02时40分]"
         },
         {
-          "title": "陈哲远、曾舜晞等百位演员入驻爱奇艺 AI 艺人库，明知可能分走自己饭碗，演员们为何还要入场？",
-          "url": "https://www.zhihu.com/question/2029556060424332961",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时18分]"
-        },
-        {
           "title": "张若昀工作室 没签过AI授权",
           "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%8B%A5%E6%98%80%E5%B7%A5%E4%BD%9C%E5%AE%A4%20%E6%B2%A1%E7%AD%BE%E8%BF%87AI%E6%8E%88%E6%9D%83&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -2670,28 +2922,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时57分 ~ 17时57分]"
-        },
-        {
-          "title": "爱奇艺称AI艺人库仅是合作意愿",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E7%A7%B0AI%E8%89%BA%E4%BA%BA%E5%BA%93%E4%BB%85%E6%98%AF%E5%90%88%E4%BD%9C%E6%84%8F%E6%84%BF%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时18分]"
-        },
-        {
-          "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011101",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时18分]"
         },
         {
           "title": "AI艺人库 自掘坟墓",
@@ -2718,15 +2948,15 @@
           "time_info": "[13时36分 ~ 15时57分]"
         },
         {
-          "title": "爱奇艺 CEO 龚宇称 AI 影视化无法阻挡，真人实拍可能成为非物质文化遗产，你认同他的观点吗？",
-          "url": "https://www.zhihu.com/question/2029557729014933493",
+          "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
+          "url": "https://www.zhihu.com/question/2029565174948914400",
           "source": "知乎",
           "ranks": [
-            20
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时18分]"
+          "time_info": "[23时13分 ~ 23时14分]"
         },
         {
           "title": "演员集体辟谣AI授权",
@@ -2740,6 +2970,17 @@
           "time_info": "[19时17分 ~ 19时18分]"
         },
         {
+          "title": "华为发布首款鸿蒙AI眼镜 2499元起售",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E9%B8%BF%E8%92%99AI%E7%9C%BC%E9%95%9C+2499%E5%85%83%E8%B5%B7%E5%94%AE",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
+        {
           "title": "AI李想",
           "url": "https://s.weibo.com/weibo?q=AI%E6%9D%8E%E6%83%B3&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -2749,6 +2990,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
+        },
+        {
+          "title": "市场消息：由淡马锡支持的CuspaI正进行谈判，以将其估值提升至10亿美元以上。",
+          "url": "https://flash.jin10.com/detail/20260420224540460800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "AI初创公司Cursor正在洽谈筹集20亿美元的融资，估值超过500亿美元。",
@@ -2762,6 +3014,17 @@
           "time_info": "06时30分"
         },
         {
+          "title": "托克集团金属分析主管Graeme Train：在海湾地区运输受扰之际，已将硫磺从美国转运至刚果（金）。",
+          "url": "https://flash.jin10.com/detail/20260420224256146800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "爱奇艺AI艺人库",
           "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BAAI%E8%89%BA%E4%BA%BA%E5%BA%93%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -2771,6 +3034,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
+        },
+        {
+          "title": "托克集团金属分析主管Graeme Train：战争已扰乱全球约3%的铝供应。",
+          "url": "https://flash.jin10.com/detail/20260420223716841800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "AI观众",
@@ -2837,6 +3111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
+        },
+        {
+          "title": "英国将要求政府各部门进一步削减开支，吹捧AI带来的“重大胜利”",
+          "url": "https://wallstreetcn.com/livenews/3091206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "富瀚微：除了面向商用场景，客户面向大众消费者的AI眼镜产品处于研发中。",
@@ -2924,7 +3209,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -2946,7 +3231,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         }
@@ -2980,7 +3265,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         }
