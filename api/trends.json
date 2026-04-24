@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T00:50:13.190917+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-25T01:46:00.520298+08:00",
+  "total_titles_processed": 373,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 01时46分]"
         },
         {
           "title": "核专家都感到惊奇，特朗普所说的“核尘埃”是什么？",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 01时46分]"
         },
         {
           "title": "特朗普的嘴，开了挂了",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 01时46分]"
         },
         {
           "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 01时46分]"
         },
         {
           "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
@@ -59,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 01时46分]"
         },
         {
           "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
@@ -70,8 +70,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 01时46分]"
         },
         {
           "title": "以总理称与特朗普就伊朗问题进行了一次“极好的谈话”",
@@ -80,31 +80,79 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "白宫表示，特朗普政府将迅速准备就庇护裁决提出上诉。",
+          "url": "https://flash.jin10.com/detail/20260425011418453800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
         },
         {
           "title": "以色列总理：与特朗普就伊朗问题进行了一次“极好的谈话”",
           "url": "https://wallstreetcn.com/livenews/3094214",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时46分]"
         },
         {
           "title": "特朗普政府持有的英特尔股份价值飙升300%",
           "url": "https://wallstreetcn.com/livenews/3094213",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时46分]"
+        },
+        {
+          "title": "欧洲真的怕特朗普吗",
+          "url": "https://www.toutiao.com/trending/7632202129738235913/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 01时46分]"
+        },
+        {
+          "title": "美伊谈判有望？伊朗外长率团访巴先与调解方谈、暂不接触美方，特朗普特使周六赴巴",
+          "url": "https://wallstreetcn.com/articles/3770826",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 01时46分]"
+        },
+        {
+          "title": "特朗普政府冻结3.44亿美元加密货币，借口是与伊朗有关联。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3094210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时46分]"
         },
         {
           "title": "特朗普再称「不着急」「没压力」， 想同伊朗达成「永久协议」，这场时间消耗战，谁在主导叙事？谁先扛不住？",
@@ -118,26 +166,16 @@
           "time_info": "[00时49分 ~ 00时50分]"
         },
         {
-          "title": "欧洲真的怕特朗普吗",
-          "url": "https://www.toutiao.com/trending/7632202129738235913/",
-          "source": "今日头条",
+          "title": "美媒：特朗普派遣其女婿及特使赴巴基斯坦同伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3094200",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            15,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
-        },
-        {
-          "title": "特朗普政府冻结3.44亿美元加密货币，借口是与伊朗有关联。（CNN）",
-          "url": "https://wallstreetcn.com/livenews/3094210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "time_info": "[00时50分 ~ 01时46分]"
         },
         {
           "title": "美官员：特朗普将派遣其女婿及特使赴巴基斯坦同伊朗谈判",
@@ -146,18 +184,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "美媒：特朗普派遣其女婿及特使赴巴基斯坦同伊朗谈判",
-          "url": "https://wallstreetcn.com/livenews/3094200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
         },
@@ -168,7 +195,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
         },
@@ -179,7 +206,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
         }
@@ -187,7 +214,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "伊朗战争丨伊朗将与巴基斯坦举行会谈，但不与美谈判",
@@ -197,8 +224,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 01时46分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -208,19 +235,41 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 01时46分]"
         },
         {
-          "title": "埃尼集团：市场低估了伊朗战争对能源价格的影响",
-          "url": "https://wallstreetcn.com/livenews/3094215",
+          "title": "伊朗媒体：德黑兰机场将恢复赴华航班",
+          "url": "https://wallstreetcn.com/livenews/3094230",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时50分"
+          "time_info": "01时46分"
+        },
+        {
+          "title": "伊朗主动联系，白宫确认：美国特使Witkoff与库什纳周六将前往巴基斯坦，万斯“随时待命”",
+          "url": "https://wallstreetcn.com/livenews/3094229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：伊朗任务已转入外交阶段。",
+          "url": "https://flash.jin10.com/detail/20260425011119275800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
         },
         {
           "title": "伊朗外长将访问巴基斯坦等三国",
@@ -230,8 +279,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 01时46分]"
         },
         {
           "title": "美军制定与伊朗重新开战新方案，以色列拟“重启战争”，伊朗称将“对等回应”",
@@ -241,8 +290,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 01时46分]"
+        },
+        {
+          "title": "埃尼集团：市场低估了伊朗战争对能源价格的影响",
+          "url": "https://wallstreetcn.com/livenews/3094215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "time_info": "[00时50分 ~ 01时46分]"
         },
         {
           "title": "以防长：只要美国同意，将刺杀伊朗新任最高领袖",
@@ -252,19 +313,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 01时46分]"
         },
         {
           "title": "伊朗遭“数字斩首”：对方导弹落地前，境内大量美国牌路由器死机，网络瘫痪使雷达失联，指挥链路中断，部队瞬间“失明”",
           "url": "https://wallstreetcn.com/articles/3770741",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 01时46分]"
         },
         {
           "title": "美军制定与伊朗重新开战新方案，将重点打击霍尔木兹海峡周边的伊朗军事防御能力，双方重新开战可能性有多大？",
@@ -274,8 +336,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 01时46分]"
         },
         {
           "title": "伊朗代表团暂不与美方接触",
@@ -285,30 +347,32 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 01时46分]"
         },
         {
           "title": "伊朗外长将阐述伊方在结束战争问题上的考量。（塔斯尼姆通讯社）",
           "url": "https://wallstreetcn.com/livenews/3094199",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时46分]"
         },
         {
           "title": "伊朗外交部发言人向国家媒体表示，外交部长阿拉格齐的地区之行将包括就结束美以对伊朗战争的最新努力进行磋商。",
           "url": "https://wallstreetcn.com/livenews/3094196",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时46分]"
         },
         {
           "title": "据CNN：美国特使威特科夫与库什纳将参与与伊朗外长阿拉格齐的会谈。",
@@ -317,7 +381,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
         },
@@ -328,7 +392,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
         },
@@ -339,7 +403,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
         }
@@ -347,7 +411,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -357,8 +421,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 01时46分]"
         },
         {
           "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
@@ -368,19 +432,42 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 01时46分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 01时46分]"
+        },
+        {
+          "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
+          "url": "https://www.cls.cn/detail/2355166",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 01时46分]"
+        },
+        {
+          "title": "AI出图太逼真,二游圈炸锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 01时46分]"
         },
         {
           "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
@@ -394,26 +481,26 @@
           "time_info": "[00时49分 ~ 00时50分]"
         },
         {
-          "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
-          "url": "https://www.cls.cn/detail/2355166",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
-        },
-        {
-          "title": "AI出图太逼真,二游圈炸锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
-          "source": "贴吧",
+          "title": "中方反对美方污蔑抹黑中国AI产业",
+          "url": "https://www.douyin.com/hot/2477525",
+          "source": "抖音",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "time_info": "[01时45分 ~ 01时46分]"
+        },
+        {
+          "title": "戛纳电影宫的中国AI时刻",
+          "url": "https://www.douyin.com/hot/2476611",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 01时46分]"
         },
         {
           "title": "AI科研绘图哪家强",
@@ -433,7 +520,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
         },
@@ -444,7 +531,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
         }
@@ -459,33 +546,36 @@
           "url": "https://www.douyin.com/hot/2477049",
           "source": "抖音",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 01时46分]"
         },
         {
           "title": "北京车展冒出一堆路虎风味国产电车",
           "url": "https://www.toutiao.com/trending/7632300888979148342/",
           "source": "今日头条",
           "ranks": [
-            29
+            29,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 01时46分]"
         },
         {
           "title": "北京车展上现“汽车跳舞”",
           "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E4%B8%8A%E7%8E%B0%E2%80%9C%E6%B1%BD%E8%BD%A6%E8%B7%B3%E8%88%9E%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 01时46分]"
         }
       ]
     }
