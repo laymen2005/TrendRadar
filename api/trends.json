@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T04:56:47.736027+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-04-28T05:52:15.449679+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时52分]"
         },
         {
           "title": "美国以涉伊朗为由制裁中企 中方表态",
@@ -25,11 +25,107 @@
           "ranks": [
             10,
             8,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时52分]"
+        },
+        {
+          "title": "伊朗外长：美方请求谈判 伊方正考虑",
+          "url": "https://www.toutiao.com/trending/7633444247001189938/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时52分]"
+        },
+        {
+          "title": "消息人士：伊朗提出一项分三阶段解决的谈判方案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060063",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时52分]"
+        },
+        {
+          "title": "伊朗外长抵达圣彼得堡将同普京举行会谈，会谈些啥？美伊局势转向会迎来重要契机吗？",
+          "url": "https://www.zhihu.com/question/2032051759590397567",
+          "source": "知乎",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时52分]"
+        },
+        {
+          "title": "伊朗宣布暂停66类钢铁产品出口，此前70%钢铁产能被以色列摧毁",
+          "url": "https://wallstreetcn.com/articles/3770985",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时52分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 59 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2031863204075106462",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时52分]"
+        },
+        {
+          "title": "普京：已收到伊朗最高领袖传来的信息",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E5%B7%B2%E6%94%B6%E5%88%B0%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%BC%A0%E6%9D%A5%E7%9A%84%E4%BF%A1%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时52分]"
+        },
+        {
+          "title": "伊朗外长：美方请求谈判 伊方正考虑",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E7%BE%8E%E6%96%B9%E8%AF%B7%E6%B1%82%E8%B0%88%E5%88%A4+%E4%BC%8A%E6%96%B9%E6%AD%A3%E8%80%83%E8%99%91",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            23,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时52分]"
+        },
+        {
+          "title": "伊朗：德黑兰本轮冲突中受损住宅已修复约80%",
+          "url": "https://wallstreetcn.com/livenews/3095246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
         },
         {
           "title": "市场分析：伊朗战争的持续不确定性令金价承压",
@@ -43,42 +139,9 @@
           "time_info": "03时10分"
         },
         {
-          "title": "伊朗外长：美方请求谈判 伊方正考虑",
-          "url": "https://www.toutiao.com/trending/7633444247001189938/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时56分]"
-        },
-        {
-          "title": "消息人士：伊朗提出一项分三阶段解决的谈判方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060063",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时56分]"
-        },
-        {
           "title": "伊朗战争丨普京会见伊朗外长，与穆杰塔巴隔空互动",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时56分]"
-        },
-        {
-          "title": "伊朗外长抵达圣彼得堡将同普京举行会谈，会谈些啥？美伊局势转向会迎来重要契机吗？",
-          "url": "https://www.zhihu.com/question/2032051759590397567",
-          "source": "知乎",
           "ranks": [
             6
           ],
@@ -98,53 +161,15 @@
           "time_info": "01时18分"
         },
         {
-          "title": "伊朗宣布暂停66类钢铁产品出口，此前70%钢铁产能被以色列摧毁",
-          "url": "https://wallstreetcn.com/articles/3770985",
-          "source": "华尔街见闻",
+          "title": "默茨：美国就伊朗战事缺乏战略性退出方案",
+          "url": "https://flash.jin10.com/detail/20260428042814365800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            8,
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时56分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 59 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2031863204075106462",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时56分]"
-        },
-        {
-          "title": "普京：已收到伊朗最高领袖传来的信息",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E5%B7%B2%E6%94%B6%E5%88%B0%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%BC%A0%E6%9D%A5%E7%9A%84%E4%BF%A1%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时56分]"
-        },
-        {
-          "title": "伊朗外长：美方请求谈判 伊方正考虑",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E7%BE%8E%E6%96%B9%E8%AF%B7%E6%B1%82%E8%B0%88%E5%88%A4+%E4%BC%8A%E6%96%B9%E6%AD%A3%E8%80%83%E8%99%91",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
         },
         {
           "title": "普京会见伊朗外长阿拉格齐",
@@ -152,44 +177,96 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 04时56分]"
+          "appearance_count": 5,
+          "time_info": "[03时09分 ~ 05时52分]"
         },
         {
           "title": "美国财长贝森特警告那些与伊朗航空公司合作的企业。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3095221",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时52分]"
         },
         {
           "title": "美国共和党参议员格雷厄姆：若要实现成功的谈判，必须有双方的通力配合与意愿。显然，如果上述报道属实，那么伊朗无疑是在玩弄把戏。",
           "url": "https://flash.jin10.com/detail/20260428040001211800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时52分]"
         },
         {
           "title": "俄防长会见伊朗副防长",
           "url": "https://wallstreetcn.com/livenews/3095219",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时52分]"
+        },
+        {
+          "title": "美国共和党参议员格雷厄姆：我无法断言有关伊朗提出新提议的相关报道究竟有多准确，其内容是通过解除对伊封锁、开放海峡并留待日后解决其他问题来结束战争。",
+          "url": "https://flash.jin10.com/detail/20260428035942365800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时52分]"
+        },
+        {
+          "title": "美国共和党参议员格雷厄姆：伊朗提出的所谓新提议是不可接受的。",
+          "url": "https://flash.jin10.com/detail/20260428035812262800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时52分]"
+        },
+        {
+          "title": "伊朗外交部：美方扣押伊朗油轮是将“海盗行为”合法化",
+          "url": "https://wallstreetcn.com/livenews/3095209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时52分]"
+        },
+        {
+          "title": "美国财长贝森特：上周五与欧盟委员会副主席谢夫乔维奇举行会谈。强调了应对伊朗对霍尔木兹海峡构成的威胁的必要性，并着重指出美国担任G20轮值主席国期间将重点关注粮食与化肥供应链问题。",
+          "url": "https://flash.jin10.com/detail/20260428033348055800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时52分]"
         },
         {
           "title": "鲁比奥：伊朗对达成协议“非常认真”",
@@ -201,28 +278,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "美国共和党参议员格雷厄姆：我无法断言有关伊朗提出新提议的相关报道究竟有多准确，其内容是通过解除对伊封锁、开放海峡并留待日后解决其他问题来结束战争。",
-          "url": "https://flash.jin10.com/detail/20260428035942365800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "美国共和党参议员格雷厄姆：伊朗提出的所谓新提议是不可接受的。",
-          "url": "https://flash.jin10.com/detail/20260428035812262800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时56分"
         },
         {
           "title": "美国驻联合国代表：伊朗违反海洋法，在霍尔木兹海峡进行海盗行为。",
@@ -258,15 +313,15 @@
           "time_info": "01时18分"
         },
         {
-          "title": "伊朗外交部：美方扣押伊朗油轮是将“海盗行为”合法化",
-          "url": "https://wallstreetcn.com/livenews/3095209",
+          "title": "美国国会预算办公室：伊朗战争对能源价格的影响正在抵消2025年减税政策对经济的提振作用",
+          "url": "https://wallstreetcn.com/livenews/3095230",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时56分"
+          "time_info": "05时52分"
         },
         {
           "title": "伊朗外长：伊方正研究和评估美方的谈判请求",
@@ -280,24 +335,13 @@
           "time_info": "01时18分"
         },
         {
-          "title": "美国财长贝森特：上周五与欧盟委员会副主席谢夫乔维奇举行会谈。强调了应对伊朗对霍尔木兹海峡构成的威胁的必要性，并着重指出美国担任G20轮值主席国期间将重点关注粮食与化肥供应链问题。",
-          "url": "https://flash.jin10.com/detail/20260428033348055800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
           "title": "美国财政部：财长贝森特上周五与欧盟委员会副主席谢夫乔维奇举行会谈。 双方强调了应对伊朗对霍尔木兹海峡构成的威胁的必要性，并着重指出美国担任G20轮值主席国期间将重点关注粮食与化肥供应链问题。",
           "url": "https://wallstreetcn.com/livenews/3095206",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         },
@@ -330,7 +374,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         },
@@ -341,7 +385,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         },
@@ -415,7 +459,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -425,8 +469,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时52分]"
         },
         {
           "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
@@ -436,19 +480,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时52分]"
         },
         {
-          "title": "英国国王查尔斯三世抵达白宫，即将会见总统特朗普。",
-          "url": "https://wallstreetcn.com/livenews/3095228",
-          "source": "华尔街见闻-快讯",
+          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时56分"
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时52分]"
+        },
+        {
+          "title": "白宫遭枪击,特朗普紧急撤离",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353736&amp;topic_name=%E7%99%BD%E5%AE%AB%E9%81%AD%E6%9E%AA%E5%87%BB%2C%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%A7%E6%80%A5%E6%92%A4%E7%A6%BB",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时52分]"
         },
         {
           "title": "特朗普支持为移民和海关执法局改名 ICE变“NICE”",
@@ -462,17 +518,6 @@
           "time_info": "01时18分"
         },
         {
-          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时56分]"
-        },
-        {
           "title": "特朗普舞厅诉讼案原告拒绝美国司法部在“刺杀企图”后撤诉的要求。",
           "url": "https://wallstreetcn.com/livenews/3095149",
           "source": "华尔街见闻-快讯",
@@ -484,16 +529,39 @@
           "time_info": "01时18分"
         },
         {
-          "title": "白宫遭枪击,特朗普紧急撤离",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353736&amp;topic_name=%E7%99%BD%E5%AE%AB%E9%81%AD%E6%9E%AA%E5%87%BB%2C%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%A7%E6%80%A5%E6%92%A4%E7%A6%BB",
-          "source": "贴吧",
+          "title": "英国国王查尔斯三世抵达白宫，即将会见总统特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3095228",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28,
-            30
+            1,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时56分]"
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时52分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普及其国安团队开会讨论伊朗新提案",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 05时52分]"
+        },
+        {
+          "title": "美国共和党参议员格雷厄姆：这是一项完全无视特朗普总统所秉持的强硬立场的提议。",
+          "url": "https://flash.jin10.com/detail/20260428035839355800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时52分]"
         },
         {
           "title": "白宫：特朗普及其国安团队开会讨论伊朗新提案",
@@ -516,17 +584,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "美国共和党参议员格雷厄姆：这是一项完全无视特朗普总统所秉持的强硬立场的提议。",
-          "url": "https://flash.jin10.com/detail/20260428035839355800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时56分"
         },
         {
           "title": "城堡证券EMEA固定收益销售主管Nohshad Shah：美联储领导者的潜在转变伴随着风险。 特朗普挑选的新一届美联储主席凯文·沃什强调，衡量通胀的指标应排除最极端的价格波动。 这种做法可能会使政策制定者对通胀动态的变化反应迟缓，因为转折点通常出现在“分布的尾部”——而这正是所谓的截尾均值指标剔除的成分。 沃什选择的通胀衡量指标对他有利，这与他对美联储应对疫情通胀反应迟缓的批评直接矛盾。",
@@ -620,8 +677,56 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时52分]"
+        },
+        {
+          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
+          "url": "https://wallstreetcn.com/articles/3770953",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时52分]"
+        },
+        {
+          "title": "彻底失控！AI恐惧演变物理暗杀：老黄随身带5个保镖，奥特曼们沦为靶子",
+          "url": "https://wallstreetcn.com/articles/3770976",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时52分]"
+        },
+        {
+          "title": "被AI骗去毒蛇窝徒步",
+          "url": "https://s.weibo.com/weibo?q=%E8%A2%ABAI%E9%AA%97%E5%8E%BB%E6%AF%92%E8%9B%87%E7%AA%9D%E5%BE%92%E6%AD%A5&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时52分]"
+        },
+        {
+          "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
+          "url": "https://www.cls.cn/detail/2357012",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时52分]"
         },
         {
           "title": "伊拉克什叶派联盟提名Ali al-Zaidi为总理。（伊拉克国家新闻机构）",
@@ -635,50 +740,16 @@
           "time_info": "03时10分"
         },
         {
-          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
-          "url": "https://wallstreetcn.com/articles/3770953",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时56分]"
-        },
-        {
-          "title": "彻底失控！AI恐惧演变物理暗杀：老黄随身带5个保镖，奥特曼们沦为靶子",
-          "url": "https://wallstreetcn.com/articles/3770976",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时56分]"
-        },
-        {
-          "title": "被AI骗去毒蛇窝徒步",
-          "url": "https://s.weibo.com/weibo?q=%E8%A2%ABAI%E9%AA%97%E5%8E%BB%E6%AF%92%E8%9B%87%E7%AA%9D%E5%BE%92%E6%AD%A5&t=31&band_rank=9&Refer=top",
+          "title": "美依礼芽回应歌手AI海报",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E5%9B%9E%E5%BA%94%E6%AD%8C%E6%89%8BAI%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时56分]"
-        },
-        {
-          "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
-          "url": "https://www.cls.cn/detail/2357012",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 05时52分]"
         },
         {
           "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
@@ -693,15 +764,16 @@
           "time_info": "[01时17分 ~ 03时10分]"
         },
         {
-          "title": "美依礼芽回应歌手AI海报",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E5%9B%9E%E5%BA%94%E6%AD%8C%E6%89%8BAI%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "美国财长贝森特对参议院Sanders的AI监管立场颇多微词。",
+          "url": "https://wallstreetcn.com/livenews/3095210",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            14,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时17分 ~ 01时18分]"
+          "time_info": "[04时56分 ~ 05时52分]"
         },
         {
           "title": "AI初创公司Sereact获1.1亿美元融资，旨在提升机器人适应性",
@@ -724,17 +796,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "美国财长贝森特对参议院Sanders的AI监管立场颇多微词。",
-          "url": "https://wallstreetcn.com/livenews/3095210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时56分"
         },
         {
           "title": "谷歌表示，欧盟毫无依据的干预将剥夺设备制造商定制AI服务的自主权，推高成本，并削弱隐私保护。",
@@ -787,7 +848,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         },
@@ -806,18 +867,19 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "从北京车展看国产车的进步",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E7%9C%8B%E5%9B%BD%E4%BA%A7%E8%BD%A6%E7%9A%84%E8%BF%9B%E6%AD%A5",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时52分]"
         },
         {
           "title": "北京车展百万元内新能源速览",
@@ -825,11 +887,34 @@
           "source": "bilibili 热搜",
           "ranks": [
             24,
-            26
+            26,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时52分]"
+        },
+        {
+          "title": "周一（4月27日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.8262元，较上周五纽约尾盘涨84点，日内整体交投于6.8386-6.8193元区间。",
+          "url": "https://wallstreetcn.com/livenews/3095237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
+          "title": "周一（4月27日）纽约尾盘，现货黄金跌0.62%，报4680.23美元/盎司，全天呈现出冲高回落走势，北京时间12:34曾微涨至4730美元刷新日高。 COMEX黄金期货8月合约跌0.99%，报4729.20美元/盎司。 现货白银跌0.33%，报75.4783美元/盎司。 COMEX白银期货跌1.36%，报75.895美元/盎司。 COMEX铜期货跌0.09%，报6.0830美元/磅。 现货铂金跌1.47%，现货钯金跌1.45%。",
+          "url": "https://wallstreetcn.com/livenews/3095233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8275元，较上周五夜盘收盘涨35点。成交量410.43亿美元。",
@@ -838,7 +923,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         },
@@ -869,8 +954,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时52分]"
         },
         {
           "title": "男子欠信用卡 债务被银行卖给第三方",
@@ -898,8 +983,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 04时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时52分]"
         }
       ]
     }
