@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T22:50:59.306182+08:00",
-  "total_titles_processed": 1488,
+  "generated_at": "2026-05-01T23:52:33.766454+08:00",
+  "total_titles_processed": 1563,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 69,
+      "match_count": 77,
       "titles": [
         {
           "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时32分 ~ 22时50分]"
+          "appearance_count": 9,
+          "time_info": "[10时32分 ~ 23时52分]"
         },
         {
           "title": "伊朗最高领袖、总统、议长、外长、革命卫队密集发声",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时56分 ~ 22时50分]"
+          "appearance_count": 8,
+          "time_info": "[16时56分 ~ 23时52分]"
         },
         {
           "title": "24小时接收6500吨装备，以防长称或“很快恢复”对伊朗军事行动",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[16时56分 ~ 22时50分]"
+        },
+        {
+          "title": "美辩称袭击伊朗系“自卫”，伊朗怒斥",
+          "url": "https://news.ifeng.com/c/8sm4vXslE7P",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 23时52分]"
         },
         {
           "title": "据半岛电视台援引消息人士的话称，伊朗通过巴基斯坦提交了新提议，核谈判不太可能成功，重点可能转向结束战争。",
@@ -66,6 +77,17 @@
           "time_info": "19时55分"
         },
         {
+          "title": "伊朗提新谈判方案，美股高开高走，苹果绩后一度涨近6%，美油盘中跌超5%",
+          "url": "https://wallstreetcn.com/articles/3771459",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "伊朗战争冲击石油市场下，巴西油气产量创历史新高",
           "url": "https://flash.jin10.com/detail/20260501071636612800",
           "source": "金十数据",
@@ -77,26 +99,37 @@
           "time_info": "07时46分"
         },
         {
-          "title": "美辩称袭击伊朗系“自卫”，伊朗怒斥",
-          "url": "https://news.ifeng.com/c/8sm4vXslE7P",
-          "source": "凤凰网",
+          "title": "白宫拒评有关伊朗回应细节",
+          "url": "https://flash.jin10.com/detail/20260501231543542800",
+          "source": "金十数据",
           "ranks": [
-            8
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 22时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
-          "title": "伊朗足协主席：国家队是否赴美参加世界杯仍需与国际足联沟通协调",
-          "url": "https://flash.jin10.com/detail/20260501221603622800",
+          "title": "伊朗消息人士：伊朗仍对美国深感不信任",
+          "url": "https://flash.jin10.com/detail/20260501231455080800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "23时52分"
+        },
+        {
+          "title": "布伦特原油期货跌2美元/桶，伊朗提出和平建议。",
+          "url": "https://wallstreetcn.com/livenews/3097949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗外交部发言人表示，期望与美国的谈判迅速取得成果是不切实际的。",
@@ -196,6 +229,18 @@
           "time_info": "[16时56分 ~ 19时55分]"
         },
         {
+          "title": "伊朗足协主席：国家队是否赴美参加世界杯仍需与国际足联沟通协调",
+          "url": "https://flash.jin10.com/detail/20260501221603622800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时52分]"
+        },
+        {
           "title": "伊朗称最高领袖身体健康",
           "url": "https://wallstreetcn.com/livenews/3097843",
           "source": "华尔街见闻-快讯",
@@ -276,6 +321,18 @@
           "time_info": "[16时57分 ~ 18时20分]"
         },
         {
+          "title": "伊朗谈判方案已被转交美国",
+          "url": "https://wallstreetcn.com/livenews/3097938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时52分]"
+        },
+        {
           "title": "美国防长：对伊朗军事行动“60天期限”已因停火“中止”",
           "url": "https://wallstreetcn.com/livenews/3097704",
           "source": "华尔街见闻-快讯",
@@ -324,6 +381,29 @@
           "time_info": "[05时53分 ~ 06时47分]"
         },
         {
+          "title": "伊朗足协主席：国家队是否赴美参加世界杯仍需与国际足联沟通协调",
+          "url": "https://wallstreetcn.com/livenews/3097934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时52分]"
+        },
+        {
+          "title": "伊朗递交最新谈判方案",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%80%92%E4%BA%A4%E6%9C%80%E6%96%B0%E8%B0%88%E5%88%A4%E6%96%B9%E6%A1%88%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时52分]"
+        },
+        {
           "title": "伊朗战争丨美众议院议长：国会无需就对伊朗的军事行动表决",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -352,9 +432,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
+        },
+        {
+          "title": "伊朗战争丨美军最大航母“福特”号已离开中东",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "伊朗外长同欧盟外交与安全政策高级代表通话 讨论地区局势",
@@ -366,17 +457,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
-        },
-        {
-          "title": "伊朗谈判方案已被转交美国",
-          "url": "https://wallstreetcn.com/livenews/3097938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
         },
         {
           "title": "美以袭击伊朗进入第 63 天，当前局势如何？还有哪些信息值得关注？",
@@ -478,6 +558,17 @@
           "time_info": "18时20分"
         },
         {
+          "title": "美国财政部网站更新针对伊朗的相关制裁。",
+          "url": "https://flash.jin10.com/detail/20260501230903973800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "伊朗外长：美对伊战争已致美国损失1000亿美元",
           "url": "https://wallstreetcn.com/livenews/3097857",
           "source": "华尔街见闻-快讯",
@@ -544,17 +635,6 @@
           "time_info": "21时07分"
         },
         {
-          "title": "伊朗足协主席：国家队是否赴美参加世界杯仍需与国际足联沟通协调",
-          "url": "https://wallstreetcn.com/livenews/3097934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
           "title": "以色列紧急向阿联酋提供激光系统，以帮助其防御伊朗导弹。",
           "url": "https://flash.jin10.com/detail/20260501040234281800",
           "source": "金十数据",
@@ -572,7 +652,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -605,7 +685,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -652,6 +732,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：战胜敌对超级大国之后进行重建的日子即将到来。",
+          "url": "https://flash.jin10.com/detail/20260501225711327800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "伊朗外交部：美国袭击伊朗是“侵略行为”",
@@ -720,13 +811,24 @@
           "time_info": "03时11分"
         },
         {
+          "title": "巴基斯坦官员称伊朗递交的最新谈判方案已转交美国",
+          "url": "https://flash.jin10.com/detail/20260501222838293800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "美国于周一向伊朗提交了一份修订清单。（AXIOS）",
           "url": "https://wallstreetcn.com/livenews/3097918",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -773,23 +875,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
-        },
-        {
-          "title": "伊朗递交最新谈判方案",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%80%92%E4%BA%A4%E6%9C%80%E6%96%B0%E8%B0%88%E5%88%A4%E6%96%B9%E6%A1%88%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 62,
       "titles": [
         {
           "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
@@ -854,8 +945,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时32分 ~ 23时52分]"
+        },
+        {
+          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
+          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[10时32分 ~ 22时50分]"
+          "time_info": "[16时56分 ~ 23时52分]"
         },
         {
           "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
@@ -882,17 +984,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时14分 ~ 10时32分]"
-        },
-        {
-          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
-          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时56分 ~ 22时50分]"
         },
         {
           "title": "还是不解气，特朗普又炮轰默茨",
@@ -927,6 +1018,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时14分 ~ 07时46分]"
+        },
+        {
+          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 23时52分]"
         },
         {
           "title": "美国总统特朗普签署联邦合同相关命令。",
@@ -1050,18 +1156,15 @@
           "time_info": "03时11分"
         },
         {
-          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
-          "source": "澎湃新闻",
+          "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
+          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
+          "source": "凤凰网",
           "ranks": [
-            15,
-            14,
-            12,
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时20分 ~ 22时50分]"
+          "time_info": "[19时55分 ~ 23时52分]"
         },
         {
           "title": "美国总统特朗普签署许可，授权通过输油管线Bridger Pipeline将加拿大石油供应到怀俄明州。 这将在美国联邦政府层面为跨境的Bridger项目建设、衔接、运营扫清障碍。",
@@ -1135,17 +1238,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时14分 ~ 03时11分]"
-        },
-        {
-          "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
-          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时55分 ~ 22时50分]"
         },
         {
           "title": "伊朗战争丨特朗普晒图：霍尔木兹海峡被更名为“特朗普海峡”",
@@ -1242,6 +1334,18 @@
           "time_info": "[01时14分 ~ 03时11分]"
         },
         {
+          "title": "屡遭暗杀还不考虑穿防弹衣？特朗普：穿着显胖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33088375",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时52分]"
+        },
+        {
           "title": "特朗普：只有少数人知晓美伊谈判实际进展",
           "url": "https://wallstreetcn.com/livenews/3097733",
           "source": "华尔街见闻-快讯",
@@ -1274,6 +1378,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "航空公司Spirit Airlines准备关闭，该公司没能（与特朗普政府）达成一份救助协议。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3097947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "特朗普取消部分威士忌关税",
@@ -1309,6 +1424,28 @@
           "time_info": "21时07分"
         },
         {
+          "title": "德国副总理：我们不需要特朗普的建议",
+          "url": "https://wallstreetcn.com/livenews/3097945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
+          "title": "总统能上太空吗？特朗普现场发问，NASA局长：可以安排",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33088692",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "美国总统特朗普：我将取消与苏格兰和肯塔基州在威士忌和波旁威士忌领域合作相关的威士忌关税和限制。",
           "url": "https://flash.jin10.com/detail/20260501023140297800",
           "source": "金十数据",
@@ -1342,17 +1479,6 @@
           "time_info": "01时14分"
         },
         {
-          "title": "屡遭暗杀还不考虑穿防弹衣？特朗普：穿着显胖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33088375",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
           "title": "美国总统特朗普：AI将创造大量就业机会。",
           "url": "https://wallstreetcn.com/livenews/3097697",
           "source": "华尔街见闻-快讯",
@@ -1373,6 +1499,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
+        },
+        {
+          "title": "美国能源部长赖特：作为特朗普“和平管道”议程的一部分，中欧和东欧正在讨论多个管道项目，以促进繁荣与安全。",
+          "url": "https://flash.jin10.com/detail/20260501225206321800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "美国总统特朗普致电伊拉克总理提名人阿里·扎伊迪，邀请他在组建新政府后前往华盛顿。",
@@ -1447,7 +1584,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -1466,7 +1603,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
@@ -1507,11 +1644,12 @@
             21,
             27,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时14分 ~ 22时50分]"
+          "appearance_count": 16,
+          "time_info": "[01时14分 ~ 23时52分]"
         },
         {
           "title": "AI古代铠甲勇士完结篇",
@@ -1522,11 +1660,12 @@
             18,
             20,
             21,
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时32分 ~ 22时50分]"
+          "appearance_count": 9,
+          "time_info": "[10时32分 ~ 23时52分]"
         },
         {
           "title": "假如AI能模拟去世亲人",
@@ -1567,6 +1706,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时14分 ~ 06时47分]"
+        },
+        {
+          "title": "甲骨文涨幅扩大至超过6.3%，刷新日高至171.49美元。美国五角大楼称，甲骨文将加入AI计划。",
+          "url": "https://wallstreetcn.com/livenews/3097953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
+          "title": "JetBlue Airlines涨幅扩大至11%。",
+          "url": "https://wallstreetcn.com/livenews/3097950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -1631,6 +1792,18 @@
           "time_info": "[06时47分 ~ 07时46分]"
         },
         {
+          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
+          "url": "https://wallstreetcn.com/articles/3771451",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时52分]"
+        },
+        {
           "title": "周四（4月30日），美股信息科技指数收涨2.06%，报341.16点，4月份累涨31.48%。 人工智能（AI）赢家指数涨1.69%，报357.04点，4月份累上涨29.66%。 AI软件先驱指数跌1.22%，报96.01点，4月份累涨2.48%。",
           "url": "https://wallstreetcn.com/livenews/3097751",
           "source": "华尔街见闻-快讯",
@@ -1652,17 +1825,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
-        },
-        {
-          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
-          "url": "https://wallstreetcn.com/articles/3771451",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
         },
         {
           "title": "美国五角大楼将扩大英伟达(NVDA.O)和微软(MSFT.O)人工智能在秘密网络中的使用。国防部还与亚马逊云服务(AWS)和Reflection AI公司达成了协议。",
@@ -1734,7 +1896,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
@@ -1785,6 +1947,17 @@
           "time_info": "[05时53分 ~ 06时47分]"
         },
         {
+          "title": "北京车展两天涌入至少 6000 名外国人，为啥今年车展外国人浓度这么高？中国车已经发展到什么水平了？",
+          "url": "https://www.zhihu.com/question/2032470538120079165",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "金十图示：北京时间5月1日22:00将有欧元、日元等外汇期权大单到期，2个行权价10亿以上大单，敬请管理风险。",
           "url": "https://flash.jin10.com/detail/20260501162459918800",
           "source": "金十数据",
@@ -1802,7 +1975,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -1813,7 +1986,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         }
