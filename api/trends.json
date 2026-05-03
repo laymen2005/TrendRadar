@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T19:38:33.891385+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2026-05-03T20:57:17.758425+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 62,
+      "match_count": 64,
       "titles": [
         {
           "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 19时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 20时57分]"
         },
         {
           "title": "伊朗副外长：球在美国一边，做好两手准备",
@@ -56,8 +56,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时14分 ~ 19时38分]"
+          "appearance_count": 7,
+          "time_info": "[10时14分 ~ 20时57分]"
         },
         {
           "title": "伊朗战争丨美媒急了：美军短板暴露了，对手正近距观察",
@@ -86,6 +86,19 @@
           "time_info": "[01时40分 ~ 07时38分]"
         },
         {
+          "title": "伊朗最新提出14点终战提议",
+          "url": "https://www.toutiao.com/trending/7635059597182828607/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时14分 ~ 20时57分]"
+        },
+        {
           "title": "伊朗外交部：必须抵制美国将“海盗行为”正常化",
           "url": "https://flash.jin10.com/detail/20260503040546472800",
           "source": "金十数据",
@@ -98,6 +111,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时36分 ~ 10时14分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 65 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2034041465198703020",
+          "source": "知乎",
+          "ranks": [
+            20,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时14分 ~ 20时57分]"
         },
         {
           "title": "伊朗军方官员：已为美方军事冒险做好充分准备",
@@ -137,31 +163,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时35分 ~ 10时14分]"
-        },
-        {
-          "title": "伊朗最新提出14点终战提议",
-          "url": "https://www.toutiao.com/trending/7635059597182828607/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时14分 ~ 19时38分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 65 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2034041465198703020",
-          "source": "知乎",
-          "ranks": [
-            20,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时14分 ~ 19时38分]"
         },
         {
           "title": "以军：如果不能移除伊朗的浓缩铀，就是“巨大的失败”",
@@ -213,6 +214,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时35分 ~ 10时14分]"
+        },
+        {
+          "title": "伊朗政府：伊朗外长与德国外长就地区和国际局势进行了电话交谈。伊朗外长介绍了伊朗为结束美以对伊战争所做的外交努力。",
+          "url": "https://flash.jin10.com/detail/20260503200244752800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "伊朗驻巴基斯坦大使：伊美谈判新方案已经巴方转交美方",
+          "url": "https://wallstreetcn.com/livenews/3098263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 20时57分]"
         },
         {
           "title": "卡塔尔外交部：卡塔尔首相向伊朗外长阿拉格齐强调，关闭霍尔木兹海峡或将其用作施压手段将导致危机加深。",
@@ -281,6 +307,19 @@
           "time_info": "[06时34分 ~ 07时38分]"
         },
         {
+          "title": "伊朗伊斯兰革命卫队：给予五角大楼最后期限解除封锁",
+          "url": "https://wallstreetcn.com/livenews/3098278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时50分 ~ 20时57分]"
+        },
+        {
           "title": "伊朗称美以军事袭击导致伊朗1489所学校和教育单位受损",
           "url": "https://wallstreetcn.com/livenews/3098241",
           "source": "华尔街见闻-快讯",
@@ -305,31 +344,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时53分 ~ 18时50分]"
-        },
-        {
-          "title": "伊朗驻巴基斯坦大使：伊美谈判新方案已经巴方转交美方",
-          "url": "https://wallstreetcn.com/livenews/3098263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 19时38分]"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队：给予五角大楼最后期限解除封锁",
-          "url": "https://wallstreetcn.com/livenews/3098278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 19时38分]"
         },
         {
           "title": "伊朗一超大型油轮“躲过”美海军追踪 正驶向印尼廖内群岛",
@@ -358,6 +372,32 @@
           "time_info": "[13时53分 ~ 17时18分]"
         },
         {
+          "title": "伊朗外交部：伊朗外长阿拉格齐向阿曼外长通报伊朗结束战争的努力。",
+          "url": "https://flash.jin10.com/detail/20260503183240457800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时50分 ~ 20时57分]"
+        },
+        {
+          "title": "伊朗与阿曼外长讨论结束战争的倡议。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3098274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时50分 ~ 20时57分]"
+        },
+        {
           "title": "伊朗高级官员披露伊美谈判最新细节：无最高领袖许可不得进行任何谈判",
           "url": "https://flash.jin10.com/detail/20260503150817334800",
           "source": "金十数据",
@@ -368,30 +408,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时53分 ~ 17时18分]"
-        },
-        {
-          "title": "伊朗外交部：伊朗外长阿拉格齐向阿曼外长通报伊朗结束战争的努力。",
-          "url": "https://flash.jin10.com/detail/20260503183240457800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 19时38分]"
-        },
-        {
-          "title": "伊朗与阿曼外长讨论结束战争的倡议。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3098274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 19时38分]"
         },
         {
           "title": "未爆弹药爆炸致伊朗革命卫队14人死亡",
@@ -442,6 +458,41 @@
           "time_info": "[07时37分 ~ 10时14分]"
         },
         {
+          "title": "伊朗媒体披露伊方最新谈判方案：14点提议，聚焦终战",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33093964",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时50分 ~ 20时57分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：美国的决策空间已受限",
+          "url": "https://wallstreetcn.com/livenews/3098281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 20时57分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：给予五角大楼最后期限解除封锁",
+          "url": "https://flash.jin10.com/detail/20260503184038906800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 20时57分]"
+        },
+        {
           "title": "伊朗官员：伊正在研究超过8条贸易替代通道或路线",
           "url": "https://flash.jin10.com/detail/20260503143401942800",
           "source": "金十数据",
@@ -464,6 +515,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时53分 ~ 17时18分]"
+        },
+        {
+          "title": "欧洲智库称伊朗战事冲击能源安全 或加剧欧盟内部对俄分歧",
+          "url": "https://wallstreetcn.com/livenews/3098279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 20时57分]"
         },
         {
           "title": "伊朗称霍尔木兹海峡一切交通都必须获得伊朗许可",
@@ -586,17 +649,6 @@
           "time_info": "[10时14分 ~ 13时53分]"
         },
         {
-          "title": "伊朗媒体披露伊方最新谈判方案：14点提议，聚焦终战",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33093964",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 19时38分]"
-        },
-        {
           "title": "美国威胁制裁向伊朗缴通行费的航运企业",
           "url": "https://flash.jin10.com/detail/20260502223228748800",
           "source": "金十数据",
@@ -644,28 +696,6 @@
           "time_info": "13时53分"
         },
         {
-          "title": "伊朗伊斯兰革命卫队：给予五角大楼最后期限解除封锁",
-          "url": "https://flash.jin10.com/detail/20260503184038906800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队：美国的决策空间已受限",
-          "url": "https://wallstreetcn.com/livenews/3098281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
           "title": "伊朗强化外交斡旋 与日本、意大利就地区局势与停火努力进行沟通",
           "url": "https://flash.jin10.com/detail/20260503155952439800",
           "source": "金十数据",
@@ -699,15 +729,15 @@
           "time_info": "13时53分"
         },
         {
-          "title": "欧洲智库称伊朗战事冲击能源安全 或加剧欧盟内部对俄分歧",
-          "url": "https://wallstreetcn.com/livenews/3098279",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗：给予五角大楼最后期限解除封锁",
+          "url": "https://www.toutiao.com/trending/7634485442179780137/",
+          "source": "今日头条",
           "ranks": [
-            8
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时38分"
+          "time_info": "20时57分"
         },
         {
           "title": "伊朗副议长：议会将批准“霍尔木兹海峡管理法”",
@@ -768,7 +798,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
@@ -792,8 +822,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 19时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 20时57分]"
         },
         {
           "title": "新战线突然开辟，特朗普怒率美国“两线作战”",
@@ -806,6 +836,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时40分 ~ 10时14分]"
+        },
+        {
+          "title": "伊朗：特朗普吹嘘行事如海盗是直接承认犯罪",
+          "url": "https://news.ifeng.com/c/8sovlG2f5ZT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时53分 ~ 20时57分]"
         },
         {
           "title": "特朗普签署新制裁令，称「几乎能立即」接管古巴，当前美古双边谈判情况如何，古巴能顶住美国的经济封锁吗？",
@@ -843,8 +884,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 19时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 20时57分]"
+        },
+        {
+          "title": "特朗普：美国有可能重启对伊朗空袭",
+          "url": "https://news.ifeng.com/c/8soZ3usJcy6",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时14分 ~ 20时57分]"
         },
         {
           "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
@@ -857,8 +911,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 19时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 20时57分]"
         },
         {
           "title": "特朗普宣布将于下周对欧盟输美汽车和卡车加征 25% 关税，他为何对欧洲下「狠手」？",
@@ -870,17 +924,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时40分 ~ 07时38分]"
-        },
-        {
-          "title": "伊朗：特朗普吹嘘行事如海盗是直接承认犯罪",
-          "url": "https://news.ifeng.com/c/8sovlG2f5ZT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时53分 ~ 19时38分]"
         },
         {
           "title": "规避《战争权力法》？特朗普称对伊行动结束，但仍有法律争议",
@@ -896,16 +939,17 @@
           "time_info": "[00时40分 ~ 10时14分]"
         },
         {
-          "title": "特朗普：美国有可能重启对伊朗空袭",
-          "url": "https://news.ifeng.com/c/8soZ3usJcy6",
-          "source": "凤凰网",
+          "title": "伊方最新谈判方案“14点提议，30天期限，聚焦终战”，特朗普称“难以想象该方案能被接受”",
+          "url": "https://wallstreetcn.com/articles/3771499",
+          "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时14分 ~ 19时38分]"
+          "time_info": "[13时53分 ~ 20时57分]"
         },
         {
           "title": "特朗普政府加速推进向中东出售86亿美元武器",
@@ -951,19 +995,6 @@
           "time_info": "[04时36分 ~ 10时14分]"
         },
         {
-          "title": "伊方最新谈判方案“14点提议，30天期限，聚焦终战”，特朗普称“难以想象该方案能被接受”",
-          "url": "https://wallstreetcn.com/articles/3771499",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时53分 ~ 19时38分]"
-        },
-        {
           "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33091461",
           "source": "澎湃新闻",
@@ -973,6 +1004,33 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时40分 ~ 05时35分]"
+        },
+        {
+          "title": "扣船抢油！特朗普不装了：“我们简直就是海盗”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33093469",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时53分 ~ 20时57分]"
+        },
+        {
+          "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
+          "url": "https://www.zhihu.com/question/2034052667509621790",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时53分 ~ 20时57分]"
         },
         {
           "title": "特朗普金卡计划为何失败",
@@ -989,30 +1047,18 @@
           "time_info": "[00时40分 ~ 05时35分]"
         },
         {
-          "title": "扣船抢油！特朗普不装了：“我们简直就是海盗”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33093469",
-          "source": "澎湃新闻",
+          "title": "白宫发“魔性”视频 特朗普循环1小时说“赢了赢了赢了”",
+          "url": "https://wallstreetcn.com/livenews/3098259",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
-            14,
-            13,
-            10
+            5,
+            19,
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时53分 ~ 19时38分]"
-        },
-        {
-          "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
-          "url": "https://www.zhihu.com/question/2034052667509621790",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时53分 ~ 19时38分]"
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 20时57分]"
         },
         {
           "title": "伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认",
@@ -1026,19 +1072,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时14分 ~ 15时53分]"
-        },
-        {
-          "title": "白宫发“魔性”视频 特朗普循环1小时说“赢了赢了赢了”",
-          "url": "https://wallstreetcn.com/livenews/3098259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 19时38分]"
         },
         {
           "title": "特朗普政府：无需为其他美国廉价航空公司提供救助",
@@ -1078,6 +1111,18 @@
           "time_info": "[00时40分 ~ 03时51分]"
         },
         {
+          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
+          "url": "https://www.cls.cn/detail/2362213",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时50分 ~ 20时57分]"
+        },
+        {
           "title": "伊朗批特朗普厚颜无耻吹嘘行事如海盗",
           "url": "https://www.toutiao.com/trending/7635573338844433930/",
           "source": "今日头条",
@@ -1091,6 +1136,17 @@
           "time_info": "[17时18分 ~ 19时38分]"
         },
         {
+          "title": "伊朗战争丨伊朗革命卫队：特朗普的决策空间已经缩小",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 20时57分]"
+        },
+        {
           "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
           "url": "https://wallstreetcn.com/articles/3771467",
           "source": "华尔街见闻",
@@ -1100,17 +1156,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时40分]"
-        },
-        {
-          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
-          "url": "https://www.cls.cn/detail/2362213",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 19时38分]"
         },
         {
           "title": "特朗普说从德国撤军人数将远超5000",
@@ -1160,17 +1205,6 @@
           "time_info": "10时14分"
         },
         {
-          "title": "伊朗战争丨伊朗革命卫队：特朗普的决策空间已经缩小",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
           "title": "特朗普说有可能重启对伊朗空袭",
           "url": "https://flash.jin10.com/detail/20260503081040091800",
           "source": "金十数据",
@@ -1182,13 +1216,24 @@
           "time_info": "10时14分"
         },
         {
+          "title": "最新ABC/华盛顿邮报/Ipsos民调：特朗普的不支持率达到62%，创下他两个任期内的最高纪录。",
+          "url": "https://flash.jin10.com/detail/20260503193547923800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "评论员：特朗普意外捣毁印度战略大计",
           "url": "https://www.toutiao.com/trending/7635575579709804086/",
           "source": "今日头条",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -1275,8 +1320,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 19时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 20时57分]"
         },
         {
           "title": "云南的水果像极了AI生成的",
@@ -1286,11 +1331,12 @@
             2,
             4,
             3,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时14分 ~ 19时38分]"
+          "appearance_count": 7,
+          "time_info": "[10时14分 ~ 20时57分]"
         },
         {
           "title": "专访｜赵又廷：别让AI取代我就行",
@@ -1346,8 +1392,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 19时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 20时57分]"
         },
         {
           "title": "伯克希尔拒绝跟风押注AI，CEO延续巴菲特一贯的投资哲学",
@@ -1379,6 +1425,18 @@
           "time_info": "[00时40分 ~ 07时38分]"
         },
         {
+          "title": "湖南广电 AI播新闻",
+          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%B9%BF%E7%94%B5%20AI%E6%92%AD%E6%96%B0%E9%97%BB&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 20时57分]"
+        },
+        {
           "title": "Anthropic正在洽谈从英国初创公司Fractile购买AI芯片。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3098169",
           "source": "华尔街见闻-快讯",
@@ -1394,17 +1452,6 @@
           "time_info": "[00时40分 ~ 07时38分]"
         },
         {
-          "title": "湖南广电 AI播新闻",
-          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%B9%BF%E7%94%B5%20AI%E6%92%AD%E6%96%B0%E9%97%BB&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 19时38分]"
-        },
-        {
           "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
           "url": "https://wallstreetcn.com/articles/3771504",
           "source": "华尔街见闻",
@@ -1414,8 +1461,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时53分 ~ 19时38分]"
+          "appearance_count": 6,
+          "time_info": "[13时53分 ~ 20时57分]"
+        },
+        {
+          "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
+          "url": "https://www.zhihu.com/question/2034241896516510290",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 20时57分]"
         },
         {
           "title": "误导女子闯入毒蛇窝AI道歉",
@@ -1433,28 +1494,28 @@
           "time_info": "[01时40分 ~ 07时38分]"
         },
         {
-          "title": "和AI玩猜历史人物游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%8CAI%E7%8E%A9%E7%8C%9C%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
+          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
+          "url": "https://wallstreetcn.com/articles/3771503",
+          "source": "华尔街见闻",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
-          "url": "https://www.zhihu.com/question/2034241896516510290",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7,
-            5
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 19时38分]"
+          "appearance_count": 5,
+          "time_info": "[15时53分 ~ 20时57分]"
+        },
+        {
+          "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
+          "url": "https://wallstreetcn.com/articles/3771505",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时53分 ~ 20时57分]"
         },
         {
           "title": "AI踩平量化门槛，普通人入局机会在哪？",
@@ -1470,18 +1531,6 @@
           "time_info": "[13时53分 ~ 17时18分]"
         },
         {
-          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
-          "url": "https://wallstreetcn.com/articles/3771503",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时53分 ~ 19时38分]"
-        },
-        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850519&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/VtW9z1ztEzuPtatCWeS0x.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260503120602300800",
           "source": "金十数据",
@@ -1495,15 +1544,16 @@
           "time_info": "[13时53分 ~ 17时18分]"
         },
         {
-          "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
-          "url": "https://wallstreetcn.com/articles/3771505",
-          "source": "华尔街见闻",
+          "title": "和AI玩猜历史人物游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%8CAI%E7%8E%A9%E7%8C%9C%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
           "ranks": [
-            9
+            4,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时53分 ~ 19时38分]"
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 20时57分]"
         },
         {
           "title": "既承传亦求变：伯克希尔新掌门释放谨慎投资与AI新信号",
@@ -1633,7 +1683,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "媒体：五一当天美军运输机飞抵北京",
@@ -1645,6 +1695,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时50分 ~ 19时38分]"
+        },
+        {
+          "title": "深圳DYG vs 北京JDG 挑战者杯",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%9C%B3DYG%20%E5%8C%97%E4%BA%ACJDG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 20时57分]"
         },
         {
           "title": "收获全球意向客户近150个，北京经开区企业亮相2026汉诺威工博会",
@@ -1671,15 +1733,15 @@
           "time_info": "[17时18分 ~ 18时50分]"
         },
         {
-          "title": "深圳DYG vs 北京JDG 挑战者杯",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%9C%B3DYG%20%E5%8C%97%E4%BA%ACJDG",
-          "source": "bilibili 热搜",
+          "title": "北京体育大会比赛间隙裁判团即兴起舞",
+          "url": "https://www.toutiao.com/trending/7635243251063029802/",
+          "source": "今日头条",
           "ranks": [
-            10
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时38分"
+          "time_info": "20时57分"
         }
       ]
     },
