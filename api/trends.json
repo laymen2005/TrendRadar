@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T10:14:53.464089+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2026-05-07T13:56:52.205009+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "以军总参谋长：在伊朗仍有一系列目标尚待打击",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 10时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 13时56分]"
         },
         {
           "title": "伊朗称将确保船只安全通过霍尔木兹海峡",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 10时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 13时56分]"
         },
         {
           "title": "伊朗战争丨“若美方不作出必要让步，已准备好开火”",
@@ -88,6 +88,18 @@
           "time_info": "[01时43分 ~ 03时44分]"
         },
         {
+          "title": "伊学者：这场战争，让中国意识到伊朗的战略性意义",
+          "url": "https://news.ifeng.com/c/8svQluOkLRz",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 13时56分]"
+        },
+        {
           "title": "知情人士：白宫认为与伊朗接近达成停战谅解备忘录",
           "url": "https://www.cls.cn/detail/2363872",
           "source": "财联社热门",
@@ -133,7 +145,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -206,17 +218,6 @@
           "time_info": "01时43分"
         },
         {
-          "title": "伊学者：这场战争，让中国意识到伊朗的战略性意义",
-          "url": "https://news.ifeng.com/c/8svQluOkLRz",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
           "title": "伊朗议长：“敌人”施经济压力 官民要团结应对",
           "url": "https://flash.jin10.com/detail/20260507064052614800",
           "source": "金十数据",
@@ -229,6 +230,30 @@
           "time_info": "[06时44分 ~ 07时44分]"
         },
         {
+          "title": "伊朗高层回击美媒：所谓的“和谈进展”只是美国的愿望清单，而非现实",
+          "url": "https://wallstreetcn.com/articles/3771674",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 13时56分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 69 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035488793264747701",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 13时56分]"
+        },
+        {
           "title": "伊朗：各港口已准备好提供一般海事服务和支持",
           "url": "https://wallstreetcn.com/livenews/3099568",
           "source": "华尔街见闻-快讯",
@@ -239,18 +264,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时06分 ~ 06时44分]"
-        },
-        {
-          "title": "伊朗高层回击美媒：所谓的“和谈进展”只是美国的愿望清单，而非现实",
-          "url": "https://wallstreetcn.com/articles/3771674",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 10时14分]"
         },
         {
           "title": "距离达成停战协议还有多远？美称非常乐观 伊朗说还在审阅",
@@ -311,17 +324,6 @@
           "time_info": "05时06分"
         },
         {
-          "title": "美以袭击伊朗进入第 69 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035488793264747701",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
           "title": "美军在阿曼湾截停伊朗籍空油轮，称其违反美方封锁",
           "url": "https://flash.jin10.com/detail/20260507011223424800",
           "source": "金十数据",
@@ -339,7 +341,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -372,7 +374,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -386,6 +388,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "美伊局势前景难料！伊朗仍在审议美方提议 据悉部分条款不可接受",
+          "url": "https://www.cls.cn/detail/2364403",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "【伊朗国防部发言人：美国必须和以色列保持距离】伊朗国防部发言人雷扎·塔莱尼克表示，美国必须和以色列保持距离，这样才能为结束冲突铺平道路。雷扎·塔莱尼克说，如果不承认伊朗的权利，不与以色列保持距离，美国就无法摆脱其陷入的泥潭。（央视）",
@@ -465,6 +478,17 @@
           "time_info": "01时43分"
         },
         {
+          "title": "伊朗媒体称有伊朗油轮突破美国封锁",
+          "url": "https://wallstreetcn.com/livenews/3099749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
           "title": "伊朗总统：对美不信任源于美方的敌对行为",
           "url": "https://wallstreetcn.com/livenews/3099523",
           "source": "华尔街见闻-快讯",
@@ -482,7 +506,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -592,7 +616,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         }
@@ -600,7 +624,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 43,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -653,6 +677,28 @@
           "time_info": "[06时44分 ~ 07时44分]"
         },
         {
+          "title": "伊朗战争丨特朗普突然叫停“自由计划”内幕披露",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
+          "title": "报道称沙特不满迫使特朗普“突然”叫停“自由计划”",
+          "url": "https://wallstreetcn.com/livenews/3099775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
           "title": "特朗普称暂停“自由计划”行动",
           "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
           "source": "澎湃新闻",
@@ -665,6 +711,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时43分 ~ 07时44分]"
+        },
+        {
+          "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
+          "url": "https://www.cls.cn/detail/2364367",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 13时56分]"
         },
         {
           "title": "特朗普再称对美伊达成协议表示乐观",
@@ -689,6 +747,17 @@
           "time_info": "03时44分"
         },
         {
+          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
+          "url": "https://news.ifeng.com/c/8svZidpLu1e",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
           "title": "特朗普对美伊达成协议再表乐观 同时威胁轰炸",
           "url": "https://flash.jin10.com/detail/20260507011521961800",
           "source": "金十数据",
@@ -709,18 +778,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
-        },
-        {
-          "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
-          "url": "https://www.cls.cn/detail/2364367",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 10时14分]"
         },
         {
           "title": "市场消息：据一位知情人士透露，特朗普政府正在研究利用美国军事基地及国防部其他场所地下的石油资源，以补充国家日益减少的应急储备。",
@@ -778,6 +835,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        },
+        {
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "美国总统特朗普：我原以为油价会涨到200到250美元。现在是100美元。即使涨到200美元，也值得。",
@@ -951,7 +1019,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -1022,6 +1090,17 @@
           "time_info": "03时44分"
         },
         {
+          "title": "颜面之争难破局！特朗普拒给伊朗体面，或是停战最大拦路虎",
+          "url": "https://flash.jin10.com/detail/20260507125646930800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
           "title": "特朗普再称对美伊达成协议表示乐观",
           "url": "https://wallstreetcn.com/livenews/3099545",
           "source": "华尔街见闻-快讯",
@@ -1036,7 +1115,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -1063,6 +1142,20 @@
           "time_info": "[01时43分 ~ 07时44分]"
         },
         {
+          "title": "马上评｜当AI收费遇到“搜黎元洪给出范伟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33101097",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 13时56分]"
+        },
+        {
           "title": "有AI真好 放以前没十几亿下不来",
           "url": "https://s.weibo.com/weibo?q=%E6%9C%89AI%E7%9C%9F%E5%A5%BD%20%E6%94%BE%E4%BB%A5%E5%89%8D%E6%B2%A1%E5%8D%81%E5%87%A0%E4%BA%BF%E4%B8%8B%E4%B8%8D%E6%9D%A5&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -1076,17 +1169,18 @@
           "time_info": "[01时43分 ~ 10时14分]"
         },
         {
-          "title": "马上评｜当AI收费遇到“搜黎元洪给出范伟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33101097",
-          "source": "澎湃新闻",
+          "title": "如何看待蔡浩宇的硅谷 AI 公司战略转向，LLM 团队整体回流国内？",
+          "url": "https://www.zhihu.com/question/2035415081798869913",
+          "source": "知乎",
           "ranks": [
-            18,
-            16,
-            11
+            15,
+            8,
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 10时14分]"
+          "appearance_count": 5,
+          "time_info": "[05时06分 ~ 13时56分]"
         },
         {
           "title": "10后小孩哥用AI帮妈妈管店",
@@ -1125,20 +1219,6 @@
           "time_info": "05时06分"
         },
         {
-          "title": "如何看待蔡浩宇的硅谷 AI 公司战略转向，LLM 团队整体回流国内？",
-          "url": "https://www.zhihu.com/question/2035415081798869913",
-          "source": "知乎",
-          "ranks": [
-            15,
-            8,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时06分 ~ 10时14分]"
-        },
-        {
           "title": "市场消息：由Meta支持的Scale AI公司获得了一份价值5亿美元的美国国防部合同。",
           "url": "https://flash.jin10.com/detail/20260507042354436800",
           "source": "金十数据",
@@ -1174,6 +1254,29 @@
           "time_info": "[01时43分 ~ 05时06分]"
         },
         {
+          "title": "EXO ai篡改记忆",
+          "url": "https://s.weibo.com/weibo?q=EXO%20ai%E7%AF%A1%E6%94%B9%E8%AE%B0%E5%BF%86&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 13时56分]"
+        },
+        {
+          "title": "比亚迪正式加入IATF AISBL",
+          "url": "https://www.toutiao.com/trending/7636079480591106111/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
           "title": "马斯克：xAI将不再作为独立公司存在，因此将更名为SpaceXAI。",
           "url": "https://flash.jin10.com/detail/20260507031835611800",
           "source": "金十数据",
@@ -1185,26 +1288,59 @@
           "time_info": "03时44分"
         },
         {
+          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
+          "url": "https://www.cls.cn/detail/2364594",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
+          "title": "A股AI应用板块短线拉升，易点天下涨超10%，引力传媒涨超7%，蓝色光标、浙文互联、天龙集团跟涨。",
+          "url": "https://flash.jin10.com/detail/20260507133047188800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
           "title": "黄仁勋：美国应保持AI领先地位",
           "url": "https://www.douyin.com/hot/2489930",
           "source": "抖音",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
         {
-          "title": "EXO ai篡改记忆",
-          "url": "https://s.weibo.com/weibo?q=EXO%20ai%E7%AF%A1%E6%94%B9%E8%AE%B0%E5%BF%86&t=31&band_rank=15&Refer=top",
-          "source": "微博",
+          "title": "“湖北惊现人造毒大米”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B9%96%E5%8C%97%E6%83%8A%E7%8E%B0%E4%BA%BA%E9%80%A0%E6%AF%92%E5%A4%A7%E7%B1%B3%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
           "ranks": [
-            15
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "13时56分"
+        },
+        {
+          "title": "马斯克解散 xAI，并入 SpaceX 更名为 SpaceXAI，此举整合 AI 与航天，背后有哪些考量？",
+          "url": "https://www.zhihu.com/question/2035666551223866960",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "苹果研发投入占营收比重突破10%，AI竞赛引发“紧迫感”",
@@ -1240,13 +1376,24 @@
           "time_info": "03时44分"
         },
         {
+          "title": "xAI更名SpaceXAI",
+          "url": "https://s.weibo.com/weibo?q=%23xAI%E6%9B%B4%E5%90%8DSpaceXAI%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
           "title": "立讯精密：AI端侧的产品百花齐放 但还没看到千万级的大批量机会",
           "url": "https://wallstreetcn.com/livenews/3099656",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -1273,11 +1420,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时44分]"
+          "appearance_count": 3,
+          "time_info": "[06时44分 ~ 13时56分]"
         },
         {
           "title": "CBA季后赛北京力克广东",
@@ -1297,11 +1445,12 @@
           "source": "抖音",
           "ranks": [
             22,
-            25
+            25,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 10时14分]"
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 13时56分]"
         },
         {
           "title": "在岸人民币兑美元北京时间03:00收报6.8133，较上一交易日夜盘收盘涨177点。",
