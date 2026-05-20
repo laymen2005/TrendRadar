@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T13:02:15.162523+08:00",
-  "total_titles_processed": 850,
+  "generated_at": "2026-05-20T16:29:25.498937+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时36分 ~ 13时02分]"
+          "appearance_count": 9,
+          "time_info": "[01时36分 ~ 16时29分]"
         },
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -31,6 +31,18 @@
           "time_info": "[01时36分 ~ 06时59分]"
         },
         {
+          "title": "美联储加息概率飙升！特朗普松口：沃什可“按自己意愿” 决定利率",
+          "url": "https://www.cls.cn/detail/2376144",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时29分]"
+        },
+        {
           "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
           "url": "https://news.ifeng.com/c/8tG27n1FK2V",
           "source": "凤凰网",
@@ -40,17 +52,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时36分 ~ 08时09分]"
-        },
-        {
-          "title": "美联储加息概率飙升！特朗普松口：沃什可“按自己意愿” 决定利率",
-          "url": "https://www.cls.cn/detail/2376144",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "万斯为特朗普超长交易清单辩护",
@@ -338,7 +339,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -368,7 +369,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
@@ -388,11 +389,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时36分 ~ 13时02分]"
+          "appearance_count": 9,
+          "time_info": "[01时36分 ~ 16时29分]"
         },
         {
           "title": "莫奈钓出嘉豪哥,真迹变AI",
@@ -400,11 +402,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时36分 ~ 13时02分]"
+          "appearance_count": 9,
+          "time_info": "[01时36分 ~ 16时29分]"
         },
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
@@ -416,19 +419,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时09分 ~ 13时02分]"
+          "appearance_count": 4,
+          "time_info": "[08时09分 ~ 16时29分]"
         },
         {
           "title": "5月20日投资避雷针：9天6板人气股提示风险 无AI覆铜板及高速覆铜板产品",
           "url": "https://www.cls.cn/detail/2376131",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时29分]"
         },
         {
           "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
@@ -498,6 +502,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时36分 ~ 06时59分]"
+        },
+        {
+          "title": "银行业高管谈论AI的口风已变 员工噩梦降临",
+          "url": "https://wallstreetcn.com/livenews/3106604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "中专生花10天手搓AI短片火遍全网",
@@ -573,6 +588,17 @@
           "time_info": "01时36分"
         },
         {
+          "title": "如何评价中专生花 10 天手搓 AI 短片《丧尸清道夫》火遍全网，被好莱坞制作人全网寻人？这部短片好在哪里？",
+          "url": "https://www.zhihu.com/question/2040109953877112007",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
           "url": "https://www.zhihu.com/question/2039715538398663059",
           "source": "知乎",
@@ -582,6 +608,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
+          "url": "https://www.cls.cn/detail/2376546",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "谷歌面向AI时代彻底重构搜索，并重磅发布系列编程工具",
@@ -612,7 +649,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -642,7 +679,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊媒：伊朗格什姆岛传出爆炸声",
@@ -705,6 +742,28 @@
           "time_info": "08时09分"
         },
         {
+          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
+          "url": "https://www.zhihu.com/question/2040001269360767857",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "欧洲央行管委Wunsch：债券抛售未影响对伊朗问题的考量。 欧洲央行迟早会做出反应的。 我们正处于通货膨胀问题的开端阶段。 在部分经济领域，应对通货膨胀的措施可能会更为迅速。 如果到六月情况仍未得到改善，那将会是个糟糕的消息。 欧元区经济正在放缓，而非陷入衰退。 我原本就对4月份加息有所期待。",
+          "url": "https://wallstreetcn.com/livenews/3106601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "欧洲央行管委Kocher：如果伊朗战争没有改善，预计央行将在6月加息。",
           "url": "https://wallstreetcn.com/livenews/3106242",
           "source": "华尔街见闻-快讯",
@@ -722,7 +781,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -837,6 +896,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "伊朗革命卫队：美以若再动武 战火将蔓延至中东以外地区",
+          "url": "https://wallstreetcn.com/livenews/3106565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "美国副总统万斯称，“无法说我们对‘将与伊朗达成一份协议’有信心”。WTI原油期货跌幅收窄至0.7%，重返103.65美元一线。",
           "url": "https://wallstreetcn.com/livenews/3106199",
           "source": "华尔街见闻-快讯",
@@ -884,7 +954,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "俄罗斯总统普京抵达北京",
@@ -980,6 +1050,18 @@
           "time_info": "[06时59分 ~ 13时02分]"
         },
         {
+          "title": "视频丨俄罗斯总统普京抵达北京开启访华行程",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33200995",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时29分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8122元，较周一夜盘收盘跌127点。成交量588.15亿美元。",
           "url": "https://wallstreetcn.com/livenews/3106223",
           "source": "华尔街见闻-快讯",
@@ -990,17 +1072,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时46分 ~ 05时15分]"
-        },
-        {
-          "title": "视频丨俄罗斯总统普京抵达北京开启访华行程",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33200995",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "周二（5月19日）纽约尾盘，彭博谷物分类指数跌0.14%，报32.8808点，北京时间14:45涨至33.3410点刷新日高，随后逐步下挫。 CBOT玉米期货跌0.37%，CBOT小麦期货涨0.53%。 CBOT大豆期货跌0.23%，报12.1025美元/蒲式耳，豆粕期货跌0.66%，豆油期货跌0.34%。",
@@ -1060,6 +1131,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "中国算力平台（北京）正式上线 国产算力产业链迎来快速发展期",
+          "url": "https://www.cls.cn/detail/2376114",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "周二（5月19日），彭博电动汽车价格回报指数跌1.94%，报3843.70点。 北京时间09:45开始一波加速下跌的行情，美股开盘再次加速下跌。",
           "url": "https://wallstreetcn.com/livenews/3106240",
           "source": "华尔街见闻-快讯",
@@ -1071,6 +1153,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "北京市民沿路围观欢迎普京车队",
+          "url": "https://www.toutiao.com/trending/7641644818204000275/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "周二（5月19日），美股人工智能（AI）赢家指数跌0.51%，报375.45点，北京时间01:00也曾转涨。 成分股Fluence Energy收跌8.34%，维谛技术控股跌5.03%，核电股Oklo跌4.58%，CoreWeave跌3.82%跌幅第四大，甲骨文跌2.76%，高意公司Coherent跌2.54%跌幅第十大，谷歌A跌2.34%。 Lumentum则收涨0.58%表现第九，美光科技涨2.52%，Arm控股涨3.73%，闪迪涨3.77%，迈威尔科技涨4.35%，Astera Labs涨13.40%。",
           "url": "https://wallstreetcn.com/livenews/3106271",
           "source": "华尔街见闻-快讯",
@@ -1080,6 +1173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
+        },
+        {
+          "title": "金十图示：北京时间5月20日22:00将有欧元、日元、加元等外汇期权大单到期，4个行权价10亿以上大单，敬请管理风险。",
+          "url": "https://flash.jin10.com/detail/20260520155129294800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "周二（5月19日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8169元，较周一纽约尾盘跌176点，日内整体交投于6.7961-6.82元区间，周一、周二呈现出冲高回落走势。",
@@ -1116,7 +1220,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -1177,7 +1281,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -1205,7 +1309,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         }
