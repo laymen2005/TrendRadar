@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-20T08:09:58.055160+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2026-05-20T13:02:15.162523+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
+          "url": "https://v.ifeng.com/c/8tGCnsxL5HM",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时36分 ~ 13时02分]"
+        },
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
           "url": "https://wallstreetcn.com/articles/3772569",
@@ -30,15 +42,15 @@
           "time_info": "[01时36分 ~ 08时09分]"
         },
         {
-          "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
-          "url": "https://v.ifeng.com/c/8tGCnsxL5HM",
-          "source": "凤凰网",
+          "title": "美联储加息概率飙升！特朗普松口：沃什可“按自己意愿” 决定利率",
+          "url": "https://www.cls.cn/detail/2376144",
+          "source": "财联社热门",
           "ranks": [
-            9
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时36分 ~ 08时09分]"
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "万斯为特朗普超长交易清单辩护",
@@ -47,7 +59,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -58,7 +70,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -69,7 +81,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -80,7 +92,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -110,13 +122,36 @@
           "time_info": "[03时46分 ~ 06时59分]"
         },
         {
+          "title": "特朗普称或再次打击伊朗 伊方警告将“开辟新战线”",
+          "url": "https://www.cls.cn/detail/2375999",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时09分 ~ 13时02分]"
+        },
+        {
+          "title": "特朗普家族被豁免永久禁止国税局审计",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%B6%E6%97%8F%E8%A2%AB%E8%B1%81%E5%85%8D%E6%B0%B8%E4%B9%85%E7%A6%81%E6%AD%A2%E5%9B%BD%E7%A8%8E%E5%B1%80%E5%AE%A1%E8%AE%A1%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
           "title": "美债收益率引爆新压力，沃什还没上任就被“围剿”？特朗普改口留后路",
           "url": "https://flash.jin10.com/detail/20260520073855509800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -127,7 +162,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -149,7 +184,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -163,17 +198,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
-        },
-        {
-          "title": "特朗普称或再次打击伊朗 伊方警告将“开辟新战线”",
-          "url": "https://www.cls.cn/detail/2375999",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时09分"
         },
         {
           "title": "美国总统特朗普在得克萨斯州共和党参议院初选中支持肯·帕克斯顿。",
@@ -193,7 +217,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -204,7 +228,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -259,7 +283,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -308,6 +332,17 @@
           "time_info": "06时59分"
         },
         {
+          "title": "特朗普的关税通牒奏效了？欧盟内部达成临时协议！",
+          "url": "https://flash.jin10.com/detail/20260520115829098800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "白宫：美国总统特朗普今天签署关于银行业的命令。",
           "url": "https://wallstreetcn.com/livenews/3106266",
           "source": "华尔街见闻-快讯",
@@ -333,7 +368,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
@@ -348,34 +383,60 @@
           "time_info": "[01时36分 ~ 08时09分]"
         },
         {
-          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
-          "url": "https://wallstreetcn.com/articles/3772582",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时36分 ~ 08时09分]"
-        },
-        {
           "title": "赢!米哈游携千亿进军AI行业",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354404&amp;topic_name=%E8%B5%A2%21%E7%B1%B3%E5%93%88%E6%B8%B8%E6%90%BA%E5%8D%83%E4%BA%BF%E8%BF%9B%E5%86%9BAI%E8%A1%8C%E4%B8%9A",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时36分 ~ 08时09分]"
+          "appearance_count": 8,
+          "time_info": "[01时36分 ~ 13时02分]"
         },
         {
           "title": "莫奈钓出嘉豪哥,真迹变AI",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354399&amp;topic_name=%E8%8E%AB%E5%A5%88%E9%92%93%E5%87%BA%E5%98%89%E8%B1%AA%E5%93%A5%2C%E7%9C%9F%E8%BF%B9%E5%8F%98AI",
           "source": "贴吧",
           "ranks": [
-            16
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时36分 ~ 13时02分]"
+        },
+        {
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时09分 ~ 13时02分]"
+        },
+        {
+          "title": "5月20日投资避雷针：9天6板人气股提示风险 无AI覆铜板及高速覆铜板产品",
+          "url": "https://www.cls.cn/detail/2376131",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
+          "url": "https://wallstreetcn.com/articles/3772582",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -410,20 +471,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
         {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
-          "source": "华尔街见闻",
+          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
+          "url": "https://www.cls.cn/detail/2376057",
+          "source": "财联社热门",
           "ranks": [
-            4
+            8,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时09分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时09分 ~ 13时02分]"
         },
         {
           "title": "【焦点复盘】沪指企稳反弹涨近1%，物理AI概念活跃不减，Token经济产业链热度扩散",
@@ -451,6 +513,19 @@
           "time_info": "[05时14分 ~ 08时09分]"
         },
         {
+          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
+          "url": "https://wallstreetcn.com/articles/3772609",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时46分 ~ 13时02分]"
+        },
+        {
           "title": "摩根大通：AI掀起产业变革正全方位考验管理层的领导力",
           "url": "https://wallstreetcn.com/livenews/3106284",
           "source": "华尔街见闻-快讯",
@@ -461,18 +536,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时59分 ~ 08时09分]"
-        },
-        {
-          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
-          "url": "https://wallstreetcn.com/articles/3772609",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时46分 ~ 08时09分]"
         },
         {
           "title": "报道：SpaceX计划在美国IPO后30天内收购AI编程初创公司Cursor",
@@ -510,17 +573,6 @@
           "time_info": "01时36分"
         },
         {
-          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
-          "url": "https://www.cls.cn/detail/2376057",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时09分"
-        },
-        {
           "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
           "url": "https://www.zhihu.com/question/2039715538398663059",
           "source": "知乎",
@@ -554,6 +606,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "【平头哥AI芯片真武M890首次亮相】在2026阿里云峰会上，平头哥新一代训推一体AI芯片真武M890首次亮相，该芯片内置144GB显存，片间互联带宽达到800GB/s，性能是真武810E的3倍，原生支持FP32到FP4等多种数据精度，可应用于高精度训练、低精度和超低精度推理的全场景。配合自研ICN Switch1.0芯片，可实现64卡全带宽互联，显著提升大规模智算集群计算的效率与稳定性。这是面向Agentic时代全面升级的重要部分，当天阿里云推出了全新“芯-云-模型-推理”技术体系。",
+          "url": "https://wallstreetcn.com/livenews/3106439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "谷歌公司将根据许可协议招聘AI初创公司Contextual的员工。",
           "url": "https://wallstreetcn.com/livenews/3106205",
           "source": "华尔街见闻-快讯",
@@ -579,7 +642,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "伊媒：伊朗格什姆岛传出爆炸声",
@@ -593,6 +656,19 @@
           "time_info": "[01时36分 ~ 08时09分]"
         },
         {
+          "title": "秘密袭击伊朗，野心与压力碰撞下阿联酋正将海湾变成前线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197672",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时36分 ~ 13时02分]"
+        },
+        {
           "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
           "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
           "source": "澎湃新闻",
@@ -600,18 +676,6 @@
             7,
             9,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时36分 ~ 08时09分]"
-        },
-        {
-          "title": "秘密袭击伊朗，野心与压力碰撞下阿联酋正将海湾变成前线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197672",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -636,7 +700,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -652,13 +716,24 @@
           "time_info": "05时15分"
         },
         {
+          "title": "美以袭击伊朗进入第 82 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2040200472615543846",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "伊朗战争冲击AI供应链 分析人士警告：最坏影响或仍未到来",
           "url": "https://www.cls.cn/detail/2375963",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -713,7 +788,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -801,7 +876,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         }
@@ -809,7 +884,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "俄罗斯总统普京抵达北京",
@@ -845,17 +920,6 @@
           "time_info": "[01时36分 ~ 08时09分]"
         },
         {
-          "title": "俄罗斯总统普京抵达北京",
-          "url": "https://www.douyin.com/hot/2505114",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时36分 ~ 08时09分]"
-        },
-        {
           "title": "俄罗斯总统普京抵达北京，于 5 月 19 日开始访华，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2039838595406455287",
           "source": "知乎",
@@ -879,15 +943,41 @@
           "time_info": "[01时36分 ~ 08时09分]"
         },
         {
+          "title": "俄罗斯总统普京抵达北京",
+          "url": "https://www.douyin.com/hot/2505114",
+          "source": "抖音",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时36分 ~ 13时02分]"
+        },
+        {
           "title": "【早报】普京抵达北京开始访华；长江存储完成IPO辅导备案",
           "url": "https://www.cls.cn/detail/2376101",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时09分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时09分 ~ 13时02分]"
+        },
+        {
+          "title": "提醒：日内请重点关注（以下均为北京时间）",
+          "url": "https://wallstreetcn.com/livenews/3106281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时59分 ~ 13时02分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8122元，较周一夜盘收盘跌127点。成交量588.15亿美元。",
@@ -902,16 +992,15 @@
           "time_info": "[03时46分 ~ 05时15分]"
         },
         {
-          "title": "提醒：日内请重点关注（以下均为北京时间）",
-          "url": "https://wallstreetcn.com/livenews/3106281",
-          "source": "华尔街见闻-快讯",
+          "title": "视频丨俄罗斯总统普京抵达北京开启访华行程",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33200995",
+          "source": "澎湃新闻",
           "ranks": [
-            5,
-            18
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时59分 ~ 08时09分]"
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "周二（5月19日）纽约尾盘，彭博谷物分类指数跌0.14%，报32.8808点，北京时间14:45涨至33.3410点刷新日高，随后逐步下挫。 CBOT玉米期货跌0.37%，CBOT小麦期货涨0.53%。 CBOT大豆期货跌0.23%，报12.1025美元/蒲式耳，豆粕期货跌0.66%，豆油期货跌0.34%。",
@@ -926,6 +1015,17 @@
           "time_info": "[03时46分 ~ 05时15分]"
         },
         {
+          "title": "普京乘车抵达北京人民大会堂",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B9%98%E8%BD%A6%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
           "title": "周二（5月19日），美股AI软件先驱指数跌0.12%，报107.31点，高开高走之际、北京时间21:52刷新日高至110.81点，随后回吐涨幅，23:25以来大致持平。 成分股甲骨文收跌2.76%，铿腾电子跌2.27%，ServiceNOW、微软至少跌1.44%，新思科技跌0.91%，GitLab涨1.47%，Datadog涨3.03%，Snowflake涨3.23%。",
           "url": "https://wallstreetcn.com/livenews/3106273",
           "source": "华尔街见闻-快讯",
@@ -936,6 +1036,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时59分 ~ 08时09分]"
+        },
+        {
+          "title": "来北京和文物碰个面",
+          "url": "https://www.douyin.com/hot/2503180",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
@@ -985,7 +1096,7 @@
     },
     {
       "keyword_group": "google",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌发布Gemini Omni AI模型，可以接受任何形式的输入（多模态），用户可以利用自然语言来编辑视频。 面向agents和编程发布Gemini 3.5 Flash模型。 新款AI编程功能存在于谷歌桌面反重力平台（Google Desktop Antigravity Platform）。",
@@ -997,6 +1108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "2026 年 Google I/O 大会有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2040145697911956151",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "谷歌展示Google Flow Music。",
@@ -1035,7 +1157,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI 推出“保证算力容量”服务，打响锁定长期客户续约战",
@@ -1049,6 +1171,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "OpenAI投2.34亿美元在新加坡设立新AI实验室",
+          "url": "https://flash.jin10.com/detail/20260520115552905800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "OpenAI创始成员Karpathy宣布，跳槽至Anthropic。",
           "url": "https://wallstreetcn.com/livenews/3106163",
           "source": "华尔街见闻-快讯",
@@ -1058,6 +1191,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印度尼西亚总统：我不希望我们的棕榈油价格受到其他国家的影响。我已要求内阁确保我们的商品价格，如镍和黄金，由我们自己决定。",
+          "url": "https://flash.jin10.com/detail/20260520120514918800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     }
