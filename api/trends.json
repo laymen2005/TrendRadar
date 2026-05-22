@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T14:45:20.927817+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-05-22T18:21:27.907849+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
@@ -83,6 +83,17 @@
           "time_info": "[00时13分 ~ 14时45分]"
         },
         {
+          "title": "特朗普若购格陵兰岛，将面临什么国内障碍？",
+          "url": "https://news.ifeng.com/c/8tKJKXPcRAX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 18时21分]"
+        },
+        {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
           "url": "https://news.ifeng.com/c/8tHcLpLqPgM",
           "source": "凤凰网",
@@ -95,15 +106,15 @@
           "time_info": "[10时54分 ~ 14时45分]"
         },
         {
-          "title": "特朗普若购格陵兰岛，将面临什么国内障碍？",
-          "url": "https://news.ifeng.com/c/8tKJKXPcRAX",
+          "title": "特朗普：历任美国总统都想干预古巴，这次轮到我来做",
+          "url": "https://v.ifeng.com/c/8tHcLpLqPgU",
           "source": "凤凰网",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时54分 ~ 14时45分]"
+          "time_info": "[14时45分 ~ 18时21分]"
         },
         {
           "title": "美国总统特朗普：我们希望古巴开放。",
@@ -126,6 +137,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "特朗普宣布“暂缓执行”拜登政府的制冷剂环保规定",
+          "url": "https://wallstreetcn.com/livenews/3107975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "美国总统特朗普：如果共和党不批准资金，白宫将无法保障安全。",
@@ -159,17 +181,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
-        },
-        {
-          "title": "特朗普：历任美国总统都想干预古巴，这次轮到我来做",
-          "url": "https://v.ifeng.com/c/8tHcLpLqPgU",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
         },
         {
           "title": "美国总统特朗普：宴会厅项目按计划推进，且预算控制在范围内，无需（额外）现金。",
@@ -218,6 +229,17 @@
           "time_info": "[04时49分 ~ 06时16分]"
         },
         {
+          "title": "美国欲在古巴重演“委内瑞拉剧本”？专家：特朗普另有图谋",
+          "url": "https://news.ifeng.com/c/8tJqOjVcrpo",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 18时21分]"
+        },
+        {
           "title": "特朗普再威胁伊朗交出浓缩铀，称到手后或销毁",
           "url": "https://wallstreetcn.com/livenews/3107623",
           "source": "华尔街见闻-快讯",
@@ -240,17 +262,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时56分 ~ 07时57分]"
-        },
-        {
-          "title": "美国欲在古巴重演“委内瑞拉剧本”？专家：特朗普另有图谋",
-          "url": "https://news.ifeng.com/c/8tJqOjVcrpo",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 14时45分]"
         },
         {
           "title": "特朗普再威胁伊朗交出浓缩铀 称到手后或销毁",
@@ -355,6 +366,17 @@
           "time_info": "10时54分"
         },
         {
+          "title": "今晚11点！美联储新主席沃什将宣誓就职 特朗普“降息梦”能实现吗？",
+          "url": "https://www.cls.cn/detail/2378649",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "据美国政治新闻网Politico：特朗普政府暂停发往刚果（金）的遣返航班，因当地埃博拉疫情肆虐。",
           "url": "https://flash.jin10.com/detail/20260522050949939800",
           "source": "金十数据",
@@ -416,7 +438,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -452,12 +474,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "特朗普拟建“凯旋门” 方案获批",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%9F%E5%BB%BA%E2%80%9C%E5%87%AF%E6%97%8B%E9%97%A8%E2%80%9D+%E6%96%B9%E6%A1%88%E8%8E%B7%E6%89%B9",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
@@ -484,6 +517,23 @@
           "time_info": "[00时13分 ~ 07时57分]"
         },
         {
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            19,
+            15,
+            14,
+            13,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 18时21分]"
+        },
+        {
           "title": "涨停封单最高超百亿元！京东方A签约康宁搅动AI封装产业链",
           "url": "https://www.cls.cn/detail/2378186",
           "source": "财联社热门",
@@ -505,22 +555,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时13分 ~ 06时16分]"
-        },
-        {
-          "title": "AI还原祖国人注射V1后的战斗力",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            19,
-            15,
-            14,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 14时45分]"
         },
         {
           "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
@@ -550,6 +584,29 @@
           "time_info": "[00时13分 ~ 07时57分]"
         },
         {
+          "title": "朱自清散文AI率超60%",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "郝哥李广奇回应AI买瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 18时21分]"
+        },
+        {
           "title": "为何AI总会一本正经地胡说八道",
           "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95AI%E6%80%BB%E4%BC%9A%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E5%9C%B0%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93",
           "source": "百度热搜",
@@ -572,6 +629,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时56分 ~ 14时45分]"
+        },
+        {
+          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
+          "url": "https://www.zhihu.com/question/2040809853350831319",
+          "source": "知乎",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 18时21分]"
         },
         {
           "title": "为何AI总会一本正经地胡说八道",
@@ -608,26 +677,15 @@
           "time_info": "00时13分"
         },
         {
-          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
-          "url": "https://www.zhihu.com/question/2040809853350831319",
-          "source": "知乎",
+          "title": "朱自清《荷塘月色》AI率超60%",
+          "url": "https://www.toutiao.com/trending/7642580693547057188/",
+          "source": "今日头条",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "郝哥李广奇回应AI买瓜",
-          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
+          "time_info": "18时21分"
         },
         {
           "title": "美国里士满联储主席Barkin（2027年FOMC票委）：对职责（实现充分就业+维持价格稳定）两个方面的感到神经紧张。 当前不是实施强有力前瞻指引的时机。 我所接触到的每一个人都在谈论AI相关的失业问题。 周二会见了候任美联储主席沃什，他没有透露自己会在美联储做什么。",
@@ -647,7 +705,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -663,6 +721,17 @@
           "time_info": "04时49分"
         },
         {
+          "title": "如何评价《一人之下》最新话（763 话）最后一页疑似使用 AI？",
+          "url": "https://www.zhihu.com/question/2040949624073152492",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "Kepler依托Claude构建金融服务业可验证AI架构",
           "url": "https://wallstreetcn.com/livenews/3107573",
           "source": "华尔街见闻-快讯",
@@ -672,6 +741,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "王珞丹用AI搓了个短片",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%8F%9E%E4%B8%B9%E7%94%A8AI%E6%90%93%E4%BA%86%E4%B8%AA%E7%9F%AD%E7%89%87%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "加密货币交易平台Blockchain.com秘密提交IPO申请",
@@ -721,8 +801,22 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
+          "url": "https://wallstreetcn.com/articles/3772837",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时56分 ~ 18时21分]"
+        },
         {
           "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
           "url": "https://wallstreetcn.com/articles/3772777",
@@ -732,33 +826,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时56分 ~ 14时45分]"
-        },
-        {
-          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
-          "url": "https://wallstreetcn.com/articles/3772837",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时56分 ~ 14时45分]"
-        },
-        {
-          "title": "伊朗最高领袖：接近武器级的铀得留下",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%EF%BC%9A%E6%8E%A5%E8%BF%91%E6%AD%A6%E5%99%A8%E7%BA%A7%E7%9A%84%E9%93%80%E5%BE%97%E7%95%99%E4%B8%8B",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 07时57分]"
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 18时21分]"
         },
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
@@ -767,7 +836,20 @@
           "ranks": [
             19,
             18,
-            16
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 18时21分]"
+        },
+        {
+          "title": "伊朗最高领袖：接近武器级的铀得留下",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%EF%BC%9A%E6%8E%A5%E8%BF%91%E6%AD%A6%E5%99%A8%E7%BA%A7%E7%9A%84%E9%93%80%E5%BE%97%E7%95%99%E4%B8%8B",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            13
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -785,6 +867,39 @@
           "time_info": "00时13分"
         },
         {
+          "title": "伊朗外长会见巴基斯坦内政部长",
+          "url": "https://wallstreetcn.com/livenews/3107971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "欧盟扩大对伊朗制裁 将“威胁中东航行自由”行为纳入制裁范围",
+          "url": "https://flash.jin10.com/detail/20260522175044483800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "伊朗革命卫队称过去24小时有35艘船通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3107969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "据伊朗学生通讯社：（美伊）信息交流旨在达成协议框架。",
           "url": "https://flash.jin10.com/detail/20260522053719602800",
           "source": "金十数据",
@@ -794,6 +909,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "伊朗最高领袖驻革命卫队代表萨德吉：敌人应该知道，我们指挥官的殉难不仅不会在我们的队伍中造成任何裂痕，反而会让我们毁灭傲慢势力的决心更加坚定。",
+          "url": "https://flash.jin10.com/detail/20260522174905894800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "胡塞武装领导人：全力支持伊朗 以色列可以被击败",
@@ -865,6 +991,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "欧盟扩大对伊朗制裁 将“威胁中东航行自由”行为纳入制裁范围",
+          "url": "https://wallstreetcn.com/livenews/3107962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "鲁比奥：若伊朗在霍尔木兹海峡实施收费制度，美伊外交协议将难以达成",
@@ -942,12 +1079,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "伊朗革命卫队：过去24小时有35艘船只通过海峡",
+          "url": "https://flash.jin10.com/detail/20260522172307176800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     },
     {
       "keyword_group": "北京",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "北京国安李明禁足五年",
@@ -960,8 +1108,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 14时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 18时21分]"
         },
         {
           "title": "SpaceX：目前瞄准美国中部时间18:30（北京时间07:30）进行星舰发射。",
@@ -1066,6 +1214,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.7947，较上一交易日官方收盘价涨13点，较上日夜盘收盘涨13点。",
+          "url": "https://wallstreetcn.com/livenews/3107926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     },
@@ -1139,6 +1298,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金价格不断下跌 货币重置开始了吗",
+          "url": "https://www.toutiao.com/trending/7642595063947595305/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     }
