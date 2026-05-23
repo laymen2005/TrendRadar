@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T06:03:52.994858+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-05-23T08:01:56.028962+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普声称要与赖清德通话，美媒分析后果",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 08时01分]"
         },
         {
           "title": "俄方称，普京与特朗普有可能 11 月在中国见面，美俄关系是否有望迎来转机？中国在这其中会扮演怎样的角色？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 08时01分]"
         },
         {
           "title": "特朗普将强制要求申请绿卡的外国人回国申请",
@@ -143,6 +144,18 @@
           "time_info": "[04时31分 ~ 06时03分]"
         },
         {
+          "title": "美国总统特朗普：伊朗永远不会拥有核武器，他们知道这一点。",
+          "url": "https://wallstreetcn.com/livenews/3108245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时03分 ~ 08时01分]"
+        },
+        {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
           "url": "https://m.thepaper.cn/newsDetail_forward_33206550",
           "source": "澎湃新闻",
@@ -218,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
+          "url": "https://wallstreetcn.com/articles/3772950",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         },
         {
           "title": "美国总统特朗普称赞托马斯和卡瓦诺两位大法官。",
@@ -297,17 +321,6 @@
           "time_info": "04时31分"
         },
         {
-          "title": "美国总统特朗普：伊朗永远不会拥有核武器，他们知道这一点。",
-          "url": "https://wallstreetcn.com/livenews/3108245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
           "title": "美国总统特朗普将于5月23-24日滞留白宫。",
           "url": "https://wallstreetcn.com/livenews/3108190",
           "source": "华尔街见闻-快讯",
@@ -325,7 +338,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -336,7 +349,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -358,7 +371,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         }
@@ -376,8 +389,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 08时01分]"
         },
         {
           "title": "伊朗“最大内鬼”，原来是他？",
@@ -387,8 +400,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 08时01分]"
+        },
+        {
+          "title": "伊朗官员：结束战争、解除封锁以及确保霍尔木兹海峡稳定是优先事项",
+          "url": "https://flash.jin10.com/detail/20260523041413545800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时31分 ~ 08时01分]"
         },
         {
           "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
@@ -400,28 +424,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时20分 ~ 06时03分]"
-        },
-        {
-          "title": "伊朗官员：结束战争、解除封锁以及确保霍尔木兹海峡稳定是优先事项",
-          "url": "https://flash.jin10.com/detail/20260523041413545800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 06时03分]"
-        },
-        {
-          "title": "报道：伊朗军方准备好应对美方任何行动",
-          "url": "https://wallstreetcn.com/livenews/3108258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时03分"
         },
         {
           "title": "【伊朗外交部发言人：伊美分歧严重，难言协议接近达成】伊朗外交部发言人巴加埃22日表示，当前无法断言伊美协议已接近达成，双方分歧依然严重。据伊朗媒体22日报道，巴加埃谈及巴基斯坦高级官员访问德黑兰时说，这表明当前局势已进入“转折点或决定性阶段”。他提到，巴基斯坦陆军参谋长穆尼尔已访问德黑兰，相关沟通仍在进行中。在回答“这是否意味着谈判进程发生变化”时，巴加埃说，目前不能说伊美协议已接近达成，伊美之间存在严重且广泛的分歧，“外交是一个耗时的过程”。巴加埃说，不能期待通过数轮往返磋商，就可能在数周或数月内看到结果。他强调，外交谈判本身是长期过程，双方正利用各种机会传递各自立场。（新华社）",
@@ -436,6 +438,18 @@
           "time_info": "[02时51分 ~ 04时31分]"
         },
         {
+          "title": "报道：伊朗军方准备好应对美方任何行动",
+          "url": "https://wallstreetcn.com/livenews/3108258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时03分 ~ 08时01分]"
+        },
+        {
           "title": "伊媒：知情人士称伊朗谈判仍在继续 所有争议问题形成共识前不会达成协议",
           "url": "https://flash.jin10.com/detail/20260523040131039800",
           "source": "金十数据",
@@ -443,8 +457,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 06时03分]"
+          "appearance_count": 3,
+          "time_info": "[04时31分 ~ 08时01分]"
         },
         {
           "title": "媒体称美伊已就核问题的总体框架达成谅解 伊朗外交部紧急辟谣",
@@ -574,7 +588,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -648,7 +662,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "CBA上海淘汰北京晋级总决赛",
@@ -657,11 +671,12 @@
           "ranks": [
             6,
             2,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 08时01分]"
         },
         {
           "title": "北京国安李明禁足五年",
@@ -671,8 +686,19 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 08时01分]"
+        },
+        {
+          "title": "周五（5月22日），美股降息赢家指数涨0.59%，报80.30点，美联储理事沃勒讲话之际回吐涨幅、美联储主席沃什宣誓就职之后再北京时间01:28显著拉升，本周累计上涨4.96%。 周三至周五持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3108274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         },
         {
           "title": "周五（5月22日）纽约尾盘，美国10年期基准国债收益率跌1.18个基点，报4.5578%，美联储理事沃勒讲话之前，在北京时间21:16刷新日低至4.5241%，沃什讲话后继续反弹，22:50刷新日高至4.5837%，凯文·沃什在00:00宣誓就任美联储主席的前后高位企稳，本周累计下跌3.55个基点，整体交投于4.6853%-4.5241%。 两年期美债收益率涨3.79个基点，报4.1210%，也在美股开盘之前刷新日低至4.0505%，沃什讲话后持续走高，沃什宣誓就职之际、在00:05刷新日高至4.1423%，本周累涨5.22个基点，5月20日23:00曾跳水至4.0085%。",
@@ -681,7 +707,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -696,6 +722,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 06时03分]"
+        },
+        {
+          "title": "周五（5月22日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7983元，较周四纽约尾盘涨18点，日内整体交投于6.8034-6.7983元区间。 本周，离岸人民币累计上涨大约160点，涨幅0.24%，整体呈现出长尾W形走势。",
+          "url": "https://wallstreetcn.com/livenews/3108246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时03分 ~ 08时01分]"
         },
         {
           "title": "上海男篮淘汰北京男篮",
@@ -720,24 +758,13 @@
           "time_info": "[02时50分 ~ 02时51分]"
         },
         {
-          "title": "周五（5月22日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7983元，较周四纽约尾盘涨18点，日内整体交投于6.8034-6.7983元区间。 本周，离岸人民币累计上涨大约160点，涨幅0.24%，整体呈现出长尾W形走势。",
-          "url": "https://wallstreetcn.com/livenews/3108246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
           "title": "上海男篮3比1北京男篮",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E7%94%B7%E7%AF%AE3%E6%AF%941%E5%8C%97%E4%BA%AC%E7%94%B7%E7%AF%AE&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -789,8 +816,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 08时01分]"
         },
         {
           "title": "郝哥李广奇回应AI买瓜",
@@ -799,11 +826,12 @@
           "ranks": [
             17,
             13,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 08时01分]"
         },
         {
           "title": "AI还原祖国人注射V1后的战斗力",
@@ -816,8 +844,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 08时01分]"
         },
         {
           "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
@@ -825,22 +853,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时31分]"
-        },
-        {
-          "title": "美国批准向多个间谍部门的90亿美元拨款，用于利用人工智能（AI）技术。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3108254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时03分"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 08时01分]"
         },
         {
           "title": "夏奇拉来批daidai作业啦",
@@ -849,11 +867,36 @@
           "ranks": [
             30,
             22,
-            27
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时50分 ~ 06时03分]"
+          "appearance_count": 6,
+          "time_info": "[02时50分 ~ 08时01分]"
+        },
+        {
+          "title": "美国批准向多个间谍部门的90亿美元拨款，用于利用人工智能（AI）技术。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3108254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时03分 ~ 08时01分]"
+        },
+        {
+          "title": "ai漫剧硬通货 泡面火腿纯净水",
+          "url": "https://s.weibo.com/weibo?q=ai%E6%BC%AB%E5%89%A7%E7%A1%AC%E9%80%9A%E8%B4%A7%20%E6%B3%A1%E9%9D%A2%E7%81%AB%E8%85%BF%E7%BA%AF%E5%87%80%E6%B0%B4&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时03分 ~ 08时01分]"
         },
         {
           "title": "马斯克重建xAI组织图曝光",
@@ -865,17 +908,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 00时21分]"
-        },
-        {
-          "title": "ai漫剧硬通货 泡面火腿纯净水",
-          "url": "https://s.weibo.com/weibo?q=ai%E6%BC%AB%E5%89%A7%E7%A1%AC%E9%80%9A%E8%B4%A7%20%E6%B3%A1%E9%9D%A2%E7%81%AB%E8%85%BF%E7%BA%AF%E5%87%80%E6%B0%B4&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时03分"
         },
         {
           "title": "标普500成分股有望创五年来最强财报季，增长势头从AI向其他行业扩展",
