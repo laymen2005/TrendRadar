@@ -1,193 +1,45 @@
 {
-  "generated_at": "2026-05-29T02:01:33.611789+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-05-29T04:31:13.631908+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI",
-      "match_count": 15,
+      "keyword_group": "伊朗",
+      "match_count": 19,
       "titles": [
         {
-          "title": "高盛重磅预测：AI下半场将从芯片转向人形机器人",
-          "url": "https://wallstreetcn.com/articles/3773322",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
-        },
-        {
-          "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33244573",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
-        },
-        {
-          "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33234425",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
-        },
-        {
-          "title": "AI会带来怎样的社会变革",
-          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%B8%A6%E6%9D%A5%E6%80%8E%E6%A0%B7%E7%9A%84%E7%A4%BE%E4%BC%9A%E5%8F%98%E9%9D%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
-        },
-        {
-          "title": "【每日收评】创业板指探底回升涨近2%，AI硬件方向再迎爆发",
-          "url": "https://www.cls.cn/detail/2384259",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
-        },
-        {
-          "title": "三星罢工的众生相，捅破AI时代“不患寡而患不均”这层窗户纸",
-          "url": "https://news.ifeng.com/c/8tUekOdGeku",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
-        },
-        {
-          "title": "AI改写黑袍纠察队结局",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%94%B9%E5%86%99%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E7%BB%93%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
-        },
-        {
-          "title": "香港拟将「中国内地」英译改为「Chinese Mainland」，此举释放了哪些信号？",
-          "url": "https://www.zhihu.com/question/2042897105346368773",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
-        },
-        {
-          "title": "AI大行其道,古法PS吧没落",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354633&amp;topic_name=AI%E5%A4%A7%E8%A1%8C%E5%85%B6%E9%81%93%2C%E5%8F%A4%E6%B3%95PS%E5%90%A7%E6%B2%A1%E8%90%BD",
-          "source": "贴吧",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
-        },
-        {
-          "title": "小说AI直出?8u评论区吵翻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354649&amp;topic_name=%E5%B0%8F%E8%AF%B4AI%E7%9B%B4%E5%87%BA%3F8u%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%90%B5%E7%BF%BB",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
-        },
-        {
-          "title": "广东90后女生用AI接了400万大单",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C90%E5%90%8E%E5%A5%B3%E7%94%9F%E7%94%A8AI%E6%8E%A5%E4%BA%86400%E4%B8%87%E5%A4%A7%E5%8D%95%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
-        },
-        {
-          "title": "野生vs养殖,AI大战鲤鱼图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
-        },
-        {
-          "title": "闪迪CTO：AI竞赛正变成“拼内存” HBF成套产品明年推出",
-          "url": "https://wallstreetcn.com/livenews/3110880",
+          "title": "伊朗塔斯尼姆通讯社（Tasnim）：海面上传来的声响是因向霍尔木兹海峡内的船只发出警告而进行交火所致。",
+          "url": "https://wallstreetcn.com/livenews/3110927",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时01分"
+          "time_info": "04时31分"
         },
         {
-          "title": "闪迪CTO：新型AI内存HBF将在年底送样，配备控制器的完整产品预计于明年正式推出。",
-          "url": "https://flash.jin10.com/detail/20260529011627924800",
+          "title": "据伊朗塔斯尼姆通讯社：来自海洋的声音是由于霍尔木兹海峡内对船只的警告火交换所致。",
+          "url": "https://flash.jin10.com/detail/20260529041150687800",
           "source": "金十数据",
           "ranks": [
-            8
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时01分"
+          "time_info": "04时31分"
         },
-        {
-          "title": "欧盟严阵以待，将与Anthropic就获取Mythos AI模型展开谈判",
-          "url": "https://wallstreetcn.com/livenews/3110868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 8,
-      "titles": [
         {
           "title": "伊朗对美国空军基地实施打击",
           "url": "https://www.toutiao.com/trending/7644776648142753286/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 04时31分]"
         },
         {
           "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
@@ -197,8 +49,41 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 04时31分]"
+        },
+        {
+          "title": "据以色列i24新闻台中东高级记者：伊朗非官方媒体报道，伊朗革命卫队海军对四艘“违规船只”发射了警告炮弹，这些船只试图在未协调的情况下通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260529040828475800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "伊朗武装部队从南部地区朝着多个特定目标发射导弹。（FARS）",
+          "url": "https://wallstreetcn.com/livenews/3110915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：有报告称伊朗从南部地区发射导弹，据悉是对敌方军舰的警告射击。",
+          "url": "https://flash.jin10.com/detail/20260529040205689800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "伦敦铜价反弹，投资者关注美国与伊朗谈判进展和需求前景",
@@ -207,7 +92,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -218,7 +103,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -229,9 +114,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：导弹的确切目的地尚不明确。",
+          "url": "https://flash.jin10.com/detail/20260529040035263800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗武装部队从该国南部地区向特定目标实施了导弹发射行动。",
+          "url": "https://flash.jin10.com/detail/20260529035922513800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "劳氏航运情报机构周四提供的数据显示，并非由伊朗所有、且途经霍尔木兹海峡的船只比例有所上升。",
@@ -240,9 +147,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "美国将部分与伊朗相关的油轮纳入制裁名单。",
+          "url": "https://flash.jin10.com/detail/20260529034801135800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "伊朗最高领袖强调维护民族团结",
@@ -251,7 +169,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -262,9 +180,263 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "美国财政部更新与伊朗相关的制裁名单。",
+          "url": "https://flash.jin10.com/detail/20260529033827496800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "伊朗副外长称伊方不会签署任何不符合国家利益的谅解协议",
+          "url": "https://wallstreetcn.com/livenews/3110898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "WTI 7月原油期货收涨0.22美元，涨幅0.25%，报88.90美元/桶，报道称美国与伊朗达成谅解备忘录之际，从91美元跳水至接近87美元的水平——瞬间又反弹至接近90美元。 布伦特7月原油期货收跌0.58美元，跌幅0.62%，报93.71美元/桶。 中东Abu Dhabi Murban原油期货跌3.76%，报93.31美元/桶。 NYMEX 6月天然气期货收报3.2850美元/百万英热单位。 NYMEX 6月汽油期货收报3.1852美元/加仑，NYMEX 6月取暖油期货收报3.6187美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3110896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "高盛重磅预测：AI下半场将从芯片转向人形机器人",
+          "url": "https://wallstreetcn.com/articles/3773322",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 04时31分]"
+        },
+        {
+          "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33244573",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 04时31分]"
+        },
+        {
+          "title": "AI会带来怎样的社会变革",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%B8%A6%E6%9D%A5%E6%80%8E%E6%A0%B7%E7%9A%84%E7%A4%BE%E4%BC%9A%E5%8F%98%E9%9D%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 04时31分]"
+        },
+        {
+          "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33234425",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 04时31分]"
+        },
+        {
+          "title": "【每日收评】创业板指探底回升涨近2%，AI硬件方向再迎爆发",
+          "url": "https://www.cls.cn/detail/2384259",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 04时31分]"
+        },
+        {
+          "title": "三星罢工的众生相，捅破AI时代“不患寡而患不均”这层窗户纸",
+          "url": "https://news.ifeng.com/c/8tUekOdGeku",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 04时31分]"
+        },
+        {
+          "title": "AI改写黑袍纠察队结局",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%94%B9%E5%86%99%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E7%BB%93%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 04时31分]"
+        },
+        {
+          "title": "香港拟将「中国内地」英译改为「Chinese Mainland」，此举释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/2042897105346368773",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 04时31分]"
+        },
+        {
+          "title": "AI大行其道,古法PS吧没落",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354633&amp;topic_name=AI%E5%A4%A7%E8%A1%8C%E5%85%B6%E9%81%93%2C%E5%8F%A4%E6%B3%95PS%E5%90%A7%E6%B2%A1%E8%90%BD",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 04时31分]"
+        },
+        {
+          "title": "小说AI直出?8u评论区吵翻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354649&amp;topic_name=%E5%B0%8F%E8%AF%B4AI%E7%9B%B4%E5%87%BA%3F8u%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%90%B5%E7%BF%BB",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 04时31分]"
+        },
+        {
+          "title": "广东90后女生用AI接了400万大单",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C90%E5%90%8E%E5%A5%B3%E7%94%9F%E7%94%A8AI%E6%8E%A5%E4%BA%86400%E4%B8%87%E5%A4%A7%E5%8D%95%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 04时31分]"
+        },
+        {
+          "title": "野生vs养殖,AI大战鲤鱼图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 04时31分]"
+        },
+        {
+          "title": "戴尔科技一季度总体净营收438.4亿美元，分析师预期355.2亿美元。 一季度调整后运营利润42.4亿美元，分析师预期27.7亿美元。 一季度基础设施解决方案集团净营收290.1亿美元。 上调2027财年AI服务器营收预期至大约600亿美元，之前预计大约500亿美元。 预计全年营收1650亿-1690亿美元，公司原本预计1380亿-1420亿美元。 预计全年调整后EPS中位数为17.90美元，分析师预期13.14美元，公司原本预计12.90美元。 预计二季度营收440亿-450亿美元，分析师预期350.6亿美元。 戴尔盘后涨7%。",
+          "url": "https://wallstreetcn.com/livenews/3110924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "闪迪CTO：AI竞赛正变成“拼内存” HBF成套产品明年推出",
+          "url": "https://wallstreetcn.com/livenews/3110880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        },
+        {
+          "title": "闪迪CTO：新型AI内存HBF将在年底送样，配备控制器的完整产品预计于明年正式推出。",
+          "url": "https://flash.jin10.com/detail/20260529011627924800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        },
+        {
+          "title": "Autodesk将按大约36亿美元现金收购Maintainx。",
+          "url": "https://wallstreetcn.com/livenews/3110921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "欧盟严阵以待，将与Anthropic就获取Mythos AI模型展开谈判",
+          "url": "https://wallstreetcn.com/livenews/3110868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        },
+        {
+          "title": "美联储Barkin：AI投资给中性利率带来压力。 某些AI相关的领域正表现出通胀压力。",
+          "url": "https://wallstreetcn.com/livenews/3110908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "教皇利奥十四世发布AI通谕，撼动硅谷权力格局",
+          "url": "https://wallstreetcn.com/livenews/3110902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         }
       ]
     },
@@ -280,8 +452,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 04时31分]"
         },
         {
           "title": "特朗普的两张稀土王牌，先打上“内战”了",
@@ -291,19 +463,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 04时31分]"
         },
         {
           "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
           "url": "https://wallstreetcn.com/articles/3773378",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 04时31分]"
         },
         {
           "title": "特朗普调侃赫格塞思：他热衷战争",
@@ -313,8 +486,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时00分 ~ 04时31分]"
         },
         {
           "title": "据知情人士透露，美国与伊朗达成了关于60天停火的谅解备忘录（MoU），但仍需特朗普批准。（路透）",
@@ -323,7 +496,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         }
@@ -331,7 +504,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何评价湖北理工学院天才少年熊羽诺副教授在北京大学进行的学术报告？",
@@ -345,15 +518,37 @@
           "time_info": "[02时00分 ~ 02时01分]"
         },
         {
+          "title": "周四（5月28日），彭博电动汽车价格回报指数涨1.11%，报4030.95点。 亚太午盘出现一波V形反转行情——北京时间13:03刷新日低至3956.62点，日内大部分时间交投于4010点附近。",
+          "url": "https://wallstreetcn.com/livenews/3110926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.25%，暂报2631.0点，北京时间04:00-12:00持续下挫，之后持续交投于2600点附近，日线图上，指数自2月份以来持续窄幅震荡于3000-2300点趋近。 MarketVectorTM数字资产100中盘指数跌4.58%，报2869.46点。 MarketVector数字资产100指数跌2.60，报14472.31点。 目前，Solana跌2.36%，狗狗币跌2.59%，XRP暂时持平。 比特币跌2.17%，暂报73265.71美元；以太坊跌2.16%，暂报2009.17美元。",
           "url": "https://wallstreetcn.com/livenews/3110872",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7753元，较周三夜盘收盘涨40点。成交量395.49亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3110901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         }
       ]
     }
