@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-05-29T04:31:13.631908+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2026-05-29T06:30:16.107485+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "伊朗对美国空军基地实施打击",
+          "url": "https://www.toutiao.com/trending/7644776648142753286/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 06时30分]"
+        },
+        {
+          "title": "伊朗外交部谴责美国对阿曼的威胁",
+          "url": "https://flash.jin10.com/detail/20260529061116002800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
+          "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33254948",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 06时30分]"
+        },
         {
           "title": "伊朗塔斯尼姆通讯社（Tasnim）：海面上传来的声响是因向霍尔木兹海峡内的船只发出警告而进行交火所致。",
           "url": "https://wallstreetcn.com/livenews/3110927",
@@ -14,7 +50,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -25,32 +61,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
         {
-          "title": "伊朗对美国空军基地实施打击",
-          "url": "https://www.toutiao.com/trending/7644776648142753286/",
-          "source": "今日头条",
+          "title": "美国官员表示，在伊朗布什尔附近并没有美国飞机被击落。",
+          "url": "https://flash.jin10.com/detail/20260529060346329800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 04时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
         },
         {
-          "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33254948",
-          "source": "澎湃新闻",
+          "title": "美国官员：并没有美国飞机在伊朗Bushehr周边被击落。",
+          "url": "https://wallstreetcn.com/livenews/3110963",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            7
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 04时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
         },
         {
           "title": "据以色列i24新闻台中东高级记者：伊朗非官方媒体报道，伊朗革命卫队海军对四艘“违规船只”发射了警告炮弹，这些船只试图在未协调的情况下通过霍尔木兹海峡。",
@@ -59,9 +94,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "美国副总统万斯：伊朗在谈判中带着诚意。 美国与伊朗正在讨论某些措辞。（记者团播报Pool Report）",
+          "url": "https://wallstreetcn.com/livenews/3110962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
+          "title": "美国副总统万斯：我们还没有与伊朗达成协议，但已经很接近了。",
+          "url": "https://wallstreetcn.com/livenews/3110960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
+          "title": "美国副总统万斯：（谈及伊朗）尚未达成协议，但已非常接近。",
+          "url": "https://flash.jin10.com/detail/20260529055249847800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
         },
         {
           "title": "伊朗武装部队从南部地区朝着多个特定目标发射导弹。（FARS）",
@@ -70,9 +138,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "【伊媒：伊方向“违规船只”警告射击】据伊朗媒体28日晚报道，伊朗武装部队当天在霍尔木兹海峡附近向4艘“违规船只”发出警告射击，原因是这些船只未经协调试图通过海峡。 迈赫尔通讯社援引记者消息称，伊朗方面当天在霍尔木兹海峡附近采取警告行动，阻止有关船只“违规”通行。 另一篇报道称，与部分网络消息不同，阿巴斯港未发生爆炸事件，当地民众听到的声响源自伊方对“违规”船只发射警告导弹。 此外，伊媒报道称，位于伊南部布什尔省传出的爆炸声，系伊朗防空系统拦截“敌对飞行器”所致。一架美军无人机可能被击落。但该消息尚未得到官方确认。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3110958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：有报告称伊朗从南部地区发射导弹，据悉是对敌方军舰的警告射击。",
@@ -81,7 +160,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -125,7 +204,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -136,9 +215,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "伊朗武装部队向霍尔木兹海峡附近4艘船只发出警告性射击",
+          "url": "https://flash.jin10.com/detail/20260529051909930800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
         },
         {
           "title": "劳氏航运情报机构周四提供的数据显示，并非由伊朗所有、且途经霍尔木兹海峡的船只比例有所上升。",
@@ -158,7 +248,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -172,6 +262,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "伊朗官员：美国一架飞机被伊朗摧毁",
+          "url": "https://flash.jin10.com/detail/20260529045323641800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
         },
         {
           "title": "美国财长：美国将对伊朗航司实施多方面限制",
@@ -191,9 +292,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "伊朗军方称在布什尔附近拦截一架美国无人机",
+          "url": "https://flash.jin10.com/detail/20260529045159520800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
         },
         {
           "title": "伊朗副外长称伊方不会签署任何不符合国家利益的谅解协议",
@@ -202,9 +314,31 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "伊媒：伊朗自南部地区向“特定目标”发射导弹",
+          "url": "https://wallstreetcn.com/livenews/3110941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
+          "title": "伊朗军方称在布什尔附近拦截一架美国无人机",
+          "url": "https://wallstreetcn.com/livenews/3110940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
         },
         {
           "title": "WTI 7月原油期货收涨0.22美元，涨幅0.25%，报88.90美元/桶，报道称美国与伊朗达成谅解备忘录之际，从91美元跳水至接近87美元的水平——瞬间又反弹至接近90美元。 布伦特7月原油期货收跌0.58美元，跌幅0.62%，报93.71美元/桶。 中东Abu Dhabi Murban原油期货跌3.76%，报93.31美元/桶。 NYMEX 6月天然气期货收报3.2850美元/百万英热单位。 NYMEX 6月汽油期货收报3.1852美元/加仑，NYMEX 6月取暖油期货收报3.6187美元/加仑。",
@@ -213,7 +347,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         }
@@ -232,8 +366,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 06时30分]"
         },
         {
           "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
@@ -241,11 +375,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 06时30分]"
         },
         {
           "title": "AI会带来怎样的社会变革",
@@ -256,8 +391,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 06时30分]"
         },
         {
           "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
@@ -267,8 +402,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 06时30分]"
         },
         {
           "title": "【每日收评】创业板指探底回升涨近2%，AI硬件方向再迎爆发",
@@ -279,8 +414,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 06时30分]"
         },
         {
           "title": "三星罢工的众生相，捅破AI时代“不患寡而患不均”这层窗户纸",
@@ -290,8 +425,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 06时30分]"
         },
         {
           "title": "AI改写黑袍纠察队结局",
@@ -299,11 +434,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 06时30分]"
         },
         {
           "title": "香港拟将「中国内地」英译改为「Chinese Mainland」，此举释放了哪些信号？",
@@ -313,8 +449,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 06时30分]"
         },
         {
           "title": "AI大行其道,古法PS吧没落",
@@ -324,8 +460,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 06时30分]"
         },
         {
           "title": "小说AI直出?8u评论区吵翻",
@@ -335,8 +471,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 06时30分]"
+        },
+        {
+          "title": "野生vs养殖,AI大战鲤鱼图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 06时30分]"
         },
         {
           "title": "广东90后女生用AI接了400万大单",
@@ -351,24 +498,13 @@
           "time_info": "[02时00分 ~ 04时31分]"
         },
         {
-          "title": "野生vs养殖,AI大战鲤鱼图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 04时31分]"
-        },
-        {
           "title": "戴尔科技一季度总体净营收438.4亿美元，分析师预期355.2亿美元。 一季度调整后运营利润42.4亿美元，分析师预期27.7亿美元。 一季度基础设施解决方案集团净营收290.1亿美元。 上调2027财年AI服务器营收预期至大约600亿美元，之前预计大约500亿美元。 预计全年营收1650亿-1690亿美元，公司原本预计1380亿-1420亿美元。 预计全年调整后EPS中位数为17.90美元，分析师预期13.14美元，公司原本预计12.90美元。 预计二季度营收440亿-450亿美元，分析师预期350.6亿美元。 戴尔盘后涨7%。",
           "url": "https://wallstreetcn.com/livenews/3110924",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -401,7 +537,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -423,7 +559,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -434,77 +570,15 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
-          "url": "https://wallstreetcn.com/articles/3773275",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 04时31分]"
-        },
-        {
-          "title": "特朗普的两张稀土王牌，先打上“内战”了",
-          "url": "https://news.ifeng.com/c/8tUtQKMFq2T",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 04时31分]"
-        },
-        {
-          "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
-          "url": "https://wallstreetcn.com/articles/3773378",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 04时31分]"
-        },
-        {
-          "title": "特朗普调侃赫格塞思：他热衷战争",
-          "url": "https://v.ifeng.com/c/8tSottvMqyW",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 04时31分]"
-        },
-        {
-          "title": "据知情人士透露，美国与伊朗达成了关于60天停火的谅解备忘录（MoU），但仍需特朗普批准。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3110862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "北京",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何评价湖北理工学院天才少年熊羽诺副教授在北京大学进行的学术报告？",
@@ -524,7 +598,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -540,15 +614,99 @@
           "time_info": "02时01分"
         },
         {
+          "title": "周四（5月28日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.7731元，较周三纽约尾盘涨59点，日内整体交投于6.7883-6.7711元区间。 日线图上，离岸人民币逼近2023年2月2日顶部6.7057元、当年1月16日顶部6.6975元、以及2022年7月8日顶部6.6838元。",
+          "url": "https://wallstreetcn.com/livenews/3110945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7753元，较周三夜盘收盘涨40点。成交量395.49亿美元。",
           "url": "https://wallstreetcn.com/livenews/3110901",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "周四（5月28日）纽约尾盘，现货黄金涨0.95%，报4496.21美元/盎司，日内交投于4366.74-4516.60美元区间，北京时间11:00-21:00低位窄幅震荡。 现货白银涨1.37%，报75.6572美元/盎司。 COMEX铜期货涨1.25%，报6.4195美元/磅。 现货铂金跌0.27%，现货钯金跌1.14%。",
+          "url": "https://wallstreetcn.com/livenews/3110942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 06时30分]"
+        },
+        {
+          "title": "特朗普的两张稀土王牌，先打上“内战”了",
+          "url": "https://news.ifeng.com/c/8tUtQKMFq2T",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 06时30分]"
+        },
+        {
+          "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
+          "url": "https://wallstreetcn.com/articles/3773378",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 06时30分]"
+        },
+        {
+          "title": "特朗普调侃赫格塞思：他热衷战争",
+          "url": "https://v.ifeng.com/c/8tSottvMqyW",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 06时30分]"
+        },
+        {
+          "title": "据知情人士透露，美国与伊朗达成了关于60天停火的谅解备忘录（MoU），但仍需特朗普批准。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3110862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时01分"
         }
       ]
     }
