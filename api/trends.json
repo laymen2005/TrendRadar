@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T00:43:28.313573+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-03T04:02:59.216435+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时02分]"
         },
         {
           "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时02分]"
         },
         {
           "title": "白嫖结束!豆包AI开始收费",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时02分]"
         },
         {
           "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
@@ -48,8 +48,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时02分]"
+        },
+        {
+          "title": "AI引爆存储需求！SK集团董事长：计划未来五年将晶圆产能翻倍",
+          "url": "https://www.cls.cn/detail/2388372",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时02分]"
+        },
+        {
+          "title": "AI坑健身小白买20kg哑铃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时02分]"
         },
         {
           "title": "【每日收评】创业板指震荡走高涨超2.5%，CPO、光纤等AI硬件股卷土重来",
@@ -63,15 +86,15 @@
           "time_info": "00时43分"
         },
         {
-          "title": "AI引爆存储需求！SK集团董事长：计划未来五年将晶圆产能翻倍",
-          "url": "https://www.cls.cn/detail/2388372",
-          "source": "财联社热门",
+          "title": "微软：微软人工智能首次推出推理大模型MAI-THINKING-1",
+          "url": "https://wallstreetcn.com/livenews/3113243",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "04时02分"
         },
         {
           "title": "AI演员已经有眼神戏了",
@@ -85,6 +108,28 @@
           "time_info": "00时43分"
         },
         {
+          "title": "微软推出可充当行政助理的AI软件 展示其在办公场景的最新成果",
+          "url": "https://flash.jin10.com/detail/20260603023955744800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "微软发布可充当行政助理的AI软件",
+          "url": "https://wallstreetcn.com/livenews/3113231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
           "title": "美国白宫发布AI行政命令",
           "url": "https://wallstreetcn.com/livenews/3113184",
           "source": "华尔街见闻-快讯",
@@ -96,43 +141,112 @@
           "time_info": "00时43分"
         },
         {
-          "title": "AI坑健身小白买20kg哑铃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
-          "source": "贴吧",
+          "title": "我用AI做了祖国人胜利结局",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E7%A5%96%E5%9B%BD%E4%BA%BA%E8%83%9C%E5%88%A9%E7%BB%93%E5%B1%80",
+          "source": "bilibili 热搜",
           "ranks": [
-            23
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "04时02分"
+        },
+        {
+          "title": "AI引爆2800亿美元网络安全股狂潮，财报大考迫在眉睫",
+          "url": "https://wallstreetcn.com/livenews/3113225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "微软首席执行官（CEO）在 Build 大会上宣布，将把 Windows AI API 拓展至更多个人电脑（PC）。 推出Surface RTX Spark Dev Box，这是一款紧凑型开发者PC。",
+          "url": "https://wallstreetcn.com/livenews/3113244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗公开已故最高领袖哈梅内伊安葬地点",
           "url": "https://news.ifeng.com/c/8tdbOC5wjyj",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时02分]"
         },
         {
           "title": "以总理扬言伊朗政权将覆灭",
           "url": "https://news.ifeng.com/c/8tdSbmQMMVt",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时02分]"
+        },
+        {
+          "title": "美国制裁伊朗加密货币交易平台及相关人员",
+          "url": "https://flash.jin10.com/detail/20260603033217597800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美国制裁伊朗加密货币交易平台及相关人员",
+          "url": "https://wallstreetcn.com/livenews/3113254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "伊朗将在3座城市为哈梅内伊举办葬礼",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B0%86%E5%9C%A83%E5%BA%A7%E5%9F%8E%E5%B8%82%E4%B8%BA%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E4%B8%BE%E5%8A%9E%E8%91%AC%E7%A4%BC",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时02分]"
+        },
+        {
+          "title": "美国财政部网站显示，美国发布新的与伊朗相关的制裁。",
+          "url": "https://flash.jin10.com/detail/20260603031310603800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "美国国务卿鲁比奥：总统已明确表示，首要任务是确保伊朗绝不能拥有核武器。",
@@ -168,6 +282,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "美军称“林肯”号航母继续参与对伊朗封锁行动",
+          "url": "https://wallstreetcn.com/livenews/3113242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
           "title": "内塔尼亚胡：绝不允许伊朗威胁以色列的生存",
           "url": "https://flash.jin10.com/detail/20260603001854018800",
           "source": "金十数据",
@@ -179,15 +304,26 @@
           "time_info": "00时43分"
         },
         {
-          "title": "伊朗将在3座城市为哈梅内伊举办葬礼",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B0%86%E5%9C%A83%E5%BA%A7%E5%9F%8E%E5%B8%82%E4%B8%BA%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E4%B8%BE%E5%8A%9E%E8%91%AC%E7%A4%BC",
-          "source": "百度热搜",
+          "title": "【鲁比奥：美伊仍在谈 协议何时达成不确定】美国国务卿鲁比奥2日在国会参议院外交关系委员会举行的听证会上表示，美国仍在与伊朗谈判，但他不确定何时能达成协议。 这是美国和以色列2月底对伊朗发起大规模军事行动后，鲁比奥首次在国会作证。 回答议员关于美伊谈判进展的提问时，他说，“我们正在同伊朗谈判”，伊朗“已经同意就其核计划的一些内容展开谈判，而就在一个月前，甚至一年前，他们连谈都不愿谈”。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3113230",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "04时02分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：伊朗与沙特外长在电话中讨论了外交努力。",
+          "url": "https://flash.jin10.com/detail/20260603023158498800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "伊朗媒体披露伊美信息交换“已暂停数日”",
@@ -204,18 +340,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普，开掉“不听话的情报头子”",
           "url": "https://news.ifeng.com/c/8tdYs26KHgt",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时02分]"
         },
         {
           "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
@@ -225,8 +362,30 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时02分]"
+        },
+        {
+          "title": "特朗普：美伊暂停谈判？假新闻！",
+          "url": "https://news.ifeng.com/c/8tdl2ZQctsW",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：特朗普政府不希望曾协助美军的阿富汗人被迫返回阿富汗。",
+          "url": "https://flash.jin10.com/detail/20260603031816499800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
@@ -236,8 +395,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时02分]"
         },
         {
           "title": "巴西政府：根据巴西总统卢拉与美国总统特朗普于5月7日达成的共识，两国正在就关税问题进行谈判。",
@@ -260,12 +419,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "白宫记协晚宴改期至7月 特朗普称计划出席",
+          "url": "https://flash.jin10.com/detail/20260603023318280800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "白宫记协晚宴改期至7月，特朗普称计划出席",
+          "url": "https://wallstreetcn.com/livenews/3113229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI计划为金融、法律领域开发AI工具，从而与Anthropic竞争。",
@@ -310,6 +491,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "OpenAI：ZoomInfo将在企业版Codex（Codex for Work）中提供原生支持。",
+          "url": "https://wallstreetcn.com/livenews/3113224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "北京",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7650元，较周一夜盘收盘涨10点。成交量373.23亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3113251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "CNBC表示，以色列总理内塔尼亚胡将于美东时间6月3日上午10点（北京时间22:00）接受其记者的访谈。",
+          "url": "https://flash.jin10.com/detail/20260603030455670800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         }
       ]
     }
