@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T06:58:15.555227+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-06-03T08:27:03.466218+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 39,
       "titles": [
         {
           "title": "伊朗公开已故最高领袖哈梅内伊安葬地点",
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 06时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 08时27分]"
         },
         {
           "title": "以总理扬言伊朗政权将覆灭",
@@ -32,6 +33,28 @@
           "time_info": "[00时43分 ~ 06时58分]"
         },
         {
+          "title": "伊朗：已袭击美国第五舰队总部",
+          "url": "https://news.ifeng.com/c/8teDqh2qbNx",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 08时27分]"
+        },
+        {
+          "title": "美军机发射“地狱火”导弹，击中一艘伊朗相关油轮",
+          "url": "https://news.ifeng.com/c/8te0bJrzbXu",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 08时27分]"
+        },
+        {
           "title": "美国制裁伊朗加密货币交易平台及相关人员",
           "url": "https://flash.jin10.com/detail/20260603033217597800",
           "source": "金十数据",
@@ -43,13 +66,27 @@
           "time_info": "04时02分"
         },
         {
+          "title": "伊朗将在3座城市为哈梅内伊举办葬礼",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B0%86%E5%9C%A83%E5%BA%A7%E5%9F%8E%E5%B8%82%E4%B8%BA%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E4%B8%BE%E5%8A%9E%E8%91%AC%E7%A4%BC",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            13,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 08时27分]"
+        },
+        {
           "title": "伊朗伊斯兰共和国广播电视台（IRIB）：在科威特的美国基地遭到打击之前，美国在波斯湾、霍尔木兹海峡及格什姆岛采取敌对行动。",
           "url": "https://flash.jin10.com/detail/20260603063600613800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -65,17 +102,59 @@
           "time_info": "04时02分"
         },
         {
-          "title": "伊朗将在3座城市为哈梅内伊举办葬礼",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B0%86%E5%9C%A83%E5%BA%A7%E5%9F%8E%E5%B8%82%E4%B8%BA%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E4%B8%BE%E5%8A%9E%E8%91%AC%E7%A4%BC",
+          "title": "伊朗革命卫队称袭击美国第五舰队总部",
+          "url": "https://wallstreetcn.com/livenews/3113353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时27分"
+        },
+        {
+          "title": "美国中央司令部否认伊朗革命卫队袭击了位于巴林的美国第五舰队总部和美国空军基地的说法，并表示所有袭击均告失败。",
+          "url": "https://flash.jin10.com/detail/20260603080113605800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时27分"
+        },
+        {
+          "title": "伊朗称袭击美国第五舰队总部",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F%E6%80%BB%E9%83%A8",
           "source": "百度热搜",
           "ranks": [
-            22,
-            13,
-            20
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 06时58分]"
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 08时27分]"
+        },
+        {
+          "title": "伊朗称袭击美国第五舰队总部",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F%E6%80%BB%E9%83%A8%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 08时27分]"
+        },
+        {
+          "title": "美军称空袭伊朗格什姆岛",
+          "url": "https://www.toutiao.com/trending/7646917519102394410/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 08时27分]"
         },
         {
           "title": "美国财政部网站显示，美国发布新的与伊朗相关的制裁。",
@@ -95,9 +174,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
+        },
+        {
+          "title": "伊朗革命卫队：为回应美军袭击 已打击美以船只及美军基地",
+          "url": "https://flash.jin10.com/detail/20260603075942951800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时27分"
         },
         {
           "title": "美国国务卿鲁比奥：总统已明确表示，首要任务是确保伊朗绝不能拥有核武器。",
@@ -109,6 +199,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "伊朗革命卫队：在霍尔木兹海峡破坏安全将给美国军方带来沉重代价。",
+          "url": "https://flash.jin10.com/detail/20260603075403770800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时27分"
+        },
+        {
+          "title": "美军证实拦截伊朗导弹和无人机 称空袭格什姆岛",
+          "url": "https://wallstreetcn.com/livenews/3113347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时27分"
         },
         {
           "title": "美国国务卿鲁比奥：伊朗的铀浓缩能力已大幅削弱，但随着时间的推移，这种能力总能得到重建。",
@@ -128,7 +240,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -166,15 +278,37 @@
           "time_info": "00时43分"
         },
         {
+          "title": "据伊朗媒体报道，伊朗革命卫队针对“名为PANAYA的美国关联船只”发射导弹，以回应美国在霍尔木兹海峡附近袭击伊朗油轮。",
+          "url": "https://flash.jin10.com/detail/20260603075006689800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时27分"
+        },
+        {
           "title": "伊朗南部格什姆岛传出爆炸声",
           "url": "https://flash.jin10.com/detail/20260603054721403800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
+        },
+        {
+          "title": "据伊朗媒体报道，伊朗革命卫队表示，此次袭击是对美国此前针对位于格什姆岛以南的卫队通信塔实施打击的回应。（媒体更正，非针对油轮的袭击）",
+          "url": "https://flash.jin10.com/detail/20260603074350080800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时27分"
         },
         {
           "title": "伊朗迈赫尔通讯社援引当地消息人士及居民的话报道称，格什姆岛地区传出爆炸声。",
@@ -183,9 +317,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
+        },
+        {
+          "title": "伊朗媒体报道，伊朗革命卫队称，已使用导弹和无人机袭击美国第五舰队总部。",
+          "url": "https://flash.jin10.com/detail/20260603074046245800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时27分"
         },
         {
           "title": "【鲁比奥：美伊仍在谈 协议何时达成不确定】美国国务卿鲁比奥2日在国会参议院外交关系委员会举行的听证会上表示，美国仍在与伊朗谈判，但他不确定何时能达成协议。 这是美国和以色列2月底对伊朗发起大规模军事行动后，鲁比奥首次在国会作证。 回答议员关于美伊谈判进展的提问时，他说，“我们正在同伊朗谈判”，伊朗“已经同意就其核计划的一些内容展开谈判，而就在一个月前，甚至一年前，他们连谈都不愿谈”。（新华社）",
@@ -199,6 +344,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "美军称对伊朗格什姆岛实施“自卫性”打击 伊朗向邻国发射导弹",
+          "url": "https://flash.jin10.com/detail/20260603073917860800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时27分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：伊朗与沙特外长在电话中讨论了外交努力。",
           "url": "https://flash.jin10.com/detail/20260603023158498800",
           "source": "金十数据",
@@ -210,13 +366,24 @@
           "time_info": "04时02分"
         },
         {
+          "title": "美国中央司令部：当地时间6月2日，美军成功拦截了伊朗发射的多枚弹道导弹及无人机，并针对伊朗在中东全境企图发动的袭击，对格什姆岛实施了自卫打击。",
+          "url": "https://flash.jin10.com/detail/20260603073547552800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时27分"
+        },
+        {
           "title": "【伊朗南部格什姆岛传出爆炸声】当地时间6月3日凌晨，据伊朗南部格什姆岛当地居民报告称，听到该地附近传出爆炸声。目前尚不清楚爆炸的具体性质，伊朗官方也暂未就爆炸原因发表评论。（央视）",
           "url": "https://wallstreetcn.com/livenews/3113307",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -227,7 +394,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -241,34 +408,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "美国打击伊朗格什姆岛 伊朗报复科威特美军基地",
+          "url": "https://flash.jin10.com/detail/20260603073135765800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时27分"
+        },
+        {
+          "title": "据伊朗PressTV：巴林、科威特和阿联酋全面暂停航班。",
+          "url": "https://flash.jin10.com/detail/20260603073045914800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时27分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗战斗机袭击了位于伊拉克库尔德斯坦地区的武装团体总部，这些武装团体得到了欧洲、以色列和美国情报机构的支持。",
+          "url": "https://flash.jin10.com/detail/20260603072934718800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时27分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
-          "url": "https://wallstreetcn.com/articles/3773607",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 06时58分]"
-        },
         {
           "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
           "url": "https://wallstreetcn.com/articles/3773656",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 06时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 08时27分]"
         },
         {
           "title": "白嫖结束!豆包AI开始收费",
@@ -276,6 +466,17 @@
           "source": "贴吧",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 08时27分]"
+        },
+        {
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -293,15 +494,15 @@
           "time_info": "[00时43分 ~ 06时58分]"
         },
         {
-          "title": "美国众议院推出跨党派立法草案，建议在AI繁荣期保护作者，Adobe支持这样的建议。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3113331",
-          "source": "华尔街见闻-快讯",
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 08时27分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
@@ -312,8 +513,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时57分 ~ 06时58分]"
+          "appearance_count": 4,
+          "time_info": "[06时57分 ~ 08时27分]"
         },
         {
           "title": "AI坑健身小白买20kg哑铃",
@@ -323,8 +524,20 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 06时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 08时27分]"
+        },
+        {
+          "title": "美国众议院推出跨党派立法草案，建议在AI繁荣期保护作者，Adobe支持这样的建议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3113331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时27分]"
         },
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫",
@@ -394,6 +607,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "业内人士：供给偏紧、AI需求托底，锡价中长期上行可期",
+          "url": "https://wallstreetcn.com/livenews/3113332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时27分"
+        },
+        {
           "title": "微软发布可充当行政助理的AI软件",
           "url": "https://wallstreetcn.com/livenews/3113231",
           "source": "华尔街见闻-快讯",
@@ -452,8 +676,20 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
+          "url": "https://wallstreetcn.com/articles/3773609",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 08时27分]"
+        },
         {
           "title": "特朗普，开掉“不听话的情报头子”",
           "url": "https://news.ifeng.com/c/8tdYs26KHgt",
@@ -461,17 +697,6 @@
           "ranks": [
             2,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 06时58分]"
-        },
-        {
-          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
-          "url": "https://wallstreetcn.com/articles/3773609",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -489,6 +714,29 @@
           "time_info": "[04时02分 ~ 06时58分]"
         },
         {
+          "title": "被特朗普斥\"疯了\"后，内塔尼亚胡最新强硬表态",
+          "url": "https://news.ifeng.com/c/8tdev8HIju4",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 08时27分]"
+        },
+        {
+          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
+          "url": "https://wallstreetcn.com/articles/3773679",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 08时27分]"
+        },
+        {
           "title": "美国国务卿鲁比奥：特朗普政府不希望曾协助美军的阿富汗人被迫返回阿富汗。",
           "url": "https://flash.jin10.com/detail/20260603031816499800",
           "source": "金十数据",
@@ -500,15 +748,26 @@
           "time_info": "04时02分"
         },
         {
-          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
-          "url": "https://wallstreetcn.com/articles/3773679",
-          "source": "华尔街见闻",
+          "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
+          "url": "https://www.cls.cn/detail/2388943",
+          "source": "财联社热门",
           "ranks": [
-            7
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 06时58分]"
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 08时27分]"
+        },
+        {
+          "title": "特朗普被曝同以总理通话爆粗口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33288561",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 08时27分]"
         },
         {
           "title": "巴西政府：根据巴西总统卢拉与美国总统特朗普于5月7日达成的共识，两国正在就关税问题进行谈判。",
@@ -528,7 +787,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -572,7 +831,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         }
@@ -600,7 +859,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -666,6 +925,18 @@
           "time_info": "04时02分"
         },
         {
+          "title": "提醒：日内请重点关注（以下均为北京时间）",
+          "url": "https://wallstreetcn.com/livenews/3113322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时27分]"
+        },
+        {
           "title": "CNBC表示，以色列总理内塔尼亚胡将于美东时间6月3日上午10点（北京时间22:00）接受其记者的访谈。",
           "url": "https://flash.jin10.com/detail/20260603030455670800",
           "source": "金十数据",
@@ -677,24 +948,13 @@
           "time_info": "04时02分"
         },
         {
-          "title": "提醒：日内请重点关注（以下均为北京时间）",
-          "url": "https://wallstreetcn.com/livenews/3113322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        },
-        {
           "title": "周二（6月2日）纽约尾盘，美国10年期基准国债收益率跌0.98个基点，报4.4433%，在V形反转行情中、于北京时间19:10刷新日低至4.4217%。 两年期美债收益率涨1.03个基点，报4.0431%，19:06也曾刷新日低至4.0060%。",
           "url": "https://wallstreetcn.com/livenews/3113308",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         }
