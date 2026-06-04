@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T18:37:00.170408+08:00",
-  "total_titles_processed": 1079,
+  "generated_at": "2026-06-04T21:56:34.243346+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "AI脸泛滥成灾,建模师没活了",
@@ -14,11 +14,23 @@
           "ranks": [
             6,
             14,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 18时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 21时56分]"
+        },
+        {
+          "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
+          "url": "https://www.zhihu.com/question/2045546609027408734",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时38分 ~ 21时56分]"
         },
         {
           "title": "黄仁勋概念股又+1：纳微半导体暴涨创新高 凭AI电源技术切入“达链”",
@@ -44,15 +56,28 @@
           "time_info": "[00时25分 ~ 07时01分]"
         },
         {
-          "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
-          "url": "https://www.zhihu.com/question/2045546609027408734",
-          "source": "知乎",
+          "title": "黄仁勋最早今晚抵韩！行程曝光：与科技大佬烤肉谈AI、首次亮相综艺……",
+          "url": "https://www.cls.cn/detail/2390517",
+          "source": "财联社热门",
           "ranks": [
+            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时38分 ~ 18时37分]"
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 21时56分]"
+        },
+        {
+          "title": "AI需求猛如虎！台积电CEO：数年内都无法满足芯片需求",
+          "url": "https://www.cls.cn/detail/2390489",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 21时56分]"
         },
         {
           "title": "达里奥警告：AI热潮已显现典型泡沫特征 最终难逃破裂命运",
@@ -79,17 +104,6 @@
           "time_info": "[00时25分 ~ 14时39分]"
         },
         {
-          "title": "黄仁勋最早今晚抵韩！行程曝光：与科技大佬烤肉谈AI、首次亮相综艺……",
-          "url": "https://www.cls.cn/detail/2390517",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
-        },
-        {
           "title": "2030年AI耗水量够13亿人用一年",
           "url": "https://s.weibo.com/weibo?q=%232030%E5%B9%B4AI%E8%80%97%E6%B0%B4%E9%87%8F%E5%A4%9F13%E4%BA%BF%E4%BA%BA%E7%94%A8%E4%B8%80%E5%B9%B4%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -101,15 +115,16 @@
           "time_info": "[18时36分 ~ 18时37分]"
         },
         {
-          "title": "AI需求猛如虎！台积电CEO：数年内都无法满足芯片需求",
-          "url": "https://www.cls.cn/detail/2390489",
-          "source": "财联社热门",
+          "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773812",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 21时56分]"
         },
         {
           "title": "微信开放手机厂商智能体接入 AI手机迎来“最优解”？",
@@ -179,18 +194,6 @@
           "time_info": "[00时25分 ~ 09时46分]"
         },
         {
-          "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773812",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 18时37分]"
-        },
-        {
           "title": "黄仁勋向全球富豪家族力荐AI：回报“疯狂可观”，还在质疑的人才是“疯子”！",
           "url": "https://wallstreetcn.com/articles/3773784",
           "source": "华尔街见闻",
@@ -226,6 +229,19 @@
           "time_info": "00时25分"
         },
         {
+          "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
+          "url": "https://wallstreetcn.com/articles/3773802",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时38分 ~ 21时56分]"
+        },
+        {
           "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
           "url": "https://www.cls.cn/detail/2389857",
           "source": "财联社热门",
@@ -252,43 +268,33 @@
           "time_info": "[00时25分 ~ 07时01分]"
         },
         {
-          "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
-          "url": "https://wallstreetcn.com/articles/3773802",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时38分 ~ 18时37分]"
-        },
-        {
           "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
           "url": "https://www.cls.cn/detail/2390870",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
-        },
-        {
-          "title": "解码万亿级参数AI大模型训练背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E7%A0%81%E4%B8%87%E4%BA%BF%E7%BA%A7%E5%8F%82%E6%95%B0AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 21时56分]"
         },
         {
           "title": "男子AI写歌月收入十几万",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E5%86%99%E6%AD%8C%E6%9C%88%E6%94%B6%E5%85%A5%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 21时56分]"
+        },
+        {
+          "title": "解码万亿级参数AI大模型训练背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E7%A0%81%E4%B8%87%E4%BA%BF%E7%BA%A7%E5%8F%82%E6%95%B0AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
           "ranks": [
             15
           ],
@@ -306,6 +312,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "英伟达又“带飞”一股：纳微半导体收涨19%，押注800V AI电源革命",
+          "url": "https://wallstreetcn.com/articles/3773793",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "A股开盘，上证指数开跌0.74%，深证成指开跌1.05%，创业板指开跌1.22%；F5G、CPO、AI PC概念股跌幅居前。",
@@ -341,13 +358,35 @@
           "time_info": "14时39分"
         },
         {
+          "title": "AI交易降温，纳指期货跌超1%，博通盘前跌14%，金涨油跌，比特币承压",
+          "url": "https://wallstreetcn.com/articles/3773843",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "惠誉：油价冲击拖累全球增长前景 AI投资势头超预期",
+          "url": "https://flash.jin10.com/detail/20260604214825512800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "IBM与谷歌云宣布战略合作，通过结合人类专业知识与人工智能驱动的交付模式推动AI规模化落地。",
           "url": "https://wallstreetcn.com/livenews/3114361",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -383,6 +422,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "瑞银将C3.ai目标价从9美元上调至12美元，此前C3.ai公布的季度收益和销售额均超出预期。",
+          "url": "https://wallstreetcn.com/livenews/3114452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "2026年字节AI的四个关键命题：世界模型、Seedance、Coding以及豆包商业化",
@@ -435,7 +485,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -487,7 +537,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -514,6 +564,19 @@
           "time_info": "[09时46分 ~ 18时37分]"
         },
         {
+          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
+          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时38分 ~ 21时56分]"
+        },
+        {
           "title": "特朗普为何骂内塔尼亚胡“疯了”？",
           "url": "https://news.ifeng.com/c/8ter8XhY8eS",
           "source": "凤凰网",
@@ -524,18 +587,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时25分 ~ 09时46分]"
-        },
-        {
-          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
-          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时38分 ~ 18时37分]"
         },
         {
           "title": "特朗普任命房屋监管主管兼任情报总监",
@@ -718,6 +769,17 @@
           "time_info": "09时46分"
         },
         {
+          "title": "伊朗使出拖字诀抢占谈判主动权，特朗普遭遇“敌友”双线施压",
+          "url": "https://flash.jin10.com/detail/20260604214157812800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
           "url": "https://wallstreetcn.com/livenews/3114038",
           "source": "华尔街见闻-快讯",
@@ -738,6 +800,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "美国众议院通过一项决议，限制美国总统特朗普对伊朗的战争权力。",
@@ -886,7 +959,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
@@ -929,7 +1002,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -1050,9 +1123,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "伊朗“圣城旅”：以色列须撤退至冲突爆发前的位置",
+          "url": "https://wallstreetcn.com/livenews/3114459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "美媒：如何向伊朗“赔钱”成谈判症结之一",
@@ -1168,7 +1252,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "金十图示：北京时间6月3日22:00将有欧元、日元、澳元、英镑等外汇期权大单到期，20个行权价10亿以上大单，敬请管理风险。",
@@ -1216,6 +1300,17 @@
           "time_info": "04时15分"
         },
         {
+          "title": "老挝国家主席通伦抵达北京",
+          "url": "https://www.douyin.com/hot/2523111",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "WTI 7月原油期货收涨2.26美元，涨幅2.41%，报96.02美元/桶。 布伦特8月原油期货收涨1.81美元，涨幅1.89%，报97.81美元/桶。 中东Abu Dhabi Murban原油期货涨0.99%，报97.04美元/桶，北京时间17:33曾达到98.27美元。 NYMEX 7月天然气期货收报3.2140美元/百万英热单位。 NYMEX 7月汽油期货收报3.1316美元/加仑，NYMEX 7月取暖油期货收报3.8481美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3113976",
           "source": "华尔街见闻-快讯",
@@ -1233,7 +1328,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -1247,6 +1342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "北京体育大学 恭迎龙王回归",
+          "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E5%A4%A7%E5%AD%A6%20%E6%81%AD%E8%BF%8E%E9%BE%99%E7%8E%8B%E5%9B%9E%E5%BD%92&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         }
       ]
     },
@@ -1322,11 +1428,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8C%97%E5%9B%BA%E5%AE%89%E7%AA%81%E9%99%8D%E5%86%B0%E9%9B%B9+%E6%B2%BF%E8%A1%97%E5%A0%86%E7%A7%AF%E6%B1%87%E6%88%90%E5%86%B0%E6%B2%B3",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 21时56分]"
         },
         {
           "title": "河北一地冰雹大如鸡蛋砸烂成熟西瓜",
