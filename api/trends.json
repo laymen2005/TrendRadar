@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T21:18:48.804244+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-06-06T23:10:15.789554+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 61,
+      "match_count": 68,
       "titles": [
         {
           "title": "伊朗外长：哈梅内伊遇害那一刻，我就在他办公室里",
@@ -53,6 +53,17 @@
           "time_info": "17时22分"
         },
         {
+          "title": "世界杯伊朗代表团十余人遭美国拒签",
+          "url": "https://flash.jin10.com/detail/20260606223809441800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "伊朗称再袭美军第五舰队重要设施",
           "url": "https://flash.jin10.com/detail/20260606102807931800",
           "source": "金十数据",
@@ -84,17 +95,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
-        },
-        {
-          "title": "伊朗政府：伊朗工业部长赛义德·穆罕默德·阿塔巴克与白俄罗斯官员召开会议，强调扩大工业、贸易和物流合作，重点讨论联合生产、机械供应和运输发展。",
-          "url": "https://flash.jin10.com/detail/20260606203248151800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
         },
         {
           "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
@@ -130,26 +130,15 @@
           "time_info": "17时22分"
         },
         {
-          "title": "巴基斯坦内政部长周六访问伊朗 旨在打破美伊僵局并达成临时协议的新提案",
-          "url": "https://flash.jin10.com/detail/20260606202748225800",
+          "title": "伊朗代表团：对核设施的攻击不应被正常化",
+          "url": "https://flash.jin10.com/detail/20260606220551364800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时18分"
-        },
-        {
-          "title": "美媒曝以色列在伊朗周边多国设据点",
-          "url": "https://wallstreetcn.com/livenews/3115465",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
+          "time_info": "23时10分"
         },
         {
           "title": "伊朗称美军第五舰队总部遭打击，美方否认",
@@ -185,6 +174,30 @@
           "time_info": "17时22分"
         },
         {
+          "title": "伊朗外交部谴责美军多次违反停火协议",
+          "url": "https://wallstreetcn.com/livenews/3115473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "美国海上封锁已使伊朗损失近60亿美元石油收入",
+          "url": "https://wallstreetcn.com/livenews/3115452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 23时10分]"
+        },
+        {
           "title": "白宫：伊朗国足已获得签证",
           "url": "https://wallstreetcn.com/livenews/3115427",
           "source": "华尔街见闻-快讯",
@@ -204,18 +217,6 @@
           "ranks": [
             1,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 21时18分]"
-        },
-        {
-          "title": "美国海上封锁已使伊朗损失近60亿美元石油收入",
-          "url": "https://wallstreetcn.com/livenews/3115452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -246,6 +247,18 @@
           "time_info": "[10时36分 ~ 14时25分]"
         },
         {
+          "title": "伊朗政府：伊朗工业部长赛义德·穆罕默德·阿塔巴克与白俄罗斯官员召开会议，强调扩大工业、贸易和物流合作，重点讨论联合生产、机械供应和运输发展。",
+          "url": "https://flash.jin10.com/detail/20260606203248151800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 23时10分]"
+        },
+        {
           "title": "沙特阿拉伯谴责伊朗对巴林和科威特的袭击。",
           "url": "https://flash.jin10.com/detail/20260606182622330800",
           "source": "金十数据",
@@ -256,6 +269,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时20分 ~ 21时18分]"
+        },
+        {
+          "title": "巴基斯坦内政部长周六访问伊朗 旨在打破美伊僵局并达成临时协议的新提案",
+          "url": "https://flash.jin10.com/detail/20260606202748225800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 23时10分]"
+        },
+        {
+          "title": "美媒曝以色列在伊朗周边多国设据点",
+          "url": "https://wallstreetcn.com/livenews/3115465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 23时10分]"
         },
         {
           "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
@@ -271,6 +308,19 @@
           "time_info": "[14时25分 ~ 19时20分]"
         },
         {
+          "title": "伊朗称在边境地区击毙6名恐怖分子",
+          "url": "https://wallstreetcn.com/livenews/3115446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 23时10分]"
+        },
+        {
           "title": "风水轮流转，轮到伊朗威胁美国了",
           "url": "https://news.ifeng.com/c/8tjAgk0yryi",
           "source": "凤凰网",
@@ -280,6 +330,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时36分 ~ 14时25分]"
+        },
+        {
+          "title": "科威特军方：伊朗袭击造成物质损失，但没有人员伤亡。",
+          "url": "https://flash.jin10.com/detail/20260606200409038800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 23时10分]"
         },
         {
           "title": "美国击落至少3架飞往霍尔木兹海峡方向的伊朗无人机。（CNN）",
@@ -306,16 +368,16 @@
           "time_info": "[17时22分 ~ 19时20分]"
         },
         {
-          "title": "伊朗称在边境地区击毙6名恐怖分子",
-          "url": "https://wallstreetcn.com/livenews/3115446",
-          "source": "华尔街见闻-快讯",
+          "title": "科威特军方：周六拦截了来自伊朗的七枚导弹。",
+          "url": "https://flash.jin10.com/detail/20260606200351570800",
+          "source": "金十数据",
           "ranks": [
             7,
-            23
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时20分 ~ 21时18分]"
+          "time_info": "[21时18分 ~ 23时10分]"
         },
         {
           "title": "伊朗外长：我亲历已故最高领袖遇害瞬间",
@@ -328,6 +390,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时22分 ~ 19时20分]"
+        },
+        {
+          "title": "海湾合作委员会秘书长：伊朗继续其恐怖活动的行为证明了其破坏安全的意图。",
+          "url": "https://flash.jin10.com/detail/20260606194054552800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 23时10分]"
         },
         {
           "title": "报道：多名伊朗世界杯工作人员被美国拒签",
@@ -365,15 +439,15 @@
           "time_info": "10时36分"
         },
         {
-          "title": "科威特军方：伊朗袭击造成物质损失，但没有人员伤亡。",
-          "url": "https://flash.jin10.com/detail/20260606200409038800",
-          "source": "金十数据",
+          "title": "伊朗足协：多名国家队随队成员未获签证 美国违背国际体育规则",
+          "url": "https://wallstreetcn.com/livenews/3115472",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时18分"
+          "time_info": "23时10分"
         },
         {
           "title": "美军中央司令部：拦截了伊朗发射的导弹与无人机。",
@@ -398,17 +472,6 @@
           "time_info": "17时22分"
         },
         {
-          "title": "科威特军方：周六拦截了来自伊朗的七枚导弹。",
-          "url": "https://flash.jin10.com/detail/20260606200351570800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        },
-        {
           "title": "伊朗媒体：美军第五舰队总部升起浓烟",
           "url": "https://flash.jin10.com/detail/20260606101249829800",
           "source": "金十数据",
@@ -418,6 +481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "美媒曝以色列在伊朗周边多国设据点",
+          "url": "https://flash.jin10.com/detail/20260606211807242800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "伊朗沿海锡里克地区传出爆炸声",
@@ -442,15 +516,26 @@
           "time_info": "19时20分"
         },
         {
-          "title": "海湾合作委员会秘书长：伊朗继续其恐怖活动的行为证明了其破坏安全的意图。",
-          "url": "https://flash.jin10.com/detail/20260606194054552800",
+          "title": "据伊朗学生通讯社：巴基斯坦内政部长已出发前往德黑兰。",
+          "url": "https://flash.jin10.com/detail/20260606211126426800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时18分"
+          "time_info": "23时10分"
+        },
+        {
+          "title": "伊朗外交部发布关于美国持续违反停火的声明",
+          "url": "https://flash.jin10.com/detail/20260606205532485800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "俄罗斯总统普京：伊朗没有请求武器，我们没有提供任何东西。",
@@ -547,7 +632,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -558,7 +643,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -591,7 +676,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -698,8 +783,20 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
+        {
+          "title": "特朗普“官宣”：我和马斯克又成朋友了",
+          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 23时10分]"
+        },
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
           "url": "https://news.ifeng.com/c/8tiAmm9M2oW",
@@ -713,18 +810,6 @@
           "time_info": "[01时11分 ~ 07时02分]"
         },
         {
-          "title": "特朗普“官宣”：我和马斯克又成朋友了",
-          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 21时18分]"
-        },
-        {
           "title": "特朗普：将迅速结束伊朗战事",
           "url": "https://news.ifeng.com/c/8tjENyLisNK",
           "source": "凤凰网",
@@ -734,6 +819,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时36分 ~ 14时25分]"
+        },
+        {
+          "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
+          "url": "https://v.ifeng.com/c/8tjL2UjJKhb",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
         },
         {
           "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
@@ -830,6 +926,17 @@
           "time_info": "[19时20分 ~ 21时18分]"
         },
         {
+          "title": "特朗普称美股应随“绝佳”就业报告上涨，哈塞特表示定价年内加息是错误的",
+          "url": "https://wallstreetcn.com/articles/3773991",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
           "title": "特朗普赦免因内幕交易获罪前议员",
           "url": "https://wallstreetcn.com/livenews/3115419",
           "source": "华尔街见闻-快讯",
@@ -840,6 +947,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时25分 ~ 17时22分]"
+        },
+        {
+          "title": "伊朗高官：谈判主动权在特朗普手里",
+          "url": "https://www.toutiao.com/trending/7648086385831804969/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
         },
         {
           "title": "美国总统特朗普：伊朗领导人尚未与美国达成结束当前战争的协议，因为他们“强硬”且“自负”。但最终“他们别无选择”，只能达成协议。",
@@ -1241,7 +1359,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -1249,11 +1367,24 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            1
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时02分 ~ 23时10分]"
+        },
+        {
+          "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
+          "url": "https://wallstreetcn.com/articles/3774007",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时02分 ~ 21时18分]"
+          "time_info": "[14时25分 ~ 23时10分]"
         },
         {
           "title": "严防作弊!高考期间AI搜题关停",
@@ -1265,11 +1396,12 @@
             19,
             20,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时11分 ~ 21时18分]"
+          "appearance_count": 12,
+          "time_info": "[01时11分 ~ 23时10分]"
         },
         {
           "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
@@ -1311,18 +1443,6 @@
           "time_info": "[01时11分 ~ 14时25分]"
         },
         {
-          "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
-          "url": "https://wallstreetcn.com/articles/3774007",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时25分 ~ 21时18分]"
-        },
-        {
           "title": "非农大超预期，美债收益率全线拉升，纳指重挫3.2%，AI剧烈回调，WTI原油下跌3.3%",
           "url": "https://wallstreetcn.com/articles/3773946",
           "source": "华尔街见闻",
@@ -1333,6 +1453,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时46分 ~ 05时21分]"
+        },
+        {
+          "title": "AI文风太好认",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%96%87%E9%A3%8E%E5%A4%AA%E5%A5%BD%E8%AE%A4&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 23时10分]"
         },
         {
           "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
@@ -1368,18 +1501,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
-        },
-        {
-          "title": "AI文风太好认",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%96%87%E9%A3%8E%E5%A4%AA%E5%A5%BD%E8%AE%A4&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 21时18分]"
         },
         {
           "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
@@ -1453,6 +1574,17 @@
           "time_info": "[10时36分 ~ 14时25分]"
         },
         {
+          "title": "为什么现在 AI 生成到了人人喊打的境遇？大量劣质一眼假的东西泛滥成灾？",
+          "url": "https://www.zhihu.com/question/2044941270087463980",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
           "title": "印度高温背后的AI问题",
           "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E9%AB%98%E6%B8%A9%E8%83%8C%E5%90%8E%E7%9A%84AI%E9%97%AE%E9%A2%98",
           "source": "bilibili 热搜",
@@ -1463,6 +1595,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时36分 ~ 17时22分]"
+        },
+        {
+          "title": "ai广告",
+          "url": "https://s.weibo.com/weibo?q=ai%E5%B9%BF%E5%91%8A&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
         },
         {
           "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
@@ -1611,7 +1754,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "北京市政协党组书记、主席魏小东被查",
@@ -1621,19 +1764,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时25分 ~ 21时18分]"
+          "appearance_count": 6,
+          "time_info": "[14时25分 ~ 23时10分]"
         },
         {
           "title": "北京市政协主席被查 北京市委表态",
           "url": "https://www.toutiao.com/trending/7648219847150538282/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 21时18分]"
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 23时10分]"
         },
         {
           "title": "北京市政协主席魏小东被查",
@@ -1675,6 +1819,19 @@
           "time_info": "[10时36分 ~ 14时25分]"
         },
         {
+          "title": "北京：坚决拥护党中央决定",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%8B%A5%E6%8A%A4%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 23时10分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7878元，较周四夜盘收盘跌136点。成交量421.10亿美元。",
           "url": "https://wallstreetcn.com/livenews/3115304",
           "source": "华尔街见闻-快讯",
@@ -1687,16 +1844,15 @@
           "time_info": "[03时46分 ~ 05时21分]"
         },
         {
-          "title": "北京：坚决拥护党中央决定",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%8B%A5%E6%8A%A4%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A",
-          "source": "百度热搜",
+          "title": "北京下雪",
+          "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            18,
-            8
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时20分 ~ 21时18分]"
+          "time_info": "[23时09分 ~ 23时10分]"
         },
         {
           "title": "北京市政协主席魏小东被查",
@@ -1709,6 +1865,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时36分 ~ 14时25分]"
+        },
+        {
+          "title": "谢娜宣布启动个人巡演 首站在北京",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%AE%A3%E5%B8%83%E5%90%AF%E5%8A%A8%E4%B8%AA%E4%BA%BA%E5%B7%A1%E6%BC%94+%E9%A6%96%E7%AB%99%E5%9C%A8%E5%8C%97%E4%BA%AC",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
         },
         {
           "title": "现货黄金回吐2026年稍早涨幅，美国5月非农就业报告推高投资者对美联储加息的预期。 金价跌约3.5%，在北京时间02:33刷新日低至4319.19美元——跌穿2025年12月31日底部4319.37美元，2026年3月23日曾跌至4099.17美元。",
@@ -1783,6 +1950,20 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "男生在女厕偷拍被发现后致女生受伤，河北地质大学研究生学院：拟开除学籍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33323307",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时25分 ~ 23时10分]"
+        },
+        {
           "title": "河北地质大学通报学生在女厕偷拍并伤人，拟开除该学生学籍，怎样看待这一结果？",
           "url": "https://www.zhihu.com/question/2046526772502427388",
           "source": "知乎",
@@ -1797,19 +1978,6 @@
           "time_info": "[14时25分 ~ 21时18分]"
         },
         {
-          "title": "男生在女厕偷拍被发现后致女生受伤，河北地质大学研究生学院：拟开除学籍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33323307",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时25分 ~ 21时18分]"
-        },
-        {
           "title": "河北地质大学研究生学院：男生在女厕偷拍，试图逃跑致女生受伤，拟开除学籍",
           "url": "https://m.thepaper.cn/newsDetail_forward_33324328",
           "source": "澎湃新闻",
@@ -1817,8 +1985,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 21时18分]"
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 23时10分]"
         }
       ]
     },
@@ -1826,17 +1994,6 @@
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
-        {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 07时02分]"
-        },
         {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
           "url": "https://www.cls.cn/detail/2392488",
@@ -1848,15 +2005,37 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时25分 ~ 21时18分]"
+          "appearance_count": 6,
+          "time_info": "[14时25分 ~ 23时10分]"
+        },
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 07时02分]"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金饰价格跌去约21% 黄金还能买吗",
+          "url": "https://www.toutiao.com/trending/7648263144199949867/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
         {
           "title": "金饰价格跌回2025年 专家建议：黄金占资产配比10%",
           "url": "https://flash.jin10.com/detail/20260606092732683800",
