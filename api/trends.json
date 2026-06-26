@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T18:19:07.606876+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2026-06-26T21:07:20.524356+08:00",
+  "total_titles_processed": 1334,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
@@ -28,11 +28,12 @@
             9,
             11,
             16,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时07分 ~ 18时19分]"
+          "appearance_count": 13,
+          "time_info": "[01时07分 ~ 21时07分]"
         },
         {
           "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
@@ -146,6 +147,19 @@
           "time_info": "01时07分"
         },
         {
+          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
+          "url": "https://wallstreetcn.com/articles/3775558",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时49分 ~ 21时07分]"
+        },
+        {
           "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
           "url": "https://wallstreetcn.com/articles/3775448",
           "source": "华尔街见闻",
@@ -167,18 +181,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
-        },
-        {
-          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
-          "url": "https://wallstreetcn.com/articles/3775558",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时49分 ~ 18时19分]"
         },
         {
           "title": "美国防部更新目标定位指南 放宽AI参与作战决策限制",
@@ -216,6 +218,18 @@
           "time_info": "[14时49分 ~ 18时19分]"
         },
         {
+          "title": "纯中二?美官员把AI当英雄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 21时07分]"
+        },
+        {
           "title": "UP主手搓AI实时生成游戏",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E5%AE%9E%E6%97%B6%E7%94%9F%E6%88%90%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
@@ -228,15 +242,28 @@
           "time_info": "[05时26分 ~ 07时12分]"
         },
         {
-          "title": "纯中二?美官员把AI当英雄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
-          "source": "贴吧",
+          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
+          "url": "https://www.cls.cn/detail/2410276",
+          "source": "财联社热门",
           "ranks": [
-            6
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时19分]"
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 21时07分]"
+        },
+        {
+          "title": "AI时代如何选专业",
+          "url": "https://www.douyin.com/hot/2548080",
+          "source": "抖音",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 21时07分]"
         },
         {
           "title": "5秒AI视频用电量等于给10部手机充电",
@@ -250,17 +277,6 @@
           "time_info": "[14时49分 ~ 14时50分]"
         },
         {
-          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
-          "url": "https://www.cls.cn/detail/2410276",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时19分]"
-        },
-        {
           "title": "AI算力“烤”热培育钻石 金刚石散热现成长拐点 业内：2027年或迎放量期",
           "url": "https://www.cls.cn/detail/2409699",
           "source": "财联社热门",
@@ -270,17 +286,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时49分 ~ 14时50分]"
-        },
-        {
-          "title": "AI时代如何选专业",
-          "url": "https://www.douyin.com/hot/2548080",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时19分]"
         },
         {
           "title": "智谱（02513）盘中市值一度破万亿，涨超 40%，年内翻 20 倍，是什么让港股的 AI 能如此疯狂？",
@@ -333,9 +338,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
+          "url": "https://wallstreetcn.com/articles/3775599",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "主流AI Coding开发鹅腿识别",
@@ -366,7 +382,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -377,7 +393,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -399,7 +415,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -410,7 +426,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -451,7 +467,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
@@ -467,17 +483,6 @@
           "time_info": "[10时45分 ~ 18时19分]"
         },
         {
-          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
-          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时19分]"
-        },
-        {
           "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
           "url": "https://www.zhihu.com/question/2053109056487822677",
           "source": "知乎",
@@ -489,6 +494,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时07分 ~ 07时12分]"
+        },
+        {
+          "title": "据伊朗Press TV：美国与伊朗在霍尔木兹海峡的沟通旨在防止军事升级。",
+          "url": "https://flash.jin10.com/detail/20260626205040361800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "美国与海湾合作委员会发表声明，谴责伊朗代理人在伊拉克发动的袭击。",
@@ -524,6 +540,17 @@
           "time_info": "14时50分"
         },
         {
+          "title": "伊朗和美国开设沟通渠道，就霍尔木兹海峡进行协调。美伊霍尔木兹沟通渠道将防止军事升级。（伊朗Press TV）",
+          "url": "https://wallstreetcn.com/livenews/3125327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "在伊华商：战争改变伊朗民众对中国的看法",
           "url": "https://news.ifeng.com/c/8uGjlCe4dNV",
           "source": "凤凰网",
@@ -532,8 +559,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时49分 ~ 18时19分]"
+          "appearance_count": 5,
+          "time_info": "[14时49分 ~ 21时07分]"
+        },
+        {
+          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
+          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 21时07分]"
         },
         {
           "title": "霍尔木兹海峡再起波澜：伊朗被曝谋求一年400亿“买路钱”，船只遇袭后疏散行动暂停",
@@ -543,8 +582,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时19分]"
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 21时07分]"
+        },
+        {
+          "title": "伊朗外交部谴责美国与海合会联合声明",
+          "url": "https://wallstreetcn.com/livenews/3125318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗外长今日与韩国外长通话，双方就地区最新局势及双边关系交换了意见。",
@@ -553,9 +603,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "以色列国防部长：如果伊朗攻击以色列，将“犯下最大的错误”。",
+          "url": "https://flash.jin10.com/detail/20260626203708830800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "伊朗“波斯湾海峡管理局”：未按照PGSA设定航线航行的船只，将无法获得安全通行的保障",
@@ -660,7 +721,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
@@ -686,6 +747,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时07分 ~ 07时12分]"
+        },
+        {
+          "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
+          "url": "https://news.ifeng.com/c/8uHCasu8tQC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "据AXIOS网站：美国众议院议长约翰逊表示，将在与特朗普会晤后将住房法案提交给白宫。",
@@ -859,6 +931,140 @@
       ]
     },
     {
+      "keyword_group": "北京",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "北京WB战胜上海RNG.M KPL",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%ACWB%20%E4%B8%8A%E6%B5%B7RNG.M",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            12,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时12分]"
+        },
+        {
+          "title": "北京JDG vs 广州TTG KPL",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%ACJDG%20%E5%B9%BF%E5%B7%9ETTG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "周四（6月25日）纽约尾盘，ICE美元指数跌0.16%，报101.443点，在一波W形反转行情结束时，于北京时间19:39刷新日高至101.746点，随后持续走低，00:28刷新日低至101.305点。 彭博美元指数跌0.25%，报1222.78点，日内交投区间为1227.65-1222.78点。",
+          "url": "https://wallstreetcn.com/livenews/3124835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时51分 ~ 05时27分]"
+        },
+        {
+          "title": "周四（6月25日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8008元，较周三纽约尾盘反弹124点，日内整体交投于6.8164-6.7969元区间，整体持续上扬。",
+          "url": "https://wallstreetcn.com/livenews/3124861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 07时12分]"
+        },
+        {
+          "title": "提醒：日内请重点关注（以下均为北京时间）",
+          "url": "https://wallstreetcn.com/livenews/3124871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时12分 ~ 14时50分]"
+        },
+        {
+          "title": "周四（6月25日），彭博电动汽车价格回报指数跌1.08%，报3551.19点。 北京时间10:00之前显著下跌，22:00之前再次显著下挫。",
+          "url": "https://wallstreetcn.com/livenews/3124850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 07时12分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7990元，较周三夜盘收盘涨102点。成交量593.26亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3124826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "北京头部大模型累计注册用户达20.5亿",
+          "url": "https://wallstreetcn.com/livenews/3124969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "提醒：北京时间20:30，将公布美国5月商品贸易帐、美国5月零售库存、美国5月批发库存。",
+          "url": "https://wallstreetcn.com/livenews/3125313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "电影四渡北京首映礼",
+          "url": "https://www.douyin.com/hot/2547089",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "我国首条AI+个性化靶点肿瘤疫苗产线在北京经开区开建",
+          "url": "https://wallstreetcn.com/livenews/3124945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 10,
       "titles": [
@@ -974,118 +1180,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "北京",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "北京WB战胜上海RNG.M KPL",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%ACWB%20%E4%B8%8A%E6%B5%B7RNG.M",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            12,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 07时12分]"
-        },
-        {
-          "title": "周四（6月25日）纽约尾盘，ICE美元指数跌0.16%，报101.443点，在一波W形反转行情结束时，于北京时间19:39刷新日高至101.746点，随后持续走低，00:28刷新日低至101.305点。 彭博美元指数跌0.25%，报1222.78点，日内交投区间为1227.65-1222.78点。",
-          "url": "https://wallstreetcn.com/livenews/3124835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 05时27分]"
-        },
-        {
-          "title": "周四（6月25日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8008元，较周三纽约尾盘反弹124点，日内整体交投于6.8164-6.7969元区间，整体持续上扬。",
-          "url": "https://wallstreetcn.com/livenews/3124861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 07时12分]"
-        },
-        {
-          "title": "提醒：日内请重点关注（以下均为北京时间）",
-          "url": "https://wallstreetcn.com/livenews/3124871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时12分 ~ 14时50分]"
-        },
-        {
-          "title": "周四（6月25日），彭博电动汽车价格回报指数跌1.08%，报3551.19点。 北京时间10:00之前显著下跌，22:00之前再次显著下挫。",
-          "url": "https://wallstreetcn.com/livenews/3124850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 07时12分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7990元，较周三夜盘收盘涨102点。成交量593.26亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3124826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "北京头部大模型累计注册用户达20.5亿",
-          "url": "https://wallstreetcn.com/livenews/3124969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        },
-        {
-          "title": "电影四渡北京首映礼",
-          "url": "https://www.douyin.com/hot/2547089",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "我国首条AI+个性化靶点肿瘤疫苗产线在北京经开区开建",
-          "url": "https://wallstreetcn.com/livenews/3124945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
         }
       ]
     },
