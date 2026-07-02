@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T01:40:50.877533+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-07-03T03:15:58.145277+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时15分]"
         },
         {
           "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时15分]"
         },
         {
           "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时15分]"
         },
         {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
@@ -48,19 +48,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时15分]"
         },
         {
-          "title": "AI演员已经能演出情绪变化了",
-          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E8%83%BD%E6%BC%94%E5%87%BA%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E4%BA%86",
-          "source": "百度热搜",
+          "title": "报道：特斯拉将雇员的AI开销控制在最高每周200美元",
+          "url": "https://wallstreetcn.com/livenews/3128196",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "03时15分"
+        },
+        {
+          "title": "扎克伯格：过去四个月里，AI智能体开发并未“如我们预期的那样加速”",
+          "url": "https://wallstreetcn.com/livenews/3128190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
@@ -70,19 +81,65 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时15分]"
+        },
+        {
+          "title": "AI演员已经能演出情绪变化了",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E8%83%BD%E6%BC%94%E5%87%BA%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时15分]"
         },
         {
           "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
           "url": "https://www.cls.cn/detail/2415407",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时15分]"
+        },
+        {
+          "title": "美国AI三大巨头争抢哲学家",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E4%B8%89%E5%A4%A7%E5%B7%A8%E5%A4%B4%E4%BA%89%E6%8A%A2%E5%93%B2%E5%AD%A6%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时15分]"
+        },
+        {
+          "title": "Meta Platforms(META.O)CEO：过去四个月里，AI智能体的开发并未“如我们预期的那样加速”。",
+          "url": "https://flash.jin10.com/detail/20260703025612811800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "03时15分"
+        },
+        {
+          "title": "AI软件开发公司ElevenLabs与投资者洽谈按大约220亿美元估值进行二次（股票）发行。",
+          "url": "https://wallstreetcn.com/livenews/3128187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "随着AI矿产热潮吸引投资关注，刚果（金）计划建立首个证券交易所。（彭博）",
@@ -129,15 +186,15 @@
           "time_info": "01时40分"
         },
         {
-          "title": "美国AI三大巨头争抢哲学家",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E4%B8%89%E5%A4%A7%E5%B7%A8%E5%A4%B4%E4%BA%89%E6%8A%A2%E5%93%B2%E5%AD%A6%E5%AE%B6",
-          "source": "百度热搜",
+          "title": "微软正合并其企业与消费者端AI聊天机器人。 该公司正将多个Copilot AI聊天机器人整合到一个APP。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3128176",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "03时15分"
         },
         {
           "title": "可灵AI落地近30亿美元融资，创全球视频大模型公司融资规模新纪录",
@@ -154,7 +211,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "北京韩红爱心慈善基金会发说明，否认黑箱操作，称韩红活动与基金会相互独立、界限清晰，哪些信息值得关注？",
@@ -164,25 +221,48 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时15分]"
+        },
+        {
+          "title": "周四（7月2日）纽约尾盘，彭博谷物分类指数涨0.04%，报29.5199点，亚太早盘维持微幅上涨状态，北京时间15:00过后持续扩大涨幅，21:42刷新日高至29.7725点，随后持续回吐涨幅并多次转跌。 CBOT玉米期货跌0.34%，报4.4075美元/蒲式耳。 CBOT小麦期货涨0.04%，报6.0025美元/蒲式耳。 CBOT大豆期货跌0.22%，报11.4675美元/蒲式耳，豆粕期货跌0.10%，豆油期货涨0.21%。",
+          "url": "https://wallstreetcn.com/livenews/3128193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "03时15分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7830元，较周三夜盘收盘涨50点。成交量605.08亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3128192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "北京JDG战胜西安WE",
           "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%ACJDG%20%E8%A5%BF%E5%AE%89WE",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时15分]"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
@@ -192,8 +272,30 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时15分]"
+        },
+        {
+          "title": "美国财政部：财政部与国税局将接受大型上市公司股票捐赠，为“特朗普账户”儿童金融账户计划提供支持。",
+          "url": "https://flash.jin10.com/detail/20260703023131471800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "03时15分"
+        },
+        {
+          "title": "特朗普经济幕僚哈塞特批评鲍威尔继续留在美联储",
+          "url": "https://wallstreetcn.com/livenews/3128178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "特朗普参加活动后直接拿走剪刀",
@@ -205,6 +307,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗外长：只有在全面、包容且不受外部干涉的情况下，本地区的和平才能得以维系。",
+          "url": "https://flash.jin10.com/detail/20260703024121722800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "伊朗外长：美军中央司令部究竟是给本地区带来了安全还是动荡？答案显而易见。同样，我们强大的武装力量也已证明，域外势力甚至连自身都无法保护。",
+          "url": "https://flash.jin10.com/detail/20260703024118684800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         }
       ]
     },
