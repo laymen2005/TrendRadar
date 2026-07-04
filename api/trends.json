@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T11:27:39.504433+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2026-07-04T14:43:23.482108+08:00",
+  "total_titles_processed": 877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时18分 ~ 11时27分]"
+          "appearance_count": 11,
+          "time_info": "[01时18分 ~ 14时43分]"
         },
         {
           "title": "伊朗议长会见中方代表，称已解决中国船只通过海峡问题",
@@ -37,9 +37,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "现场：伊朗为哈梅内伊举行公众告别悼念仪式",
+          "url": "https://news.ifeng.com/c/8uTvqahB2zu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "伊朗总统在哈梅内伊告别仪式抹泪",
@@ -63,17 +74,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
-        },
-        {
-          "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
-          "url": "https://wallstreetcn.com/livenews/3128877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
@@ -100,6 +100,18 @@
           "time_info": "[08时00分 ~ 11时27分]"
         },
         {
+          "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
+          "url": "https://wallstreetcn.com/livenews/3128877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 14时43分]"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫：美国必须“接受贸易领域的既定现实”。",
           "url": "https://flash.jin10.com/detail/20260704030253296800",
           "source": "金十数据",
@@ -109,6 +121,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时58分 ~ 08时00分]"
+        },
+        {
+          "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
+          "url": "https://flash.jin10.com/detail/20260704103120519800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 14时43分]"
         },
         {
           "title": "伊朗与巴基斯坦在前最高领袖哈梅内伊葬礼结束后举行了会谈。（ISNA）",
@@ -147,15 +171,15 @@
           "time_info": "[04时58分 ~ 06时03分]"
         },
         {
-          "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
-          "url": "https://flash.jin10.com/detail/20260704103120519800",
-          "source": "金十数据",
+          "title": "以色列检方称一美国公民为伊朗从事间谍活动",
+          "url": "https://wallstreetcn.com/livenews/3128899",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "14时43分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国防部副部长表示，伊朗和巴基斯坦可以成为该地区新安全安排的基石。",
@@ -178,6 +202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "伊朗议长在哈梅内伊告别仪式哭到颤抖",
+          "url": "https://www.toutiao.com/trending/7657921167663497262/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗和巴基斯坦双方在伊朗前最高领袖哈梅内伊的葬礼后举行会谈。",
@@ -227,7 +262,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -273,8 +308,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时18分 ~ 11时27分]"
+          "appearance_count": 11,
+          "time_info": "[01时18分 ~ 14时43分]"
         },
         {
           "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
@@ -297,8 +332,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 11时27分]"
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 14时43分]"
         },
         {
           "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
@@ -346,6 +381,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "业内首个AI-eSIM产业协同平台成立",
+          "url": "https://wallstreetcn.com/livenews/3128902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "加拿大养老基金向EQT的AI基础设施建设投资17.5亿美元",
@@ -410,6 +456,18 @@
           "time_info": "[07时59分 ~ 08时00分]"
         },
         {
+          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
+          "url": "https://wallstreetcn.com/articles/3776134",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 14时43分]"
+        },
+        {
           "title": "如何看待AI模型蒸馏",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85AI%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -421,24 +479,13 @@
           "time_info": "[07时59分 ~ 08时00分]"
         },
         {
-          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
-          "url": "https://wallstreetcn.com/articles/3776134",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
           "title": "一周热榜精选：弱非农下加息押注退潮！大空头警告AI派对结束",
           "url": "https://flash.jin10.com/detail/20260704095032353800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -449,7 +496,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         }
@@ -457,7 +504,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
@@ -531,6 +578,28 @@
           "time_info": "[01时19分 ~ 03时10分]"
         },
         {
+          "title": "伊朗议长反击特朗普“缺粮”言论：美国数千万人靠食品券生活",
+          "url": "https://flash.jin10.com/detail/20260704124044168800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗非常想达成协议；因举办哈梅内伊的葬礼，给伊朗放了一周假。",
+          "url": "https://flash.jin10.com/detail/20260704113342386800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "据AXIOS网站：美国总统特朗普今天与以色列总理内塔尼亚胡通了电话。以色列总理办公室表示，双方同意近期在美国举行会晤。",
           "url": "https://flash.jin10.com/detail/20260704003454888800",
           "source": "金十数据",
@@ -548,7 +617,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -559,7 +628,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -570,9 +639,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "特朗普：伊朗非常想达成协议。 因葬礼给伊朗放了一周假。",
+          "url": "https://wallstreetcn.com/livenews/3128882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         }
       ]
     },
@@ -652,11 +732,12 @@
           "url": "https://flash.jin10.com/detail/20260704110855518800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 14时43分]"
         }
       ]
     },
