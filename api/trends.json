@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T06:58:41.854291+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-07-06T08:04:55.843634+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
@@ -15,30 +15,46 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 08时04分]"
         },
         {
           "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
           "url": "https://wallstreetcn.com/articles/3776207",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 08时04分]"
         },
         {
           "title": "特朗普又把自己加上了“总统山”",
           "url": "https://news.ifeng.com/c/8uW6iftDRFS",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 08时04分]"
+        },
+        {
+          "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 08时04分]"
         },
         {
           "title": "美媒：特朗普施压国际足联 美国队头号射手红牌处罚被暂缓执行",
@@ -54,19 +70,6 @@
           "time_info": "[04时53分 ~ 06时58分]"
         },
         {
-          "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时58分]"
-        },
-        {
           "title": "多数美国选民认为特朗普对伊朗开战得不偿失",
           "url": "https://flash.jin10.com/detail/20260706001649875800",
           "source": "金十数据",
@@ -76,6 +79,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普对哈梅内伊葬礼感到“震惊”",
+          "url": "https://wallstreetcn.com/livenews/3129042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "特朗普一通电话后，国际足联“破例”了",
+          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "特朗普将在北约峰会期间会晤乌克兰和叙利亚领导人",
@@ -166,6 +191,18 @@
           "time_info": "[03时07分 ~ 04时53分]"
         },
         {
+          "title": "特朗普将自己头像加在林肯旁边",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E8%87%AA%E5%B7%B1%E5%A4%B4%E5%83%8F%E5%8A%A0%E5%9C%A8%E6%9E%97%E8%82%AF%E6%97%81%E8%BE%B9%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 08时04分]"
+        },
+        {
           "title": "美国高级官员：特朗普认为必须尽快结束俄乌冲突，俄乌前线战局已僵持数月。美方有望在结束乌克兰战事方面取得进展。",
           "url": "https://flash.jin10.com/detail/20260706012207769800",
           "source": "金十数据",
@@ -201,6 +238,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "北约峰会火药味升级：特朗普调停俄乌冲突，盟友却先“内部分裂”",
+          "url": "https://flash.jin10.com/detail/20260706073731841800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我们并不是处于永久战争状态。我和美国总统特朗普一起促成了四项和平协议。寻求我们保护的，不仅仅是黎巴嫩的基督徒，还有德鲁兹人、穆斯林、逊尼派穆斯林，以及相当多的什叶派穆斯林。",
           "url": "https://flash.jin10.com/detail/20260705232818933800",
           "source": "金十数据",
@@ -210,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "据华尔街日报：美国航空航天局（NASA）局长贾里德·艾萨克曼不顾美国联邦航空管理局（FAA）反对，驾驶复古战机参加华盛顿航展。艾萨克曼曾邀请美国财长贝森特、白宫办公厅副主任丹·斯卡维诺以及特朗普高级顾问克里斯·拉西维塔等白宫官员乘坐飞机，但这些安排最终被取消。",
+          "url": "https://flash.jin10.com/detail/20260706071640269800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我和特朗普在愿景上意见一致，虽然可能会出现分歧，但我们坦率而公开地讨论它们，并且通常能达成解决方案。",
@@ -278,21 +337,21 @@
           "time_info": "03时07分"
         },
         {
-          "title": "特朗普将自己头像加在林肯旁边",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E8%87%AA%E5%B7%B1%E5%A4%B4%E5%83%8F%E5%8A%A0%E5%9C%A8%E6%9E%97%E8%82%AF%E6%97%81%E8%BE%B9%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "特朗普一个电话改写世界杯？FIFA撤销红牌引爆“政治干预体育”风暴",
+          "url": "https://flash.jin10.com/detail/20260706065107849800",
+          "source": "金十数据",
           "ranks": [
-            30
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "08时04分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -302,8 +361,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 08时04分]"
         },
         {
           "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
@@ -311,11 +370,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 06时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 08时04分]"
         },
         {
           "title": "英法高调宣布保障霍尔木兹航行自由，伊朗强硬警告，国际油价暗盘拉升，中东局势会再度升级吗？",
@@ -324,11 +384,23 @@
           "ranks": [
             17,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时07分 ~ 06时58分]"
+          "appearance_count": 6,
+          "time_info": "[03时07分 ~ 08时04分]"
+        },
+        {
+          "title": "伊朗最高领袖发布任免令",
+          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：自己首先是一名战士，其次才是外交官，德黑兰必须在保持“战备状态”的前提下开展谈判。",
@@ -370,6 +442,18 @@
           "time_info": "[03时07分 ~ 05时57分]"
         },
         {
+          "title": "伊朗最高领袖任命埃杰伊继续担任司法总监",
+          "url": "https://wallstreetcn.com/livenews/3129023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时04分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：只要我担任总理，伊朗就不会获得核武器。",
           "url": "https://flash.jin10.com/detail/20260705235628247800",
           "source": "金十数据",
@@ -379,17 +463,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "伊朗最高领袖任命埃杰伊继续担任司法总监",
-          "url": "https://wallstreetcn.com/livenews/3129023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
         },
         {
           "title": "伊朗已故最高领袖哈梅内伊三子现身",
@@ -414,11 +487,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 08时04分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -426,11 +500,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 08时04分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
@@ -441,11 +516,12 @@
             12,
             11,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 08时04分]"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -453,11 +529,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 06时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 08时04分]"
         },
         {
           "title": "电诈人员用AI同时和100多人聊天",
@@ -496,11 +573,12 @@
           "url": "https://wallstreetcn.com/livenews/3129028",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时04分]"
         },
         {
           "title": "北京大学毕业典礼",
@@ -528,8 +606,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 08时04分]"
         }
       ]
     }
