@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-07T14:41:29.687944+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-07-07T18:22:03.203911+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
+        {
+          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时32分 ~ 18时22分]"
+        },
         {
           "title": "“前线非常可怕”，特朗普称解决俄乌冲突将比人们认为的要快得多",
           "url": "https://news.ifeng.com/c/8uYByScLdvD",
@@ -20,15 +31,16 @@
           "time_info": "[01时38分 ~ 07时02分]"
         },
         {
-          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
-          "url": "https://wallstreetcn.com/articles/3776262",
-          "source": "华尔街见闻",
+          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            10,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 14时41分]"
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 18时22分]"
         },
         {
           "title": "特朗普：就红牌与国际足联主席通话",
@@ -192,6 +204,17 @@
           "time_info": "[05时24分 ~ 07时02分]"
         },
         {
+          "title": "“每座发电厂都将不复存在！”特朗普再发出威胁",
+          "url": "https://news.ifeng.com/c/8uYm3PSYLHK",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 18时22分]"
+        },
+        {
           "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
           "url": "https://www.cls.cn/detail/2417917",
           "source": "财联社热门",
@@ -250,28 +273,6 @@
           "time_info": "[14时40分 ~ 14时41分]"
         },
         {
-          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
-          "title": "“每座发电厂都将不复存在！”特朗普再发出威胁",
-          "url": "https://news.ifeng.com/c/8uYm3PSYLHK",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
           "title": "如何看待比利时淘汰美国引球迷高喊正义必胜？赛前特朗普称若其赢球是黑幕，比利时可能会受到进一步影响吗？",
           "url": "https://www.zhihu.com/question/2057769216468415013",
           "source": "知乎",
@@ -281,6 +282,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时40分 ~ 14时41分]"
+        },
+        {
+          "title": "卢卡库跳“特朗普之舞”贴脸嘲讽",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E5%BA%93%E8%B7%B3%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%8B%E8%88%9E%E2%80%9D%E8%B4%B4%E8%84%B8%E5%98%B2%E8%AE%BD",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
+        },
+        {
+          "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
         },
         {
           "title": "特朗普称不知道红牌还要禁赛",
@@ -382,6 +405,17 @@
           "time_info": "10时32分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-07）",
+          "url": "https://flash.jin10.com/detail/20260707180658184800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "美国总统特朗普称，沃尔玛将按我的要求（对商品）大幅降价。 沃尔玛是一家真正爱国的公司。 其他零售商应该效仿沃尔玛的做法。 该公司随后将牛肉降价大约15%，下调碎牛肉、甜玉米、红樱桃的价格。",
           "url": "https://wallstreetcn.com/livenews/3129565",
           "source": "华尔街见闻-快讯",
@@ -404,6 +438,17 @@
           "time_info": "01时38分"
         },
         {
+          "title": "特朗普高调宣告：俄乌和平“比想象中更近”！",
+          "url": "https://flash.jin10.com/detail/20260707180121042800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "美国总统特朗普赞赏股市上涨。",
           "url": "https://wallstreetcn.com/livenews/3129485",
           "source": "华尔街见闻-快讯",
@@ -421,7 +466,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         }
@@ -429,8 +474,20 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
+          "url": "https://www.cls.cn/detail/2418780",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 18时22分]"
+        },
         {
           "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
           "url": "https://www.cls.cn/detail/2418586",
@@ -456,15 +513,40 @@
           "time_info": "[01时38分 ~ 07时02分]"
         },
         {
-          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
-          "url": "https://www.cls.cn/detail/2418780",
+          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
+          "url": "https://wallstreetcn.com/articles/3776319",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时32分 ~ 18时22分]"
+        },
+        {
+          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
+          "url": "https://www.cls.cn/detail/2418905",
           "source": "财联社热门",
           "ranks": [
+            13,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 18时22分]"
+        },
+        {
+          "title": "美国AI巨头打起价格战 争夺初创企业客户",
+          "url": "https://flash.jin10.com/detail/20260707181650615800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "【央视网评：斩断“低俗赌约” 莫把股市当赌场】“央视网评”公众号发文称，近日，中公教育、共进股份等股票因股吧平台内的“低俗赌约”，引发股民的网络狂欢，前者4天内2个涨停，后者亦有1个涨停，接连上演了荒诞的股价异动戏码。这场靠“低俗赌约”撬动的股价异动，在监管的果断介入下被及时按下“暂停键”。 此类“低俗赌约”具有极强的夸大性与误导性：“一年20倍”等纯属夸张，低俗的“钩子”在传播过程中更被强行关联“有色”、AI硬件等热点概念，严重干扰投资者决策。这种流量炒作比股市“小作文”更为隐蔽：甚至无需捏造具体的利好谎言，只要足够低俗猎奇，猎奇心理和算法推荐机制就会替其将“误导性”放大。 投资者也要更清醒：在拿股吧赌约当买入逻辑之前，应先审视自身交易行为是否理性，是否会触碰红线。价格发现是资本市场的核心功能，容不下半点低俗流量的绑架。摒弃博傻心理，回归理性投资，才是长久之道。",
@@ -473,21 +555,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
         {
-          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
-          "url": "https://wallstreetcn.com/articles/3776319",
+          "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P",
+          "url": "https://wallstreetcn.com/articles/3776296",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            5
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 14时41分]"
+          "appearance_count": 5,
+          "time_info": "[10时32分 ~ 18时22分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -526,15 +608,15 @@
           "time_info": "[01时38分 ~ 03时48分]"
         },
         {
-          "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P",
-          "url": "https://wallstreetcn.com/articles/3776296",
-          "source": "华尔街见闻",
+          "title": "连美国政府都在担忧AI泡沫？财政部一份报告草案揭秘“隐忧”……",
+          "url": "https://www.cls.cn/detail/2418646",
+          "source": "财联社热门",
           "ranks": [
-            8
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 14时41分]"
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
         },
         {
           "title": "南向资金追踪｜单日净买超205亿港元创近一个半月新高 AI硬件概念股反被抛售",
@@ -548,17 +630,6 @@
           "time_info": "[05时24分 ~ 07时02分]"
         },
         {
-          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
-          "url": "https://www.cls.cn/detail/2418905",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 14时41分]"
-        },
-        {
           "title": "AI预测葡萄牙vs西班牙赛果",
           "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E8%91%A1%E8%90%84%E7%89%99vs%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B5%9B%E6%9E%9C",
           "source": "bilibili 热搜",
@@ -568,6 +639,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "极兔速递(01519.HK)宣布已正式接入支付宝AI生态。",
+          "url": "https://flash.jin10.com/detail/20260707181236177800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "科技股遭对冲基金连抛四周，高盛交易员：“买入一切AI”时代终结！",
@@ -603,6 +685,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "烽火通信旗下长江计算中标中国邮储银行AI算力集群采购项目",
+          "url": "https://wallstreetcn.com/livenews/3129871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "黑石出售 3 处数据中心，又叫停全球最大数据中心建设，这对「AI 经济」影响几何？",
           "url": "https://www.zhihu.com/question/2057382041294054519",
           "source": "知乎",
@@ -628,7 +721,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "北京空中出现巨幕雨幡",
@@ -670,6 +763,28 @@
           "time_info": "[01时38分 ~ 07时02分]"
         },
         {
+          "title": "北京投46亿布局16区域 “车路云一体化”迎“全链路”利好",
+          "url": "https://www.cls.cn/detail/2419115",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
+        },
+        {
+          "title": "北京暴雨",
+          "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.01%，暂报2257.60点，北京时间20:00以来呈现出V形反转走势。 MarketVectorTM数字资产100中盘指数涨1.70%，报2633.91点。 MarketVector数字资产100指数涨1.36，报12739.11点。 目前，Solana涨1.30%，狗狗币跌0.65%，XRP涨1.43%。 比特币涨1.50%，暂报63675.80美元；以太坊涨0.65%，暂报1791.66美元。",
           "url": "https://wallstreetcn.com/livenews/3129509",
           "source": "华尔街见闻-快讯",
@@ -705,6 +820,17 @@
           "time_info": "03时48分"
         },
         {
+          "title": "北京、天津机场航班大面积延误",
+          "url": "https://wallstreetcn.com/livenews/3129874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "周一（7月6日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.7942元，较上周五纽约尾盘跌89点，日内整体交投于6.7819-6.7998元区间。",
           "url": "https://wallstreetcn.com/livenews/3129569",
           "source": "华尔街见闻-快讯",
@@ -722,7 +848,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -752,7 +878,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "现场：伊朗民众向灵车抛投鲜花、头巾",
@@ -766,6 +892,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时38分 ~ 07时02分]"
+        },
+        {
+          "title": "德国外长：伊朗需要保证霍尔木兹海峡的自由通行。黎巴嫩真主党是黎巴嫩所有问题的根源。",
+          "url": "https://flash.jin10.com/detail/20260707181736546800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "送葬与袭船同步发生，伊朗在关键节点对外释放两大信号",
+          "url": "https://news.ifeng.com/c/8uZB2jJTHNt",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
         },
         {
           "title": "伊朗最高领袖发布任免令",
@@ -807,7 +955,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
