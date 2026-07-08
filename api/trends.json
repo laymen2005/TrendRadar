@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T07:54:00.785688+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2026-07-08T10:05:46.678429+08:00",
+  "total_titles_processed": 847,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 59,
       "titles": [
         {
           "title": "美军发动打击，伊朗多地传出爆炸声",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时08分 ~ 07时54分]"
+        },
+        {
+          "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
+          "url": "https://www.cls.cn/detail/2419797",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 10时05分]"
         },
         {
           "title": "美国恢复对伊朗石油制裁",
@@ -35,22 +47,25 @@
           "url": "https://news.ifeng.com/c/8ua7AYAEnAV",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 07时54分]"
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 10时05分]"
         },
         {
-          "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
-          "url": "https://www.cls.cn/detail/2419797",
+          "title": "美军：开始对伊朗发动系列打击",
+          "url": "https://www.cls.cn/detail/2419769",
           "source": "财联社热门",
           "ranks": [
+            12,
+            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 07时54分]"
+          "appearance_count": 4,
+          "time_info": "[06时08分 ~ 10时05分]"
         },
         {
           "title": "据Axios：一名美国官员表示，此次打击目标包括伊朗防空系统、海岸监视系统、地对空导弹设施、反舰巡航导弹阵地、无人机发射设施以及港口设施。",
@@ -62,6 +77,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
+          "url": "https://wallstreetcn.com/articles/3776409",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "直播：美国对伊朗发动新一轮袭击",
+          "url": "https://i.ifeng.com/c/8r9IfZOQO8x",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "以色列总理内塔尼亚胡：若协议实现既定目标，伊朗将获得制裁解除并借此恢复元气，但我认为目前还不会发生。",
@@ -95,6 +132,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "伊朗总统因美军袭击提前回国",
+          "url": "https://news.ifeng.com/c/8uaIcKZ6By5",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "伊朗外长阿拉格齐：我们重申将继续全面支持黎巴嫩的统一及其国家主权。",
@@ -141,38 +189,52 @@
           "time_info": "06时08分"
         },
         {
-          "title": "美军：开始对伊朗发动系列打击",
-          "url": "https://www.cls.cn/detail/2419769",
-          "source": "财联社热门",
+          "title": "美军称开始对伊朗发动一系列有力打击",
+          "url": "https://www.toutiao.com/trending/7658946132311867455/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            4
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时08分 ~ 07时54分]"
+          "time_info": "[07时53分 ~ 10时05分]"
         },
         {
           "title": "伊朗多地传出爆炸声",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%9A%E5%9C%B0%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 07时54分]"
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 10时05分]"
         },
         {
-          "title": "美军称开始对伊朗发动一系列有力打击",
-          "url": "https://www.toutiao.com/trending/7658946132311867455/",
-          "source": "今日头条",
+          "title": "美国撤销伊朗石油制裁豁免，油价飙升",
+          "url": "https://www.cls.cn/detail/2419758",
+          "source": "财联社热门",
           "ranks": [
+            12,
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 07时54分]"
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 10时05分]"
+        },
+        {
+          "title": "美军时隔10天再袭伊朗",
+          "url": "https://www.douyin.com/hot/2562712",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 10时05分]"
         },
         {
           "title": "伊朗最高领袖顾问称，美国将把与伊朗的谈判引向失败",
@@ -185,28 +247,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 06时08分]"
-        },
-        {
-          "title": "美国撤销伊朗石油制裁豁免，油价飙升",
-          "url": "https://www.cls.cn/detail/2419758",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 07时54分]"
-        },
-        {
-          "title": "美军时隔10天再袭伊朗",
-          "url": "https://www.douyin.com/hot/2562712",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 07时54分]"
         },
         {
           "title": "美国终止对伊朗石油制裁豁免",
@@ -315,9 +355,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "美伊和平又生变数？美军发动攻击伊朗强硬回应，症结仍在霍尔木兹！",
+          "url": "https://www.cls.cn/detail/2419839",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "伊朗外交部：谴责美国财政部撤销对伊朗石油销售制裁的临时暂停措施。",
@@ -359,7 +410,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -408,6 +459,17 @@
           "time_info": "06时08分"
         },
         {
+          "title": "美军称开始对伊朗发动系列打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
           "title": "美国中央司令部：对伊朗的打击将对其针对和攻击商业航运的行为施加成本。",
           "url": "https://flash.jin10.com/detail/20260708051717595800",
           "source": "金十数据",
@@ -425,7 +487,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -469,7 +531,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -491,7 +553,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -502,7 +564,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -516,6 +578,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "卡塔尔谴责卡方天然气运输船遭袭 称伊朗应承担责任",
+          "url": "https://wallstreetcn.com/livenews/3130256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "伊朗最高领袖国际事务顾问：伊朗支持“抵抗力量”的立场不会改变。",
@@ -535,7 +608,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -549,6 +622,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "伊朗媒体称格什姆岛再次传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3130254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "【美国撤销伊朗石油销售豁免，美伊临时和平协议承压】在霍尔木兹海峡发生新的油轮遇袭事件后，美国财政部撤销了一项允许伊朗石油销售的豁免，推翻了此前与德黑兰达成的临时和平协议中的一项关键内容。美国财政部外国资产控制办公室（OFAC）表示，自7月7日起，不得开展新的相关交易。此前在临时和平协议达成后发布的豁免允许相关交易持续60天，原定有效期至8月21日。受此消息影响，油价上涨。",
@@ -568,7 +652,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -579,7 +663,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         }
@@ -587,7 +671,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
@@ -598,8 +682,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 10时05分]"
         },
         {
           "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -630,11 +714,12 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 10时05分]"
         },
         {
           "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
@@ -667,7 +752,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -678,7 +763,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -728,13 +813,24 @@
           "time_info": "00时24分"
         },
         {
+          "title": "特朗普再次扬言控制格陵兰岛 美伊冲突狼烟又起 | 环球市场",
+          "url": "https://www.cls.cn/detail/2419821",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
           "title": "据华尔街日报：美国农业部将沃尔玛(WMT.N)的降价计划告知白宫。特朗普周一发文称这是政府施压取得的成果。几分钟后，沃尔玛发布新闻稿称，将下调数千种商品价格，以帮助消费者。",
           "url": "https://flash.jin10.com/detail/20260708072520020800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -745,7 +841,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -778,9 +874,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "特朗普说中国威胁论纯属危言耸听",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%B8%AD%E5%9B%BD%E5%A8%81%E8%83%81%E8%AE%BA%E7%BA%AF%E5%B1%9E%E5%8D%B1%E8%A8%80%E8%80%B8%E5%90%AC%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "特朗普再次声称格陵兰岛“应该由美国控制”",
@@ -797,7 +904,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
@@ -809,8 +916,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 10时05分]"
+        },
+        {
+          "title": "算力硬件、AI服务器概念盘初拉升，浪潮信息、威尔高、紫光股份涨停，锐捷网络、长盈通、星网锐捷、华丰科技涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3130284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "SpaceX申请部署10万颗卫星 建立面向AI时代的空基通信底座",
+          "url": "https://www.cls.cn/detail/2419748",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "Meta在聊天机器人和Instagram中推出AI图像生成模型",
@@ -824,6 +953,30 @@
           "time_info": "02时58分"
         },
         {
+          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
+          "url": "https://www.cls.cn/detail/2419782",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 10时05分]"
+        },
+        {
+          "title": "Papi酱AI单曲《生气了》爆火",
+          "url": "https://www.toutiao.com/trending/7658713514379345961/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 10时05分]"
+        },
+        {
           "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
           "url": "https://wallstreetcn.com/articles/3776319",
           "source": "华尔街见闻",
@@ -833,17 +986,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 00时24分]"
-        },
-        {
-          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
-          "url": "https://www.cls.cn/detail/2419782",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 07时54分]"
         },
         {
           "title": "美国参议院民主党成员Warren声明：就五角大楼AI合同质询英伟达、甲骨文。 Alphabet旗下谷歌公司、微软、马斯克旗下太空探索公司SpaceX、亚马逊旗下AWS也被质询。",
@@ -858,24 +1000,13 @@
           "time_info": "[04时49分 ~ 06时08分]"
         },
         {
-          "title": "Papi酱AI单曲《生气了》爆火",
-          "url": "https://www.toutiao.com/trending/7658713514379345961/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 07时54分]"
-        },
-        {
           "title": "中信建投：AI PCB需求放量 高阶升级趋势明确",
           "url": "https://flash.jin10.com/detail/20260708073246828800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -930,7 +1061,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -952,7 +1083,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         }
@@ -1004,7 +1135,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -1026,7 +1157,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
