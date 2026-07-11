@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T17:22:18.693833+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2026-07-11T18:58:56.418039+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 70,
+      "match_count": 74,
       "titles": [
         {
           "title": "内塔尼亚胡：过去一年，我们杀死了伊朗20名核专家",
@@ -45,6 +45,17 @@
           "time_info": "[10时03分 ~ 15时45分]"
         },
         {
+          "title": "美国被曝已向伊朗下最后通牒，要求必须做出一项承诺",
+          "url": "https://news.ifeng.com/c/8uftNlwm3k6",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
           "title": "据以色列i24News：卫星图像显示，林肯号和布什号航空母舰目前距离伊朗海岸非常近，已进入伊朗导弹的可能射程之内。",
           "url": "https://flash.jin10.com/detail/20260710234632854800",
           "source": "金十数据",
@@ -67,6 +78,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "伊朗最高领袖穆杰塔巴在书面声明中表示，为其遇刺身亡的前任最高领袖及父亲复仇，是国家和民族的要求，且“必定”会实现。",
+          "url": "https://flash.jin10.com/detail/20260711183650245800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
           "title": "巴基斯坦总理：同意推进伊朗总统佩泽希齐扬近期访巴期间确定的双边合作议程。",
           "url": "https://flash.jin10.com/detail/20260711014514125800",
           "source": "金十数据",
@@ -76,17 +98,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
-        },
-        {
-          "title": "伊朗外交部说伊方已拒绝与美国谈判的请求",
-          "url": "https://wallstreetcn.com/livenews/3132333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "卫星图像曝光：伊朗或在重建多处核设施",
@@ -125,6 +136,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "伊朗称美方撤回立场前不会进行任何谈判",
+          "url": "https://flash.jin10.com/detail/20260711180734540800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
           "title": "美国官员：预计伊朗将宣布不会向船只开火，并宣布霍尔木兹海峡不收取通行费。 如果伊朗不交出“核尘埃”，（美国与伊朗之间）就不会达成协议。",
           "url": "https://wallstreetcn.com/livenews/3132257",
           "source": "华尔街见闻-快讯",
@@ -149,17 +171,6 @@
           "time_info": "15时45分"
         },
         {
-          "title": "伊朗德黑兰省东部爆炸系销毁未爆炸弹和弹药造成",
-          "url": "https://wallstreetcn.com/livenews/3132330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "伊朗媒体称，伊朗西部小型炼油厂火灾已得到控制",
           "url": "https://wallstreetcn.com/livenews/3132265",
           "source": "华尔街见闻-快讯",
@@ -182,6 +193,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 05时56分]"
+        },
+        {
+          "title": "伊朗外交部说伊方已拒绝与美国谈判的请求",
+          "url": "https://wallstreetcn.com/livenews/3132333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时58分]"
         },
         {
           "title": "伊朗议会议长：若美背弃协议，伊将坚决对抗",
@@ -221,6 +244,18 @@
           "time_info": "[05时56分 ~ 10时03分]"
         },
         {
+          "title": "伊朗德黑兰省东部爆炸系销毁未爆炸弹和弹药造成",
+          "url": "https://wallstreetcn.com/livenews/3132330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时58分]"
+        },
+        {
           "title": "美媒：伊朗称霍尔木兹袭船系“内部失误”所致",
           "url": "https://flash.jin10.com/detail/20260711051458798800",
           "source": "金十数据",
@@ -245,6 +280,19 @@
           "time_info": "[05时56分 ~ 07时55分]"
         },
         {
+          "title": "伊朗德黑兰东部传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3132316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 18时58分]"
+        },
+        {
           "title": "美国高级官员：伊朗表示，近期船只遇袭事件是其内部系统出现偏差所致。",
           "url": "https://flash.jin10.com/detail/20260711050516735800",
           "source": "金十数据",
@@ -255,6 +303,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时56分 ~ 07时55分]"
+        },
+        {
+          "title": "伊朗外交部长阿拉格齐抵达阿曼",
+          "url": "https://wallstreetcn.com/livenews/3132315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 18时58分]"
         },
         {
           "title": "美国高级官员：如果无法获得伊朗核问题的明确承诺，美方不会与伊朗达成协议。",
@@ -388,18 +449,6 @@
           "time_info": "[13时36分 ~ 15时45分]"
         },
         {
-          "title": "伊朗德黑兰东部传出爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3132316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 17时22分]"
-        },
-        {
           "title": "伊朗称美国违反谅解备忘录后果自负",
           "url": "https://wallstreetcn.com/livenews/3132300",
           "source": "华尔街见闻-快讯",
@@ -410,18 +459,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时36分 ~ 15时45分]"
-        },
-        {
-          "title": "伊朗外交部长阿拉格齐抵达阿曼",
-          "url": "https://wallstreetcn.com/livenews/3132315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 17时22分]"
         },
         {
           "title": "据伊朗媒体FarsNews：几分钟前，帕克达什特和基亚姆达什特的居民从德黑兰省东部方向听到了爆炸声。目前爆炸的来源和确切地点尚不清楚。",
@@ -477,6 +514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗最高领袖将在未来数小时内发表有关前任遇害领袖的葬礼的信息。",
+          "url": "https://flash.jin10.com/detail/20260711172652226800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         },
         {
           "title": "伊朗官方媒体IRNA：伊朗外长将于周六访问阿曼。",
@@ -606,7 +654,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -812,7 +860,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
@@ -847,8 +895,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 18时58分]"
         },
         {
           "title": "特朗普：伊朗要求继续谈判 美已同意",
@@ -864,6 +912,18 @@
           "time_info": "[02时19分 ~ 07时55分]"
         },
         {
+          "title": "特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 18时58分]"
+        },
+        {
           "title": "美国总统特朗普与沙特王储讨论伊朗问题。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3132269",
           "source": "华尔街见闻-快讯",
@@ -876,40 +936,30 @@
           "time_info": "[06时56分 ~ 10时03分]"
         },
         {
-          "title": "特朗普改口：美加跨国大桥将于27日通车",
-          "url": "https://wallstreetcn.com/livenews/3132331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "白宫证实特朗普已“清空”美选举援助委员会",
           "url": "https://wallstreetcn.com/livenews/3132310",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
             16,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 17时22分]"
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 18时58分]"
         },
         {
-          "title": "特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
-          "source": "澎湃新闻",
+          "title": "特朗普改口：美加跨国大桥将于27日通车",
+          "url": "https://wallstreetcn.com/livenews/3132331",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            4
+            4,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时45分 ~ 17时22分]"
+          "time_info": "[17时22分 ~ 18时58分]"
         },
         {
           "title": "美国总统特朗普：原来的那份协议我无法接受！新协议很棒，也很公平。感谢加拿大政府，并祝贺他们。愿我们两国在这一精彩的新工程上共同取得多年成功！！",
@@ -936,6 +986,18 @@
           "time_info": "[13时36分 ~ 15时45分]"
         },
         {
+          "title": "特朗普改口：美加跨国大桥将于27日通车",
+          "url": "https://flash.jin10.com/detail/20260711162225573800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时58分]"
+        },
+        {
           "title": "特朗普又来喊单？2美元战争报价暴露开火空间！",
           "url": "https://flash.jin10.com/detail/20260711120244661800",
           "source": "金十数据",
@@ -960,15 +1022,15 @@
           "time_info": "[13时36分 ~ 15时45分]"
         },
         {
-          "title": "特朗普改口：美加跨国大桥将于27日通车",
-          "url": "https://flash.jin10.com/detail/20260711162225573800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-11）",
+          "url": "https://flash.jin10.com/detail/20260711180323221800",
           "source": "金十数据",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时22分"
+          "time_info": "18时58分"
         },
         {
           "title": "白宫证实特朗普已“清空”美选举援助委员会",
@@ -1092,6 +1154,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "六成美国民众认为特朗普以权谋私",
+          "url": "https://www.toutiao.com/trending/7660740613621841939/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
           "title": "特朗普：美方已同意继续和伊朗谈判",
           "url": "https://wallstreetcn.com/livenews/3132146",
           "source": "华尔街见闻-快讯",
@@ -1106,7 +1179,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "北京大雨",
@@ -1122,8 +1195,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 17时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 18时58分]"
         },
         {
           "title": "成都AG超玩会战胜北京JDG KPL",
@@ -1189,11 +1262,12 @@
           "url": "https://wallstreetcn.com/livenews/3132334",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时58分]"
         },
         {
           "title": "北京升级发布山洪灾害风险红色预警",
@@ -1201,11 +1275,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 18时58分]"
         },
         {
           "title": "周五（7月10日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7820元，较周四纽约尾盘涨140点，连续第二个交易日反弹，日内整体交投于6.7961-6.7764元区间，08:39-10:51持续走高。 本周，离岸人民币整体呈现出V形反转，涨幅大约0.05%，周五反弹明显。",
@@ -1292,6 +1367,17 @@
           "time_info": "[13时35分 ~ 13时36分]"
         },
         {
+          "title": "北京暴雨红色预警",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
           "title": "欧盟拿“北京鸭”开刀是有多不自信",
           "url": "https://www.baidu.com/s?wd=%E6%AC%A7%E7%9B%9F%E6%8B%BF%E2%80%9C%E5%8C%97%E4%BA%AC%E9%B8%AD%E2%80%9D%E5%BC%80%E5%88%80%E6%98%AF%E6%9C%89%E5%A4%9A%E4%B8%8D%E8%87%AA%E4%BF%A1",
           "source": "百度热搜",
@@ -1314,6 +1400,17 @@
           "time_info": "05时56分"
         },
         {
+          "title": "北京9区市民非必要不外出",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC9%E5%8C%BA%E5%B8%82%E6%B0%91%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E5%A4%96%E5%87%BA",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
           "title": "北京升级发布暴雨红色预警",
           "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%8D%87%E7%BA%A7%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -1331,7 +1428,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         }
@@ -1339,7 +1436,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
@@ -1382,11 +1479,12 @@
             10,
             9,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时56分 ~ 17时22分]"
+          "appearance_count": 8,
+          "time_info": "[06时56分 ~ 18时58分]"
         },
         {
           "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
@@ -1412,6 +1510,19 @@
           "time_info": "[00时21分 ~ 07时55分]"
         },
         {
+          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
+          "url": "https://www.cls.cn/detail/2422869",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时35分 ~ 18时58分]"
+        },
+        {
           "title": "《功夫女足》上映 AI预测总票房超10亿",
           "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E4%B8%8A%E6%98%A0+AI%E9%A2%84%E6%B5%8B%E6%80%BB%E7%A5%A8%E6%88%BF%E8%B6%8510%E4%BA%BF",
           "source": "百度热搜",
@@ -1421,6 +1532,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时35分 ~ 13时36分]"
+        },
+        {
+          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
+          "url": "https://wallstreetcn.com/articles/3776665",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时03分 ~ 18时58分]"
         },
         {
           "title": "AI叙事助美股三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
@@ -1443,31 +1567,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
-        },
-        {
-          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
-          "url": "https://wallstreetcn.com/articles/3776665",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时03分 ~ 17时22分]"
-        },
-        {
-          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
-          "url": "https://www.cls.cn/detail/2422869",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时35分 ~ 17时22分]"
         },
         {
           "title": "欧洲央行Moulin：AI可能加剧通胀波动",
@@ -1506,6 +1605,18 @@
           "time_info": "[10时03分 ~ 17时22分]"
         },
         {
+          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
+          "url": "https://www.cls.cn/detail/2423546",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时58分]"
+        },
+        {
           "title": "无人机吊起2人神图系AI合成",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -1518,15 +1629,15 @@
           "time_info": "[15时45分 ~ 17时22分]"
         },
         {
-          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
-          "url": "https://www.cls.cn/detail/2423546",
-          "source": "财联社热门",
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://www.toutiao.com/trending/7660829419656888339/",
+          "source": "今日头条",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时22分"
+          "time_info": "18时58分"
         },
         {
           "title": "给哈兰德做了一支AI大片",
