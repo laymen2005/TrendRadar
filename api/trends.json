@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T19:22:09.798834+08:00",
-  "total_titles_processed": 1460,
+  "generated_at": "2026-07-14T23:21:58.624024+08:00",
+  "total_titles_processed": 1657,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 79,
+      "match_count": 85,
       "titles": [
         {
           "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
@@ -57,6 +57,18 @@
           "time_info": "[00时25分 ~ 07时49分]"
         },
         {
+          "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
+          "url": "https://news.ifeng.com/c/8ukhwi9IbW5",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 23时21分]"
+        },
+        {
           "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
           "url": "https://news.ifeng.com/c/8ukLcwiKckH",
           "source": "凤凰网",
@@ -64,19 +76,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 19时22分]"
-        },
-        {
-          "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
-          "url": "https://news.ifeng.com/c/8ukhwi9IbW5",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 19时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 23时21分]"
         },
         {
           "title": "美军首次使用海上无人艇打击伊朗，现场画面公布",
@@ -399,6 +400,28 @@
           "time_info": "[06时51分 ~ 07时49分]"
         },
         {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.toutiao.com/trending/7662353080528145926/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "惊险！伊朗客机准备降落，沙特导弹砸向跑道，瞬间一片火海",
+          "url": "https://news.ifeng.com/c/8ul2v0dWeKd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "据伊朗媒体：俄罗斯能源部长与伊朗总统举行了会晤。",
           "url": "https://flash.jin10.com/detail/20260714000852763800",
           "source": "金十数据",
@@ -498,6 +521,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E8%BF%9B%E5%85%A5%E6%AD%A3%E5%BC%8F%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "美国将从15日凌晨4点起封锁伊朗港口",
           "url": "https://flash.jin10.com/detail/20260714015911804800",
           "source": "金十数据",
@@ -540,6 +574,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        },
+        {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://wallstreetcn.com/articles/3776923",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "据伊朗媒体：伊朗布什尔市传出爆炸声。",
@@ -856,7 +901,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -872,6 +917,17 @@
           "time_info": "17时52分"
         },
         {
+          "title": "55名被阿联酋拘留的伊朗渔民已获释",
+          "url": "https://www.toutiao.com/trending/7662372959964643378/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "伊朗称霍尔木兹海峡南部航道“不安全”",
           "url": "https://wallstreetcn.com/livenews/3133009",
           "source": "华尔街见闻-快讯",
@@ -881,6 +937,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        },
+        {
+          "title": "伊朗前总统内贾德被软禁",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%89%8D%E6%80%BB%E7%BB%9F%E5%86%85%E8%B4%BE%E5%BE%B7%E8%A2%AB%E8%BD%AF%E7%A6%81%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "美国中央司令部：美军首次在战斗中使用海上无人机。 上周日打击了位于伊朗的潜艇和舰船设施。",
@@ -897,7 +964,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 74,
       "titles": [
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -909,8 +976,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时49分 ~ 19时22分]"
+          "appearance_count": 9,
+          "time_info": "[07时49分 ~ 23时21分]"
         },
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -925,6 +992,19 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时25分 ~ 19时22分]"
+        },
+        {
+          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
+          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 23时21分]"
         },
         {
           "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
@@ -951,18 +1031,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时25分 ~ 07时49分]"
-        },
-        {
-          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
-          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 19时22分]"
         },
         {
           "title": "特朗普点名中东六国",
@@ -1067,6 +1135,19 @@
           "time_info": "[07时49分 ~ 09时54分]"
         },
         {
+          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 23时21分]"
+        },
+        {
           "title": "美伊战火不停？特朗普已“知会”国会，但仍认为有望达成协议！",
           "url": "https://www.cls.cn/detail/2425302",
           "source": "财联社热门",
@@ -1076,18 +1157,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时46分 ~ 17时52分]"
-        },
-        {
-          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 19时22分]"
         },
         {
           "title": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？",
@@ -1272,6 +1341,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "美国最高法院法官Barrett：（特朗普政府）在国会山预算听证会上释放的威胁水平相当高。",
+          "url": "https://wallstreetcn.com/livenews/3133730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "特朗普获得一项“大奖”，但可能高兴不起来",
           "url": "https://news.ifeng.com/c/8ukPP1a1OVR",
           "source": "凤凰网",
@@ -1333,7 +1413,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -1402,6 +1482,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
+        },
+        {
+          "title": "美联储主席沃什：美联储作为独立的中央银行而感到荣幸。 美国最高法院围绕美联储的独立性回应了诸多疑问。 我在美联储的目标是消除（来自美国总统特朗普的）政治因素。 美联储对国会山也具有独立性。",
+          "url": "https://wallstreetcn.com/livenews/3133720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "“送他人儿女上战场”，特朗普政治盟友猝死：他为何被叫“战争贩子”",
@@ -1490,6 +1581,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
+        },
+        {
+          "title": "美国总统特朗普兜售与日本的贸易协议和投资交易。",
+          "url": "https://wallstreetcn.com/livenews/3133716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "白宫官员：特朗普将支持格雷厄姆主导的对俄制裁法案",
@@ -1704,7 +1806,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
@@ -1753,16 +1855,18 @@
           "time_info": "[00时25分 ~ 04时09分]"
         },
         {
-          "title": "疑AI照片拿了摄影比赛一等奖",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91AI%E7%85%A7%E7%89%87%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
+          "source": "澎湃新闻",
           "ranks": [
-            2,
-            1
+            15,
+            9,
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 19时22分]"
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 23时21分]"
         },
         {
           "title": "AI预测法国vs西班牙赛果",
@@ -1778,28 +1882,17 @@
           "time_info": "[12时46分 ~ 19时22分]"
         },
         {
-          "title": "AI生成环卫工照片获摄影比赛一等奖",
-          "url": "https://www.toutiao.com/trending/7662295509886697491/",
-          "source": "今日头条",
+          "title": "疑AI照片拿了摄影比赛一等奖",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91AI%E7%85%A7%E7%89%87%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            2
+            2,
+            1,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 19时22分]"
-        },
-        {
-          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 19时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 23时21分]"
         },
         {
           "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
@@ -1809,11 +1902,24 @@
             20,
             17,
             13,
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 19时22分]"
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 23时21分]"
+        },
+        {
+          "title": "AI生成环卫工照片获摄影比赛一等奖",
+          "url": "https://www.toutiao.com/trending/7662295509886697491/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 23时21分]"
         },
         {
           "title": "AI恐慌缓和，美股盘前存储芯片股普涨，韩股深V反弹，原油上涨，黄金小幅上扬",
@@ -1851,6 +1957,18 @@
           "time_info": "[05时51分 ~ 06时51分]"
         },
         {
+          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
+          "url": "https://wallstreetcn.com/articles/3776903",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 23时21分]"
+        },
+        {
           "title": "看陈泽AI跳舞是一种挑战",
           "url": "https://www.douyin.com/hot/2570068",
           "source": "抖音",
@@ -1861,6 +1979,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时54分 ~ 12时47分]"
+        },
+        {
+          "title": "AI生成图片被评摄影一等奖 官方通报",
+          "url": "https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87%E8%A2%AB%E8%AF%84%E6%91%84%E5%BD%B1%E4%B8%80%E7%AD%89%E5%A5%96+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 23时21分]"
         },
         {
           "title": "中国自研AI芯片取得架构突破",
@@ -1899,28 +2029,6 @@
           "time_info": "[17时52分 ~ 19时22分]"
         },
         {
-          "title": "AI生成图片被评摄影一等奖 官方通报",
-          "url": "https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87%E8%A2%AB%E8%AF%84%E6%91%84%E5%BD%B1%E4%B8%80%E7%AD%89%E5%A5%96+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 19时22分]"
-        },
-        {
-          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
-          "url": "https://wallstreetcn.com/articles/3776903",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 19时22分]"
-        },
-        {
           "title": "AI杀死时尚行业",
           "url": "https://s.weibo.com/weibo?q=AI%E6%9D%80%E6%AD%BB%E6%97%B6%E5%B0%9A%E8%A1%8C%E4%B8%9A&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -1942,6 +2050,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
+          "url": "https://www.zhihu.com/question/2060385485915263811",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "软银CEO孙正义：询问AI是否存在泡沫是“极其愚蠢的”。",
@@ -1986,6 +2105,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "印度接近接受Fairfax对IDBI银行的加价收购要约",
+          "url": "https://wallstreetcn.com/livenews/3133724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "AI脸 恐怖谷效应",
@@ -2060,7 +2201,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -2212,11 +2353,12 @@
           "ranks": [
             7,
             13,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时07分 ~ 19时22分]"
+          "appearance_count": 5,
+          "time_info": "[15时07分 ~ 23时21分]"
         },
         {
           "title": "DeepSeek最新一轮融资后，梁文锋身家超越Anthropic达里奥和OpenAI布罗克曼",
