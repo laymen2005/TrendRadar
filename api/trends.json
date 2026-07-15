@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T21:23:20.065299+08:00",
-  "total_titles_processed": 1679,
+  "generated_at": "2026-07-15T23:22:42.018509+08:00",
+  "total_titles_processed": 1808,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 88,
+      "match_count": 90,
       "titles": [
         {
           "title": "【早报】美股存储板块反弹；美军空袭伊朗；原油、金银集体上涨；长鑫科技，发行价定了",
@@ -401,6 +401,18 @@
           "time_info": "[19时25分 ~ 21时23分]"
         },
         {
+          "title": "美军称对伊朗进行了90分钟打击",
+          "url": "https://www.toutiao.com/trending/7662700409185635891/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 23时22分]"
+        },
+        {
           "title": "伊媒：伊朗格什姆岛、阿巴斯港等多地传出爆炸声",
           "url": "https://wallstreetcn.com/livenews/3133901",
           "source": "华尔街见闻-快讯",
@@ -423,6 +435,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时53分 ~ 07时47分]"
+        },
+        {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.douyin.com/hot/2571461",
+          "source": "抖音",
+          "ranks": [
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 23时22分]"
+        },
+        {
+          "title": "美军宣布对伊朗开始新一波打击",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%BC%80%E5%A7%8B%E6%96%B0%E4%B8%80%E6%B3%A2%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 23时22分]"
+        },
+        {
+          "title": "上千枚导弹，要飞向伊朗？",
+          "url": "https://news.ifeng.com/c/8umrKcjjbd0",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "美军宣布对伊朗开始新一波打击",
@@ -456,6 +503,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
+        },
+        {
+          "title": "美军称对伊朗进行了90分钟打击",
+          "url": "https://wallstreetcn.com/articles/3777022",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "伊朗副外长：目前伊朗在与美国的《伊斯兰堡谅解备忘录》框架下不存在任何承诺。",
@@ -546,17 +604,6 @@
           "time_info": "07时47分"
         },
         {
-          "title": "美军称对伊朗进行了90分钟打击",
-          "url": "https://www.toutiao.com/trending/7662700409185635891/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        },
-        {
           "title": "据伊朗迈赫尔通讯社：爆炸声似与海湾、阿曼湾及霍尔木兹海峡水域发生的交火和冲突有关。",
           "url": "https://flash.jin10.com/detail/20260715055659440800",
           "source": "金十数据",
@@ -607,7 +654,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
@@ -832,28 +879,6 @@
           "time_info": "01时08分"
         },
         {
-          "title": "美军宣布对伊朗开始新一波打击",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%BC%80%E5%A7%8B%E6%96%B0%E4%B8%80%E6%B3%A2%E6%89%93%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        },
-        {
-          "title": "伊朗称美进入正式战争状态",
-          "url": "https://www.douyin.com/hot/2571461",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
           "title": "据伊朗官方媒体：伊朗班达尔阿巴斯市政府消息称，美军打击已击中伊朗南部港口城市班达尔阿巴斯周边地区。",
           "url": "https://flash.jin10.com/detail/20260715034717920800",
           "source": "金十数据",
@@ -937,7 +962,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
@@ -992,7 +1017,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         }
@@ -1000,7 +1025,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -1015,8 +1040,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时09分 ~ 21时23分]"
+          "appearance_count": 14,
+          "time_info": "[03时09分 ~ 23时22分]"
         },
         {
           "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
@@ -1055,11 +1080,12 @@
             14,
             13,
             12,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时53分 ~ 21时23分]"
+          "appearance_count": 11,
+          "time_info": "[06时53分 ~ 23时22分]"
         },
         {
           "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
@@ -1153,8 +1179,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时56分 ~ 21时23分]"
+          "appearance_count": 4,
+          "time_info": "[17时56分 ~ 23时22分]"
         },
         {
           "title": "利润率不足10%，特朗普硬抽20%，拦路式收费方案一天作废？",
@@ -1164,8 +1190,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 21时23分]"
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 23时22分]"
+        },
+        {
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            14,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 23时22分]"
         },
         {
           "title": "遭到潮水般怒斥后，特朗普被迫24小时内改口",
@@ -1179,18 +1220,15 @@
           "time_info": "07时47分"
         },
         {
-          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
-          "source": "澎湃新闻",
+          "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
+          "url": "https://news.ifeng.com/c/8umustJIuDD",
+          "source": "凤凰网",
           "ranks": [
-            15,
-            16,
-            14,
-            11
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 21时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "24小时反转！特朗普放弃海峡收费，重启封锁、威胁“摧毁伊朗电厂桥梁”",
@@ -1304,11 +1342,24 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时56分 ~ 23时22分]"
+        },
+        {
+          "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33588226",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时56分 ~ 21时23分]"
+          "time_info": "[17时56分 ~ 23时22分]"
         },
         {
           "title": "沃什货币政策听证首秀：即使特朗普批评也会按数据行动，美联储有工具实现价格稳定",
@@ -1320,6 +1371,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时07分 ~ 01时08分]"
+        },
+        {
+          "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
+          "url": "https://wallstreetcn.com/articles/3776989",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 23时22分]"
         },
         {
           "title": "美国总统特朗普在预先录制的采访中宣称：我们“痛打”伊朗。 我们必须维持霍尔木兹海峡的开放。 重申海峡仍然是开放的。 他们已经完成了伊朗目标。 “袭击伊朗”将持续至我喊“够了”。 他们还剩下一些战斗，但已经不多了。（福克斯新闻）",
@@ -1345,16 +1408,16 @@
           "time_info": "[12时46分 ~ 12时47分]"
         },
         {
-          "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33588226",
+          "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            18
+            16,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时56分 ~ 21时23分]"
+          "time_info": "[21时23分 ~ 23时22分]"
         },
         {
           "title": "美国总统特朗普称代理司法部长托德·布兰奇“表现卓越”，敦促参议院尽快批准其正式任职。",
@@ -1385,7 +1448,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
@@ -1456,17 +1519,6 @@
           "time_info": "12时47分"
         },
         {
-          "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
-          "url": "https://wallstreetcn.com/articles/3776989",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        },
-        {
           "title": "特朗普：伊朗就像“伟大的拳击手”，以为他败了，突然来一重拳",
           "url": "https://v.ifeng.com/c/8uitzwbrrp3",
           "source": "凤凰网",
@@ -1500,17 +1552,6 @@
           "time_info": "03时09分"
         },
         {
-          "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        },
-        {
           "title": "特朗普威胁下周袭击伊朗桥梁发电厂",
           "url": "https://flash.jin10.com/detail/20260715064314727800",
           "source": "金十数据",
@@ -1542,6 +1583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "特朗普称或很快打击伊朗镐山核设施",
+          "url": "https://wallstreetcn.com/livenews/3134464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "据Axios：一名白宫官员驳斥了以色列媒体有关内塔尼亚胡将于下周访问华盛顿的报道，并表示：“目前特朗普总统的日程安排中没有内塔尼亚胡的访问计划。”",
@@ -1690,7 +1742,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 48,
+      "match_count": 57,
       "titles": [
         {
           "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
@@ -1744,6 +1796,23 @@
           "time_info": "[01时07分 ~ 07时47分]"
         },
         {
+          "title": "AI拿冠军,摄影比赛闹笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            7,
+            10,
+            11,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 23时22分]"
+        },
+        {
           "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
           "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
           "source": "澎湃新闻",
@@ -1756,22 +1825,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时07分 ~ 17时56分]"
-        },
-        {
-          "title": "AI拿冠军,摄影比赛闹笑话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            7,
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 21时23分]"
         },
         {
           "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
@@ -1803,6 +1856,20 @@
           "time_info": "[01时07分 ~ 09时51分]"
         },
         {
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
+          "ranks": [
+            14,
+            6,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 23时22分]"
+        },
+        {
           "title": "UP主解读AI浪潮下的资本周期",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBAI%E6%B5%AA%E6%BD%AE%E4%B8%8B%E7%9A%84%E8%B5%84%E6%9C%AC%E5%91%A8%E6%9C%9F",
           "source": "bilibili 热搜",
@@ -1819,20 +1886,6 @@
           "time_info": "[01时07分 ~ 09时51分]"
         },
         {
-          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
-          "url": "https://www.zhihu.com/question/2060645375338180828",
-          "source": "知乎",
-          "ranks": [
-            14,
-            6,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 21时23分]"
-        },
-        {
           "title": "国行苹果AI完成备案",
           "url": "https://www.douyin.com/hot/2572485",
           "source": "抖音",
@@ -1841,8 +1894,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 21时23分]"
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 23时22分]"
         },
         {
           "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
@@ -1852,8 +1905,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 21时23分]"
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 23时22分]"
         },
         {
           "title": "摩根大通敦促员工慎用高价AI处理简单任务，企业高管开始忧心成本",
@@ -1876,6 +1929,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
+        },
+        {
+          "title": "美联储主席沃什：认为大学毕业生具备应对AI所需的技能与直觉。",
+          "url": "https://wallstreetcn.com/livenews/3134476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "美联储理事、曾经担任金融监管事务的副主席迈克尔·巴尔表示，尽管他欢迎创新，但AI究竟会减少还是加剧收入和财富不平等，目前尚不清楚。 “关于AI在不远和遥远的未来将能做到什么，我们听到了许多大胆论断。有些可能会成为现实，有些则不会。但未来的不平等不仅取决于AI能做什么，也取决于我们选择用AI做什么，”巴尔表示。",
@@ -2031,6 +2095,17 @@
           "time_info": "17时56分"
         },
         {
+          "title": "沃什：AI是否会导致通胀取决于美联储",
+          "url": "https://flash.jin10.com/detail/20260715225310593800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "白宫启动网络安全“金鹰”AI倡议，优先应对网络安全漏洞",
           "url": "https://wallstreetcn.com/livenews/3133922",
           "source": "华尔街见闻-快讯",
@@ -2119,6 +2194,28 @@
           "time_info": "07时47分"
         },
         {
+          "title": "欧盟与印度围绕霍尔木兹海峡问题“启动正式磋商”达成共识。 双方希望，在2026年年底之前完成相关讨论。 双方还同意，围绕芯片、AI、6G、量子进行合作。",
+          "url": "https://wallstreetcn.com/livenews/3134467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "沃什：近期通胀数据未完全反映真实压力 AI投资短期内有利就业",
+          "url": "https://flash.jin10.com/detail/20260715224958848800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "美媒：白宫不排除针对开源AI模型采取行动",
           "url": "https://flash.jin10.com/detail/20260715172410309800",
           "source": "金十数据",
@@ -2130,13 +2227,35 @@
           "time_info": "17时56分"
         },
         {
+          "title": "沃什：怀疑AI将在未来12个月推高价格",
+          "url": "https://wallstreetcn.com/livenews/3134465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "AI行情降温 黄金会迎来上涨吗",
+          "url": "https://www.toutiao.com/trending/7662715895654911526/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "当一个孩子问「我为什么要学自己不会的东西，用 AI 不就知道了」，你会怎么回答？",
           "url": "https://www.zhihu.com/question/2057919284106498140",
           "source": "知乎",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
@@ -2150,6 +2269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "美联储主席沃什：我一直都要求获得关于一些列新AI模型的权限。",
+          "url": "https://wallstreetcn.com/livenews/3134462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "受创纪录销售额及AI需求激增推动，韩美半导体股价飙升",
@@ -2218,6 +2348,17 @@
           "time_info": "17时56分"
         },
         {
+          "title": "美联储主席沃什：预计未来12个月人工智能将推高可观测到的物价水平，AI是否会导致通胀取决于美联储。",
+          "url": "https://flash.jin10.com/detail/20260715224507553800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "美联储主席沃什：人工智能（AI）供应冲击发生的速度比我想象的更迅速。",
           "url": "https://wallstreetcn.com/livenews/3133777",
           "source": "华尔街见闻-快讯",
@@ -2251,13 +2392,24 @@
           "time_info": "03时09分"
         },
         {
+          "title": "苹果公司寻找AI芯片交易。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3134452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "苹果AI完成国内备案，千问、百度各有合作侧重",
           "url": "https://wallstreetcn.com/livenews/3134386",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         }
@@ -2398,7 +2550,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
