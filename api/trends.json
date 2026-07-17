@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T11:57:23.044402+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-07-17T14:12:44.483074+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 57,
       "titles": [
         {
           "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 11时57分]"
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 14时12分]"
         },
         {
           "title": "据伊朗媒体Fars News：美国打击了伊朗港口城市哈米尔的一座桥梁。",
@@ -62,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "伊朗学生通讯社：卫星图像显示，位于阿联酋扎耶德（Zayed）的三栋美方建筑物遭到破坏。",
+          "url": "https://flash.jin10.com/detail/20260717140033727800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "美军发动新一轮空袭，连续第五晚打击伊朗",
@@ -164,6 +175,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "伊朗革命卫队称打击美军驻科威特军事基地",
+          "url": "https://wallstreetcn.com/livenews/3135494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "美军开始对伊朗实施新一轮袭击。",
           "url": "https://wallstreetcn.com/livenews/3135229",
           "source": "华尔街见闻-快讯",
@@ -236,7 +258,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
@@ -351,6 +373,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "据伊朗官方媒体报道，伊朗革命卫队表示，位于阿曼的美军海上监视雷达成为打击目标。",
+          "url": "https://flash.jin10.com/detail/20260717134213405800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "美国副总统万斯：以色列政府内部有人试图在伊朗协议问题上影响美国",
           "url": "https://wallstreetcn.com/livenews/3135253",
           "source": "华尔街见闻-快讯",
@@ -371,6 +404,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "伊朗革命卫队：打击叙利亚美军指挥中心 造成大量美军人员死亡",
+          "url": "https://wallstreetcn.com/livenews/3135479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "伊媒：伊朗布什尔市传出爆炸声",
@@ -428,6 +472,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "伊朗革命卫队称打击叙利亚美军指挥中心",
+          "url": "https://wallstreetcn.com/livenews/3135475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "据伊朗媒体Fars News：约旦外交部长表示，美国在约旦没有军事基地，但有美军人员驻扎，这是约旦与华盛顿军事合作的一部分。",
           "url": "https://flash.jin10.com/detail/20260717015624270800",
           "source": "金十数据",
@@ -456,7 +511,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
@@ -522,7 +577,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
@@ -577,7 +632,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         }
@@ -600,6 +655,18 @@
           "time_info": "[00时13分 ~ 08时02分]"
         },
         {
+          "title": "白宫：特朗普将出席世界杯决赛",
+          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 14时12分]"
+        },
+        {
           "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
           "url": "https://news.ifeng.com/c/8uofMrB5Gdq",
           "source": "凤凰网",
@@ -609,17 +676,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
-        },
-        {
-          "title": "白宫：特朗普将出席世界杯决赛",
-          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
         },
         {
           "title": "美国白宫通讯总监‌张振熙：懦夫。NBC和ABC不想让你听到真相。他们只想对你隐瞒事实。（此前报道称这两家媒体将不会电视直播特朗普今天黄金时段的演讲）",
@@ -665,6 +721,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 14时12分]"
+        },
+        {
+          "title": "白宫官宣特朗普将出席世界杯决赛",
+          "url": "https://www.toutiao.com/trending/7663253128728657971/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 14时12分]"
         },
         {
           "title": "白宫：特朗普总统始终愿意进行外交谈判。",
@@ -728,7 +808,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
@@ -739,7 +819,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
@@ -764,28 +844,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
-        },
-        {
-          "title": "白宫官宣特朗普将出席世界杯决赛",
-          "url": "https://www.toutiao.com/trending/7663253128728657971/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
         },
         {
           "title": "报道：特朗普帖文花钱就能抢先看",
@@ -827,7 +885,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
@@ -857,7 +915,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
@@ -932,6 +990,29 @@
           "time_info": "[00时13分 ~ 08时02分]"
         },
         {
+          "title": "财联社、科创板日报记者探营WAIC 2026：从超节点算力到进厂机器人 AI与物理世界开启“无界融合”",
+          "url": "https://www.cls.cn/detail/2428882",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 14时12分]"
+        },
+        {
+          "title": "AI站稳产业圈顶流C位",
+          "url": "https://www.douyin.com/hot/2574370",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 14时12分]"
+        },
+        {
           "title": "谷歌(GOOG.O)在美国上线搜索AI模式应用集成功能，支持与更多应用协同。",
           "url": "https://flash.jin10.com/detail/20260717001129809800",
           "source": "金十数据",
@@ -941,28 +1022,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
-        },
-        {
-          "title": "财联社、科创板日报记者探营WAIC 2026：从超节点算力到进厂机器人 AI与物理世界开启“无界融合”",
-          "url": "https://www.cls.cn/detail/2428882",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "AI站稳产业圈顶流C位",
-          "url": "https://www.douyin.com/hot/2574370",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
         },
         {
           "title": "美联储洛根：长期来看对人工智能带来的生产率提升非常乐观。但目前AI投资需求强劲且真实存在，短期内会带来通胀压力。",
@@ -1002,6 +1061,18 @@
           "time_info": "[03时22分 ~ 08时02分]"
         },
         {
+          "title": "财晓得｜中国AI跑出加速度背后的四重底气",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33591307",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 14时12分]"
+        },
+        {
           "title": "欧盟要求谷歌开放安卓AI功能并共享搜索数据",
           "url": "https://wallstreetcn.com/livenews/3135211",
           "source": "华尔街见闻-快讯",
@@ -1014,16 +1085,15 @@
           "time_info": "[02时02分 ~ 03时22分]"
         },
         {
-          "title": "财晓得｜中国AI跑出加速度背后的四重底气",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33591307",
+          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            20
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时02分 ~ 11时57分]"
+          "time_info": "[11时57分 ~ 14时12分]"
         },
         {
           "title": "AirNow：美国纽约市空气质量现在“非常不健康”。",
@@ -1054,18 +1124,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
@@ -1087,9 +1146,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
+        },
+        {
+          "title": "玉渊谭天丨中国AI的发展逻辑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33601397",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "AI行情结束了吗？锂电新周期来了？最新研判释放重要信号",
@@ -1098,7 +1168,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
@@ -1158,11 +1228,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%9B%9F%E4%B8%BA%E4%BD%95%E8%A6%81%E8%B0%83%E6%9F%A5%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 14时12分]"
+        },
+        {
+          "title": "提醒：日内请重点关注（以下均为北京时间）",
+          "url": "https://wallstreetcn.com/livenews/3135307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 14时12分]"
         },
         {
           "title": "周四（7月16日）纽约尾盘，彭博电动汽车价格回报指数维持下跌1%的状态，报3381.09点，北京时间刷新日高至3437.79点，随后持续走低。",
@@ -1196,17 +1279,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "提醒：日内请重点关注（以下均为北京时间）",
-          "url": "https://wallstreetcn.com/livenews/3135307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7711元，较周三夜盘收盘跌14点。成交量452.20亿美元。",
@@ -1271,9 +1343,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 14时12分]"
         },
         {
           "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
@@ -1299,7 +1371,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         }
