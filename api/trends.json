@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-07-18T01:07:29.080583+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-18T02:59:25.990696+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "UP主手搓WAIC逛展小助手",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93WAIC%E9%80%9B%E5%B1%95%E5%B0%8F%E5%8A%A9%E6%89%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 02时59分]"
         },
         {
           "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
           "url": "https://www.cls.cn/detail/2429875",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 02时59分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -37,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 02时59分]"
         },
         {
           "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
@@ -48,19 +50,79 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 02时59分]"
         },
         {
           "title": "大瓦特·让每一度电都有AI",
           "url": "https://m.thepaper.cn/newsDetail_forward_33604737",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 02时59分]"
+        },
+        {
+          "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33603374",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 02时59分]"
+        },
+        {
+          "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
+          "url": "https://www.cls.cn/detail/2429951",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 02时59分]"
+        },
+        {
+          "title": "AI，刻在Shanghai的名字里",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33593577",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 02时59分]"
+        },
+        {
+          "title": "今年的世界人工智能大会（WAIC）有哪些看点？",
+          "url": "https://www.zhihu.com/question/2059240244864611894",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 02时59分]"
+        },
+        {
+          "title": "“一片惨绿”席卷新兴市场股市，AI担忧重创全球市场",
+          "url": "https://wallstreetcn.com/livenews/3135867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "02时59分"
         },
         {
           "title": "摩根大通：AI主导市场期间欧洲股市或持续跑输全球",
@@ -74,55 +136,11 @@
           "time_info": "01时07分"
         },
         {
-          "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33603374",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "AI，刻在Shanghai的名字里",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33593577",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
-          "url": "https://www.cls.cn/detail/2429951",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
           "title": "效仿三星+SK海力士，阿斯麦拟向员工发放2万欧元一次性奖励，AI需求旺盛推动业绩增长",
           "url": "https://wallstreetcn.com/livenews/3135833",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "今年的世界人工智能大会（WAIC）有哪些看点？",
-          "url": "https://www.zhihu.com/question/2059240244864611894",
-          "source": "知乎",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -173,6 +191,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "法国博主在上海被AI震撼",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E5%8D%9A%E4%B8%BB%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%A2%ABAI%E9%9C%87%E6%92%BC",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
           "title": "首款AI记忆眼镜亮相WAIC，售价799元起",
           "url": "https://wallstreetcn.com/livenews/3135817",
           "source": "华尔街见闻-快讯",
@@ -187,7 +216,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "LS Power：美国电力市场基本不受伊朗战争推高油价影响",
@@ -212,6 +241,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "据伊朗国际电视台：根据所获得的伊朗最高国家安全委员会指令，媒体被要求不得发布有关民用基础设施受损细节、破坏程度以及袭击对公共服务供应影响的信息。",
+          "url": "https://flash.jin10.com/detail/20260718022147106800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
           "title": "卡塔尔外交部：伊朗必须立即全面停止所有威胁地区安全与稳定的军事行动和侵略行为，避免任何扩大升级范围的行为，认真重返对话与谈判轨道，并恪守通过外交努力达成的谅解。",
           "url": "https://flash.jin10.com/detail/20260717234240246800",
           "source": "金十数据",
@@ -221,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "据科威特国家通讯社：科威特南部两处火灾已得到控制，此前相关设施遭伊朗袭击，目前暂无人员伤亡报告。",
+          "url": "https://flash.jin10.com/detail/20260718021515550800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         },
         {
           "title": "伊朗关联油轮掉头、蛇形机动，美国实施海上封锁",
@@ -245,6 +296,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "据伊朗努尔新闻(Nour News)：当地消息人士称，伊朗阿巴斯港传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260718020238771800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
           "title": "卡塔尔外交部：卡塔尔以最强烈言辞谴责伊朗对其领土及若干兄弟国家领土的新一轮侵略。",
           "url": "https://flash.jin10.com/detail/20260717234153130800",
           "source": "金十数据",
@@ -254,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗霍尔木兹甘省电力公司表示，美军昨夜袭击造成的电网受损已完成抢修，目前所有受影响区域的电网运行状况均已稳定，应急力量仍保持待命。",
+          "url": "https://flash.jin10.com/detail/20260718015900634800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         },
         {
           "title": "美国否认叙利亚境内美军基地遭伊朗袭击",
@@ -267,6 +340,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "伊朗称摧毁多架美军战斗机",
+          "url": "https://www.toutiao.com/trending/7663410168377380371/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
           "title": "美军袭击伊朗哈尔克岛油轮",
           "url": "https://flash.jin10.com/detail/20260717233357915800",
           "source": "金十数据",
@@ -276,6 +360,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "据塔斯尼姆通讯社：伊朗一揽子原油价格已突破每桶80美元。",
+          "url": "https://flash.jin10.com/detail/20260718013855394800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         },
         {
           "title": "伊朗打击位于科威特和叙利亚的美军目标",
@@ -292,7 +387,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -302,19 +397,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "特朗普媒体科技集团提议，对“Truth API”收取10万美元的月租。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3135845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 02时59分]"
         },
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -324,8 +408,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 02时59分]"
         },
         {
           "title": "生死博弈！“特朗普美元”来了",
@@ -335,8 +419,31 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 02时59分]"
+        },
+        {
+          "title": "特朗普媒体科技集团提议，对“Truth API”收取10万美元的月租。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3135845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 02时59分]"
+        },
+        {
+          "title": "据CNN：美国总统特朗普正前往纽约参加国际足联招待会，登上新“空军一号”总统专机。",
+          "url": "https://flash.jin10.com/detail/20260718022504678800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "02时59分"
         },
         {
           "title": "美国参议院民主党成员Warren发函总统特朗普的司法部，要求众多反垄断监管部门审查福克斯与Roku的并购交易。",
@@ -348,12 +455,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "据以色列媒体：以色列总理内塔尼亚胡推迟访美，不仅是因为已故共和党参议员林赛·格雷厄姆的葬礼安排有变，还因与特朗普政府分歧加剧，尤其是美国副总统万斯近期严厉批评以色列。",
+          "url": "https://flash.jin10.com/detail/20260718014652994800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         }
       ]
     },
     {
       "keyword_group": "北京",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "中超北京国安1:1辽宁铁人",
@@ -363,8 +481,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 02时59分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.05%，暂报2155.15点，上周五结束交易以来（7*24）累计下跌2.81%。 MarketVectorTM数字资产100中盘指数跌0.49%，报2568.46点，最近七天累跌1.97%。 MarketVector数字资产100指数跌1.49%，报12643.48点，最近七天累跌0.78%。 最近七天迄今，Solana累跌3.48%，狗狗币累跌2.38%，XRP累跌1.59%。 比特币累跌0.64%，暂报63552.27美元，7月14日北京时间02:00跌至61761美元，随后反弹，7月15日美股早盘达到65527.29美元；以太坊累涨2.56%，暂报1834.935美元，7月15日美股盘前曾达到1944.948美元。",
+          "url": "https://wallstreetcn.com/livenews/3135852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "02时59分"
         }
       ]
     },
@@ -380,8 +509,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 02时59分]"
         }
       ]
     }
