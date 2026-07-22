@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T16:15:21.004432+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2026-07-22T19:04:20.204686+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普：可能很快打击伊朗“镐山”核设施",
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
+          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "特朗普宣布两年后对仿制药征收100%关税",
@@ -151,6 +162,18 @@
           "time_info": "[01时10分 ~ 05时01分]"
         },
         {
+          "title": "这条40余年的禁令，被特朗普解除了",
+          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 19时04分]"
+        },
+        {
           "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
           "url": "https://wallstreetcn.com/articles/3777496",
           "source": "华尔街见闻",
@@ -160,18 +183,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时10分 ~ 03时10分]"
-        },
-        {
-          "title": "这条40余年的禁令，被特朗普解除了",
-          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 16时15分]"
         },
         {
           "title": "特朗普宣布两年后对仿制药征收100%关税",
@@ -249,7 +260,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -271,9 +282,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
+        },
+        {
+          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
+          "url": "https://wallstreetcn.com/articles/3777603",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "特朗普：如果也门胡塞武装封锁红海，美国将采取行动",
@@ -282,7 +304,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -510,7 +532,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 41,
+      "match_count": 45,
       "titles": [
         {
           "title": "伊朗还有两大杀手锏",
@@ -558,6 +580,17 @@
           "time_info": "05时01分"
         },
         {
+          "title": "伊拉克总理将应伊朗总统邀请访问德黑兰。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3138168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
           "title": "伊朗海军同时从3个方向猛烈打击美军",
           "url": "https://www.toutiao.com/trending/7663674772672512009/",
           "source": "今日头条",
@@ -582,13 +615,24 @@
           "time_info": "06时08分"
         },
         {
+          "title": "鲁比奥：美国仍愿意就伊朗问题进行谈判",
+          "url": "https://flash.jin10.com/detail/20260722184347055800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
           "title": "如果美国踏上伊朗的陆地，伊朗将全力反击。（伊朗国家电视台）",
           "url": "https://wallstreetcn.com/livenews/3138079",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -676,7 +720,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -687,9 +731,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
+        },
+        {
+          "title": "约旦称击落伊朗4枚导弹和4架无人机",
+          "url": "https://wallstreetcn.com/livenews/3138158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "卡塔尔外交部强烈谴责伊朗再次袭击约旦、巴林和科威特，并指责伊朗在科威特油轮通过霍尔木兹海峡期间对其发动袭击。",
@@ -896,9 +951,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
+        },
+        {
+          "title": "伊拉克政府发言人：伊拉克总理将应伊朗总统邀请访问德黑兰，将于访问期间讨论天然气、能源和贸易问题。",
+          "url": "https://flash.jin10.com/detail/20260722182925779800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "伊朗总统强调团结对当前局势至关重要",
@@ -951,7 +1017,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -970,7 +1036,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "英媒爆料：中美正计划9月举行AI会谈",
@@ -1017,11 +1083,34 @@
           "ranks": [
             13,
             3,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时52分 ~ 16时15分]"
+          "appearance_count": 5,
+          "time_info": "[07时52分 ~ 19时04分]"
+        },
+        {
+          "title": "历史性调仓！AI硬科技接管公募核心仓位，消费股罕见缺席十大重仓",
+          "url": "https://www.cls.cn/detail/2433795",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 19时04分]"
+        },
+        {
+          "title": "看见中国AI产业的“硬核家底”",
+          "url": "https://www.toutiao.com/trending/7664428554470113321/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 19时04分]"
         },
         {
           "title": "AI“斯普特尼克时刻”！Kimi K3震动硅谷，Stability AI联合创始人：推理成本还有10至50倍下降空间",
@@ -1063,15 +1152,15 @@
           "time_info": "[10时02分 ~ 16时15分]"
         },
         {
-          "title": "历史性调仓！AI硬科技接管公募核心仓位，消费股罕见缺席十大重仓",
-          "url": "https://www.cls.cn/detail/2433795",
-          "source": "财联社热门",
+          "title": "两个AI演员比内娱待爆艺人都火",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB",
+          "source": "百度热搜",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时15分"
+          "time_info": "19时04分"
         },
         {
           "title": "恒生科技指数跌超3%，PCB、AI应用、明星科网等概念跌幅居前。",
@@ -1085,15 +1174,15 @@
           "time_info": "13时43分"
         },
         {
-          "title": "看见中国AI产业的“硬核家底”",
-          "url": "https://www.toutiao.com/trending/7664428554470113321/",
-          "source": "今日头条",
+          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时15分"
+          "time_info": "19时04分"
         },
         {
           "title": "创业板指跌超2%，游戏、人形机器人、刀片电池、AI应用等板块跌幅居前。",
@@ -1130,6 +1219,30 @@
           "time_info": "[13时43分 ~ 16时15分]"
         },
         {
+          "title": "两个AI演员比内娱待爆艺人都火",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 19时04分]"
+        },
+        {
+          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
+          "url": "https://wallstreetcn.com/articles/3777595",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 19时04分]"
+        },
+        {
           "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
           "url": "https://wallstreetcn.com/articles/3777491",
           "source": "华尔街见闻",
@@ -1140,17 +1253,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时10分 ~ 05时01分]"
-        },
-        {
-          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
-          "url": "https://wallstreetcn.com/articles/3777595",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 16时15分]"
         },
         {
           "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
@@ -1171,7 +1273,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -1182,7 +1284,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -1204,7 +1306,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -1215,7 +1317,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -1319,24 +1421,13 @@
           "time_info": "01时10分"
         },
         {
-          "title": "两个AI演员比内娱待爆艺人都火",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
-        },
-        {
           "title": "大众与地平线深化AI合作，加速L3/L4智驾本土化落地",
           "url": "https://wallstreetcn.com/livenews/3138060",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -1352,13 +1443,24 @@
           "time_info": "13时43分"
         },
         {
+          "title": "别再给AI乱传文件了",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E7%BB%99AI%E4%B9%B1%E4%BC%A0%E6%96%87%E4%BB%B6%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
           "title": "AI算力产业链成为上海出口重要增长动能",
           "url": "https://wallstreetcn.com/livenews/3138049",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         }
@@ -1366,7 +1468,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -1390,8 +1492,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 16时15分]"
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 19时04分]"
+        },
+        {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
@@ -1411,7 +1524,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
