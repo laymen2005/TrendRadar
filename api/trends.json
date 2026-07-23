@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T21:42:16.976582+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2026-07-23T23:53:02.066383+08:00",
+  "total_titles_processed": 1649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "伊朗袭击亚马逊公司设施",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗凯什岛传出爆炸声 。",
+          "url": "https://flash.jin10.com/detail/20260723234710353800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "据伊朗国家媒体：伊朗最高联合军事指挥部表示，如果美国兑现威胁，伊朗将切断海湾地区全部石油流动，并将该地区的石油、天然气、电力及经济基础设施作为打击目标。",
@@ -150,7 +161,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -221,6 +232,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
+        },
+        {
+          "title": "伊拉克总理访德黑兰期间，伊朗与伊拉克签署多项谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3138971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队称袭击了美国在约旦的基地，摧毁了一套美国“萨德”导弹防御系统的雷达。同时，一套“爱国者”系统和一个C-RAM雷达也被击中并摧毁，该基地的燃料库被点燃。",
@@ -331,6 +353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        },
+        {
+          "title": "以色列多地开放公共避难所应对伊朗导弹威胁",
+          "url": "https://wallstreetcn.com/livenews/3138963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "美军连续12晚打击伊朗",
@@ -465,6 +498,17 @@
           "time_info": "06时06分"
         },
         {
+          "title": "美众议院再次通过决议要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/livenews/3138952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "美军称对伊朗海上封锁已迫使9艘商船改道",
           "url": "https://wallstreetcn.com/livenews/3138369",
           "source": "华尔街见闻-快讯",
@@ -490,7 +534,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -498,11 +542,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时57分 ~ 21时42分]"
+          "appearance_count": 11,
+          "time_info": "[07时57分 ~ 23时53分]"
         },
         {
           "title": "用AI通关高难度跑步游戏",
@@ -555,6 +600,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时57分 ~ 13时48分]"
+        },
+        {
+          "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
+          "url": "https://news.ifeng.com/c/8uzEep2s55A",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时48分 ~ 23时53分]"
         },
         {
           "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
@@ -636,16 +693,27 @@
           "time_info": "[10时32分 ~ 13时48分]"
         },
         {
-          "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
-          "url": "https://news.ifeng.com/c/8uzEep2s55A",
-          "source": "凤凰网",
+          "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            12
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
+        },
+        {
+          "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时48分 ~ 21时42分]"
+          "time_info": "[19时05分 ~ 23时53分]"
         },
         {
           "title": "政策利好+AI算力双轮驱动！电力板块掀涨停潮",
@@ -708,16 +776,39 @@
           "time_info": "[13时48分 ~ 19时06分]"
         },
         {
-          "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
-          "source": "澎湃新闻",
+          "title": "AI每赚1块钱，谷歌花出去2块",
+          "url": "https://wallstreetcn.com/articles/3777748",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            11
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时05分 ~ 21时42分]"
+          "time_info": "[21时41分 ~ 23时53分]"
+        },
+        {
+          "title": "不要随意把照片和视频发给AI",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E6%8A%8A%E7%85%A7%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91%E5%8F%91%E7%BB%99AI&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时41分 ~ 23时53分]"
+        },
+        {
+          "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时41分 ~ 23时53分]"
         },
         {
           "title": "rain回应战胜猎鹰",
@@ -743,37 +834,15 @@
           "time_info": "[21时41分 ~ 21时42分]"
         },
         {
-          "title": "AI每赚1块钱，谷歌花出去2块",
-          "url": "https://wallstreetcn.com/articles/3777748",
-          "source": "华尔街见闻",
+          "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
+          "url": "https://www.cls.cn/detail/2435521",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时41分 ~ 21时42分]"
-        },
-        {
-          "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 21时42分]"
-        },
-        {
-          "title": "不要随意把照片和视频发给AI",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E6%8A%8A%E7%85%A7%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91%E5%8F%91%E7%BB%99AI&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 21时42分]"
+          "time_info": "[23时52分 ~ 23时53分]"
         },
         {
           "title": "AI基础设施概念股盘后大涨，谷歌母公司在电话会上谈及产能扩张",
@@ -875,6 +944,17 @@
           "time_info": "19时06分"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850579&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/9u1CwaYbDGbHdVT7PgOsr.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260723233239030800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "编程初创公司Cursor：推出智能模型路由器，可根据具体任务自动选择最合适的AI模型。",
           "url": "https://flash.jin10.com/detail/20260723021919328800",
           "source": "金十数据",
@@ -933,8 +1013,20 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "特朗普：我们与伊朗只是小规模冲突",
+          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时48分 ~ 23时53分]"
+        },
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
           "url": "https://news.ifeng.com/c/8uy1V150ZKO",
@@ -947,16 +1039,17 @@
           "time_info": "[01时11分 ~ 07时58分]"
         },
         {
-          "title": "特朗普：我们与伊朗只是小规模冲突",
-          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
-          "source": "凤凰网",
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            3
+            10,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时48分 ~ 21时42分]"
+          "appearance_count": 9,
+          "time_info": "[10时32分 ~ 23时53分]"
         },
         {
           "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
@@ -997,19 +1090,6 @@
           "time_info": "[10时32分 ~ 16时19分]"
         },
         {
-          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
-          "url": "https://wallstreetcn.com/articles/3777708",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时32分 ~ 21时42分]"
-        },
-        {
           "title": "美国总统特朗普：9月份将面临政府停摆。",
           "url": "https://flash.jin10.com/detail/20260723044952204800",
           "source": "金十数据",
@@ -1039,9 +1119,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
+        },
+        {
+          "title": "特朗普称正“认真考虑”重启对伊朗的大规模作战",
+          "url": "https://wallstreetcn.com/livenews/3138980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "美国财长贝森特：86%的特朗普账户计划参与家庭年收入低于20万美元。",
@@ -1053,6 +1144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "特朗普：伊朗尚未准备好达成协议",
+          "url": "https://flash.jin10.com/detail/20260723234018735800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "特朗普宣布两年后对仿制药征收 100% 关税，该举措出于什么目的？会对相关产业带来哪些影响？",
@@ -1103,15 +1205,70 @@
           "time_info": "[01时11分 ~ 03时04分]"
         },
         {
+          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：沙特有望迅速加入（亚伯拉罕）协议，美国总统特朗普已经与沙特讨论这方面的问题。 将设法最终敲定美国与沙特之间的（核能）协议。 将继续与沙特对话。",
+          "url": "https://wallstreetcn.com/livenews/3138978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "报道：特朗普称接近就“大规模袭击伊朗”做决定",
+          "url": "https://wallstreetcn.com/livenews/3138976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：美国总统特朗普尚未就核协议条件与沙特领导人进行交谈。",
+          "url": "https://flash.jin10.com/detail/20260723233557382800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "特朗普要求沙特加入亚伯拉罕协议",
           "url": "https://wallstreetcn.com/livenews/3138896",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普将于下周五在戴维营举办内阁会议。",
+          "url": "https://wallstreetcn.com/livenews/3138972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "美媒：特朗普政府正在考虑在马里采取军事行动",
@@ -1134,6 +1291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        },
+        {
+          "title": "特朗普：接近就“大规模打击”伊朗作出决定",
+          "url": "https://flash.jin10.com/detail/20260723233215266800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "周三（7月22日）美股尾盘，美股降息赢家指数大致持平，报95.17点，早盘冲高回落、随后出现一波V形反转行情。 “特朗普关税输家”指数跌0.13%，“特朗普金融指数”跌0.17%。",
@@ -1175,7 +1343,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1194,8 +1362,21 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "北京：鼓励发展Token（词元）经济，加大算力券等支持力度",
+          "url": "https://www.cls.cn/detail/2435174",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时05分 ~ 23时53分]"
+        },
         {
           "title": "广州TTG战胜北京WB",
           "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%ACWB%20%E5%B9%BF%E5%B7%9ETTG",
@@ -1211,16 +1392,15 @@
           "time_info": "[01时11分 ~ 07时58分]"
         },
         {
-          "title": "北京：鼓励发展Token（词元）经济，加大算力券等支持力度",
-          "url": "https://www.cls.cn/detail/2435174",
-          "source": "财联社热门",
+          "title": "北京大学祝贺邓煜王虹",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%A5%9D%E8%B4%BA%E9%82%93%E7%85%9C%E7%8E%8B%E8%99%B9%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            5,
-            2
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时05分 ~ 21时42分]"
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
         },
         {
           "title": "WTI 9月原油期货收涨2.49美元，涨幅超过2.95%，报86.83美元/桶，亚太盘初以来持续上扬，北京时间17:52涨至88.61美元，逼近6月3日顶部89.90美元、5月18日顶部95.30美元。 中东Abu Dhabi Murban原油期货涨4.31%，报89.47美元/桶，16:29曾涨至91.30美元。 NYMEX 8月天然气期货收报2.9250美元/百万英热单位。 NYMEX 8月汽油期货收报3.4147美元/加仑，NYMEX 8月取暖油期货收报4.1488美元/加仑。",
@@ -1234,6 +1414,19 @@
           "time_info": "03时04分"
         },
         {
+          "title": "MRC vs 北京WBG IVL",
+          "url": "https://search.bilibili.com/all?keyword=IVL",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时05分 ~ 23时53分]"
+        },
+        {
           "title": "据华尔街日报：沙特阿拉伯核协议签署仪式将于以色列时间今晚8时30分（北京7月23日凌晨1:30）举行。",
           "url": "https://flash.jin10.com/detail/20260723004618567800",
           "source": "金十数据",
@@ -1245,16 +1438,15 @@
           "time_info": "01时11分"
         },
         {
-          "title": "MRC vs 北京WBG IVL",
-          "url": "https://search.bilibili.com/all?keyword=IVL",
-          "source": "bilibili 热搜",
+          "title": "北京游客称在哈尔滨旅游差点中暑",
+          "url": "https://www.toutiao.com/trending/7665127274043637801/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            11
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时05分 ~ 21时42分]"
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
         },
         {
           "title": "提醒：日内请重点关注（以下均为北京时间）",
@@ -1297,7 +1489,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
