@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T20:17:54.437525+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2026-07-24T22:49:39.160870+08:00",
+  "total_titles_processed": 1534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 49,
       "titles": [
         {
           "title": "伊朗公布美军近期袭击伤亡数据",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 20时17分]"
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 22时49分]"
         },
         {
           "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
@@ -60,7 +60,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -104,7 +104,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -118,6 +118,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "美国财政部宣布对伊朗实施新一轮制裁",
+          "url": "https://wallstreetcn.com/livenews/3139521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
+          "url": "https://news.ifeng.com/c/8v0y8EzOzBv",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "世界银行：摩洛哥2026年通胀将因伊朗战争上升至2.4%。",
@@ -217,9 +239,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
+        },
+        {
+          "title": "科威特国防部：科威特防空系统目前正在拦截从伊朗发射的敌对目标。",
+          "url": "https://flash.jin10.com/detail/20260724222436037800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "美威胁发动空前打击 伊朗、胡塞武装：已做好应战准备",
@@ -250,9 +283,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：伊朗已经表明不会屈服于美国的霸凌，我们不会对威胁、压力或恐吓做出回应。",
+          "url": "https://flash.jin10.com/detail/20260724222340369800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "伊朗外长：扣押他国资产“极具煽动性”",
@@ -277,6 +321,28 @@
           "time_info": "18时57分"
         },
         {
+          "title": "伊朗外长阿拉格齐：已与作为调解方的巴基斯坦讨论了其倡议和提案。问题不在于美国与我们之间缺乏调解人，而在于美国人的问题处理方式。",
+          "url": "https://flash.jin10.com/detail/20260724222325080800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "美官员否认伊朗拒绝停火提议",
+          "url": "https://wallstreetcn.com/livenews/3139511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "伊朗、胡塞武装：已做好应战准备",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E3%80%81%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%BA%94%E6%88%98%E5%87%86%E5%A4%87",
           "source": "百度热搜",
@@ -297,6 +363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "美官员否认伊朗拒绝停火提议",
+          "url": "https://flash.jin10.com/detail/20260724222048676800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "伊朗媒体：美军导弹袭击伊朗南部Qeshm Island的Suaz小镇。",
@@ -478,7 +555,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -489,8 +566,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时01分 ~ 20时17分]"
+          "appearance_count": 8,
+          "time_info": "[06时01分 ~ 22时49分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -539,8 +616,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 20时17分]"
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 22时49分]"
         },
         {
           "title": "AI每赚1块钱，谷歌花出去2块",
@@ -691,6 +768,18 @@
           "time_info": "[10时05分 ~ 16时14分]"
         },
         {
+          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
+          "url": "https://wallstreetcn.com/articles/3777836",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时14分 ~ 22时49分]"
+        },
+        {
           "title": "AI需求火热！英特尔财报会实录：CPU景气周期将延续至2028年",
           "url": "https://www.cls.cn/detail/2435979",
           "source": "财联社热门",
@@ -698,18 +787,6 @@
             11,
             6,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时14分 ~ 20时17分]"
-        },
-        {
-          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
-          "url": "https://wallstreetcn.com/articles/3777836",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -750,6 +827,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "25家科技巨头联名签署公开信：力挺开放权重AI模型（全文翻译）",
+          "url": "https://flash.jin10.com/detail/20260724222659975800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "美五大科技巨头AI隐性债务被曝达1.65万亿美元",
           "url": "https://wallstreetcn.com/livenews/3139023",
           "source": "华尔街见闻-快讯",
@@ -767,9 +855,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
+        },
+        {
+          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
+          "url": "https://wallstreetcn.com/articles/3777849",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "公募AI投资图谱：算力端“吃饱”，应用层“等风”",
@@ -827,6 +926,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "7月24日，微软联合IBM、Meta、等20余家美国科技公司发表名为《开放权重与美国人工智能领导力》的公开信，呼吁开放权重AI模型。 公开信认为，1. 开放权重扩大了对 AI 经济的参与途径。 开放权重强化了市场竞争。 开放权重赋予客户更大的控制权。 开放与 AI 安全及保障。",
+          "url": "https://wallstreetcn.com/livenews/3139514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "新加坡政府投资公司GIC：目标是投资人工智能（AI）物理基础设施，包括数据中心所需的电力和电网设施。",
           "url": "https://flash.jin10.com/detail/20260724055906399800",
           "source": "金十数据",
@@ -858,6 +968,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
+        },
+        {
+          "title": "AI重现狼牙山五壮士英雄壮举",
+          "url": "https://www.toutiao.com/trending/7666058970050183209/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "为什么不见程序员害怕失业抵制AI",
@@ -918,7 +1039,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
@@ -944,8 +1065,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 20时17分]"
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 22时49分]"
         },
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -974,6 +1095,20 @@
           "time_info": "[01时14分 ~ 16时14分]"
         },
         {
+          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3777830",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时44分 ~ 22时49分]"
+        },
+        {
           "title": "盟友集体反击“强迫劳动”指控！特朗普关税战为何连最高法院也挡不住？",
           "url": "https://flash.jin10.com/detail/20260724131918825800",
           "source": "金十数据",
@@ -996,17 +1131,15 @@
           "time_info": "03时06分"
         },
         {
-          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
-          "url": "https://wallstreetcn.com/articles/3777830",
-          "source": "华尔街见闻",
+          "title": "以总理办公室：内塔尼亚胡将访美 与特朗普会晤",
+          "url": "https://flash.jin10.com/detail/20260724223621938800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            8,
-            5
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时44分 ~ 20时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "美国总统特朗普：如果我们不对伊朗采取行动，就没有人会采取行动。",
@@ -1122,6 +1255,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "以色列宣称：总理内塔尼亚胡下周二将会见美国总统特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3139516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "美国总统特朗普：伊朗人想要谈判，但他们并没有准备好。",
           "url": "https://flash.jin10.com/detail/20260724025035550800",
           "source": "金十数据",
@@ -1205,7 +1349,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -1243,6 +1387,17 @@
           "time_info": "04时56分"
         },
         {
+          "title": "以色列总理办公室：以色列总理内塔尼亚胡将于周二在白宫会见美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260724221517947800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：沙特有望迅速加入（亚伯拉罕）协议，美国总统特朗普已经与沙特讨论这方面的问题。 将设法最终敲定美国与沙特之间的（核能）协议。 将继续与沙特对话。",
           "url": "https://wallstreetcn.com/livenews/3138978",
           "source": "华尔街见闻-快讯",
@@ -1252,6 +1407,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "以色列总理办公室：以色列总理内塔尼亚胡将于周一应美国总统特朗普邀请访问华盛顿。",
+          "url": "https://flash.jin10.com/detail/20260724221512312800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "报道：特朗普称接近就“大规模袭击伊朗”做决定",
@@ -1301,7 +1467,7 @@
     },
     {
       "keyword_group": "北京",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "北京：鼓励发展Token（词元）经济，加大算力券等支持力度",
@@ -1315,6 +1481,22 @@
           "time_info": "[01时14分 ~ 07时03分]"
         },
         {
+          "title": "北京大学发文祝贺校友王虹、邓煜荣获菲尔兹奖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33649210",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            13,
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 22时49分]"
+        },
+        {
           "title": "据以色列媒体：以色列安全内阁将于当地时间周日20:00（北京时间周一凌晨1:00）召开会议。",
           "url": "https://flash.jin10.com/detail/20260724004528405800",
           "source": "金十数据",
@@ -1324,21 +1506,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
-        },
-        {
-          "title": "北京大学发文祝贺校友王虹、邓煜荣获菲尔兹奖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33649210",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 20时17分]"
         },
         {
           "title": "北京大学祝贺邓煜王虹",
@@ -1435,6 +1602,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "提醒：北京时间21:45，将公布美国7月标普全球制造业和服务业PMI初值。",
+          "url": "https://wallstreetcn.com/livenews/3139500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         }
       ]
     },
@@ -1452,8 +1630,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时14分 ~ 20时17分]"
+          "appearance_count": 4,
+          "time_info": "[16时14分 ~ 22时49分]"
         },
         {
           "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
@@ -1473,11 +1651,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 20时17分]"
+          "appearance_count": 3,
+          "time_info": "[18时57分 ~ 22时49分]"
         },
         {
           "title": "微软(MSFT.O)正在用自研图像生成模型替代OpenAI的图像模型，应用于PowerPoint和Bing。",
